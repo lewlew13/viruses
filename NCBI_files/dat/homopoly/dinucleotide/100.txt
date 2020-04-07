@@ -1,8 +1,0 @@
-NC_043446.1 Protoparvovirus Zsana/2013/HUN non-structural protein gene, partial cds; putative middle protein gene, complete cds; and structural protein-like gene, partial sequence	4281	449	454	ACACAC	+
-NC_043446.1 Protoparvovirus Zsana/2013/HUN non-structural protein gene, partial cds; putative middle protein gene, complete cds; and structural protein-like gene, partial sequence	4281	3525	3530	ACACAC	+
-NC_043446.1 Protoparvovirus Zsana/2013/HUN non-structural protein gene, partial cds; putative middle protein gene, complete cds; and structural protein-like gene, partial sequence	4281	2884	2889	AGAGAG	+
-NC_043446.1 Protoparvovirus Zsana/2013/HUN non-structural protein gene, partial cds; putative middle protein gene, complete cds; and structural protein-like gene, partial sequence	4281	2409	2416	ATATATAT	+
-NC_043446.1 Protoparvovirus Zsana/2013/HUN non-structural protein gene, partial cds; putative middle protein gene, complete cds; and structural protein-like gene, partial sequence	4281	2892	2897	ATATAT	+
-NC_043446.1 Protoparvovirus Zsana/2013/HUN non-structural protein gene, partial cds; putative middle protein gene, complete cds; and structural protein-like gene, partial sequence	4281	450	455	CACACA	+
-NC_043446.1 Protoparvovirus Zsana/2013/HUN non-structural protein gene, partial cds; putative middle protein gene, complete cds; and structural protein-like gene, partial sequence	4281	3526	3531	CACACA	+
-NC_043446.1 Protoparvovirus Zsana/2013/HUN non-structural protein gene, partial cds; putative middle protein gene, complete cds; and structural protein-like gene, partial sequence	4281	2410	2417	TATATATA	+

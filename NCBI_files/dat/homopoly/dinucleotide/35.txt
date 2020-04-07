@@ -1,2 +1,0 @@
-NC_043662.1 Macrophomina phaseolina chrysovirus 1 isolate TN263 RNA-dependent RNA polymerase gene, complete cds	3712	1112	1117	AGAGAG	+
-NC_043662.1 Macrophomina phaseolina chrysovirus 1 isolate TN263 RNA-dependent RNA polymerase gene, complete cds	3712	1371	1376	ATATAT	+

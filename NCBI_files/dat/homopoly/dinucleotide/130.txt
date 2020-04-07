@@ -1,4 +1,0 @@
-NC_024774.1 Porcine associated porprismacovirus 9 isolate FP1, complete genome	2564	95	100	ATATAT	+
-NC_024774.1 Porcine associated porprismacovirus 9 isolate FP1, complete genome	2564	457	462	TCTCTC	+
-NC_024774.1 Porcine associated porprismacovirus 9 isolate FP1, complete genome	2564	1462	1467	TCTCTC	+
-NC_024774.1 Porcine associated porprismacovirus 9 isolate FP1, complete genome	2564	2040	2045	TGTGTG	+

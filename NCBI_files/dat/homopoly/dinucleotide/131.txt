@@ -1,9 +1,0 @@
-JN620802.1 Artemisia virus A, complete genome	4138	2674	2679	ACACAC	+
-JN620802.1 Artemisia virus A, complete genome	4138	3525	3530	ACACAC	+
-JN620802.1 Artemisia virus A, complete genome	4138	1732	1737	AGAGAG	+
-JN620802.1 Artemisia virus A, complete genome	4138	3679	3684	ATATAT	+
-JN620802.1 Artemisia virus A, complete genome	4138	3847	3852	ATATAT	+
-JN620802.1 Artemisia virus A, complete genome	4138	1667	1672	GAGAGA	+
-JN620802.1 Artemisia virus A, complete genome	4138	1733	1738	GAGAGA	+
-JN620802.1 Artemisia virus A, complete genome	4138	711	716	GTGTGT	+
-JN620802.1 Artemisia virus A, complete genome	4138	3846	3851	TATATA	+
