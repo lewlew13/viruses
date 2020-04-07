@@ -1,0 +1,545 @@
+GOA	RepOver	RepCov	Gene	Locus	GeneLen	Product
+NA	1	167	NA	crov001	417	hypothetical protein
+NA	1	1468	NA	crov002	1785	hypothetical protein
+NA	0	0	NA	crov003	168	hypothetical protein
+NA	0	0	NA	crov004	417	putative eIF-2B/eIF-5
+NA	0	0	NA	crov005	228	hypothetical protein
+NA	0	0	NA	crov006	408	hypothetical protein
+NA	0	0	NA	crov007	384	hypothetical protein
+NA	0	0	NA	crov008	411	hypothetical protein
+NA	0	0	NA	crov009	432	hypothetical protein
+NA	3	808	NA	crov010	792	hypothetical protein
+NA	0	0	NA	crov011	864	putative RNaseH
+NA	2	56	NA	crov012	1206	hypothetical protein
+NA	0	0	NA	crov013	1440	hypothetical protein
+NA	0	0	NA	crov014	381	hypothetical protein
+NA	0	0	NA	crov015	2742	putative DNA N6-adenine methyltransferase
+NA	0	0	NA	crov016	168	hypothetical protein
+NA	0	0	NA	crov017	240	hypothetical protein
+NA	0	0	NA	crov018	2058	putative superfamily II helicase
+NA	0	0	NA	crov019	1473	hypothetical protein
+NA	0	0	NA	crov020	609	hypothetical protein
+NA	1	40	NA	crov021	990	hypothetical protein
+NA	1	287	NA	crov022	321	hypothetical protein
+NA	0	0	NA	crov023	561	hypothetical protein
+NA	0	0	NA	crov024	240	hypothetical protein
+NA	0	0	NA	crov025	360	hypothetical protein
+NA	0	0	NA	crov026	885	hypothetical protein
+NA	3	1207	NA	crov027	996	hypothetical protein
+NA	0	0	NA	crov028	234	hypothetical protein
+NA	3	708	NA	crov029	555	hypothetical protein
+NA	0	0	NA	crov030	186	hypothetical protein
+NA	4	2872	NA	crov031	1236	hypothetical protein
+NA	1	29	NA	crov032	483	hypothetical protein
+NA	0	0	NA	crov033	234	hypothetical protein
+NA	4	451	NA	crov034	516	hypothetical protein
+NA	2	127	NA	crov035	2463	hypothetical protein
+NA	1	38	NA	crov036	2436	putative Lon protease
+NA	1	32	NA	crov037	966	putative DNA endonuclease
+NA	1	76	NA	crov038	2115	"putative 5-3 exoribonuclease"
+NA	2	72	NA	crov039	462	hypothetical protein
+NA	0	0	NA	crov040	237	hypothetical protein
+NA	0	0	NA	crov041	981	hypothetical protein
+NA	0	0	NA	crov042	192	hypothetical protein
+NA	8	1271	NA	crov043	1758	putative RecQ-like ATP-dependent DNA helicase
+NA	0	0	NA	crov044	219	hypothetical protein
+NA	1	250	NA	crov045	348	hypothetical protein
+NA	0	0	NA	crov046	231	hypothetical protein
+NA	0	0	NA	crov047	2892	hypothetical protein
+NA	3	669	NA	crov048	1350	putative exodeoxyribonuclease VII large subunit
+NA	0	0	NA	crov049	372	hypothetical protein
+NA	0	0	NA	crov050	261	hypothetical protein
+NA	0	0	NA	crov051	1017	putative alkylated DNA repair protein
+NA	1	40	NA	crov052	351	hypothetical protein
+NA	0	0	NA	crov053	411	putative eIF-2B/eIF-5
+NA	0	0	NA	crov054	561	hypothetical protein
+NA	0	0	NA	crov055	444	hypothetical protein
+NA	1	1	NA	crov056	594	putative DNA polymerase III alpha subunit
+NA	0	0	NA	crov057	1947	hypothetical protein
+NA	0	0	NA	crov058	477	putative ubiquitin-conjugating enzyme E2
+NA	7	1054	NA	crov059	1215	hypothetical protein
+NA	0	0	NA	crov060	723	hypothetical protein
+NA	0	0	NA	crov061	1158	"putative 3-5 exonuclease/tRNA(Ile) lysidine synthetase"
+NA	0	0	NA	crov062	1089	hypothetical protein
+NA	0	0	NA	crov063	327	putative SUI1/eIF-1
+NA	0	0	NA	crov064	540	hypothetical protein
+NA	0	0	NA	crov065	549	putative eIF-2B/eIF-5
+NA	0	0	NA	crov066	273	hypothetical protein
+NA	0	0	NA	crov067	1866	putative metalloendopeptidase
+NA	4	2306	NA	crov068	1884	hypothetical protein
+NA	0	0	NA	crov069	492	"putative deoxyuridine 5-triphosphate nucleotidohydrolase"
+NA	2	121	NA	crov070	360	hypothetical protein
+NA	0	0	NA	crov071	732	putative tRNA pseudouridine 5S synthase
+NA	0	0	NA	crov072	2322	putative superfamily II helicase
+NA	0	0	NA	crov073	651	hypothetical protein
+NA	0	0	NA	crov074	894	putative DNA N6-adenine methyltransferase
+NA	0	0	NA	crov075	1671	putative asparagine synthetase B
+NA	0	0	NA	crov076	408	hypothetical protein
+NA	0	0	NA	crov077	270	hypothetical protein
+NA	0	0	NA	crov078	372	hypothetical protein
+NA	2	107	NA	crov079	1446	hypothetical protein
+NA	0	0	NA	crov080	564	putative deoxynucleoside monophosphate kinase
+NA	0	0	NA	crov081	219	hypothetical protein
+NA	0	0	NA	crov082	495	putative ubiquitin-conjugating enzyme E2
+NA	0	0	NA	crov083	729	hypothetical protein
+NA	0	0	NA	crov084	2244	putative DNA topoisomerase IA
+NA	0	0	NA	crov085	291	hypothetical protein
+NA	0	0	NA	crov086	195	hypothetical protein
+NA	0	0	NA	crov087	624	putative methyltransferase
+NA	3	121	NA	crov088	2163	hypothetical protein
+NA	2	160	NA	crov089	1347	hypothetical protein
+NA	0	0	NA	crov090	1287	hypothetical protein
+NA	0	0	NA	crov091	768	hypothetical protein
+NA	0	0	NA	crov092	498	hypothetical protein
+NA	1	25	NA	crov093	471	hypothetical protein
+NA	2	288	NA	crov094	588	hypothetical protein
+NA	0	0	NA	crov095	978	hypothetical protein
+NA	0	0	NA	crov096	546	hypothetical protein
+NA	0	0	NA	crov097	783	hypothetical protein
+NA	0	0	NA	crov098	240	hypothetical protein
+NA	0	0	NA	crov099	570	hypothetical protein
+NA	0	0	NA	crov100	1035	hypothetical protein
+NA	0	0	NA	crov101	369	hypothetical protein
+NA	1	1	NA	crov102	453	putative ubiquitin-conjugating enzyme E2
+NA	0	0	NA	crov103	621	hypothetical protein
+NA	0	0	NA	crov104	234	hypothetical protein
+NA	1	153	NA	crov105	579	hypothetical protein
+NA	0	0	NA	crov106	789	putative apurinic-apyrimidinic endonuclease 1
+NA	1	25	NA	crov107	1410	putative AAA+ superfamily ATPase
+NA	0	0	NA	crov108	213	hypothetical protein
+NA	0	0	NA	crov109	3396	putative superfamily II helicase/VV D6-like early transcription factor small subunit
+NA	1	404	NA	crov110	990	hypothetical protein
+NA	0	0	NA	crov111	2316	hypothetical protein
+NA	0	0	NA	crov112	585	putative tRNA 2-phosphotransferase
+NA	1	46	NA	crov113	1845	putative eIF-2/eIF-5B
+NA	1	1585	NA	crov114	1779	hypothetical protein
+NA	0	0	NA	crov115	1425	putative CPD class I photolyase
+NA	0	0	NA	crov116	357	hypothetical protein
+NA	0	0	NA	crov117	948	hypothetical protein
+NA	1	52	NA	crov118	4926	putative RNA helicase
+NA	0	0	NA	crov119	660	putative papain-like cysteine protease
+NA	1	39	NA	crov120	786	putative fatty acid hydroxylase
+NA	0	0	NA	crov121	663	hypothetical protein
+NA	2	322	NA	crov122	165	hypothetical protein
+NA	1	214	NA	crov123	402	hypothetical protein
+NA	0	0	NA	crov124	813	hypothetical protein
+NA	0	0	NA	crov125	630	putative phosphoglycerate mutase
+NA	0	0	NA	crov126	1032	hypothetical protein
+NA	0	0	NA	crov127	1209	putative DnaJ/Hsp40
+NA	0	0	NA	crov128	1104	putative HD superfamily phosphohydrolase
+NA	0	0	NA	crov129	417	hypothetical protein
+NA	0	0	NA	crov130	1887	hypothetical protein
+NA	0	0	NA	crov131	1713	putative superfamily II helicase/VV D11-like transcription factor
+NA	2	67	NA	crov132	1485	hypothetical protein
+NA	3	246	NA	crov133	1461	hypothetical protein
+NA	0	0	NA	crov134	342	hypothetical protein
+NA	0	0	NA	crov135	906	hypothetical protein
+NA	4	172	NA	crov136	1698	hypothetical protein
+NA	1	29	NA	crov137	2604	putative insulinase-like metalloprotease
+NA	0	0	NA	crov138	792	putative glycosyltransferase
+NA	0	0	NA	crov139	2184	"putative 5-3 exoribonuclease"
+NA	0	0	NA	crov140	1785	hypothetical protein
+NA	0	0	NA	crov141	483	hypothetical protein
+NA	0	0	NA	crov142	5553	hypothetical protein
+NA	0	0	NA	crov143	546	putative Erv-family thiol oxidoreductase
+NA	0	0	NA	crov144	558	hypothetical protein
+NA	2	125	NA	crov145	768	hypothetical protein
+NA	1	152	NA	crov146	777	hypothetical protein
+NA	0	0	NA	crov147	1065	putative ornithine decarboxylase
+NA	0	0	NA	crov148	729	hypothetical protein
+NA	0	0	NA	crov149	1443	putative photolyase
+NA	1	101	NA	crov150	2433	hypothetical protein
+NA	0	0	NA	crov151	1281	hypothetical protein
+NA	0	0	NA	crov152	1605	putative DNA topoisomerase IB
+NA	2	184	NA	crov153	3069	hypothetical protein
+NA	0	0	NA	crov154	312	putative GIY-YIG endonuclease
+NA	1	36	NA	crov155	2289	hypothetical protein
+NA	0	0	NA	crov156	687	hypothetical protein
+NA	2	79	NA	crov157	1287	hypothetical protein
+NA	1	24	NA	crov158	231	hypothetical protein
+NA	0	0	NA	crov159	1422	hypothetical protein
+NA	0	0	NA	crov160	900	putative TATA-box binding protein
+NA	0	0	NA	crov161	567	putative thymidine kinase
+NA	0	0	NA	crov162	786	putative eIF-2alpha
+NA	0	0	NA	crov163	858	putative Holliday junction resolvase
+NA	0	0	NA	crov164	720	putative transcription factor
+NA	0	0	NA	crov165	567	hypothetical protein
+NA	4	223	NA	crov166	1263	hypothetical protein
+NA	0	0	NA	crov167	360	hypothetical protein
+NA	0	0	NA	crov168	288	hypothetical protein
+NA	1	43	NA	crov169	858	putative patatin-like phospholipase
+NA	0	0	NA	crov170	756	putative DnaJ/Hsp40
+NA	0	0	NA	crov171	1035	putative ADP-ribosyl glycohydrolase
+NA	0	0	NA	crov172	462	putative protein disulfide isomerase
+NA	0	0	NA	crov173	804	hypothetical protein
+NA	0	0	NA	crov174	1266	hypothetical protein
+NA	0	0	NA	crov175	765	hypothetical protein
+NA	0	0	NA	crov176	1521	putative capsid protein 4
+NA	0	0	NA	crov177	504	hypothetical protein
+NA	0	0	NA	crov178	10014	hypothetical protein
+NA	2	88	NA	crov179	342	hypothetical protein
+NA	0	0	NA	crov180	258	hypothetical protein
+NA	1	25	NA	crov181	336	hypothetical protein
+NA	0	0	NA	crov182	1089	putative dsRNA-specific ribonuclease III
+NA	5	442	NA	crov183	2331	hypothetical protein
+NA	0	0	NA	crov184	885	putative cysteine protease
+NA	2	558	NA	crov185	2610	hypothetical protein
+NA	0	0	NA	crov186	585	hypothetical protein
+NA	0	0	NA	crov187	381	hypothetical protein
+NA	1	34	NA	crov188	906	hypothetical protein
+NA	1	213	NA	crov189	891	hypothetical protein
+NA	0	0	NA	crov190	1248	hypothetical protein
+NA	1	324	NA	crov191	468	hypothetical protein
+NA	0	0	NA	crov192	513	hypothetical protein
+NA	4	631	NA	crov193	951	hypothetical protein
+NA	0	0	NA	crov194	570	hypothetical protein
+NA	0	0	NA	crov195	945	putative replication factor C subunit
+NA	1	5	NA	crov196	963	putative replication factor C subunit
+NA	0	0	NA	crov197	267	hypothetical protein
+NA	1	24	NA	crov198	2190	putative ubiquitin-conjugating enzyme E2
+NA	3	164	NA	crov199	2130	hypothetical protein
+NA	1	2	NA	crov200	1071	putative exonuclease
+NA	0	0	NA	crov201	234	putative DNA-directed RNA polymerase subunit Rpb10
+NA	0	0	NA	crov202	312	hypothetical protein
+NA	8	900	NA	crov203	1821	hypothetical protein
+NA	0	0	NA	crov204	423	hypothetical protein
+NA	0	0	NA	crov205	408	hypothetical protein
+NA	1	25	NA	crov206	1440	putative lambda-type exonuclease
+NA	0	0	NA	crov207	360	hypothetical protein
+NA	0	0	NA	crov208	597	hypothetical protein
+NA	0	0	NA	crov209	609	hypothetical protein
+NA	0	0	NA	crov210	369	putative DnaJ/Hsp40
+NA	0	0	NA	crov211	195	hypothetical protein
+NA	0	0	NA	crov212	3048	putative mRNA capping enzyme
+NA	1	33	NA	crov213	420	hypothetical protein
+NA	0	0	NA	crov214	1455	hypothetical protein
+NA	0	0	NA	crov215	543	hypothetical protein
+NA	0	0	NA	crov216	1899	putative nucleotidyl transferase
+NA	0	0	NA	crov217	2604	hypothetical protein
+NA	0	0	NA	crov218	954	putative NAD-dependent epimerase/dehydratase
+NA	0	0	NA	crov219	837	putative proliferating cell nuclear antigen
+NA	0	0	NA	crov220	492	putative eIF-4E
+NA	0	0	NA	crov221	456	hypothetical protein
+NA	1	31	NA	crov222	1167	hypothetical protein
+NA	2	62	NA	crov223	873	hypothetical protein
+NA	0	0	NA	crov224	3996	putative DNA-directed RNA polymerase subunit Rpb2 precursor
+NA	0	0	NA	crov225	897	hypothetical protein
+NA	0	0	NA	crov226	429	hypothetical protein
+NA	1	174	NA	crov227	546	hypothetical protein
+NA	0	0	NA	crov228	645	hypothetical protein
+NA	0	0	NA	crov229	372	hypothetical protein
+NA	0	0	NA	crov230	1137	putative transcription initiation factor TFIIB
+NA	0	0	NA	crov231	843	hypothetical protein
+NA	0	0	NA	crov232	1545	putative ABC-type amino acid transporter
+NA	0	0	NA	crov233	765	hypothetical protein
+NA	0	0	NA	crov234	171	hypothetical protein
+NA	0	0	NA	crov235	207	hypothetical protein
+NA	0	0	NA	crov236	321	hypothetical protein
+NA	0	0	NA	crov237	2808	putative Lon protease
+NA	0	0	NA	crov238	690	hypothetical protein
+NA	0	0	NA	crov239	867	hypothetical protein
+NA	1	3	NA	crov240	237	hypothetical protein
+NA	0	0	NA	crov241	1986	putative DnaK/Hsp70
+NA	2	5	NA	crov242	834	putative UDP-glucose 6-dehydrogenase
+NA	1	2	NA	crov243	1005	hypothetical protein
+NA	0	0	NA	crov244	678	hypothetical protein
+NA	0	0	NA	crov245	159	hypothetical protein
+NA	0	0	NA	crov246	645	hypothetical protein
+NA	1	44	NA	crov247	696	putative glycosyltransferase
+NA	0	0	NA	crov248	174	hypothetical protein
+NA	0	0	NA	crov249	225	hypothetical protein
+NA	0	0	NA	crov250	921	hypothetical protein
+NA	0	0	NA	crov251	261	hypothetical protein
+NA	0	0	NA	crov252	714	hypothetical protein
+NA	2	42	NA	crov253	942	hypothetical protein
+NA	0	0	NA	crov254	762	hypothetical protein
+NA	0	0	NA	crov255	762	hypothetical protein
+NA	0	0	NA	crov256	1905	hypothetical protein
+NA	0	0	NA	crov257	159	hypothetical protein
+NA	0	0	NA	crov258	372	hypothetical protein
+NA	0	0	NA	crov259	975	hypothetical protein
+NA	0	0	NA	crov260	903	putative exostosin family protein
+NA	0	0	NA	crov261	1593	putative methyltransferase
+NA	1	35	NA	crov262	816	hypothetical protein
+NA	0	0	NA	crov263	744	hypothetical protein
+NA	0	0	NA	crov264	351	hypothetical protein
+NA	1	37	NA	crov265	1374	putative bifunctional KDO 8-phosphate phosphatase/arabinose 5-phosphate isomerase
+NA	0	0	NA	crov266	1305	putative bifunctional N-acylneuraminate cytidylyltransferase/demethylmenaquinone methyltransferase
+NA	0	0	NA	crov267	1461	putative bifunctional KDO 8-P synthase/dTDP-6-deoxy-L-hexose 3-O-methyltransferase
+NA	0	0	NA	crov268	1299	hypothetical protein
+NA	0	0	NA	crov269	759	hypothetical protein
+NA	0	0	NA	crov270	2346	hypothetical protein
+NA	1	45	NA	crov271	2466	hypothetical protein
+NA	1	9	NA	crov272	819	hypothetical protein
+NA	0	0	NA	crov273	5163	putative glycosyltransferase
+NA	2	76	NA	crov274	1164	hypothetical protein
+NA	0	0	NA	crov275	1047	hypothetical protein
+NA	2	415	NA	crov276	660	hypothetical protein
+NA	1	24	NA	crov277	243	hypothetical protein
+NA	1	39	NA	crov278	837	hypothetical protein
+NA	1	45	NA	crov279	1272	putative ATPase
+NA	6	572	NA	crov280	789	hypothetical protein
+NA	0	0	NA	crov281	453	putative ubiquitin-conjugating enzyme E2
+NA	1	14	NA	crov282	714	hypothetical protein
+NA	1	2	NA	crov283	2334	putative superfamily II helicase/VV D11-like transcription factor
+NA	4	253	NA	crov284	567	hypothetical protein
+NA	4	282	NA	crov285	753	hypothetical protein
+NA	0	0	NA	crov286	1362	putative polyadenylate polymerase catalytic subunit
+NA	0	0	NA	crov287	300	hypothetical protein
+NA	0	0	NA	crov288	561	hypothetical protein
+NA	0	0	NA	crov289	186	hypothetical protein
+NA	1	109	NA	crov290	972	hypothetical protein
+NA	0	0	NA	crov291	588	putative metal-dependent hydrolase
+NA	0	0	NA	crov292	5487	putative VV A7-like early transcription factor large subunit
+NA	0	0	NA	crov293	225	hypothetical protein
+NA	0	0	NA	crov294	306	hypothetical protein
+NA	0	0	NA	crov295	516	hypothetical protein
+NA	0	0	NA	crov296	597	hypothetical protein
+NA	0	0	NA	crov297	2067	hypothetical protein
+NA	1	42	NA	crov298	2637	hypothetical protein
+NA	0	0	NA	crov299	474	putative transcription elongation factor TFIIS
+NA	1	25	NA	crov299a	144	hypothetical protein
+NA	0	0	NA	crov300	246	hypothetical protein
+NA	0	0	NA	crov301	396	hypothetical protein
+NA	1	42	NA	crov302	1488	putative AAA+ family ATPase
+NA	0	0	NA	crov303	840	putative formamidopyrimidine-DNA glycosylase
+NA	0	0	NA	crov304	1689	"putative 5-3 exonuclease"
+NA	2	129	NA	crov305	657	hypothetical protein
+NA	6	1374	NA	crov306	1266	hypothetical protein
+NA	1	175	NA	crov307	189	hypothetical protein
+NA	1	2	NA	crov308	891	putative tubulin-tyrosine ligase family protein
+NA	0	0	NA	crov309	1197	putative serine/threonine protein kinase
+NA	0	0	NA	crov310	897	hypothetical protein
+NA	0	0	NA	crov311	4641	hypothetical protein
+NA	5	1138	NA	crov312	1086	hypothetical protein
+NA	1	33	NA	crov313	984	putative phosphoesterase
+NA	0	0	NA	crov314	939	hypothetical protein
+NA	0	0	NA	crov315	522	hypothetical protein
+NA	0	0	NA	crov316	1434	putative VV A18-like helicase
+NA	5	374	NA	crov317	924	hypothetical protein
+NA	0	0	NA	crov318	237	hypothetical protein
+NA	2	78	NA	crov319	4275	hypothetical protein
+NA	0	0	NA	crov320	561	hypothetical protein
+NA	2	43	NA	crov321	1962	putative capsid protein 3
+NA	1	36	NA	crov322	684	hypothetical protein
+NA	0	0	NA	crov323	363	hypothetical protein
+NA	0	0	NA	crov324	357	hypothetical protein
+NA	0	0	NA	crov325	4467	putative DNA topoisomerase IIA precursor
+NA	0	0	NA	crov326	1995	hypothetical protein
+NA	2	92	NA	crov327	1050	hypothetical protein
+NA	0	0	NA	crov328	570	hypothetical protein
+NA	0	0	NA	crov329	951	putative DNA replication factor C subunit
+NA	1	29	NA	crov330	3246	hypothetical protein
+NA	0	0	NA	crov331	531	hypothetical protein
+NA	1	4	NA	crov332	1800	major core protein
+NA	0	0	NA	crov333	1290	hypothetical protein
+NA	0	0	NA	crov334	429	hypothetical protein
+NA	0	0	NA	crov335	318	hypothetical protein
+NA	1	50	NA	crov336	1347	hypothetical protein
+NA	0	0	NA	crov337	201	hypothetical protein
+NA	0	0	NA	crov338	852	putative VV A32-like packaging ATPase
+NA	0	0	NA	crov339	636	hypothetical protein
+NA	0	0	NA	crov340	291	hypothetical protein
+NA	0	0	NA	crov341	1047	putative transcription factor VLTF3
+NA	0	0	NA	crov342	1521	major capsid protein
+NA	0	0	NA	crov343	570	putative cysteine protease
+NA	1	37	NA	crov344	630	hypothetical protein
+NA	0	0	NA	crov345	756	hypothetical protein
+NA	1	46	NA	crov346	1989	hypothetical protein
+NA	0	0	NA	crov347	477	putative DNA N6-adenine methyltransferase
+NA	0	0	NA	crov348	336	hypothetical protein
+NA	0	0	NA	crov349	633	putative prolyl 4-hydroxylase alpha subunit
+NA	0	0	NA	crov350	228	ubiquitin
+NA	1	43	NA	crov351	393	hypothetical protein
+NA	0	0	NA	crov352	429	hypothetical protein
+NA	0	0	NA	crov353	672	hypothetical protein
+NA	0	0	NA	crov354	435	putative deoxycytidylate deaminase
+NA	0	0	NA	crov355	390	hypothetical protein
+NA	0	0	NA	crov356	1251	putative transposase
+NA	0	0	NA	crov357	618	putative resolvase
+NA	1	14	NA	crov358	993	hypothetical protein
+NA	3	313	NA	crov359	4692	hypothetical protein
+NA	0	0	NA	crov360	912	hypothetical protein
+NA	0	0	NA	crov361	549	hypothetical protein
+NA	0	0	NA	crov362	204	hypothetical protein
+NA	2	85	NA	crov363	1065	hypothetical protein
+NA	3	226	NA	crov364	744	hypothetical protein
+NA	1	39	NA	crov365	378	hypothetical protein
+NA	0	0	NA	crov366	216	hypothetical protein
+NA	0	0	NA	crov367	369	hypothetical protein
+NA	0	0	NA	crov368	4482	putative DNA-directed RNA polymerase subunit Rpb1
+NA	1	29	NA	crov369	996	hypothetical protein
+NA	0	0	NA	crov370	1155	putative superfamily II helicase/eIF-4AIII
+NA	0	0	NA	crov371	156	hypothetical protein
+NA	1	45	NA	crov372	1029	hypothetical protein
+NA	0	0	NA	crov373	543	hypothetical protein
+NA	2	74	NA	crov374	951	hypothetical protein
+NA	0	0	NA	crov375	939	putative DnaJ/Hsp40
+NA	1	77	NA	crov376	447	hypothetical protein
+NA	0	0	NA	crov377	285	hypothetical protein
+NA	1	35	NA	crov378	309	hypothetical protein
+NA	1	44	NA	crov379	357	putative protein disulfide isomerase
+NA	0	0	NA	crov380	225	hypothetical protein
+NA	0	0	NA	crov381	207	hypothetical protein
+NA	0	0	NA	crov382	2319	putative superfamily II RNA helicase
+NA	0	0	NA	crov383	2454	putative type I restriction modification enzyme, M and S domains
+NA	0	0	NA	crov384	2079	hypothetical protein
+NA	0	0	NA	crov385	222	hypothetical protein
+NA	0	0	NA	crov386	789	putative ubiquitin carboxyl-terminal hydrolase
+NA	0	0	NA	crov387	1416	putative exoribonuclease
+NA	2	324	NA	crov388	1032	hypothetical protein
+NA	0	0	NA	crov389	3180	putative superfamily II RNA helicase
+NA	3	1734	NA	crov390	3126	hypothetical protein
+NA	0	0	NA	crov391	2115	putative ELP3 family histone acetyltransferase
+NA	0	0	NA	crov392	417	putative N-acetyltransferase
+NA	0	0	NA	crov393	771	hypothetical protein
+NA	0	0	NA	crov394	1011	hypothetical protein
+NA	0	0	NA	crov395	459	hypothetical protein
+NA	0	0	NA	crov396	1653	putative DNA methyltransferase
+NA	0	0	NA	crov397	210	hypothetical protein
+NA	1	13	NA	crov398	1386	putative capsid protein 2
+NA	0	0	NA	crov399	1107	hypothetical protein
+NA	0	0	NA	crov400	1080	hypothetical protein
+NA	1	16	NA	crov401	267	hypothetical protein
+NA	3	147	NA	crov402	2451	putative superfamily II helicase
+NA	0	0	NA	crov403	1947	putative DnaK/Hsp70
+NA	0	0	NA	crov404	420	hypothetical protein
+NA	0	0	NA	crov405	438	hypothetical protein
+NA	4	1415	NA	crov406	1743	hypothetical protein
+NA	0	0	NA	crov407	609	putative ribonuclease HII
+NA	3	444	NA	crov408	393	hypothetical protein
+NA	3	2178	NA	crov409	1980	hypothetical protein
+NA	0	0	NA	crov410	330	hypothetical protein
+NA	0	0	NA	crov411	456	hypothetical protein
+NA	0	0	NA	crov412	1158	hypothetical protein
+NA	0	0	NA	crov413	435	putative type I cysteine dioxygenase
+NA	0	0	NA	crov414	435	hypothetical protein
+NA	1	41	NA	crov415	1320	hypothetical protein
+NA	0	0	NA	crov416	237	hypothetical protein
+NA	0	0	NA	crov417	486	hypothetical protein
+NA	0	0	NA	crov418	255	hypothetical protein
+NA	0	0	NA	crov419	1461	hypothetical protein
+NA	0	0	NA	crov420	738	hypothetical protein
+NA	0	0	NA	crov421	705	hypothetical protein
+NA	0	0	NA	crov422	708	hypothetical protein
+NA	0	0	NA	crov423	474	hypothetical protein
+NA	1	45	NA	crov424	1431	hypothetical protein
+NA	0	0	NA	crov425	399	hypothetical protein
+NA	0	0	NA	crov426	2655	putative UvrD/REP helicase
+NA	5	989	NA	crov427	1884	hypothetical protein
+NA	0	0	NA	crov428	225	hypothetical protein
+NA	0	0	NA	crov429	459	hypothetical protein
+NA	0	0	NA	crov430	171	hypothetical protein
+NA	0	0	NA	crov431	906	hypothetical protein
+NA	0	0	NA	crov432	786	hypothetical protein
+NA	2	75	NA	crov433	459	hypothetical protein
+NA	0	0	NA	crov434	165	hypothetical protein
+NA	0	0	NA	crov435	2601	putative ubiquitin-activating enzyme E1
+NA	0	0	NA	crov436	426	hypothetical protein
+NA	3	273	NA	crov437	699	putative DNA-directed RNA polymerase subunit Rpb7
+NA	0	0	NA	crov438	516	hypothetical protein
+NA	0	0	NA	crov439	573	putative DNA-directed RNA polymerase subunit Rpb5
+NA	0	0	NA	crov440	2100	hypothetical protein
+NA	0	0	NA	crov441	168	hypothetical protein
+NA	0	0	NA	crov442	1338	putative FtsJ-like methyltransferase
+NA	0	0	NA	crov443	297	hypothetical protein
+NA	0	0	NA	crov444	492	putative Erv-family thiol oxidoreductase
+NA	1	42	NA	crov445	792	hypothetical protein
+NA	0	0	NA	crov446	897	putative NUDIX-like hydrolase
+NA	0	0	NA	crov447	603	putative DNA methyltransferase
+NA	0	0	NA	crov448	276	hypothetical protein
+NA	0	0	NA	crov449	633	putative mitochondrial carrier protein
+NA	0	0	NA	crov450	972	hypothetical protein
+NA	5	292	NA	crov451	633	hypothetical protein
+NA	0	0	NA	crov452	981	putative ribonucleoside-diphosphate reductase small subunit
+NA	0	0	NA	crov453	1065	hypothetical protein
+NA	2	83	NA	crov454	3774	putative ribonucleotide reductase large subunit precursor
+NA	0	0	NA	crov455	462	hypothetical protein
+NA	1	29	NA	crov456	1836	hypothetical protein
+NA	0	0	NA	crov457	1071	putative ubiquitin carboxyl-terminal hydrolase
+NA	0	0	NA	crov458	1053	putative family X DNA polymerase
+NA	0	0	NA	crov459	798	putative metal-dependent hydrolase
+NA	0	0	NA	crov460	420	hypothetical protein
+NA	0	0	NA	crov461	1005	putative replication factor C subunit
+NA	0	0	NA	crov462	1956	putative NAD-dependent DNA ligase
+NA	0	0	NA	crov463	210	hypothetical protein
+NA	0	0	NA	crov464	156	hypothetical protein
+NA	0	0	NA	crov465	354	hypothetical protein
+NA	0	0	NA	crov466	603	hypothetical protein
+NA	0	0	NA	crov467	294	hypothetical protein
+NA	2	244	NA	crov468	417	hypothetical protein
+NA	2	153	NA	crov469	213	hypothetical protein
+NA	0	0	NA	crov470	213	hypothetical protein
+NA	3	980	NA	crov471	477	hypothetical protein
+NA	1	1	NA	crov472	4005	putative methyltransferase
+NA	0	0	NA	crov473	174	hypothetical protein
+NA	1	34	NA	crov474	1125	hypothetical protein
+NA	0	0	NA	crov475	810	putative family 2C serine/threonine phosphatase
+NA	0	0	NA	crov476	417	hypothetical protein
+NA	0	0	NA	crov477	996	hypothetical protein
+NA	1	37	NA	crov478	3129	putative Lon protease
+NA	0	0	NA	crov479	1236	putative eIF-2gamma
+NA	0	0	NA	crov480	1371	hypothetical protein
+NA	0	0	NA	crov481	402	hypothetical protein
+NA	0	0	NA	crov482	978	putative DNA-dependent RNA polymerase subunit Rpb3/Rpb11
+NA	0	0	NA	crov483	582	hypothetical protein
+NA	0	0	NA	crov484	495	putative ribonuclease H1
+NA	0	0	NA	crov485	819	putative cysteine protease
+NA	0	0	NA	crov486	2772	putative DNA mismatch repair protein MutS
+NA	1	16	NA	crov487	300	hypothetical protein
+NA	0	0	NA	crov488	417	hypothetical protein
+NA	0	0	NA	crov489	1209	putative serine/threonine protein kinase
+NA	0	0	NA	crov490	243	hypothetical protein
+NA	0	0	NA	crov491	462	putative DNA-dependent RNA polymerase subunit Rpb6
+NA	0	0	NA	crov492	558	putative DNA-dependent RNA polymerase subunit Rpb9
+NA	0	0	NA	crov493	711	putative ubiquitin-conjugating enzyme E2
+NA	0	0	NA	crov494	2634	putative VV D5-type primase/helicase
+NA	1	46	NA	crov495	1935	hypothetical protein
+NA	0	0	NA	crov496	651	hypothetical protein
+NA	1	32	NA	crov497	4818	putative DNA-dependent DNA polymerase family B precursor
+NA	4	201	NA	crov498	4413	hypothetical protein
+NA	0	0	NA	crov499	273	hypothetical protein
+NA	0	0	NA	crov500	642	putative carrier protein
+NA	2	60	NA	crov501	591	hypothetical protein
+NA	0	0	NA	crov502	1359	putative bifunctional dihydrofolate reductase/thymidylate synthase
+NA	0	0	NA	crov503	2613	putative helicase/exonuclease
+NA	0	0	NA	crov504	336	hypothetical protein
+NA	0	0	NA	crov505	2868	putative isoleucyl-tRNA synthetase
+NA	0	0	NA	crov506	2214	putative superfamily II helicase
+NA	1	442	NA	crov507	1284	hypothetical protein
+NA	3	109	NA	crov508	3636	hypothetical protein
+NA	0	0	NA	crov509	543	hypothetical protein
+NA	0	0	NA	crov510	198	hypothetical protein
+NA	2	1434	NA	crov511	1503	hypothetical protein
+NA	3	426	NA	crov512	792	hypothetical protein
+NA	0	0	NA	crov513	279	hypothetical protein
+NA	2	1454	NA	crov514	1005	hypothetical protein
+NA	0	0	NA	crov515	2934	putative type I restriction modification enzyme, M and S domains
+NA	2	117	NA	crov516	1248	hypothetical protein
+NA	0	0	NA	crov517	174	hypothetical protein
+NA	0	0	NA	crov518	153	hypothetical protein
+NA	1	32	NA	crov519	981	hypothetical protein
+NA	1	23	NA	crov520	390	hypothetical protein
+NA	0	0	NA	crov521	321	hypothetical protein
+NA	0	0	NA	crov522	294	hypothetical protein
+NA	0	0	NA	crov523	351	hypothetical protein
+NA	0	0	NA	crov524	408	hypothetical protein
+NA	3	174	NA	crov525	1953	putative serine/threonine protein phosphatase
+NA	1	38	NA	crov526	2169	putative superfamily II helicase/restriction enzyme
+NA	4	2172	NA	crov527	1977	hypothetical protein
+NA	3	1701	NA	crov528	1407	hypothetical protein
+NA	2	487	NA	crov529	327	hypothetical protein
+NA	3	2092	NA	crov530	735	hypothetical protein
+NA	2	365	NA	crov531	240	hypothetical protein
+NA	0	0	NA	crov532	597	hypothetical protein
+NA	0	0	NA	crov533	807	hypothetical protein
+NA	0	0	NA	crov534	258	hypothetical protein
+NA	0	0	NA	crov535	1089	hypothetical protein
+NA	0	0	NA	crov536	291	hypothetical protein
+NA	0	0	NA	crov537	834	hypothetical protein
+NA	1	69	NA	crov538	171	hypothetical protein
+NA	2	1169	NA	crov539	873	hypothetical protein
+NA	1	44	NA	crov540	195	hypothetical protein
+NA	2	945	NA	crov541	729	hypothetical protein
+NA	0	0	NA	crov542	993	hypothetical protein
+NA	4	951	NA	crov543	423	hypothetical protein

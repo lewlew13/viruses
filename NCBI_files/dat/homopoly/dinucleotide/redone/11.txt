@@ -1,0 +1,10 @@
+NC_014068.1 Torque teno mini virus 8, complete genome	2910	119	124	ACACAC	+
+NC_014068.1 Torque teno mini virus 8, complete genome	2910	501	506	ACACAC	+
+NC_014068.1 Torque teno mini virus 8, complete genome	2910	352	357	ATATAT	+
+NC_014068.1 Torque teno mini virus 8, complete genome	2910	1574	1579	ATATAT	+
+NC_014068.1 Torque teno mini virus 8, complete genome	2910	2680	2685	ATATAT	+
+NC_014068.1 Torque teno mini virus 8, complete genome	2910	502	507	CACACA	+
+NC_014068.1 Torque teno mini virus 8, complete genome	2910	2361	2366	CTCTCT	+
+NC_014068.1 Torque teno mini virus 8, complete genome	2910	152	157	TATATA	+
+NC_014068.1 Torque teno mini virus 8, complete genome	2910	353	358	TATATA	+
+NC_014068.1 Torque teno mini virus 8, complete genome	2910	2810	2815	TATATA	+

@@ -1,0 +1,3 @@
+GOA	RepOver	RepCov	Gene	Locus	GeneLen	Product
+NA	0	0	NA	RUBVgp1	6351	non-structural polyprotein
+NA	0	0	NA	RUBVgp2	3192	structural polyprotein

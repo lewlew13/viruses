@@ -1,0 +1,9 @@
+NC_001484.1 Ground squirrel hepatitis virus, complete genome	3311	423	428	ACACAC	+
+NC_001484.1 Ground squirrel hepatitis virus, complete genome	3311	1477	1484	ACACACAC	+
+NC_001484.1 Ground squirrel hepatitis virus, complete genome	3311	424	429	CACACA	+
+NC_001484.1 Ground squirrel hepatitis virus, complete genome	3311	1478	1483	CACACA	+
+NC_001484.1 Ground squirrel hepatitis virus, complete genome	3311	1472	1477	GAGAGA	+
+NC_001484.1 Ground squirrel hepatitis virus, complete genome	3311	268	273	GTGTGT	+
+NC_001484.1 Ground squirrel hepatitis virus, complete genome	3311	2616	2621	TATATA	+
+NC_001484.1 Ground squirrel hepatitis virus, complete genome	3311	3202	3207	TATATA	+
+NC_001484.1 Ground squirrel hepatitis virus, complete genome	3311	1782	1787	TCTCTC	+

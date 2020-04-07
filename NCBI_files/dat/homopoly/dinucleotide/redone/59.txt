@@ -1,0 +1,13 @@
+JQ679013.1 Hepatitis E virus clone p6, complete genome	7499	3495	3500	ACACAC	+
+JQ679013.1 Hepatitis E virus clone p6, complete genome	7499	2401	2406	AGAGAG	+
+JQ679013.1 Hepatitis E virus clone p6, complete genome	7499	636	641	CACACA	+
+JQ679013.1 Hepatitis E virus clone p6, complete genome	7499	3285	3290	CACACA	+
+JQ679013.1 Hepatitis E virus clone p6, complete genome	7499	3494	3499	CACACA	+
+JQ679013.1 Hepatitis E virus clone p6, complete genome	7499	4655	4660	CTCTCT	+
+JQ679013.1 Hepatitis E virus clone p6, complete genome	7499	6894	6899	CTCTCT	+
+JQ679013.1 Hepatitis E virus clone p6, complete genome	7499	4670	4675	GTGTGT	+
+JQ679013.1 Hepatitis E virus clone p6, complete genome	7499	2167	2172	TCTCTC	+
+JQ679013.1 Hepatitis E virus clone p6, complete genome	7499	3339	3344	TCTCTC	+
+JQ679013.1 Hepatitis E virus clone p6, complete genome	7499	4654	4661	TCTCTCTC	+
+JQ679013.1 Hepatitis E virus clone p6, complete genome	7499	3515	3520	TGTGTG	+
+JQ679013.1 Hepatitis E virus clone p6, complete genome	7499	4671	4676	TGTGTG	+

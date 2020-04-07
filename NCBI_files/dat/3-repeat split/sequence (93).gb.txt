@@ -1,0 +1,11 @@
+GOA	RepOver	RepCov	Gene	Locus	GeneLen	Product
+NA	19	1016	NA	GrBNV_gp01	96944	hypothetical protein
+NA	0	0	vp91	GrBNV_gp02	2220	VP91 capsid protein
+NA	0	0	pif-3	GrBNV_gp03	603	per os infectivity factor 3
+NA	0	0	NA	GrBNV_gp04	567	hypothetical protein
+NA	0	0	odv-e56	GrBNV_gp05	1404	occlusion-derived virus envelope-56 protein
+NA	0	0	NA	GrBNV_gp06	1230	hypothetical protein
+NA	0	0	NA	GrBNV_gp07	963	hypothetical protein
+NA	0	0	NA	GrBNV_gp08	210	hypothetical protein
+NA	0	0	NA	GrBNV_gp09	777	hypothetical protein
+NA	0	0	NA	GrBNV_gp10	318	hypothetical protein

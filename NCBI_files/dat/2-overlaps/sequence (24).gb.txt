@@ -1,0 +1,2 @@
+GOA	RepOver	RepCov	Gene	Locus	GeneLen	Product
+NA	0	0	NA	D1Y43_s1gp1	6345	polyprotein

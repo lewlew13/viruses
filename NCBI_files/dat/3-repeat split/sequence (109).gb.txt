@@ -1,0 +1,9 @@
+GOA	RepOver	RepCov	Gene	Locus	GeneLen	Product
+NA	0	0	NA	HHPV-1_gp1	2352	unkown
+NA	0	0	NA	HHPV-1_gp2	360	unkown
+NA	0	0	NA	HHPV-1_gp3	402	VP3
+NA	0	0	NA	HHPV-1_gp4	1605	VP4 precursor
+NA	0	0	NA	HHPV-1_gp5	552	unkown
+NA	0	0	NA	HHPV-1_gp6	849	unkown
+NA	0	0	NA	HHPV-1_gp7	993	unkown
+NA	0	0	NA	HHPV-1_gp8	624	unkown

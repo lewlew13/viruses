@@ -1,0 +1,3 @@
+GOA	RepOver	RepCov	Gene	Locus	GeneLen	Product
+NA	0	0	NA	CO48_sLgp1	351	Z protein
+NA	0	0	NA	CO48_sLgp2	6198	L polymerase

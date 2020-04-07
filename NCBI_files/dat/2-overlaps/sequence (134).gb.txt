@@ -1,0 +1,58 @@
+GOA	RepOver	RepCov	Gene	Locus	GeneLen	Product
+NA	0	0	1-57	FK997_gp01	174	hypothetical protein
+NA	0	0	2-78	FK997_gp02	237	hypothetical protein
+NA	0	0	3-208	FK997_gp03	627	hypothetical protein
+NA	0	0	4-78	FK997_gp04	237	hypothetical protein
+NA	0	0	5-178	FK997_gp05	537	hypothetical protein
+NA	0	0	6-144	FK997_gp06	435	hypothetical protein
+NA	0	0	7-100	FK997_gp07	303	hypothetical protein
+NA	0	0	8-43	FK997_gp08	132	hypothetical protein
+NA	0	0	9-303	FK997_gp09	912	hypothetical protein
+NA	0	0	10-261	FK997_gp10	786	hypothetical protein
+NA	0	0	11-407	FK997_gp11	1224	hypothetical protein
+NA	0	0	12-154	FK997_gp12	465	hypothetical thioredoxin
+NA	0	0	13-124	FK997_gp13	375	hypothetical thioredoxin
+NA	0	0	14-47	FK997_gp14	144	hypothetical protein
+NA	0	0	15-40	FK997_gp15	123	hypothetical protein
+NA	0	0	16-72	FK997_gp16	219	hypothetical zinc ribbon protein
+NA	0	0	17-89	FK997_gp17	270	hypothetical protein
+NA	0	0	18-67	FK997_gp18	204	hypothetical protein
+GOA:J7Q7I8	0	0	19-334	FK997_gp19	1005	putative glycosyltransferase
+NA	0	0	20-52	FK997_gp20	159	hypothetical protein
+NA	0	0	21-227	FK997_gp21	684	hypothetical protein
+NA	0	0	22-102	FK997_gp22	309	hypothetical protein
+NA	0	0	23-85	FK997_gp23	258	hypothetical protein
+NA	0	0	24-54	FK997_gp24	165	hypothetical protein
+GOA:J7Q326	0	0	25-326	FK997_gp25	981	putative serine protease
+NA	0	0	26-143	FK997_gp26	432	hypothetical protein
+NA	0	0	27-58	FK997_gp27	177	hypothetical protein
+NA	0	0	28-37	FK997_gp28	114	hypothetical protein
+GOA:J7Q7J3	0	0	29-347	FK997_gp29	1044	hypothetical putative RHH DNA-binding protein
+NA	0	0	30-86	FK997_gp30	261	hypothetical protein
+NA	0	0	31-69	FK997_gp31	210	hypothetical protein
+NA	0	0	32-62	FK997_gp32	189	hypothetical protein
+GOA:J7QDG6	0	0	33-403	FK997_gp33	1212	hypothetical recombinase
+NA	0	0	34-73	FK997_gp34	222	hypothetical protein
+GOA:J7Q328	0	0	35-134	FK997_gp35	405	hypothetical RHH DNA-binding protein
+NA	0	0	36-43	FK997_gp36	132	hypothetical protein
+NA	0	0	37-93	FK997_gp37	282	hypothetical protein
+GOA:J7QDG9	0	0	38-318	FK997_gp38	957	putative glycosyltransferase
+GOA:J7Q7J8	0	0	39-390	FK997_gp39	1173	putative carbohydrate modification (GMD)
+NA	0	0	40-219	FK997_gp40	660	hypothetical protein
+NA	0	0	41-199	FK997_gp41	600	hypothetical protein
+NA	0	0	42-221	FK997_gp42	666	hypothetical protein
+GOA:J7QDH1	0	0	43-80	FK997_gp43	243	hypothetical wHTH DNA-binding protein
+NA	0	0	44-65	FK997_gp44	198	hypothetical protein
+NA	0	0	45-90	FK997_gp45	273	hypothetical protein
+NA	0	0	46-91	FK997_gp46	276	hypothetical protein
+NA	0	0	47-86	FK997_gp47	261	hypothetical protein
+NA	0	0	48-41	FK997_gp48	126	hypothetical protein
+NA	0	0	49-111	FK997_gp49	336	hypothetical protein
+NA	0	0	50-51	FK997_gp50	156	hypothetical protein
+NA	0	0	51-45	FK997_gp51	138	hypothetical protein
+NA	0	0	52-134	FK997_gp52	405	hypothetical protein
+GOA:J7QDH6	0	0	53-94	FK997_gp53	285	hypothetical RHH DNA-binding protein
+GOA:J7Q7K8	0	0	54-119	FK997_gp54	360	hypothetical wHTH DNA-binding protein
+GOA:J7Q332	0	0	55-80	FK997_gp55	243	hypothetical wHTH DNA-binding protein
+NA	0	0	56-66	FK997_gp56	201	hypothetical protein
+NA	0	0	57-73	FK997_gp57	222	hypothetical protein

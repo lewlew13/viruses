@@ -1,0 +1,11 @@
+NC_038798.1 Malvastrum yellow mosaic Jamaica virus isolate Ma179A73 segment DNA-A, complete sequence	2612	146	151	ATATAT	+
+NC_038798.1 Malvastrum yellow mosaic Jamaica virus isolate Ma179A73 segment DNA-A, complete sequence	2612	333	338	ATATAT	+
+NC_038798.1 Malvastrum yellow mosaic Jamaica virus isolate Ma179A73 segment DNA-A, complete sequence	2612	514	519	ATATAT	+
+NC_038798.1 Malvastrum yellow mosaic Jamaica virus isolate Ma179A73 segment DNA-A, complete sequence	2612	2543	2548	ATATAT	+
+NC_038798.1 Malvastrum yellow mosaic Jamaica virus isolate Ma179A73 segment DNA-A, complete sequence	2612	2323	2328	CTCTCT	+
+NC_038798.1 Malvastrum yellow mosaic Jamaica virus isolate Ma179A73 segment DNA-A, complete sequence	2612	2139	2144	GTGTGT	+
+NC_038798.1 Malvastrum yellow mosaic Jamaica virus isolate Ma179A73 segment DNA-A, complete sequence	2612	145	150	TATATA	+
+NC_038798.1 Malvastrum yellow mosaic Jamaica virus isolate Ma179A73 segment DNA-A, complete sequence	2612	513	518	TATATA	+
+NC_038798.1 Malvastrum yellow mosaic Jamaica virus isolate Ma179A73 segment DNA-A, complete sequence	2612	2544	2549	TATATA	+
+NC_038798.1 Malvastrum yellow mosaic Jamaica virus isolate Ma179A73 segment DNA-A, complete sequence	2612	1828	1833	TCTCTC	+
+NC_038798.1 Malvastrum yellow mosaic Jamaica virus isolate Ma179A73 segment DNA-A, complete sequence	2612	1424	1429	TGTGTG	+

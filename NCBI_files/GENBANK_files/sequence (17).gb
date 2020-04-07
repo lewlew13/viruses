@@ -1,0 +1,149 @@
+LOCUS       NC_043389               4018 bp    RNA     linear   VRL 28-JUN-2019
+DEFINITION  Ranunculus white mottle virus segment RNA1 putative RNA polymerase
+            gene, partial cds.
+ACCESSION   NC_043389
+VERSION     NC_043389.1
+DBLINK      BioProject: PRJNA485481
+KEYWORDS    RefSeq.
+SOURCE      Ranunculus white mottle virus
+  ORGANISM  Ranunculus white mottle virus
+            Viruses; Riboviria; Negarnaviricota; Haploviricotina;
+            Milneviricetes; Serpentovirales; Aspiviridae; Ophiovirus.
+REFERENCE   1  (bases 1 to 4018)
+  AUTHORS   Vaira,A.M., Accotto,G.P., Costantini,A. and Milne,R.G.
+  TITLE     Partial sequencing of RWMV RNA 1 indicates relationships with
+            Rhabdoviridae and leads to RT-PCR detection of all Ophiovirus
+            species
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 4018)
+  CONSRTM   NCBI Genome Project
+  TITLE     Direct Submission
+  JOURNAL   Submitted (28-JUN-2019) National Center for Biotechnology
+            Information, NIH, Bethesda, MD 20894, USA
+REFERENCE   3  (bases 1 to 4018)
+  AUTHORS   Vaira,A.M. and Accotto,G.P.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (29-OCT-2002) Istituto di Virologia Vegetale, CNR, Strada
+            delle Cacce 73, Torino 10135, Italy
+  REMARK    Sequence update by submitter
+REFERENCE   4  (bases 1 to 4018)
+  AUTHORS   Vaira,A.M. and Accotto,G.P.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (11-JAN-2001) Istituto di Virologia Vegetale, CNR, Strada
+            delle Cacce 73, Torino 10135, Italy
+COMMENT     PROVISIONAL REFSEQ: This record has not yet been subject to final
+            NCBI review. The reference sequence is identical to AF335429.
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..4018
+                     /organism="Ranunculus white mottle virus"
+                     /mol_type="genomic RNA"
+                     /isolate="Rn3"
+                     /host="Ranunculus spp."
+                     /db_xref="taxon:152636"
+                     /segment="RNA1"
+                     /lab_host="Nicotiana benthamiana"
+                     /country="Italy"
+     gene            complement(1..4018)
+                     /locus_tag="FK966_s1gp1"
+                     /db_xref="GeneID:40526122"
+     CDS             complement(<1..>4018)
+                     /locus_tag="FK966_s1gp1"
+                     /codon_start=2
+                     /product="putative RNA polymerase"
+                     /protein_id="YP_009665966.1"
+                     /db_xref="GeneID:40526122"
+                     /translation="SESEKKFLDYYTSLLYEPEDIRIGMGCLYETTCLLLSDMKTLSA
+                     SMPILDNVVESINVSLNHTEKLIEICQESEPEVCIRMSSIGKTLIIASTKPGKGISRY
+                     TQRTNRDNIVNENTIRRLRSLFKQRVISAYIKKHGRVPNLVSVPEDLGAQLEMKAAGG
+                     NYINQMISETSRYNEVKLGKFLEPGEEMNLQSRIIDKACSKDNYSQESNSEKEIHYYI
+                     THNMEDVFSEPMGIKKNAYRSSSRIAEVIHRSEGLQKNIEKYMLVKLSEKEREQKIAA
+                     RFYGIASFKLKLWISSTMEMVKRAMKLLPGQMMTMTDDERREIMFKMSEKLLEEDTYS
+                     LFLDYSGHNTSQRPENTNFIMEEIANMYGYFEGSLEYEEFTSLPYVFSNIHLIVEDTW
+                     SDMIYYSKGQLGAIEGWLGGLWGIQSQLMLEDMFMQLGVKDFIGTTYSDDSCGVFTQK
+                     SMDVQKLNGIIKNVQRCGEDMGLIVKLSQTQVTNGRCSMLKEHYYKGIPIEMTLKKIM
+                     SISPNGPKILCDELESSTLIDSGFTSSCTRSSTIWTQALIRNFRIIKLLSSSLRKMTE
+                     EILQDNLDERYLSSKHNYEISMKSALRGLNKNMNNKVFIPAPRSRNIEFFQFHQNDQD
+                     VLDIILMFLYSPYTMYGFALTPLPDVLISGYSLSNVKRISYLQGILKIENVRKMGSLI
+                     NLSQNAISYLDNPFPMIGGRKDTSLFVRPEIERILSRVVTNKELLDFLSLYTREDELE
+                     FKGQLVSAFKNCFSSRITGKFLESSLYAYVQEILSKIDNAATMKMLLGGRKMMMLIDK
+                     AWQANFRMKIKLNANTIINYDDLMFARGNKALVLPNKESVSLKFLEIEEIPIMGKVVH
+                     SNLKSMIQPIFKGTTKLTEEGRKARPPQRTFHNSAKFDRELGVDGMFEHKLIFKAYDL
+                     VRYVKWLMMEQEKFSSGMSEIDKTTLISICDTVLNXFTDAKYSDIEENVVCPKSGRYF
+                     HRALTGGFNPKTGDLSSNLLSGNYDITGVDQLIAKTGGVDNNLNLQYLMIYIRIGLAF
+                     LEPSAWELVPLTLTNDIXEHIKDVSFVIKGLNEIKINKKLYKMASKKKIKERGKMYYN
+                     YSTFVEKNEDIADKFINHVSTTKEYFVNQESAFRSVHSYMVDQMIVSPELVSDDILKG
+                     LIGEEIFKEGRMTFFDKFYRYYKSLNVIGNETPSRSVIRGLLYEEMFSVNENSIGKQL
+                     WTDEMTRFGYSSGFKKALMRLFILSTSLSYRMVDQENNTVRLQVNKHRTIINSKSNFE
+                     KMRKGVCQFYIKDKRITEMIVNSFPTLGYTYSDIHSGASILCDEISNIEFEQMRLGSY
+                     YLKLHKLYTEKKENVHYGQ"
+ORIGIN      
+        1 ttgcccgtaa tgcacatttt ctttcttttc agtatataac ttgtggagtt taaggtaata
+       61 agaacccaac ctcatctgtt caaactcaat attgctaatc tcatcacaaa gaatacttgc
+      121 ccctgagtga atgtctgagt aggtgtaacc caaagtaggg aatgaattta caatcatttc
+      181 tgtaattctt ttgtctttga tgtaaaattg acaaacacct ttcctcatct tctcaaaatt
+      241 gcttttgctg ttaattatcg ttcggtgttt gtttacctgc aatctgacag tgttgttctc
+      301 ttgatctacc atcctgtatg atagtgaagt agacaaaata aacaatctca ttaaggcttt
+      361 cttgaatccg ctagaataac caaaccttgt catttcatca gtccacagtt gttttcctat
+      421 tgaattttca ttcacactga acatctcttc ataaagaagt cctctgataa cagatcgcga
+      481 aggwgtttca ttgccaataa cattcaaaga cttatagtac ctgtagaact tgtcaaagaa
+      541 tgtcatccta ccctctttga agatttcttc tcctattagt cctttcaaga tatcatctga
+      601 tactaattct ggactaacta tcatttggtc caccatgtaa gagtgaacag acctaaacgc
+      661 actttcctga ttcacgaaat attccttagt tgtggaaaca tggtttatga atttatctgc
+      721 tatatcctca ttcttttcaa cgaaagtaga ataattgtaa tacatcttcc ctctttcttt
+      781 gattttcttc tttgaagcca tcttatataa tttcttgttg atctttattt cgtttaatcc
+      841 tttgataaca aatgacacgt ccttgatatg ttcaaraatg tcattagtta aagtcaaagg
+      901 aactaactcc caagcacttg gttctaagaa agccaatcct attctgatat aaatcattaa
+      961 atattgaagg ttcagattgt tgtccactcc tcctgttttt gcgataagyt gatcaactcc
+     1021 tgttatrtca taatttccgc tcaacagatt agaagaaaga tctccagtct ttggattgaa
+     1081 tcctcctgtt aatgctctat gaaaatatct tccacttttg ggacagacaa cattttcttc
+     1141 tatatcactg tatttggcat cagtaaatrt gtttaacact gtatcacaaa tggaaatcaa
+     1201 agttgtctta tctatttcag acattcctga tgaaaatttc tcttgttcca tcataagcca
+     1261 ttttacatac ctaactaagt catatgcctt gaagattaac ttatgttcga acattccatc
+     1321 tacgcctaat tctctgtcga acttagcaga gttgtggaaa gttctttgtg gcggccttgc
+     1381 ttttcttcct tcctctgtca atttagttgt gcctttgaat atcggttgga tcatactttt
+     1441 gagattggag tgtacaactt ttcccataat cggtatttcc tctatttcta agaatttcag
+     1501 tgatacagat tctttgtttg gcaagaccaa tgctttgttc cctctagcaa acatcaaatc
+     1561 gtcataattt atgattgtgt tagcattaag ttttattttc atcctaaaat ttgcytgcca
+     1621 tgccttgtca atcagcatca tcatttttct tccaccaaga agcatcttca ttgttgctgc
+     1681 attgtctatc tttgacaaga tttcttgtac atacgcatat aagcttgatt ctaagaattt
+     1741 acctgtgatt cttgatgaga aacaattctt aaatgctgaa accaattgtc ctttaaattc
+     1801 caattcatct tctcgagtat agagtgacaa gaagtctaat aattccttgt ttgtaacaac
+     1861 tctcgacaat attctttcaa tctctggcct tacaaaaagt gatgtgtctt ttcttccccc
+     1921 aatcatagga aatggattgt ctaggtaact gatagcattc tgtgaaagat tgattaagga
+     1981 acccatcttt ctgacgtttt cgatcttcag tattccttga aggtagctta tcctttttac
+     2041 gttggacaga ctatagccag aaatcaggac atcaggtaaa ggtgttaagg caaatccata
+     2101 cattgtgtat ggggagtaca gaaacataag aatgatgtcc aaaacatcct gatcattttg
+     2161 gtggaactgg aaaaattcaa tgtttcttga ccgaggtgca ggtataaaca ctttgttatt
+     2221 catattcttg ttgagccctc tcaatgctga tttcatgctg atctcgtagt tatgtttact
+     2281 cgaaagatat ctttcatcaa ggttatcttg gagtatttct tcagtcatct ttctcaaaga
+     2341 acttgaaagc agttttatga tgcggaaatt cctaatcaat gcttgtgtcc atatggttga
+     2401 agatctagtg caacttgagg tgaaacccga atcaatcaaa gtactagatt ctagttcatc
+     2461 acaaagaatc ttaggaccat tagggctaat ggacatgatc tttttcaatg tcatctcgat
+     2521 cgggataccc ttgtaatagt gttctttcaa catagaacat cttccatttg tgacttgagt
+     2581 ttgtgaaagc ttaacaatga gtcccatatc ctcaccacat ctctgaacat tcttgattat
+     2641 tccgttcagt ttttgtacat ccatagactt ctgagtaaac accccacatg aatcatcaga
+     2701 ataggttgtt ccaataaaat ccttgacacc taattgcata aacatatctt ccagcatcaa
+     2761 ctgagattga attccccata gaccccctaa ccaaccttca attgcaccca attgtccttt
+     2821 tgaataatag atcatatcgc tccacgtatc ttccactatc aaatggatgt tactaaagac
+     2881 ataaggcagt gaagtaaatt cttcatattc aagcgatccc tcaaagtaac cgtacatatt
+     2941 agcaatttct tccattataa aatttgtatt ttcaggcctt tgagacgtat tatgacctga
+     3001 ataatccaaa aagagggaat atgtgtcctc ttccaataat ttttctgaca ttttaaacat
+     3061 aatttctctt ctttcatcat ctgtcatggt catcatttgt ccaggtaaga gtttcattgc
+     3121 ccttttgacc atctccattg ttgagctaat ccagagcttt aacttgaaag aagcaatgcc
+     3181 ataaaaccta gcagcaatct tttgttcacg ttccttttct gagagtttga ctaacatata
+     3241 tttttctatg tttttctgca gaccttccga cctatggatt acttcagcaa ttctagagga
+     3301 tgacctgtat gcattctttt tgatgcccat tggttcagag aaaacatctt ccatgttatg
+     3361 agtgatataa taatgaatct ctttctcaga gttactttct tgtgaataat tgtcttttga
+     3421 gcaagcctta tctattattc ttgactgcag attcatttct tcaccaggtt ccagaaactt
+     3481 gcctaatttc acttcattat atctgctggt ttcagatatc atctgattta tataattacc
+     3541 tcctgctgcc ttcatttcta actgagcacc caaatcttca ggaacactca ccaagttagg
+     3601 gactcttccg tgttttttaa tgtaagcaga aatgactctt tgtttgaata gagatcttaa
+     3661 cctccttatc gtgttttcat taactatgtt gtctcgattt gtccgttgtg tgtatctact
+     3721 aatccctttc cctggttttg tgcttgcaat gatcaatgtt ttccctatgg aagacattct
+     3781 gatacaaacc tcaggctctg attcttgaca gatctcaata agtttttctg tatggttgag
+     3841 agaaacatta atcgattcta caacattatc aagaattggc atactcgctg aaagagtttt
+     3901 catgtcagaa agaagaagac atgttgtttc ataaagacat cccattccta tcctgatatc
+     3961 ttcgggttca tacaatagac tagtgtagta atccaaaaac ttcttttcag attctgac
+//
+

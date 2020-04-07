@@ -1,0 +1,4 @@
+NC_001633.1 Mushroom bacilliform virus, complete genome	4009	1708	1713	ACACAC	+
+NC_001633.1 Mushroom bacilliform virus, complete genome	4009	2868	2873	ACACAC	+
+NC_001633.1 Mushroom bacilliform virus, complete genome	4009	926	931	AGAGAG	+
+NC_001633.1 Mushroom bacilliform virus, complete genome	4009	2267	2272	CACACA	+

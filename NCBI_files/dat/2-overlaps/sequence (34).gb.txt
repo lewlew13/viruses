@@ -1,0 +1,4 @@
+GOA	RepOver	RepCov	Gene	Locus	GeneLen	Product
+NA	0	0	ORF1	BSVgp1	534	small protein of unknown function
+NA	0	0	ORF2	BSVgp2	405	small protein of unknown function
+GOA:O72700	0	0	ORF3	BSVgp3	5499	polyprotein, cleavage products include viral coat protein and proteins with homology to an aspartic protease, reverse transcriptase and RNase H

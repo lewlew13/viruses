@@ -1,0 +1,5 @@
+GOA	RepOver	RepCov	Gene	Locus	GeneLen	Product
+NA	0	0	NA	GSHVgp1	654	hypothetical protein
+NA	0	0	NA	GSHVgp2	2646	hypothetical protein
+NA	0	0	NA	GSHVgp3	849	hypothetical protein
+NA	0	0	NA	GSHVgp4	417	hypothetical protein

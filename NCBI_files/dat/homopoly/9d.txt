@@ -1,0 +1,4 @@
+NC_029921.1 Tilapia lake virus isolate Til-4-2011 segment 2, complete sequence	1456	1461	AGAGAG	+
+NC_029921.1 Tilapia lake virus isolate Til-4-2011 segment 2, complete sequence	23	30	ATATATAT	+
+NC_029921.1 Tilapia lake virus isolate Til-4-2011 segment 2, complete sequence	266	271	GAGAGA	+
+NC_029921.1 Tilapia lake virus isolate Til-4-2011 segment 2, complete sequence	24	31	TATATATA	+

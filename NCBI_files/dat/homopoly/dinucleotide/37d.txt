@@ -1,0 +1,8 @@
+NC_025792.1 Bat circovirus POA/2012/VI, complete genome	443	448	AGAGAG	+
+NC_025792.1 Bat circovirus POA/2012/VI, complete genome	1732	1737	ATATAT	+
+NC_025792.1 Bat circovirus POA/2012/VI, complete genome	442	447	GAGAGA	+
+NC_025792.1 Bat circovirus POA/2012/VI, complete genome	1739	1744	GCGCGC	+
+NC_025792.1 Bat circovirus POA/2012/VI, complete genome	861	866	TATATA	+
+NC_025792.1 Bat circovirus POA/2012/VI, complete genome	1733	1738	TATATA	+
+NC_025792.1 Bat circovirus POA/2012/VI, complete genome	1330	1335	TGTGTG	+
+NC_025792.1 Bat circovirus POA/2012/VI, complete genome	1704	1709	TGTGTG	+

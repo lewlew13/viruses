@@ -1,0 +1,2 @@
+GOA	RepOver	RepCov	Gene	Locus	GeneLen	Product
+NA	0	0	L	FLA40_sLgp1	11109	RNA-dependent RNA polymerase

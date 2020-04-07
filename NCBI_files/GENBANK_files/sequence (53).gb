@@ -1,0 +1,122 @@
+LOCUS       NC_024689               2152 bp    DNA     circular VRL 13-AUG-2018
+DEFINITION  HCBI8.215 virus complete sequence.
+ACCESSION   NC_024689
+VERSION     NC_024689.1
+DBLINK      BioProject: PRJNA485481
+KEYWORDS    RefSeq.
+SOURCE      HCBI8.215 virus
+  ORGANISM  HCBI8.215 virus
+            Viruses; Genomoviridae; Gemykibivirus.
+REFERENCE   1
+  AUTHORS   Lamberto,I., Gunst,K., Muller,H., Zur Hausen,H. and de
+            Villiers,E.M.
+  TITLE     Mycovirus-like DNA virus sequences from cattle serum and human
+            brain and serum samples from multiple sclerosis patients
+  JOURNAL   Genome Announc 2 (4) (2014)
+   PUBMED   25169858
+  REMARK    Publication Status: Online-Only
+REFERENCE   2  (bases 1 to 2152)
+  CONSRTM   NCBI Genome Project
+  TITLE     Direct Submission
+  JOURNAL   Submitted (13-AUG-2014) National Center for Biotechnology
+            Information, NIH, Bethesda, MD 20894, USA
+REFERENCE   3  (bases 1 to 2152)
+  AUTHORS   De Villiers,E.M.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (30-MAY-2014) De Villiers E.M., Div. Characterization of
+            Tumorviruses, Deutsches Krebsforschungszentrum, Im Neuenheimer Feld
+            242, Heidelberg, 69120, GERMANY
+COMMENT     PROVISIONAL REFSEQ: This record has not yet been subject to final
+            NCBI review. The reference sequence is identical to LK931483.
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..2152
+                     /organism="HCBI8.215 virus"
+                     /mol_type="genomic DNA"
+                     /isolate="HCBI8.215 (I.10E.5)"
+                     /isolation_source="healthy cattle blood"
+                     /db_xref="taxon:1516079"
+                     /country="Germany"
+                     /note="new organism - Virus related to
+                     Gemycircularviruses"
+     gene            110..1045
+                     /gene="CP"
+                     /locus_tag="JM55_gp1"
+                     /db_xref="GeneID:20041355"
+     CDS             110..1045
+                     /gene="CP"
+                     /locus_tag="JM55_gp1"
+                     /codon_start=1
+                     /product="capsid protein"
+                     /protein_id="YP_009051830.1"
+                     /db_xref="GeneID:20041355"
+                     /translation="MAFRNRRFQAGRRRRFTPRRSTFRRRSFRNGRSRTTRRYSRPRT
+                     NVRRVRNLASRKCRDNMICTPIDDTGTPQTPGPVSMDASSVYGFIFSPTARTAGTQLE
+                     SGERVNAPSSAQRRKSKCYVRGYGETVEIQTDDASPWVWRRIVFSTIGLASQFDPGLL
+                     YNNDETRGWGRSLFNIRSGTQQASILEGVVFRYLFQGTEGVDWANVMTATTAPRHVRV
+                     YSDRRRVIQSPNSEGGTIRLSKHYDGINRSIIYDDVEIGAGAKATNAIASGTPYGNMG
+                     DLFVLDFFSSASDDETSGASFQPHGKFYWHEGQSA"
+     gene            complement(1042..2127)
+                     /gene="rep"
+                     /locus_tag="JM55_gp2"
+                     /db_xref="GeneID:20041354"
+     CDS             complement(1042..1356)
+                     /gene="rep"
+                     /locus_tag="JM55_gp2"
+                     /codon_start=1
+                     /product="replication associated protein"
+                     /protein_id="YP_009051831.1"
+                     /db_xref="GeneID:20041354"
+                     /translation="MWARSLAKHAYFGGLFSLEESLEDVKYAVFDDIAGGLKFFPQYK
+                     SWLGNQLDFYSTDKYKKKKAIKWGKPCIWISNEYPITEGVDQDWMDKNCIFVEVTTPL
+                     YS"
+     CDS             complement(1537..2127)
+                     /gene="rep"
+                     /locus_tag="JM55_gp2"
+                     /codon_start=1
+                     /product="replication associated protein"
+                     /protein_id="YP_009051832.1"
+                     /db_xref="GeneID:20041354"
+                     /translation="MSTFRFYARYALLTYAQCGGLDPFTIVSHIGDLGGECIIGREAH
+                     SDGGTHLHAFVDFGRRFQSRRAAVFDVGGFHPNISITKRDPQVHYDYAIKDGDVVAGG
+                     LERPAADASAGVENKHHQIVLAPTRAEFFEAVRDLDPRLLLTSFPSLEKYADWHYRVD
+                     PDPYRHDPEYEFDTSQFPELNQWAEDYIGWDATVRG"
+ORIGIN      
+        1 taatgttatc tacctttctg ttgtgtcggt gtcactttac ttggtatata taggcggttg
+       61 tcccgcggag aaatttattt cgcaaagagg ggtatgttgc atttacaaaa tggcgttccg
+      121 gaatcggcgt tttcaggcgg ggcgcaggcg tcgttttact ccacggaggt ccacttttcg
+      181 ccgacgatct ttccgcaatg gtcggtcacg tacgacaagg cggtattcac ggccacgcac
+      241 gaatgtgcgt cgtgtgcgca atctcgcgtc tcggaagtgt cgcgacaata tgatttgtac
+      301 tcctattgac gacacgggta ctcctcagac tcccggaccc gtatctatgg atgcatcatc
+      361 tgtttacggg ttcatctttt caccaactgc acggaccgca ggtactcaac ttgagagcgg
+      421 tgagcgggtc aatgcaccta gctcggccca gcggaggaag agcaaatgtt acgttcgggg
+      481 ttacggagaa actgtcgaaa ttcagacgga tgacgcgtcg ccatgggtat ggcgtcgtat
+      541 tgtgttcagc actattggct tggcgtctca gtttgacccc ggtcttttgt acaacaatga
+      601 cgaaacccgt ggctggggtc gcagcctgtt caatatccgg agtggtacgc agcaggcatc
+      661 cattcttgag ggcgttgttt ttaggtacct attccagggt accgagggtg tcgattgggc
+      721 caatgtcatg actgctacta cggcccctcg gcatgtcagg gtttattccg atcggcgccg
+      781 tgttattcaa tcccccaact cggagggggg tactattcga ctatcgaagc attacgatgg
+      841 tattaatcgg agcattattt acgacgatgt ggaaattgga gcgggagcga aggctacgaa
+      901 tgccattgcg agtggaactc catatgggaa tatgggagat ttgtttgttc ttgatttctt
+      961 ttcgagtgca tcggatgatg agaccagcgg agcgtctttc cagcctcatg ggaagtttta
+     1021 ttggcatgaa gggcaatctg cttagctata gaggggagtc gtgacttcta caaaaataca
+     1081 attcttgtcc atccagtcct gatccacccc ttctgtgatg ggatactcat ttgatatcca
+     1141 aatacatggt ttcccccact taattgcctt cttcttcttg tacttgtctg tagaatagaa
+     1201 gtctagctgg tttcccagcc atgacttgta ctgtgggaag aatttgagtc ctccggcgat
+     1261 gtcatcaaag acggcatact tgacatcctc aagggattcc tccagtgaga agagtccgcc
+     1321 aaaataggcg tgcttggcga gagatcttgc ccacatagtc ttgccagttc ttgagggtcc
+     1381 atagaggacc agtgactttc ccctgcctaa cacattagcc gttagggtta gggttaccct
+     1441 ttagggttag ggttagggtt agggttaggg ttagggttag ggttagggtt accctttagg
+     1501 gttagaggat tatgaaaatg tcgtggtgtg tgtgtactaa ccccttactg tggcatccca
+     1561 tccaatgtag tcctcagccc actgattgag ctcaggaaac tgcgaagtgt cgaattcata
+     1621 ctctgggtcg tgtcgatatg ggtctggatc cacacgatag tgccagtcgg catatttctc
+     1681 gagtgacggg aagctggtga gtagaagtct tgggtccaaa tcacggacag cttcgaaaaa
+     1741 ctccgctcga gtcggtgcca agacgatttg atggtgctta ttctcaactc cagcgcttgc
+     1801 atctgctgct ggtcgttcga gtcctccagc gacaacatca ccatccttga tcgcgtaatc
+     1861 ataatggact tgagggtcgc gcttagtaat tgagatgtta gggtggaaac ctccaacatc
+     1921 aaagacagca gcacgtcttg attgaaatcg tcgtccaaaa tccacaaaag cgtgcagatg
+     1981 agttccgcca tcagagtggg cttctcttcc aatgatgcat tctcctccaa ggtcaccaat
+     2041 gtgtgaaaca atagtgaatg ggtcgaggcc gccgcattga gcgtaggtga gaagcgcata
+     2101 tcgggcatag aagcgaaatg tcgacattga gggtgacaca gaaaggtagg tt
+//
+

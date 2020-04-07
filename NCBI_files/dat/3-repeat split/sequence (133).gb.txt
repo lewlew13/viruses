@@ -1,0 +1,50 @@
+GOA	RepOver	RepCov	Gene	Locus	GeneLen	Product
+NA	0	0	NA	K745_gp01	165	hypothetical protein
+NA	0	0	NA	K745_gp02	201	hypothetical protein
+NA	0	0	NA	K745_gp03	258	hypothetical protein
+NA	0	0	NA	K745_gp04	228	hypothetical protein
+NA	0	0	NA	K745_gp05	411	hypothetical protein
+NA	0	0	NA	K745_gp06	147	hypothetical protein
+NA	0	0	NA	K745_gp07	309	hypothetical protein
+NA	0	0	NA	K745_gp08	261	hypothetical protein
+NA	0	0	NA	K745_gp09	345	hypothetical protein
+NA	0	0	NA	K745_gp10	144	hypothetical protein
+NA	0	0	NA	K745_gp11	72	capsid protein VP1
+NA	1	40	NA	K745_gp12	4320	capsid protein VP1
+NA	0	0	NA	K745_gp13	723	putative ATPase
+NA	0	0	NA	K745_gp14	192	hypothetical protein
+NA	0	0	NA	K745_gp15	441	hypothetical protein
+NA	0	0	NA	K745_gp16	648	hypothetical protein
+NA	0	0	NA	K745_gp17	420	hypothetical protein
+NA	0	0	NA	K745_gp18	672	hypothetical protein
+NA	0	0	NA	K745_gp19	285	capsid protein VP12
+NA	0	0	NA	K745_gp20	558	capsid protein VP7
+NA	0	0	NA	K745_gp21	699	capsid protein VP4
+NA	0	0	NA	K745_gp22	222	hypothetical protein
+NA	0	0	NA	K745_gp23	240	capsid protein VP13
+NA	3	458	NA	K745_gp24	2364	capsid protein VP2
+NA	1	25	NA	K745_gp25	897	capsid protein VP5
+NA	0	0	NA	K745_gp26	483	capsid protein VP10
+NA	0	0	NA	K745_gp27	450	capsid protein VP9
+NA	0	0	NA	K745_gp28	1014	capsid protein VP3
+NA	0	0	NA	K745_gp29	690	capsid protein VP6
+NA	0	0	NA	K745_gp30	330	hypothetical protein
+NA	0	0	NA	K745_gp31	123	hypothetical protein
+NA	0	0	NA	K745_gp32	117	hypothetical protein
+NA	0	0	NA	K745_gp33	267	hypothetical protein
+NA	0	0	NA	K745_gp34	183	hypothetical protein
+NA	0	0	NA	K745_gp35	492	hypothetical protein
+NA	0	0	NA	K745_gp36	1200	hypothetical protein
+NA	0	0	NA	K745_gp37	360	hypothetical protein
+NA	0	0	NA	K745_gp38	1245	hypothetical protein
+NA	0	0	NA	K745_gp39	156	hypothetical protein
+NA	0	0	NA	K745_gp40	210	hypothetical protein
+NA	0	0	NA	K745_gp41	165	hypothetical protein
+NA	0	0	NA	K745_gp42	441	hypothetical protein
+NA	0	0	NA	K745_gp43	519	hypothetical protein
+NA	0	0	NA	K745_gp44	519	hypothetical protein
+NA	0	0	NA	K745_gp45	228	hypothetical protein
+NA	0	0	NA	K745_gp46	114	hypothetical protein
+NA	1	26	NA	K745_gp47	372	hypothetical protein
+NA	0	0	NA	K745_gp48	192	hypothetical protein
+NA	3	121	NA	K745_gp49	1560	putative capsid protein VP18

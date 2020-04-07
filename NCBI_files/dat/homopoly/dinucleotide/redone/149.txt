@@ -1,0 +1,12 @@
+NC_032273.1 Beihai sesarmid crab virus 3 strain SCJXSX39048 RNA-dependent RNA polymerase gene, complete cds	6858	1650	1657	AGAGAGAG	+
+NC_032273.1 Beihai sesarmid crab virus 3 strain SCJXSX39048 RNA-dependent RNA polymerase gene, complete cds	6858	2669	2674	AGAGAG	+
+NC_032273.1 Beihai sesarmid crab virus 3 strain SCJXSX39048 RNA-dependent RNA polymerase gene, complete cds	6858	3308	3313	AGAGAG	+
+NC_032273.1 Beihai sesarmid crab virus 3 strain SCJXSX39048 RNA-dependent RNA polymerase gene, complete cds	6858	3770	3775	AGAGAG	+
+NC_032273.1 Beihai sesarmid crab virus 3 strain SCJXSX39048 RNA-dependent RNA polymerase gene, complete cds	6858	4946	4951	AGAGAG	+
+NC_032273.1 Beihai sesarmid crab virus 3 strain SCJXSX39048 RNA-dependent RNA polymerase gene, complete cds	6858	44	49	ATATAT	+
+NC_032273.1 Beihai sesarmid crab virus 3 strain SCJXSX39048 RNA-dependent RNA polymerase gene, complete cds	6858	5037	5042	ATATAT	+
+NC_032273.1 Beihai sesarmid crab virus 3 strain SCJXSX39048 RNA-dependent RNA polymerase gene, complete cds	6858	1651	1656	GAGAGA	+
+NC_032273.1 Beihai sesarmid crab virus 3 strain SCJXSX39048 RNA-dependent RNA polymerase gene, complete cds	6858	1925	1930	GTGTGT	+
+NC_032273.1 Beihai sesarmid crab virus 3 strain SCJXSX39048 RNA-dependent RNA polymerase gene, complete cds	6858	1786	1791	TATATA	+
+NC_032273.1 Beihai sesarmid crab virus 3 strain SCJXSX39048 RNA-dependent RNA polymerase gene, complete cds	6858	3988	3993	TATATA	+
+NC_032273.1 Beihai sesarmid crab virus 3 strain SCJXSX39048 RNA-dependent RNA polymerase gene, complete cds	6858	2229	2234	TGTGTG	+

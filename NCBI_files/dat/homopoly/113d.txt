@@ -1,0 +1,2 @@
+NC_043287.1 Cotesia glomerata bracovirus protein tyrosine phosphatase 1 gene, complete cds	868	873	ATATAT	+
+NC_043287.1 Cotesia glomerata bracovirus protein tyrosine phosphatase 1 gene, complete cds	618	623	TCTCTC	+

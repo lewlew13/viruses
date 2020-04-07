@@ -1,0 +1,3 @@
+GOA	RepOver	RepCov	Gene	Locus	GeneLen	Product
+NA	0	0	NA	CHVgp1	1317	hypothetical protein
+NA	0	0	NA	CHVgp2	9876	polyprotein

@@ -1,0 +1,8 @@
+GOA	RepOver	RepCov	Gene	Locus	GeneLen	Product
+NA	0	0	NA	AVU57_gp1	20183	ORF1ab polyprotein
+NA	0	0	NA	AVU57_gp2	4113	spike glycoprotein
+NA	0	0	NA	AVU57_gp3	690	hypothetical protein ORF3
+NA	0	0	NA	AVU57_gp4	198	small envelope protein
+NA	0	0	NA	AVU57_gp5	684	membrane glycoprotein
+NA	0	0	NA	AVU57_gp6	1152	nucleocapsid protein
+NA	0	0	NA	AVU57_gp7	249	hypothetical protein ORF7

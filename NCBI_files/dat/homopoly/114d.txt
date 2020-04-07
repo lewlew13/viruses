@@ -1,0 +1,10 @@
+NC_034456.1 Canis familiaris polyomavirus 1 isolate R006926 CT2015, complete genome	3305	3310	ACACAC	+
+NC_034456.1 Canis familiaris polyomavirus 1 isolate R006926 CT2015, complete genome	5003	5008	ACACAC	+
+NC_034456.1 Canis familiaris polyomavirus 1 isolate R006926 CT2015, complete genome	75	80	ATATAT	+
+NC_034456.1 Canis familiaris polyomavirus 1 isolate R006926 CT2015, complete genome	3388	3393	CACACA	+
+NC_034456.1 Canis familiaris polyomavirus 1 isolate R006926 CT2015, complete genome	4734	4739	CACACA	+
+NC_034456.1 Canis familiaris polyomavirus 1 isolate R006926 CT2015, complete genome	5004	5009	CACACA	+
+NC_034456.1 Canis familiaris polyomavirus 1 isolate R006926 CT2015, complete genome	4301	4306	CTCTCT	+
+NC_034456.1 Canis familiaris polyomavirus 1 isolate R006926 CT2015, complete genome	618	623	GTGTGT	+
+NC_034456.1 Canis familiaris polyomavirus 1 isolate R006926 CT2015, complete genome	76	81	TATATA	+
+NC_034456.1 Canis familiaris polyomavirus 1 isolate R006926 CT2015, complete genome	2461	2466	TATATA	+

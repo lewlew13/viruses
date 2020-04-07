@@ -1,0 +1,69 @@
+LOCUS       NC_043287                900 bp    DNA     linear   VRL 22-AUG-2019
+DEFINITION  Cotesia glomerata bracovirus protein tyrosine phosphatase 1 gene,
+            complete cds.
+ACCESSION   NC_043287
+VERSION     NC_043287.1
+DBLINK      BioProject: PRJNA485481
+KEYWORDS    RefSeq.
+SOURCE      Cotesia glomerata bracovirus
+  ORGANISM  Cotesia glomerata bracovirus
+            Viruses; Polydnaviridae; Bracovirus.
+REFERENCE   1  (bases 1 to 900)
+  AUTHORS   Kim,Y., Ibrahim,A.M.A., Jung,S. and Kwoen,M.
+  TITLE     Differential Parasitic Capacity of Cotesia plutellae and C.
+            glomerata on Diamondback Moth, Plutella xylostella and Dichotomous
+            Taxonomic Characters
+  JOURNAL   J. Asia Pac. Entomol. 9 (3), 293-300 (2006)
+REFERENCE   2  (bases 1 to 900)
+  CONSRTM   NCBI Genome Project
+  TITLE     Direct Submission
+  JOURNAL   Submitted (22-AUG-2019) National Center for Biotechnology
+            Information, NIH, Bethesda, MD 20894, USA
+REFERENCE   3  (bases 1 to 900)
+  AUTHORS   Ibrahim,A.M.A. and Kim,Y.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (08-JUL-2006) Agricultural Biology, Andong National
+            University, 388 Seongcheon-dong, Andong, Gyeongsangbuk-do 760-749,
+            Republic of Korea
+COMMENT     PROVISIONAL REFSEQ: This record has not yet been subject to final
+            NCBI review. The reference sequence is identical to DQ839630.
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..900
+                     /organism="Cotesia glomerata bracovirus"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:257816"
+     gene            1..900
+                     /locus_tag="FK954_p1"
+                     /db_xref="GeneID:41332346"
+     CDS             1..900
+                     /locus_tag="FK954_p1"
+                     /note="CgBV-PTP1"
+                     /codon_start=1
+                     /product="protein tyrosine phosphatase 1"
+                     /protein_id="YP_009665787.1"
+                     /db_xref="GeneID:41332346"
+                     /translation="MGAKFTKKKSFVKNCEQMIEESNVAHILKQEHREILGEYVSYPC
+                     SEVFKLENWSKCRYWNTFMFDRNRVILPTEDGGSDFINANHVDGWNVKGRFLCTQAPL
+                     QETTQDFWKMIFTNQVRVIVMLTRLVEDGREACYPYWSPKKRGKMVHGKFTIKTLKIK
+                     FFRYHVVTSLRVTNDTGASLDIKHFAYNDWPSYSLPRDPSNFLDFVLSVRKAQLMADL
+                     GSDGENVPPMVVHCSAGLNRTGAFCAIDISLSQYDERATISLSSVLRNLRKQRHNCLC
+                     LPEHYVFCYLIVVIYAKLVADRL"
+ORIGIN      
+        1 atgggcgcga aattcactaa aaaaaaatcc ttcgttaaaa actgcgaaca aatgattgaa
+       61 gaatctaacg tggctcacat actgaaacaa gaacaccgtg aaatattggg agaatatgtt
+      121 tcctacccct gcagcgaagt attcaagctt gaaaactggt caaaatgccg atactggaac
+      181 acattcatgt tcgaccgcaa tcgagtaatc ctgcctacag aagacggagg aagcgacttt
+      241 attaatgcca accatgtcga cggttggaac gttaagggaa ggttcctgtg cacccaggcg
+      301 ccactccaag agacaaccca agatttctgg aagatgatat tcactaatca agtccgggta
+      361 atcgtcatgc tgaccagact agtagaagat ggacgcgaag cttgttaccc gtactggagc
+      421 cccaaaaaac ggggaaaaat ggtccatggc aagttcacca taaaaactct gaaaatcaag
+      481 ttcttccgtt accacgtggt gaccagccta cgagtaacaa atgacactgg agcttctcta
+      541 gacatcaagc attttgccta caacgactgg cccagctaca gccttcctcg agatccttca
+      601 aactttctgg actttgttct ctcggtcaga aaggctcaat taatggccga tttgggcagc
+      661 gatggtgaaa acgttcctcc tatggtggtt cactgcagcg ccggtttaaa tcgtactggg
+      721 gctttttgtg ctattgacat cagtttgtct caatacgacg aaagagcaac cattagcctt
+      781 tcatcggtac tgcgtaatct gcgtaagcaa aggcataatt gtttgtgttt gcctgaacac
+      841 tatgttttct gctacttaat cgttgtgata tatgctaagt tagttgctga taggctttaa
+//
+

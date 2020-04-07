@@ -1,0 +1,164 @@
+LOCUS       NC_007518               4375 bp    RNA     linear   VRL 13-AUG-2018
+DEFINITION  Heterocapsa circularisquama RNA virus, complete genome.
+ACCESSION   NC_007518
+VERSION     NC_007518.1
+DBLINK      BioProject: PRJNA485481
+KEYWORDS    RefSeq.
+SOURCE      Heterocapsa circularisquama RNA virus 01
+  ORGANISM  Heterocapsa circularisquama RNA virus 01
+            Viruses; Riboviria; Alvernaviridae; Dinornavirus.
+REFERENCE   1
+  AUTHORS   Nagasaki,K., Shirai,Y., Takao,Y., Mizumoto,H., Nishida,K. and
+            Tomaru,Y.
+  TITLE     Comparison of genome sequences of single-stranded RNA viruses
+            infecting the bivalve-killing dinoflagellate Heterocapsa
+            circularisquama
+  JOURNAL   Appl. Environ. Microbiol. 71 (12), 8888-8894 (2005)
+   PUBMED   16332886
+REFERENCE   2  (bases 1 to 4375)
+  CONSRTM   NCBI Genome Project
+  TITLE     Direct Submission
+  JOURNAL   Submitted (05-OCT-2005) National Center for Biotechnology
+            Information, NIH, Bethesda, MD 20894, USA
+REFERENCE   3  (bases 1 to 4375)
+  AUTHORS   Nagasaki,K., Mizumoto,H. and Shirai,Y.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (07-JUN-2005) Keizo Nagasaki, National Research Institute
+            of Fisheries and Environment of Inland Sea, Harmful Algae Control
+            Section, Harmful Algal Bloom Division; 2-17-5 Maruishi, Ohno,
+            Saeki, Hiroshima 739-0452, Japan (E-mail:nagasaki@affrc.go.jp,
+            Tel:81-829-55-0666, Fax:81-829-54-1216)
+COMMENT     PROVISIONAL REFSEQ: This record has not yet been subject to final
+            NCBI review. The reference sequence was derived from AB218608.
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..4375
+                     /organism="Heterocapsa circularisquama RNA virus 01"
+                     /mol_type="genomic RNA"
+                     /isolate="HcRNAV34"
+                     /db_xref="taxon:2030964"
+                     /note="UA-type"
+     gene            19..3018
+                     /gene="HcRNAV34 ORF-1"
+                     /locus_tag="HCRV_gp1"
+                     /db_xref="GeneID:3776073"
+     CDS             19..3018
+                     /gene="HcRNAV34 ORF-1"
+                     /locus_tag="HCRV_gp1"
+                     /codon_start=1
+                     /product="polyprotein coding for replicases including
+                     RNA-dependent RNA polymerase region"
+                     /protein_id="YP_386495.1"
+                     /db_xref="GeneID:3776073"
+                     /translation="MVFLTAAISTSLWATGTTGAVGATTYFGVKFRRRVRAWLHYRQL
+                     NLRVGHFTSKGKLFYREDADGPLYQAVLKRSKGINPRGELIDPEYDYTELSTSLMSFN
+                     ESSLVGSTPVRRIPRSLAPSHLVVLFSDDQVSGVGFRMGENLITARHVLDLTHNLWVQ
+                     GPRGRIRVEEPPVTPPVSDYEYTGADICYIPLTPGQWADLGVKSMKKNAVSLSAAGLI
+                     KLYGADEDGLYESIGPLKVDPSLTKGKGLISYVASTTPGFSGSPVLLRNAGGGESVVG
+                     MHVCGDFKGNGANHGVGASSINLILKGTGAVPDALTVSDFLGPSKLESAMYYDKQETY
+                     WDWVFDQECEREEAAREAEEAEIEHLRDLYYGETTLALAPVAPPVPSFNGPGARALRS
+                     YNESALNVPARLGELSPRVGPVESSTHLPRFLMGASTERFWSRSINDTPPAPLQRESP
+                     TLKATPELVVSMFTKIAEGDHKAFLLAIDMSYDDLLNCTKDEVMDPFSDFRQYLEHTR
+                     KLMKKNDGGRELSDQSGRTFFRETHRTTQSGGGKKRTAPVWLNEESKAFLRGLGVEGE
+                     YCRPPNDEASIIRSMENQAARQLGSRAWPSTGAMEPFLVQYLGDAAVSPPTFSPGRQG
+                     FDQLYRSFDDSSAGWTRRYRNLTKKSYVSGPHCGELTRIAVARILLRCTMWHRIPSMT
+                     PEEMVWLGLRDPTDVFVKDEPHTADKARREMWRLIWNVSLVDSICQAYFNRELNLQQN
+                     RDYQGGHPVPHTCGMGHHDEGIKRLGEAIEAAFPDGIVCSSDASGWDMSVSRDGLIFD
+                     GLVRAIRTQDPSATAYHNIGTSVCILLDKFVQSAHMICTGTSLWSVDVYGITASGLPD
+                     TTTQNSFVRGMGAKLAGCFKALTAGDDLLCDNRLRLPVLTEHGTITKGDVTTANWRKG
+                     QPVGFTSHSLVRGPDGQWSAHFENESKALHRLLLSGKTPLPEQIGGVAFAERKDEAQL
+                     GRLRAVCDSRGWPVPPQSEWAEDFDLC"
+     gene            3182..4261
+                     /gene="HcRNAV34 ORF-2"
+                     /locus_tag="HCRV_gp2"
+                     /db_xref="GeneID:3776074"
+     CDS             3182..4261
+                     /gene="HcRNAV34 ORF-2"
+                     /locus_tag="HCRV_gp2"
+                     /codon_start=1
+                     /product="major viral capsid protein"
+                     /protein_id="YP_386496.1"
+                     /db_xref="GeneID:3776074"
+                     /translation="MTRPLALTNGGNTNGGNNGGSRRRPPRQRRQGRRRNRRRGGGGG
+                     GPRNNAAMVLAQGAGSVPGMPFGSWPSRSTMRAWDAFHPEHLPLPRSVGPYCVVRTSS
+                     LITSSDKVMLFAPMVGSAGCWLTACAMGSRTEGGAINGLDNTNVYTVPFPGIATTGSS
+                     ITVVPAALSVQVMNPNPLMSTTGIFGGTVSHTQLNLAGRTETWNDFSMEVISFMRPRL
+                     MSAGKLALRGVQGDSYPLNMSALSNFNCLSDVAEGKLSWTDSSGHYPAGLAPLVFVNE
+                     AKQTMNYLVSVEWRVRFDIGNPAVAAQRHHGITPEWKWDDMIKTAIARGHGIMDIAER
+                     VANAGSFVANAAIAARRAMPALMAA"
+ORIGIN      
+        1 tcccggcctc aaggaagcat ggtcttcctt actgcagcta tttccactag cctgtgggct
+       61 actggaacca ctggcgccgt tggcgccacc acttactttg gggttaagtt tcgccgtcgt
+      121 gttcgagcct ggctccacta ccgccagctt aacctccgtg tcggacactt cacctctaag
+      181 gggaagttgt tttatcgcga ggacgcagat gggccgcttt accaggcggt tctaaagcgt
+      241 tctaaaggaa tcaaccctcg gggcgagctt attgatcctg agtacgatta cactgagttg
+      301 tcgacttcgt tgatgtcttt taacgagtcc tccttggtgg ggtcgactcc tgtgcgccgc
+      361 attccgcgtt cactcgcgcc cagtcatttg gttgtcctat tttcggatga ccaagtctcc
+      421 ggggttggct ttcgtatggg cgagaatctg attactgccc gtcatgtcct cgatcttacg
+      481 cacaaccttt gggtccaagg cccacggggt cgtattcgag ttgaagagcc acccgttact
+      541 ccccccgttt ctgattacga atatactggg gcggacattt gctatatccc tttgacgccc
+      601 ggtcaatggg ctgatttggg tgtaaagtcc atgaagaaga acgcggttag cttgtctgcc
+      661 gcgggtctta tcaagttata tggcgctgac gaagacggcc tttacgagtc tattggccct
+      721 ctgaaggttg acccttcgct cactaagggc aagggtctca tctcttacgt tgcgagcacc
+      781 acccctggtt tctccggttc gcccgtctta ttgcgtaatg ccggaggtgg cgagagcgtg
+      841 gttggcatgc acgtttgcgg tgacttcaag ggcaatgggg ctaatcacgg cgtcggggct
+      901 tcttccatta atcttatttt aaaggggact ggagctgtac ctgacgcttt gaccgtgtcc
+      961 gattttctcg gacccagtaa gcttgagtcc gccatgtatt atgataagca agagacttat
+     1021 tgggactggg tctttgacca ggagtgcgag cgcgaggaag ctgcacgtga ggctgaagag
+     1081 gctgagattg aacatctccg tgatttgtat tacggtgaaa ctacactcgc cttggcgcct
+     1141 gtcgcccctc ccgtgccgtc ttttaatggc ccgggagcgc gtgctctgcg atcgtataac
+     1201 gagagcgccc ttaatgttcc agcccgattg ggggaacttt ctccgagggt tgggccagta
+     1261 gagagctcga cgcatcttcc ccgttttcta atgggagcgt ctaccgagcg tttctggtct
+     1321 cgtagcatta acgacacccc acccgcgccc ctccagcgcg agagccctac tcttaaggcc
+     1381 actccggagc tagtcgttag tatgttcact aaaatagctg agggcgatca taaagcattc
+     1441 ctcttggcca ttgacatgtc atacgatgac ttgttgaatt gcaccaaaga cgaggtcatg
+     1501 gatcctttct ctgatttccg tcaatatttg gagcataccc ggaagctcat gaagaagaac
+     1561 gatggaggtc gtgagctttc tgaccaatcc ggtcgcacct tctttcgcga gactcatcgc
+     1621 accacccagt ccggtggtgg taagaagcgt acggctccgg tttggctcaa tgaggagtct
+     1681 aaggcctttc ttcgtggctt gggtgttgag ggagagtatt gtcgtcctcc taatgatgag
+     1741 gcgtctatta tccgctctat ggagaatcag gctgcccggc aattggggtc tagggcttgg
+     1801 ccttctactg gtgctatgga accattcctg gttcagtacc ttggtgatgc ggccgttagc
+     1861 ccacccacct tttctccggg tagacagggt tttgatcagc tatatcgttc ttttgacgat
+     1921 tcgagtgccg gatggactcg tcgttatcgg aatctgacga agaagtccta tgtgagcggc
+     1981 ccacattgtg gtgagctcac taggattgct gtggcccgta ttctccttag gtgcaccatg
+     2041 tggcaccgca tcccctcgat gacgcccgag gagatggtgt ggttgggtct tagagacccc
+     2101 acagatgttt tcgtcaaaga cgaaccccat acggccgata aggctcgtag ggagatgtgg
+     2161 cggctcattt ggaatgtctc cttggtcgat tcgatctgcc aggcttactt caatcgtgag
+     2221 cttaatcttc aacagaatcg ggactaccag ggtggccatc ctgttccgca cacttgcggt
+     2281 atgggccacc acgacgaggg catcaaacgc ctcggtgagg ccatcgaggc cgctttcccg
+     2341 gacggaattg tgtgcagcag tgatgcttcg ggctgggaca tgtccgttag tcgcgacggc
+     2401 ttaatctttg atgggcttgt tcgcgctatt aggacccagg acccttccgc tactgcgtac
+     2461 cacaatatcg gtacttctgt gtgtattctt ctggacaagt ttgtccagtc ggctcacatg
+     2521 atttgtaccg gtacttcttt gtggtccgtc gacgtctacg gaataacggc ttctggcctc
+     2581 ccggatacca ccactcagaa ttcttttgtt cgtggtatgg gggcgaagct tgccggctgt
+     2641 tttaaggccc tcacggctgg cgacgatctt ttgtgcgaca accgtcttcg cctccctgtg
+     2701 ttgacggagc atggcaccat tacgaagggt gatgttacca ctgcgaactg gcgaaagggc
+     2761 caaccagtgg gttttacatc ccattcgttg gttcgagggc ctgatggtca atggtcagcc
+     2821 catttcgaga atgaatcgaa ggcccttcac cgcctccttt tgtctggcaa gacccctctt
+     2881 cctgagcaga ttggaggagt ggctttcgcc gagcgcaaag atgaggctca gttaggtcgc
+     2941 cttcgcgcag tttgcgatag tcgtggctgg cctgttcctc cccagtctga gtgggctgag
+     3001 gattttgacc tgtgctagcc cataaagtcc tttggctggc gtcttggcag caaagtttgc
+     3061 gaggcatttt gtttcacttt agcgcggctc ttgtggccat tctagtgcag gcaatctgcc
+     3121 agattgtaat tgcttagtgc ggttaatcca acccttagtg caggcaatct gccatattat
+     3181 aatgacccgt cccctagctc ttaccaatgg cggcaatact aatggaggca ataacggcgg
+     3241 ctctcgccgc cgtcctcccc gacagcgccg ccagggcagg cgccgaaacc ggcgcagggg
+     3301 cggtgggggt ggcggccccc gtaacaatgc cgctatggtg ttggcccagg gagctgggtc
+     3361 cgtgcccggg atgccttttg gcagctggcc ttcgcgtagt acaatgcgag cctgggatgc
+     3421 ctttcaccct gagcaccttc cgctccctcg gtcagtgggg ccctattgcg tggttcgcac
+     3481 gagcagcttg attacgtcca gtgacaaggt catgttgttt gctcccatgg ttggcagcgc
+     3541 cggctgctgg ctaacggcat gtgcgatggg gtcccgcact gaaggcgggg ctattaatgg
+     3601 acttgataat accaacgtgt acaccgtacc ctttccgggg atcgcaacca ctggtagcag
+     3661 tatcacggtc gtgcctgcgg cgttgtcagt ccaggttatg aaccccaacc cacttatgtc
+     3721 caccactgga atctttggtg gcacagtttc acacacccag cttaatcttg cagggcgtac
+     3781 agagacctgg aatgatttct ctatggaggt gatttctttt atgaggccgc ggcttatgtc
+     3841 ggctgggaag cttgccctgc gcggagtcca gggagatagc taccccctta atatgtccgc
+     3901 gttgtccaac ttcaattgtc ttagcgacgt ggcagaaggc aagctttcgt ggactgattc
+     3961 cagcgggcat tacccggctg gtttggcgcc gttagtcttt gtgaacgagg caaagcaaac
+     4021 aatgaactat ctggtgtccg tcgaatggcg cgtccggttt gacatcggca accctgctgt
+     4081 tgccgcccaa cgccaccacg gcattacgcc ggagtggaag tgggatgata tgattaagac
+     4141 tgcgattgct cgcggtcacg gtattatgga tatcgctgag cgtgtcgcca acgcgggctc
+     4201 gtttgtcgca aacgctgcga ttgcggcccg cagagctatg ccagcattga tggctgctta
+     4261 atgcgttgca tggcgtcatc tatatgggtt cccaagaagt gtcggaggta aagaccaccc
+     4321 actgggatgc aagactgccg ggcgggaggg gtctcccccc ctcccgctcc ggtgc
+//
+

@@ -1,0 +1,11 @@
+NC_043432.1 Chaetoceros setoense DNA virus DNA, complete genome	3071	3076	ACACAC	+
+NC_043432.1 Chaetoceros setoense DNA virus DNA, complete genome	2244	2249	GAGAGA	+
+NC_043432.1 Chaetoceros setoense DNA virus DNA, complete genome	1584	1589	GCGCGC	+
+NC_043432.1 Chaetoceros setoense DNA virus DNA, complete genome	3990	3995	GCGCGC	+
+NC_043432.1 Chaetoceros setoense DNA virus DNA, complete genome	1286	1291	GTGTGT	+
+NC_043432.1 Chaetoceros setoense DNA virus DNA, complete genome	5820	5825	GTGTGT	+
+NC_043432.1 Chaetoceros setoense DNA virus DNA, complete genome	375	380	TATATA	+
+NC_043432.1 Chaetoceros setoense DNA virus DNA, complete genome	1324	1329	TCTCTC	+
+NC_043432.1 Chaetoceros setoense DNA virus DNA, complete genome	4205	4210	TCTCTC	+
+NC_043432.1 Chaetoceros setoense DNA virus DNA, complete genome	5740	5745	TCTCTC	+
+NC_043432.1 Chaetoceros setoense DNA virus DNA, complete genome	1741	1746	TGTGTG	+

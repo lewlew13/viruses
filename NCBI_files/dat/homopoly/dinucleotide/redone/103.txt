@@ -1,0 +1,13 @@
+MF176242.1 Culex phasma-like virus strain mos172gb37606 segment L, complete sequence	6489	109	114	AGAGAG	+
+MF176242.1 Culex phasma-like virus strain mos172gb37606 segment L, complete sequence	6489	1296	1301	AGAGAG	+
+MF176242.1 Culex phasma-like virus strain mos172gb37606 segment L, complete sequence	6489	2143	2148	ATATAT	+
+MF176242.1 Culex phasma-like virus strain mos172gb37606 segment L, complete sequence	6489	2501	2506	ATATAT	+
+MF176242.1 Culex phasma-like virus strain mos172gb37606 segment L, complete sequence	6489	5783	5788	ATATAT	+
+MF176242.1 Culex phasma-like virus strain mos172gb37606 segment L, complete sequence	6489	3048	3053	CACACA	+
+MF176242.1 Culex phasma-like virus strain mos172gb37606 segment L, complete sequence	6489	4431	4436	CACACA	+
+MF176242.1 Culex phasma-like virus strain mos172gb37606 segment L, complete sequence	6489	3887	3892	GTGTGT	+
+MF176242.1 Culex phasma-like virus strain mos172gb37606 segment L, complete sequence	6489	5140	5145	GTGTGT	+
+MF176242.1 Culex phasma-like virus strain mos172gb37606 segment L, complete sequence	6489	5782	5789	TATATATA	+
+MF176242.1 Culex phasma-like virus strain mos172gb37606 segment L, complete sequence	6489	3294	3299	TGTGTG	+
+MF176242.1 Culex phasma-like virus strain mos172gb37606 segment L, complete sequence	6489	3888	3893	TGTGTG	+
+MF176242.1 Culex phasma-like virus strain mos172gb37606 segment L, complete sequence	6489	5141	5146	TGTGTG	+

@@ -1,0 +1,5 @@
+GOA	RepOver	RepCov	Gene	Locus	GeneLen	Product
+NA	0	0	NA	D1Q01_sAgp1	381	nonstructural protein
+NA	0	0	NA	D1Q01_sAgp2	951	nonstructural protein
+NA	0	0	NA	D1Q01_sAgp3	1500	nonstructural protein
+NA	0	0	NA	D1Q01_sAgp4	3348	structural protein

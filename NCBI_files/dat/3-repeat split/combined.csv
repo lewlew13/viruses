@@ -1,0 +1,3823 @@
+GOA	RepOver	RepCov	Gene	Locus	GeneLen	Product
+NA	0	0	NA	SP38_1	207	hypothetical protein
+NA	0	0	NA	SP38_2	435	hypothetical protein
+NA	0	0	NA	SP38_3	315	hypothetical protein
+NA	0	0	NA	SP38_4	198	hypothetical protein
+NA	0	0	NA	SP38_5	183	hypothetical protein
+NA	0	0	NA	SP38_6	351	hypothetical protein
+NA	0	0	NA	SP38_7	222	hypothetical protein
+NA	0	0	NA	SP38_8	210	hypothetical protein
+NA	0	0	NA	SP38_9	378	hypothetical protein
+NA	0	0	NA	SP38_10	177	hypothetical protein
+NA	0	0	NA	SP38_11	354	hypothetical protein
+NA	0	0	NA	SP38_12	114	hypothetical protein
+NA	0	0	NA	SP38_13	192	hypothetical protein
+NA	0	0	NA	SP38_14	168	hypothetical protein
+NA	0	0	NA	SP38_15	870	hypothetical protein
+NA	0	0	NA	SP38_16	261	hypothetical protein
+NA	0	0	NA	SP38_17	351	hypothetical protein
+NA	0	0	NA	SP38_18	204	hypothetical protein
+NA	0	0	NA	SP38_19	141	hypothetical protein
+NA	0	0	NA	SP38_20	126	hypothetical protein
+NA	0	0	NA	SP38_21	639	hypothetical protein
+NA	0	0	NA	SP38_22	306	hypothetical protein
+NA	0	0	NA	SP38_23	696	hypothetical protein
+NA	0	0	NA	SP38_24	345	hypothetical protein
+NA	0	0	NA	SP38_25	1257	DNA polymerase
+NA	0	0	NA	SP38_26	426	DNA polymerase
+NA	0	0	NA	SP38_27	438	DNA polymerase
+NA	0	0	NA	SP38_28	933	DNA polymerase
+NA	0	0	NA	SP38_29	249	hypothetical protein
+NA	0	0	NA	SP38_30	369	hypothetical protein
+NA	0	0	NA	SP38_31	207	hypothetical protein
+NA	0	0	NA	SP38_32	558	hypothetical protein
+NA	0	0	NA	SP38_33	546	hypothetical protein
+NA	0	0	NA	SP38_34	459	hypothetical protein
+NA	0	0	NA	SP38_35	318	hypothetical protein
+NA	0	0	NA	SP38_36	153	hypothetical protein
+NA	0	0	NA	SP38_37	1194	hypothetical protein
+NA	0	0	NA	SP38_38	687	hypothetical protein
+NA	0	0	NA	SP38_39	156	hypothetical protein
+NA	0	0	NA	SP38_40	234	hypothetical protein
+NA	0	0	NA	SP38_41	135	tRNA-undetermined
+NA	0	0	NA	SP38_42	201	hypothetical protein
+NA	0	0	NA	SP38_43	114	hypothetical protein
+NA	0	0	NA	SP38_44	162	hypothetical protein
+NA	0	0	NA	SP38_45	255	hypothetical protein
+NA	0	0	NA	SP38_46	318	hypothetical protein
+NA	0	0	NA	SP38_47	198	hypothetical protein
+NA	0	0	NA	SP38_48	630	baseplate wedge subunit
+NA	0	0	NA	SP38_49	1101	baseplate wedge subunit
+NA	0	0	NA	SP38_50	330	hypothetical protein
+NA	0	0	NA	SP38_51	381	hypothetical protein
+NA	0	0	NA	SP38_52	1191	hypothetical protein
+NA	0	0	NA	SP38_53	738	hypothetical protein
+NA	0	0	NA	SP38_54	369	hypothetical protein
+NA	0	0	NA	SP38_55	1398	tail fibers protein
+NA	0	0	NA	SP38_56	624	hypothetical protein
+NA	0	0	NA	SP38_57	537	tail fibers protein
+NA	0	0	NA	SP38_58	486	tail fibers protein
+NA	0	0	NA	SP38_59	351	hypothetical protein
+NA	0	0	NA	SP38_60	450	tail fibers protein
+NA	0	0	NA	SP38_61	459	tailspike protein
+NA	0	0	NA	SP38_62	870	hypothetical protein
+NA	0	0	NA	SP38_63	714	hypothetical protein
+NA	0	0	NA	SP38_64	2313	tail fibers protein
+NA	0	0	NA	SP38_65	120	hypothetical protein
+NA	0	0	NA	SP38_66	2322	virulence-associated VriC protein
+NA	0	0	NA	SP38_67	1395	virulence-associated VriC protein
+NA	0	0	NA	SP38_68	834	virulence-associated VriC protein
+NA	0	0	NA	SP38_69	402	hypothetical protein
+NA	0	0	NA	SP38_70	222	hypothetical protein
+NA	0	0	NA	SP38_71	411	neck protein
+NA	0	0	NA	SP38_72	201	neck protein
+NA	0	0	NA	SP38_73	213	hypothetical protein
+NA	0	0	NA	SP38_74	546	neck protein
+NA	0	0	NA	SP38_75	384	proximal tail sheath stabilization protein
+NA	0	0	NA	SP38_76	261	proximal tail sheath stabilization protein
+NA	0	0	NA	SP38_77	471	proximal tail sheath stabilization protein
+NA	0	0	NA	SP38_78	1383	terminase large subunit
+NA	0	0	NA	SP38_79	804	terminase DNA packaging enzyme large subunit
+NA	0	0	NA	SP38_80	495	tail sheath protein
+NA	0	0	NA	SP38_81	1248	tail sheath protein
+NA	0	0	NA	SP38_82	405	hypothetical protein
+NA	0	0	NA	SP38_83	534	tail tube monomer
+NA	0	0	NA	SP38_84	462	portal vertex protein of head
+NA	0	0	NA	SP38_85	234	portal vertex protein of head
+NA	0	0	NA	SP38_86	615	portal vertex
+NA	0	0	NA	SP38_87	375	portal vertex of the head
+NA	0	0	NA	SP38_88	171	hypothetical protein
+NA	0	0	NA	SP38_89	318	hypothetical protein
+NA	0	0	NA	SP38_90	420	prohead core and protease
+NA	0	0	NA	SP38_91	219	prohead core scaffold and protease
+NA	1	34	NA	SP38_92	774	prohead assembly protein
+NA	0	0	NA	SP38_93	174	major head protein
+NA	0	0	NA	SP38_94	1125	major head protein
+NA	0	0	NA	SP38_95	237	hypothetical protein
+NA	0	0	NA	SP38_96	219	hypothetical protein
+NA	0	0	NA	SP38_97	195	hypothetical protein
+NA	0	0	NA	SP38_98	231	hypothetical protein
+NA	0	0	NA	SP38_99	216	hypothetical protein
+NA	0	0	NA	SP38_100	126	hypothetical protein
+NA	0	0	NA	SP38_101	375	hypothetical protein
+NA	0	0	NA	SP38_102	255	hypothetical protein
+NA	0	0	NA	SP38_103	255	hypothetical protein
+NA	0	0	NA	SP38_104	171	hypothetical protein
+NA	0	0	NA	SP38_105	318	hypothetical protein
+NA	0	0	NA	SP38_106	1428	hypothetical protein
+NA	0	0	NA	SP38_107	609	hypothetical protein
+NA	0	0	NA	SP38_108	498	tail completion protein
+NA	0	0	NA	SP38_109	456	putative DNA repair/recombination protein
+NA	0	0	NA	SP38_110	783	hypothetical protein
+NA	0	0	NA	SP38_111	144	hypothetical protein
+NA	0	0	NA	SP38_112	357	RNA-DNA and DNA-DNA helicase
+NA	0	0	NA	SP38_113	738	DNA helicase
+NA	0	0	NA	SP38_114	162	RNA-DNA and DNA-DNA helicase
+NA	0	0	NA	SP38_115	366	hypothetical protein
+NA	0	0	NA	SP38_116	576	sliding clamp DNA polymerase accessory protein
+NA	0	0	NA	SP38_117	990	replication factor C small subunit
+NA	0	0	NA	SP38_118	360	DNA polymerase clamp loader subunit
+NA	0	0	NA	SP38_119	465	endoribonulcease translational repressor of early genes
+NA	0	0	NA	SP38_120	828	hypothetical protein
+NA	0	0	NA	SP38_121	1224	hypothetical protein
+NA	0	0	NA	SP38_122	1902	hypothetical protein
+NA	0	0	NA	SP38_123	135	hypothetical protein
+NA	0	0	NA	SP38_124	372	hypothetical protein
+NA	0	0	NA	SP38_125	252	hypothetical protein
+NA	0	0	NA	SP38_126	873	hypothetical protein
+NA	0	0	NA	SP38_127	2175	hypothetical protein
+NA	0	0	NA	SP38_128	327	hypothetical protein
+NA	0	0	NA	SP38_129	240	hypothetical protein
+NA	0	0	NA	SP38_130	279	hypothetical protein
+NA	0	0	NA	SP38_131	450	hypothetical protein
+NA	0	0	NA	SP38_132	489	hypothetical protein
+NA	0	0	NA	SP38_133	222	hypothetical protein
+NA	0	0	NA	SP38_134	321	hypothetical protein
+NA	0	0	NA	SP38_135	432	hypothetical protein
+NA	0	0	NA	SP38_136	210	hypothetical protein
+NA	0	0	NA	SP38_137	672	hypothetical protein
+NA	0	0	NA	SP38_138	192	hypothetical protein
+NA	0	0	NA	SP38_139	141	hypothetical protein
+NA	0	0	NA	SP38_140	321	superinfection exclusion protein
+NA	0	0	NA	SP38_141	792	hypothetical protein
+NA	0	0	NA	SP38_142	279	DNA-binding protein HU-beta
+NA	0	0	NA	SP38_143	177	DNA helicase
+NA	0	0	NA	SP38_144	1524	DNA helicase
+NA	0	0	NA	SP38_145	768	hypothetical protein
+NA	0	0	NA	SP38_146	360	putative ribonuclease HI
+NA	0	0	NA	SP38_147	792	sigma factor involved in late transcription
+NA	0	0	NA	SP38_148	1011	recombination-related endonuclease
+NA	0	0	NA	SP38_149	243	recombination-related endonuclease
+NA	0	0	NA	SP38_150	669	recombination-related endonuclease
+NA	0	0	NA	SP38_151	1134	recombination-related endonuclease
+NA	0	0	NA	SP38_152	309	hypothetical protein
+NA	0	0	NA	SP38_153	330	hypothetical protein
+NA	0	0	NA	SP38_154	285	hypothetical protein
+NA	0	0	NA	SP38_155	618	hypothetical protein
+NA	0	0	NA	SP38_156	327	hypothetical protein
+NA	0	0	NA	SP38_157	174	hypothetical protein
+NA	0	0	NA	SP38_158	246	hypothetical protein
+NA	0	0	NA	SP38_159	204	hypothetical protein
+NA	0	0	NA	SP38_160	1401	hypothetical protein
+NA	0	0	NA	SP38_161	771	hypothetical protein
+NA	0	0	NA	SP38_162	570	hypothetical protein
+NA	0	0	NA	SP38_163	243	hypothetical protein
+NA	0	0	NA	SP38_164	354	hypothetical protein
+NA	0	0	NA	SP38_165	453	hypothetical protein
+NA	0	0	NA	SP38_166	810	DNA primase
+NA	0	0	NA	SP38_167	183	DNA primase
+NA	0	0	NA	SP38_168	207	hypothetical protein
+NA	0	0	NA	SP38_169	489	hypothetical protein
+NA	0	0	NA	SP38_170	189	hypothetical protein
+NA	0	0	NA	SP38_171	276	hypothetical protein
+NA	0	0	NA	SP38_172	792	putative-encoded peptidoglycan binding protein
+NA	0	0	NA	SP38_173	840	phosphate starvation-inducible protein PhoH
+NA	0	0	NA	SP38_174	750	ribonucleotide reductase of class Ia (aerobic) alpha subunit
+NA	0	0	NA	SP38_175	1464	ribonucleotide reductase of class Ia (aerobic) alpha subunit
+NA	0	0	NA	SP38_176	714	ribonucleotide reductase of class Ia (aerobic) alpha subunit
+NA	0	0	NA	SP38_177	354	ribonucleotide reductase of class Ia (aerobic) beta subunit
+NA	0	0	NA	SP38_178	240	putative glutaredoxin
+NA	0	0	NA	SP38_179	126	hypothetical protein
+NA	0	0	NA	SP38_180	195	hypothetical protein
+NA	0	0	NA	SP38_181	132	hypothetical protein
+NA	0	0	NA	SP38_182	225	hypothetical protein
+NA	0	0	NA	SP38_183	339	hypothetical protein
+NA	0	0	NA	SP38_184	309	putative baseplate wedge subunit
+NA	0	0	NA	SP38_185	1626	cell wall-associated hydrolase
+NA	0	0	NA	SP38_186	741	baseplate hub subunit
+NA	0	0	NA	SP38_187	402	hypothetical protein
+NA	0	0	NA	SP38_188	420	hypothetical protein
+NA	0	0	NA	SP38_189	252	hypothetical protein
+NA	0	0	NA	SP38_190	126	hypothetical protein
+NA	0	0	NA	SP38_191	243	late promoter transcription accessory protein
+NA	0	0	NA	SP38_192	240	hypothetical protein
+NA	0	0	NA	SP38_193	1032	single stranded DNA-binding protein
+NA	0	0	NA	SP38_194	120	hypothetical protein
+NA	0	0	NA	SP38_195	765	tail tube monomer
+NA	0	0	NA	SP38_196	705	hypothetical protein
+NA	0	0	NA	SP38_197	747	hypothetical protein
+NA	0	0	NA	SP38_198	288	hypothetical protein
+NA	0	0	NA	SP38_199	960	hypothetical protein
+NA	0	0	NA	SP38_200	570	hypothetical protein
+NA	0	0	NA	SP38_201	114	hypothetical protein
+NA	0	0	NA	SP38_202	180	hypothetical protein
+NA	0	0	NA	SP38_203	1011	thymidylate synthase
+NA	0	0	NA	SP38_204	318	hypothetical protein
+NA	0	0	NA	SP38_205	288	hypothetical protein
+NA	0	0	NA	SP38_206	531	putative dUTP diphosphatase
+NA	0	0	NA	SP38_207	531	hypothetical protein
+NA	0	0	NA	SP38_208	768	recombination protein
+NA	0	0	NA	SP38_209	342	recombination protein
+NA	0	0	NA	SP38_210	369	hypothetical protein
+NA	0	0	NA	SP38_211	1425	DNA primase
+NA	0	0	NA	SP38_212	333	hypothetical protein
+NA	0	0	NA	SP38_213	303	hypothetical protein
+NA	0	0	NA	SP38_214	1095	hypothetical protein
+NA	0	0	NA	SP38_215	132	hypothetical protein
+NA	0	0	NA	SP38_216	141	hypothetical protein
+NA	0	0	NA	SP38_217	210	hypothetical protein
+NA	0	0	NA	SP38_218	339	DNA ligase
+NA	0	0	NA	SP38_219	834	DNA ligase
+NA	0	0	NA	SP38_220	366	hypothetical protein
+NA	0	0	NA	SP38_221	264	hypothetical protein
+NA	0	0	NA	SP38_222	165	hypothetical protein
+NA	0	0	NA	SP38_223	504	DNA helicase loader
+NA	0	0	NA	SP38_224	1941	hypothetical protein
+NA	0	0	NA	SP38_225	1389	hypothetical protein
+NA	0	0	NA	SP38_226	264	baseplate wedge component
+NA	0	0	NA	SP38_227	906	putative tail tube associated base plate protein
+NA	0	0	NA	SP38_228	621	head completion protein
+NA	0	0	NA	SP38_229	408	membrane-flanked domain
+NA	0	0	NA	SP38_230	522	dCMP deaminase
+NA	0	0	NA	SP38_231	318	hypothetical protein
+NA	0	0	NA	SP38_232	132	hypothetical protein
+NA	0	0	NA	SP38_233	372	hypothetical protein
+NA	0	0	NA	SP38_234	561	putative serine/threonine protein phosphatase
+NA	0	0	NA	SP38_235	342	hypothetical protein
+NA	0	0	NA	SP38_236	663	hypothetical protein
+NA	0	0	NA	SP38_237	291	hypothetical protein
+NA	0	0	NA	SP38_238	633	exonuclease A
+NA	0	0	NA	SP38_239	345	hypothetical protein
+NA	0	0	NA	SP38_240	408	hypothetical protein
+NA	0	0	NA	SP38_241	165	hypothetical protein
+NA	0	0	NA	SP38_242	225	hypothetical protein
+NA	0	0	NA	SP38_243	414	hypothetical protein
+NA	0	0	NA	SP38_244	210	hypothetical protein
+NA	0	0	NA	SP38_245	279	hypothetical protein
+NA	0	0	NA	SP38_246	237	DNA topoisomerase
+NA	0	0	NA	SP38_247	1113	DNA topoisomerase
+NA	0	0	NA	SP38_248	399	hypothetical protein
+NA	0	0	NA	SP38_249	1731	DNA topoisomerase
+NA	0	0	NA	SP38_250	579	hypothetical protein
+NA	0	0	NA	SP38_251	357	hypothetical protein
+NA	0	0	NA	SP38_252	276	putative histone-like protein
+NA	0	0	NA	SP38_253	219	hypothetical protein
+NA	0	0	NA	SP38_254	192	putative tail protein
+NA	0	0	NA	SP38_255	171	tail fiber
+NA	0	0	NA	SP38_256	282	tail fiber
+NA	0	0	NA	SP38_257	180	hypothetical protein
+NA	0	0	NA	SP38_258	471	hypothetical protein
+NA	0	0	NA	SP38_259	444	rIIB lysis inhibitor
+NA	0	0	NA	SP38_260	873	RIIB protein
+NA	0	0	NA	SP38_261	2637	rIIA lysis inhibitor
+NA	0	0	NA	SP38_262	135	hypothetical protein
+NA	0	0	NA	SP38_263	120	hypothetical protein
+NA	0	0	NA	SP38_264	267	hypothetical protein
+NA	0	0	NA	SP38_265	114	hypothetical protein
+NA	0	0	ORF81b	ABV_gp01	246	hypothetical protein
+NA	0	0	ORF110	ABV_gp02	333	hypothetical protein
+NA	0	0	ORF99b	ABV_gp03	300	hypothetical protein
+NA	0	0	ORF243	ABV_gp04	732	hypothetical protein
+NA	0	0	ORF653	ABV_gp05	1962	putative protein-primed DNA polymerase
+NA	0	0	ORF462(in)	ABV_gp06	1389	hypothetical protein
+NA	0	0	ORF163	ABV_gp07	492	hypothetical protein
+NA	0	0	ORF247	ABV_gp08	744	hypothetical protein
+NA	0	0	ORF53ab	ABV_gp09	162	hypothetical protein
+NA	0	0	ORF156	ABV_gp10	471	putative thymidylate kinase
+NA	0	0	ORF91b	ABV_gp11	276	hypothetical protein
+NA	0	0	ORF105	ABV_gp12	318	hypothetical protein
+NA	0	0	ORF56	ABV_gp13	171	hypothetical protein
+NA	0	0	ORF76	ABV_gp14	231	hypothetical protein
+NA	0	0	ORF150b	ABV_gp15	453	hypothetical protein
+NA	0	0	ORF61c	ABV_gp16	186	hypothetical protein
+NA	0	0	ORF107b	ABV_gp17	324	hypothetical protein
+NA	0	0	ORF99a	ABV_gp18	300	hypothetical protein
+NA	0	0	ORF315	ABV_gp19	948	putative glycosyl transferase
+NA	0	0	ORF63	ABV_gp20	192	hypothetical protein
+NA	0	0	ORF53b	ABV_gp21	162	hypothetical protein
+NA	0	0	ORF61b	ABV_gp22	186	hypothetical protein
+NA	0	0	ORF61a	ABV_gp23	186	hypothetical protein
+NA	0	0	ORF257	ABV_gp24	774	hypothetical protein
+NA	0	0	ORF9(in)	ABV_gp25	288	hypothetical protein
+NA	0	0	ORF170	ABV_gp26	513	hypothetical protein
+NA	0	0	ORF92	ABV_gp27	279	hypothetical protein
+NA	0	0	ORF116	ABV_gp28	351	hypothetical protein
+NA	0	0	ORF103	ABV_gp29	312	hypothetical protein
+NA	0	0	ORF71(in)	ABV_gp30	216	hypothetical protein
+NA	0	0	ORF87	ABV_gp31	264	hypothetical protein
+NA	0	0	ORF86	ABV_gp32	261	hypothetical protein
+NA	0	0	ORF59	ABV_gp33	180	hypothetical protein
+NA	0	0	ORF72	ABV_gp34	219	hypothetical protein
+NA	0	0	ORF167	ABV_gp35	504	hypothetical protein
+NA	0	0	ORF174	ABV_gp36	525	hypothetical protein
+NA	0	0	ORF85	ABV_gp37	258	hypothetical protein
+NA	0	0	ORF91a	ABV_gp38	276	hypothetical protein
+NA	0	0	ORF188	ABV_gp39	567	hypothetical protein
+NA	0	0	ORF54	ABV_gp40	165	hypothetical protein
+NA	0	0	ORF37	ABV_gp41	114	hypothetical protein
+NA	0	0	ORF48	ABV_gp42	147	hypothetical protein
+NA	0	0	ORF112	ABV_gp43	339	hypothetical protein
+NA	0	0	ORF166	ABV_gp44	501	hypothetical protein
+NA	2	179	ORF346	ABV_gp45	1041	hypothetical protein
+NA	2	102	ORF470	ABV_gp46	1413	hypothetical protein
+NA	0	0	ORF48b	ABV_gp47	147	hypothetical protein
+NA	0	0	ORF88	ABV_gp48	267	hypothetical protein
+NA	0	0	ORF57	ABV_gp49	174	hypothetical protein
+NA	0	0	ORF150	ABV_gp50	453	hypothetical protein
+NA	0	0	ORF158	ABV_gp51	477	hypothetical protein
+NA	0	0	ORF83	ABV_gp52	252	hypothetical protein
+NA	0	0	ORF62	ABV_gp53	189	hypothetical protein
+NA	0	0	OR117	ABV_gp54	354	hypothetical protein
+NA	0	0	ORF107	ABV_gp55	324	hypothetical protein
+NA	0	0	ORF133	ABV_gp56	402	hypothetical protein
+NA	0	0	ORF81a	ABV_gp57	246	hypothetical protein
+NA	0	0	NA	FLA09_gp1	1833	non-structural protein
+NA	0	0	NA	FLA09_gp2	390	putative middle protein
+NA	0	0	NA	D1S42_sLgp1	6822	RNA-dependent RNA polymerase
+NA	0	0	RdRp	FK947_p101	3774	RNA-dependent RNA polymerase
+NA	0	0	NA	BVA91_sLgp1	6771	RNA-dependent RNA polymerase
+NA	0	0	NA	D1T36_sBgp1	1773	hypothetical protein
+NA	0	0	NA	KW73_gp1	6624	polyprotein
+NA	0	0	NA	L2_01	11965	envelope protein
+NA	0	0	NA	L2_02	1776	hypothetical protein
+NA	0	0	NA	L2_03	246	hypothetical protein
+NA	0	0	NA	L2_04	939	hypothetical protein
+NA	0	0	NA	L2_05	486	hypothetical protein
+NA	0	0	NA	L2_06	870	integrase
+NA	0	0	NA	L2_07	246	hypothetical protein
+NA	0	0	NA	L2_08	378	hypothetical protein
+NA	0	0	NA	L2_09	195	hypothetical protein
+NA	0	0	NA	L2_10	237	hypothetical protein
+NA	0	0	NA	L2_11	423	hypothetical protein
+NA	0	0	NA	L2_12	657	hypothetical protein
+NA	0	0	NA	L2_13	474	hypothetical protein
+NA	0	0	NA	L2_14	2217	envelope protein
+NA	0	0	NA	HHPV-1_gp1	2352	unkown
+NA	0	0	NA	HHPV-1_gp2	360	unkown
+NA	0	0	NA	HHPV-1_gp3	402	VP3
+NA	0	0	NA	HHPV-1_gp4	1605	VP4 precursor
+NA	0	0	NA	HHPV-1_gp5	552	unkown
+NA	0	0	NA	HHPV-1_gp6	849	unkown
+NA	0	0	NA	HHPV-1_gp7	993	unkown
+NA	0	0	NA	HHPV-1_gp8	624	unkown
+NA	0	0	NA	TTMV8_gp1	300	ORF2
+NA	0	0	NA	TTMV8_gp2	2028	ORF1
+NA	0	0	NS1	D1P01_gp01	411	nonstructural protein 1
+NA	0	0	NS2	D1P01_gp02	375	nonstructural protein 2
+NA	0	0	N	D1P01_gp03	1176	nucleocapsid protein
+NA	0	0	P	D1P01_gp04	726	phosphoprotein
+NA	0	0	M	D1P01_gp05	771	matrix protein
+NA	0	0	SH	D1P01_gp06	246	small hydrophobic protein
+NA	0	0	G	D1P01_gp07	774	attachment glycoprotein
+NA	0	0	F	D1P01_gp08	1725	fusion protein
+NA	0	0	M2	D1P01_gp09	561	M2-1 protein
+NA	0	0	M2	D1P01_gp09	273	M2-2 protein
+NA	0	0	L	D1P01_gp10	6489	RNA-dependent RNA polymerase major subunit
+NA	0	0	NA	FDJ28_gp01	132	hypothetical protein
+NA	0	0	NA	FDJ28_gp02	1893	portal protein
+NA	0	0	NA	FDJ28_gp03	246	hypothetical protein
+NA	0	0	NA	FDJ28_gp04	990	scaffold protein
+NA	0	0	NA	FDJ28_gp05	948	capsid protein
+NA	0	0	NA	FDJ28_gp06	321	hypothetical protein
+NA	0	0	NA	FDJ28_gp07	633	hypothetical protein
+NA	0	0	NA	FDJ28_gp08	201	hypothetical protein
+NA	0	0	NA	FDJ28_gp09	249	hypothetical protein
+NA	0	0	NA	FDJ28_gp10	651	tail fiber protein
+NA	0	0	NA	FDJ28_gp11	1551	hypothetical protein
+NA	0	0	NA	FDJ28_gp12	699	hypothetical protein
+NA	0	0	NA	FDJ28_gp13	435	hypothetical protein
+NA	0	0	NA	FDJ28_gp14	912	hypothetical protein
+NA	0	0	NA	FDJ28_gp15	411	hypothetical protein
+NA	0	0	NA	FDJ28_gp16	1650	hypothetical protein
+NA	0	0	NA	FDJ28_gp17	3201	hypothetical protein
+NA	0	0	NA	FDJ28_gp18	873	hypothetical protein
+NA	0	0	NA	FDJ28_gp19	363	hypothetical protein
+NA	0	0	NA	FDJ28_gp20	210	hypothetical protein
+NA	0	0	NA	FDJ28_gp21	228	hypothetical protein
+NA	0	0	NA	FDJ28_gp22	768	hypothetical protein
+NA	0	0	NA	FDJ28_gp23	438	endonuclease
+NA	0	0	NA	FDJ28_gp24	1455	hypothetical protein
+NA	0	0	NA	FDJ28_gp25	891	exonuclease
+NA	0	0	NA	FDJ28_gp26	159	hypothetical protein
+NA	0	0	NA	FDJ28_gp27	237	hypothetical protein
+NA	0	0	NA	FDJ28_gp28	276	hypothetical protein
+NA	0	0	NA	FDJ28_gp29	342	hypothetical protein
+NA	0	0	NA	FDJ28_gp30	357	hypothetical protein
+NA	0	0	NA	FDJ28_gp31	618	hypothetical protein
+NA	0	0	NA	FDJ28_gp32	1602	DNA polymerase
+NA	0	0	NA	FDJ28_gp33	468	hypothetical protein
+NA	0	0	NA	FDJ28_gp34	132	hypothetical protein
+NA	0	0	NA	FDJ28_gp35	174	hypothetical protein
+NA	0	0	NA	FDJ28_gp36	168	hypothetical protein
+NA	0	0	NA	FDJ28_gp37	183	hypothetical protein
+NA	0	0	NA	FDJ28_gp38	315	hypothetical protein
+NA	0	0	NA	FDJ28_gp39	216	hypothetical protein
+NA	0	0	NA	FDJ28_gp40	267	hypothetical protein
+NA	0	0	NA	FDJ28_gp41	513	DNA polymerase
+NA	0	0	NA	FDJ28_gp42	1695	DNA primase/helicase
+NA	0	0	NA	FDJ28_gp43	237	hypothetical protein
+NA	0	0	NA	FDJ28_gp44	396	hypothetical protein
+NA	0	0	NA	FDJ28_gp45	810	hypothetical protein
+NA	0	0	NA	FDJ28_gp46	222	hypothetical protein
+NA	0	0	NA	FDJ28_gp47	1761	glutamine amidotransferase
+NA	0	0	NA	FDJ28_gp48	1761	hypothetical protein
+NA	0	0	NA	FDJ28_gp49	600	hypothetical protein
+NA	0	0	NA	FDJ28_gp50	792	hypothetical protein
+NA	0	0	NA	FDJ28_gp51	1380	hypothetical protein
+NA	0	0	NA	FDJ28_gp52	501	hypothetical protein
+NA	0	0	NA	FDJ28_gp53	231	hypothetical protein
+NA	0	0	NA	FDJ28_gp54	198	hypothetical protein
+NA	0	0	NA	FDJ28_gp55	273	hypothetical protein
+NA	0	0	NA	FDJ28_gp56	219	hypothetical protein
+NA	0	0	NA	FDJ28_gp57	243	hypothetical protein
+NA	0	0	NA	FDJ28_gp58	372	hypothetical protein
+NA	0	0	NA	FDJ28_gp59	147	hypothetical protein
+NA	0	0	NA	FDJ28_gp60	219	hypothetical protein
+NA	0	0	NA	FDJ28_gp61	300	hypothetical protein
+NA	0	0	NA	FDJ28_gp62	198	hypothetical protein
+NA	0	0	NA	FDJ28_gp63	114	hypothetical protein
+NA	0	0	NA	FDJ28_gp64	582	hypothetical protein
+NA	0	0	NA	FDJ28_gp65	339	hypothetical protein
+NA	0	0	NA	FDJ28_gp66	453	hypothetical protein
+NA	0	0	NA	FDJ28_gp67	426	lysozyme
+NA	0	0	NA	FDJ28_gp68	489	hypothetical protein
+NA	0	0	NA	FDJ28_gp69	1452	terminase
+NA	0	0	NA	FK954_p1	900	protein tyrosine phosphatase 1
+NA	0	0	NA	CAU93_gp1	147	agno
+NA	0	0	NA	CAU93_gp2	1023	VP2
+NA	0	0	NA	CAU93_gp3	675	VP3
+NA	0	0	NA	CAU93_gp4	1077	VP1
+NA	1	46	NA	CAU93_gp5	2459	large T protein
+NA	0	0	NA	CAU93_gp6	513	small t protein
+NA	0	0	NA	DT302_gp01	516	hypothetical protein
+NA	0	0	NA	DT302_gp02	705	putative DNA-binding protein
+NA	0	0	NA	DT302_gp03	198	hypothetical protein
+NA	0	0	NA	DT302_gp04	333	hypothetical protein
+NA	0	0	NA	DT302_gp05	120	hypothetical protein
+NA	0	0	NA	DT302_gp06	252	hypothetical protein
+NA	0	0	NA	DT302_gp07	123	putative DNA-binding protein
+NA	0	0	NA	DT302_gp08	324	hypothetical protein
+NA	0	0	NA	DT302_gp09	192	hypothetical protein
+NA	0	0	NA	DT302_gp10	111	hypothetical protein
+NA	0	0	NA	DT302_gp11	396	hypothetical protein
+NA	0	0	NA	DT302_gp12	174	hypothetical protein
+NA	0	0	NA	DT302_gp13	195	hypothetical protein
+NA	0	0	NA	DT302_gp14	189	hypothetical protein
+NA	0	0	NA	DT302_gp15	198	putative DNA-binding protein
+NA	0	0	NA	DT302_gp16	291	putative DNA-binding protein
+NA	0	0	NA	DT302_gp17	339	hypothetical protein
+NA	0	0	NA	DT302_gp18	189	hypothetical protein
+NA	0	0	NA	DT302_gp19	627	hypothetical protein
+NA	0	0	NA	DT302_gp20	105	hypothetical protein
+NA	0	0	NA	DT302_gp21	255	hypothetical protein
+NA	0	0	NA	DT302_gp22	444	putative DNA-binding protein
+NA	0	0	NA	DT302_gp23	348	putative transcriptional regulator
+NA	0	0	NA	DT302_gp24	132	hypothetical protein
+NA	0	0	NA	DT302_gp25	1203	structural protein VP8
+NA	0	0	NA	DT302_gp26	1074	structural protein VP9
+NA	0	0	NA	DT302_gp27	564	hypothetical protein
+NA	0	0	NA	DT302_gp28	195	hypothetical protein
+NA	0	0	NA	DT302_gp29	933	putative glycosyl transferase
+NA	0	0	NA	DT302_gp30	312	hypothetical protein
+NA	4	180	NA	DT302_gp31	213	hypothetical protein
+NA	1	27	NA	DT302_gp32	507	putative methyltransferase
+NA	0	0	NA	DT302_gp33	228	hypothetical protein
+NA	0	0	NA	DT302_gp34	255	hypothetical protein
+NA	0	0	NA	DT302_gp35	336	structural protein VP2
+NA	0	0	NA	DT302_gp36	219	hypothetical protein
+NA	0	0	NA	DT302_gp37	210	hypothetical protein
+NA	0	0	NA	DT302_gp38	825	hypothetical protein
+NA	0	0	NA	DT302_gp39	339	hypothetical protein
+NA	1	37	NA	DT302_gp40	1014	structural protein VP7
+NA	0	0	NA	DT302_gp41	918	structural protein VP6
+NA	0	0	NA	DT302_gp42	915	structural protein VP5
+NA	0	0	NA	DT302_gp43	546	structural protein VP4
+NA	0	0	NA	DT302_gp44	360	structural protein VP3
+NA	0	0	NA	DT302_gp45	237	structural protein VP1
+NA	0	0	NA	FK901_gp1	1431	polyprotein
+NA	0	0	NA	CO48_sLgp1	351	Z protein
+NA	0	0	NA	CO48_sLgp2	6198	L polymerase
+NA	0	0	NA	BWU43_s1gp1	5448	RNA-dependent RNA polymerase
+NA	0	0	NA	RnQV1s1_gp1	4809	hypothetical protein
+NA	0	0	NA	FDV_s2gp1	3582	hypothetical protein
+GOA:Q85615	0	0	NA	FK996_gp1	314	hypothetical protein
+NA	0	0	NA	CA787_gp1	1260	nucleoprotein
+NA	0	0	NA	CA787_gp2	348	hypothetical protein
+NA	0	0	NA	CA787_gp3	756	phosphoprotein
+NA	0	0	NA	CA787_gp4	579	matrix
+NA	0	0	NA	CA787_gp5	1530	glycoprotein
+NA	0	0	NA	CA787_gp6	300	hypothetical protein
+NA	0	0	NA	CA787_gp7	6297	polymerase
+NA	1	42	NA	FLA42_gp1	20066	replicase polyprotein 1ab
+NA	0	0	NA	FLA42_gp2	12219	replicase polyprotein 1a
+NA	0	0	NA	FLA42_gp4	441	nucleocapsid protein
+NA	0	0	NA	FLA42_gp3	5001	structural glycoprotein
+NA	0	0	NA	SIRV2gp01	252	hypothetical protein
+NA	0	0	NA	SIRV2gp02	360	hypothetical protein
+NA	0	0	NA	SIRV2gp03	312	hypothetical protein
+NA	0	0	NA	SIRV2gp04	273	hypothetical protein
+NA	0	0	NA	SIRV2gp05	330	hypothetical protein
+NA	1	47	NA	SIRV2gp06	351	hypothetical protein
+NA	0	0	NA	SIRV2gp07	396	hypothetical protein
+NA	0	0	NA	SIRV2gp08	312	hypothetical protein
+NA	0	0	NA	SIRV2gp09	336	hypothetical protein
+NA	0	0	NA	SIRV2gp10	318	hypothetical protein
+NA	0	0	NA	SIRV2gp11	189	hypothetical protein
+NA	0	0	NA	SIRV2gp12	309	hypothetical protein
+NA	0	0	NA	SIRV2gp13	933	hypothetical protein
+GOA:Q8V9Q4	0	0	NA	SIRV2gp14	1200	hypothetical protein
+GOA:Q8V9Q3	0	0	NA	SIRV2gp15	171	hypothetical protein
+NA	0	0	NA	SIRV2gp16	360	hypothetical protein
+NA	0	0	NA	SIRV2gp17	396	hypothetical protein
+NA	0	0	NA	SIRV2gp18	1311	hypothetical protein
+NA	0	0	NA	SIRV2gp19	624	hypothetical protein
+NA	0	0	NA	SIRV2gp20	255	hypothetical protein
+GOA:Q8V9P7	0	0	NA	SIRV2gp21	180	hypothetical protein
+NA	0	0	NA	SIRV2gp22	276	hypothetical protein
+GOA:Q8V9P5	0	0	dut	SIRV2gp23	477	hypothetical protein
+NA	0	0	NA	SIRV2gp24	312	hypothetical protein
+NA	0	0	NA	SIRV2gp25	231	hypothetical protein
+NA	0	0	NA	SIRV2gp26	405	hypothetical protein
+GOA:Q8V9P1	0	0	NA	SIRV2gp27	168	hypothetical protein
+GOA:Q8V9P0	0	0	NA	SIRV2gp28	1008	hypothetical protein
+NA	0	0	NA	SIRV2gp29	471	hypothetical protein
+NA	0	0	NA	SIRV2gp30	195	hypothetical protein
+NA	0	0	NA	SIRV2gp31	255	hypothetical protein
+NA	0	0	NA	SIRV2gp32	333	hypothetical protein
+NA	0	0	NA	SIRV2gp33	1467	hypothetical protein
+NA	0	0	NA	SIRV2gp34	465	hypothetical protein
+GOA:Q98VP8	0	0	NA	SIRV2gp35	366	hypothetical protein
+NA	0	0	NA	SIRV2gp36	210	hypothetical protein
+NA	0	0	NA	SIRV2gp37	345	hypothetical protein
+NA	0	0	NA	SIRV2gp38	3213	hypothetical protein
+NA	0	0	NA	SIRV2gp39	1704	hypothetical protein
+NA	0	0	NA	SIRV2gp40	930	hypothetical protein
+NA	0	0	NA	SIRV2gp41	477	hypothetical protein
+NA	0	0	NA	SIRV2gp42	810	hypothetical protein
+NA	1	39	NA	SIRV2gp43	531	hypothetical protein
+GOA:Q8V9M5	0	0	NA	SIRV2gp44	1071	hypothetical protein
+NA	0	0	NA	SIRV2gp45	285	hypothetical protein
+NA	0	0	NA	SIRV2gp46	288	hypothetical protein
+NA	0	0	NA	SIRV2gp47	339	hypothetical protein
+NA	0	0	NA	SIRV2gp48	750	hypothetical protein
+NA	0	0	NA	SIRV2gp49	297	hypothetical protein
+NA	0	0	NA	SIRV2gp50	222	hypothetical protein
+NA	0	0	NA	SIRV2gp51	327	hypothetical protein
+NA	0	0	NA	SIRV2gp52	318	hypothetical protein
+NA	0	0	NA	SIRV2gp53	360	hypothetical protein
+NA	0	0	NA	SIRV2gp54	252	hypothetical protein
+NA	0	0	NA	FK823_gp1	229	RNA-dependent RNA polymerase
+NA	0	0	1	SEA_ZIRINKA_1	465	terminase small subunit
+NA	0	0	2	SEA_ZIRINKA_2	1725	terminase large subunit
+NA	0	0	3	SEA_ZIRINKA_3	162	hypothetical protein
+NA	0	0	4	SEA_ZIRINKA_4	1419	portal protein
+NA	0	0	5	SEA_ZIRINKA_5	912	capsid maturation protease
+NA	0	0	6	SEA_ZIRINKA_6	1650	major capsid protein
+NA	0	0	7	SEA_ZIRINKA_7	348	head-to-tail connector protein
+NA	0	0	8	SEA_ZIRINKA_8	546	head-to-tail connector protein
+NA	0	0	9	SEA_ZIRINKA_9	369	head-to-tail connector protein
+NA	0	0	10	SEA_ZIRINKA_10	330	hypothetical protein
+NA	0	0	11	SEA_ZIRINKA_11	441	head-to-tail connector protein
+NA	0	0	12	SEA_ZIRINKA_12	513	major tail protein
+NA	0	0	13	SEA_ZIRINKA_13	174	hypothetical protein
+NA	1	43	15	SEA_ZIRINKA_15	905	tail assembly chaperone
+NA	1	43	14	SEA_ZIRINKA_14	648	tail assembly chaperone
+NA	0	0	16	SEA_ZIRINKA_16	318	hypothetical protein
+NA	0	0	17	SEA_ZIRINKA_17	6441	tape measure protein
+NA	0	0	18	SEA_ZIRINKA_18	828	minor tail protein
+NA	0	0	19	SEA_ZIRINKA_19	1599	minor tail protein
+NA	0	0	20	SEA_ZIRINKA_20	705	lysin A, L-Ala-D-Glu peptidase domain
+NA	0	0	21	SEA_ZIRINKA_21	912	lysin A, peptidase domain
+NA	0	0	22	SEA_ZIRINKA_22	357	membrane protein
+NA	0	0	23	SEA_ZIRINKA_23	483	membrane protein
+NA	0	0	24	SEA_ZIRINKA_24	414	membrane protein
+NA	0	0	25	SEA_ZIRINKA_25	618	lysin B
+NA	0	0	26	SEA_ZIRINKA_26	1506	minor tail protein
+NA	0	0	27	SEA_ZIRINKA_27	384	hypothetical protein
+NA	0	0	28	SEA_ZIRINKA_28	2262	minor tail protein
+NA	0	0	29	SEA_ZIRINKA_29	597	hypothetical protein
+NA	0	0	30	SEA_ZIRINKA_30	135	hypothetical protein
+NA	0	0	31	SEA_ZIRINKA_31	252	hypothetical protein
+NA	0	0	32	SEA_ZIRINKA_32	327	hypothetical protein
+NA	0	0	33	SEA_ZIRINKA_33	354	hypothetical protein
+NA	0	0	34	SEA_ZIRINKA_34	237	toxin
+NA	0	0	35	SEA_ZIRINKA_35	507	hypothetical protein
+NA	0	0	36	SEA_ZIRINKA_36	1083	integrase
+NA	0	0	37	SEA_ZIRINKA_37	315	hypothetical protein
+NA	0	0	38	SEA_ZIRINKA_38	315	hypothetical protein
+NA	0	0	39	SEA_ZIRINKA_39	222	hypothetical protein
+NA	0	0	40	SEA_ZIRINKA_40	417	hypothetical protein
+NA	0	0	41	SEA_ZIRINKA_41	906	immunity repressor
+NA	0	0	42	SEA_ZIRINKA_42	252	HTH DNA binding domain protein
+NA	0	0	43	SEA_ZIRINKA_43	159	hypothetical protein
+NA	0	0	44	SEA_ZIRINKA_44	429	hypothetical protein
+NA	0	0	45	SEA_ZIRINKA_45	837	antirepressor
+NA	0	0	46	SEA_ZIRINKA_46	228	hypothetical protein
+NA	0	0	47	SEA_ZIRINKA_47	291	hypothetical protein
+NA	0	0	48	SEA_ZIRINKA_48	204	hypothetical protein
+NA	0	0	49	SEA_ZIRINKA_49	342	hypothetical protein
+NA	0	0	50	SEA_ZIRINKA_50	852	hypothetical protein
+NA	0	0	51	SEA_ZIRINKA_51	363	hypothetical protein
+NA	0	0	52	SEA_ZIRINKA_52	309	hypothetical protein
+NA	0	0	53	SEA_ZIRINKA_53	876	exonuclease
+NA	0	0	54	SEA_ZIRINKA_54	1149	ssDNA binding protein
+NA	0	0	55	SEA_ZIRINKA_55	450	hypothetical protein
+NA	0	0	56	SEA_ZIRINKA_56	171	hypothetical protein
+NA	0	0	57	SEA_ZIRINKA_57	201	hypothetical protein
+NA	0	0	58	SEA_ZIRINKA_58	351	ASC-1 superfamily protein
+NA	0	0	59	SEA_ZIRINKA_59	141	hypothetical protein
+NA	0	0	60	SEA_ZIRINKA_60	1581	DNA methylase
+NA	0	0	61	SEA_ZIRINKA_61	345	hypothetical protein
+NA	0	0	62	SEA_ZIRINKA_62	288	hypothetical protein
+NA	0	0	63	SEA_ZIRINKA_63	168	hypothetical protein
+NA	0	0	64	SEA_ZIRINKA_64	960	hypothetical protein
+NA	0	0	65	SEA_ZIRINKA_65	210	hypothetical protein
+NA	2	69	66	SEA_ZIRINKA_66	1077	hypothetical protein
+NA	0	0	67	SEA_ZIRINKA_67	495	hypothetical protein
+NA	0	0	68	SEA_ZIRINKA_68	255	hypothetical protein
+NA	0	0	69	SEA_ZIRINKA_69	366	resolvase
+NA	0	0	70	SEA_ZIRINKA_70	513	hypothetical protein
+NA	0	0	71	SEA_ZIRINKA_71	297	hypothetical protein
+NA	0	0	72	SEA_ZIRINKA_72	243	hypothetical protein
+NA	0	0	73	SEA_ZIRINKA_73	666	hypothetical protein
+NA	0	0	74	SEA_ZIRINKA_74	327	HTH DNA binding domain protein
+NA	0	0	75	SEA_ZIRINKA_75	327	hypothetical protein
+NA	0	0	76	SEA_ZIRINKA_76	333	hypothetical protein
+NA	0	0	77	SEA_ZIRINKA_77	126	hypothetical protein
+NA	0	0	78	SEA_ZIRINKA_78	309	hypothetical protein
+NA	0	0	79	SEA_ZIRINKA_79	333	HNH endonuclease
+NA	0	0	NA	BZK30_gp01	6147	polyprotein
+NA	0	0	NA	BZK30_gp02	660	nsp2TF protein
+NA	0	0	NA	BZK30_gp03	4395	polyprotein
+NA	0	0	NA	BZK30_gp04	699	minor glycoprotein
+NA	0	0	NA	BZK30_gp05	663	minor glycoprotein
+NA	0	0	NA	BZK30_gp06	585	minor glycoprotein
+NA	0	0	NA	BZK30_gp07	243	E protein
+NA	0	0	NA	BZK30_gp08	618	minor glycoprotein
+NA	0	0	NA	BZK30_gp09	600	minor glycoprotein
+NA	0	0	NA	BZK30_gp10	522	minor glycoprotein
+NA	0	0	NA	BZK30_gp11	207	hypothetical protein
+NA	0	0	NA	BZK30_gp12	741	large glycoprotein
+NA	0	0	NA	BZK30_gp13	486	non-glycosylated envelope protein
+NA	0	0	NA	BZK30_gp14	360	capsid protein
+NA	0	0	NA	KW76_gp1	1101	Cap protein
+NA	0	0	NA	KW76_gp2	819	Rep protein
+NA	0	0	NA	K745_gp01	165	hypothetical protein
+NA	0	0	NA	K745_gp02	201	hypothetical protein
+NA	0	0	NA	K745_gp03	258	hypothetical protein
+NA	0	0	NA	K745_gp04	228	hypothetical protein
+NA	0	0	NA	K745_gp05	411	hypothetical protein
+NA	0	0	NA	K745_gp06	147	hypothetical protein
+NA	0	0	NA	K745_gp07	309	hypothetical protein
+NA	0	0	NA	K745_gp08	261	hypothetical protein
+NA	0	0	NA	K745_gp09	345	hypothetical protein
+NA	0	0	NA	K745_gp10	144	hypothetical protein
+NA	0	0	NA	K745_gp11	72	capsid protein VP1
+NA	1	40	NA	K745_gp12	4320	capsid protein VP1
+NA	0	0	NA	K745_gp13	723	putative ATPase
+NA	0	0	NA	K745_gp14	192	hypothetical protein
+NA	0	0	NA	K745_gp15	441	hypothetical protein
+NA	0	0	NA	K745_gp16	648	hypothetical protein
+NA	0	0	NA	K745_gp17	420	hypothetical protein
+NA	0	0	NA	K745_gp18	672	hypothetical protein
+NA	0	0	NA	K745_gp19	285	capsid protein VP12
+NA	0	0	NA	K745_gp20	558	capsid protein VP7
+NA	0	0	NA	K745_gp21	699	capsid protein VP4
+NA	0	0	NA	K745_gp22	222	hypothetical protein
+NA	0	0	NA	K745_gp23	240	capsid protein VP13
+NA	3	458	NA	K745_gp24	2364	capsid protein VP2
+NA	1	25	NA	K745_gp25	897	capsid protein VP5
+NA	0	0	NA	K745_gp26	483	capsid protein VP10
+NA	0	0	NA	K745_gp27	450	capsid protein VP9
+NA	0	0	NA	K745_gp28	1014	capsid protein VP3
+NA	0	0	NA	K745_gp29	690	capsid protein VP6
+NA	0	0	NA	K745_gp30	330	hypothetical protein
+NA	0	0	NA	K745_gp31	123	hypothetical protein
+NA	0	0	NA	K745_gp32	117	hypothetical protein
+NA	0	0	NA	K745_gp33	267	hypothetical protein
+NA	0	0	NA	K745_gp34	183	hypothetical protein
+NA	0	0	NA	K745_gp35	492	hypothetical protein
+NA	0	0	NA	K745_gp36	1200	hypothetical protein
+NA	0	0	NA	K745_gp37	360	hypothetical protein
+NA	0	0	NA	K745_gp38	1245	hypothetical protein
+NA	0	0	NA	K745_gp39	156	hypothetical protein
+NA	0	0	NA	K745_gp40	210	hypothetical protein
+NA	0	0	NA	K745_gp41	165	hypothetical protein
+NA	0	0	NA	K745_gp42	441	hypothetical protein
+NA	0	0	NA	K745_gp43	519	hypothetical protein
+NA	0	0	NA	K745_gp44	519	hypothetical protein
+NA	0	0	NA	K745_gp45	228	hypothetical protein
+NA	0	0	NA	K745_gp46	114	hypothetical protein
+NA	1	26	NA	K745_gp47	372	hypothetical protein
+NA	0	0	NA	K745_gp48	192	hypothetical protein
+NA	3	121	NA	K745_gp49	1560	putative capsid protein VP18
+NA	0	0	1-57	FK997_gp01	174	hypothetical protein
+NA	0	0	2-78	FK997_gp02	237	hypothetical protein
+NA	0	0	3-208	FK997_gp03	627	hypothetical protein
+NA	0	0	4-78	FK997_gp04	237	hypothetical protein
+NA	0	0	5-178	FK997_gp05	537	hypothetical protein
+NA	0	0	6-144	FK997_gp06	435	hypothetical protein
+NA	0	0	7-100	FK997_gp07	303	hypothetical protein
+NA	0	0	8-43	FK997_gp08	132	hypothetical protein
+NA	0	0	9-303	FK997_gp09	912	hypothetical protein
+NA	0	0	10-261	FK997_gp10	786	hypothetical protein
+NA	0	0	11-407	FK997_gp11	1224	hypothetical protein
+NA	0	0	12-154	FK997_gp12	465	hypothetical thioredoxin
+NA	0	0	13-124	FK997_gp13	375	hypothetical thioredoxin
+NA	0	0	14-47	FK997_gp14	144	hypothetical protein
+NA	0	0	15-40	FK997_gp15	123	hypothetical protein
+NA	0	0	16-72	FK997_gp16	219	hypothetical zinc ribbon protein
+NA	0	0	17-89	FK997_gp17	270	hypothetical protein
+NA	0	0	18-67	FK997_gp18	204	hypothetical protein
+GOA:J7Q7I8	0	0	19-334	FK997_gp19	1005	putative glycosyltransferase
+NA	0	0	20-52	FK997_gp20	159	hypothetical protein
+NA	0	0	21-227	FK997_gp21	684	hypothetical protein
+NA	0	0	22-102	FK997_gp22	309	hypothetical protein
+NA	0	0	23-85	FK997_gp23	258	hypothetical protein
+NA	0	0	24-54	FK997_gp24	165	hypothetical protein
+GOA:J7Q326	0	0	25-326	FK997_gp25	981	putative serine protease
+NA	0	0	26-143	FK997_gp26	432	hypothetical protein
+NA	0	0	27-58	FK997_gp27	177	hypothetical protein
+NA	0	0	28-37	FK997_gp28	114	hypothetical protein
+GOA:J7Q7J3	0	0	29-347	FK997_gp29	1044	hypothetical putative RHH DNA-binding protein
+NA	0	0	30-86	FK997_gp30	261	hypothetical protein
+NA	0	0	31-69	FK997_gp31	210	hypothetical protein
+NA	0	0	32-62	FK997_gp32	189	hypothetical protein
+GOA:J7QDG6	0	0	33-403	FK997_gp33	1212	hypothetical recombinase
+NA	0	0	34-73	FK997_gp34	222	hypothetical protein
+GOA:J7Q328	0	0	35-134	FK997_gp35	405	hypothetical RHH DNA-binding protein
+NA	0	0	36-43	FK997_gp36	132	hypothetical protein
+NA	0	0	37-93	FK997_gp37	282	hypothetical protein
+GOA:J7QDG9	0	0	38-318	FK997_gp38	957	putative glycosyltransferase
+GOA:J7Q7J8	0	0	39-390	FK997_gp39	1173	putative carbohydrate modification (GMD)
+NA	0	0	40-219	FK997_gp40	660	hypothetical protein
+NA	0	0	41-199	FK997_gp41	600	hypothetical protein
+NA	0	0	42-221	FK997_gp42	666	hypothetical protein
+GOA:J7QDH1	0	0	43-80	FK997_gp43	243	hypothetical wHTH DNA-binding protein
+NA	0	0	44-65	FK997_gp44	198	hypothetical protein
+NA	0	0	45-90	FK997_gp45	273	hypothetical protein
+NA	0	0	46-91	FK997_gp46	276	hypothetical protein
+NA	0	0	47-86	FK997_gp47	261	hypothetical protein
+NA	0	0	48-41	FK997_gp48	126	hypothetical protein
+NA	0	0	49-111	FK997_gp49	336	hypothetical protein
+NA	0	0	50-51	FK997_gp50	156	hypothetical protein
+NA	0	0	51-45	FK997_gp51	138	hypothetical protein
+NA	0	0	52-134	FK997_gp52	405	hypothetical protein
+GOA:J7QDH6	0	0	53-94	FK997_gp53	285	hypothetical RHH DNA-binding protein
+GOA:J7Q7K8	0	0	54-119	FK997_gp54	360	hypothetical wHTH DNA-binding protein
+GOA:J7Q332	0	0	55-80	FK997_gp55	243	hypothetical wHTH DNA-binding protein
+NA	0	0	56-66	FK997_gp56	201	hypothetical protein
+NA	0	0	57-73	FK997_gp57	222	hypothetical protein
+NA	0	0	NA	NZ82_gp1	1344	nucleocapsid
+NA	0	0	NA	NZ82_gp2	1677	putative phosphoprotein
+NA	0	0	NA	NZ82_gp3	1086	matrix
+NA	2	67	NA	NZ82_gp4	1824	fusion
+NA	0	0	NA	NZ82_gp5	2031	putative attachment protein
+NA	0	0	NA	NZ82_gp6	6597	Large
+NA	0	0	XIII	PR4_gp01	780	terminal protein
+NA	0	0	I	PR4_gp02	1662	DNA polymerase
+NA	0	0	XV	PR4_gp03	450	muramidase
+NA	0	0	II	PR4_gp04	1791	receptor binding
+NA	0	0	XXXI	PR4_gp05	381	penton
+NA	0	0	V	PR4_gp06	1023	spike
+NA	0	0	XVII	PR4_gp07	261	assembly
+NA	0	0	XXXIII	PR4_gp08	207	assembly
+NA	0	0	VI	PR4_gp09	501	minor capsid protein
+NA	0	0	X	PR4_gp10	612	assembly
+NA	0	0	IX	PR4_gp11	684	DNA packaging ATPase
+NA	0	0	ORFi	PR4_gp12	129	hypothetical protein
+NA	0	0	XX	PR4_gp13	129	DNA packaging
+NA	0	0	III	PR4_gp14	1188	major capsid protein
+NA	0	0	XXII	PR4_gp15	144	DNA packaging
+NA	0	0	ORFx	PR4_gp16	84	hypothetical protein
+NA	0	0	ORFl	PR4_gp17	123	hypothetical protein
+NA	0	0	XVIII	PR4_gp18	273	DNA delivery
+NA	0	0	XXXII	PR4_gp19	165	DNA delivery
+NA	0	0	XXXIV	PR4_gp20	207	P34
+NA	0	0	XXX	PR4_gp21	255	minor capsid protein
+NA	0	0	ORFq	PR4_gp22	111	hypothetical protein
+NA	0	0	XI	PR4_gp23	624	DNA delivery
+NA	0	0	XVI	PR4_gp24	354	hypothetical protein
+NA	0	0	VII	PR4_gp25	810	transclycosylase
+NA	0	0	XIV	PR4_gp26	465	DNA delivery
+NA	0	0	XXXV	PR4_gp27	354	holin
+NA	0	0	ORFu	PR4_gp28	363	hypothetical protein
+NA	0	0	ORFv	PR4_gp29	273	hypothetical protein
+NA	0	0	XIX	PR4_gp30	285	ssDNA binding protein
+NA	0	0	XII	PR4_gp31	480	ssDNA binding protein
+NA	0	0	NA	FK974_gp1	5802	non structural polyprotein
+NA	0	0	NA	FK974_gp2	3732	structural polyprotein
+NA	0	0	NA	D1T48_gp01	198	hypothetical protein
+NA	0	0	NA	D1T48_gp02	384	hypothetical protein
+NA	0	0	NA	D1T48_gp03	174	hypothetical protein
+NA	0	0	NA	D1T48_gp04	192	hypothetical protein
+NA	0	0	NA	D1T48_gp05	246	hypothetical protein
+NA	0	0	NA	D1T48_gp06	222	hypothetical protein
+GOA:P19270	0	0	NA	D1T48_gp07	342	hypothetical protein
+NA	0	0	NA	D1T48_gp08	267	hypothetical protein
+NA	0	0	NA	D1T48_gp09	177	hypothetical protein
+NA	0	0	NA	D1T48_gp10	171	hypothetical protein
+NA	0	0	NA	D1T48_gp11	213	hypothetical protein
+NA	0	0	NA	D1T48_gp12	252	hypothetical protein
+NA	0	0	NA	D1T48_gp13	300	hypothetical protein
+NA	0	0	NA	D1T48_gp14	405	hypothetical protein
+NA	2	77	NA	D1T48_gp15	426	hypothetical protein
+NA	0	0	NA	D1T48_gp16	192	hypothetical protein
+NA	0	0	NA	D1T48_gp17	168	hypothetical protein
+NA	0	0	NA	D1T48_gp18	432	hypothetical protein
+GOA:P19271	0	0	NA	D1T48_gp19	420	hypothetical protein
+NA	0	0	NA	D1T48_gp20	441	hypothetical protein
+GOA:P19272	0	0	NA	D1T48_gp21	483	hypothetical protein
+NA	0	0	NA	D1T48_gp22	153	hypothetical protein
+NA	0	0	NA	D1T48_gp23	273	hypothetical protein
+NA	0	0	NA	D1T48_gp24	699	hypothetical protein
+GOA:P19297	0	0	NA	D1T48_gp25	1059	hypothetical protein
+NA	0	0	NA	D1T48_gp26	216	hypothetical protein
+NA	0	0	NA	D1T48_gp27	156	hypothetical protein
+NA	0	0	NA	D1T48_gp28	549	hypothetical protein
+NA	0	0	NA	D1T48_gp29	192	hypothetical protein
+NA	0	0	NA	D1T48_gp30	204	hypothetical protein
+NA	0	0	NA	D1T48_gp31	231	hypothetical protein
+NA	0	0	NA	D1T48_gp32	1017	hypothetical protein
+NA	0	0	NA	D1T48_gp33	162	hypothetical protein
+NA	4	331	NA	D1T48_gp34	1083	hypothetical protein
+NA	0	0	NA	D1T48_gp35	159	hypothetical protein
+NA	0	0	NA	D1T48_gp36	321	hypothetical protein
+GOA:P19273	0	0	NA	D1T48_gp37	663	hypothetical protein
+NA	0	0	NA	B109	334	hypothetical protein
+NA	0	0	NA	C67	204	hypothetical protein
+NA	0	0	NA	B130	393	hypothetical protein
+NA	0	0	NA	A55	168	hypothetical protein
+NA	0	0	NA	A510	1533	hypothetical protein
+NA	0	0	NA	C63	192	hypothetical protein
+NA	0	0	NA	C92	279	hypothetical protein
+NA	0	0	NA	A61	186	hypothetical protein
+NA	0	0	NA	A197	594	hypothetical protein
+NA	0	0	NA	A223	672	hypothetical protein
+NA	0	0	NA	C381	1146	hypothetical protein
+NA	0	0	NA	D66	201	hypothetical protein
+NA	0	0	NA	F75	228	hypothetical protein
+NA	0	0	NA	B106	321	hypothetical protein
+NA	0	0	NA	B116	351	hypothetical protein
+NA	1	39	NA	A53	162	hypothetical protein
+NA	0	0	NA	C118	357	hypothetical protein
+NA	0	0	NA	A66	201	hypothetical protein
+NA	0	0	NA	C57	174	hypothetical protein
+NA	0	0	NA	A106	321	hypothetical protein
+NA	0	0	NA	A137	414	hypothetical protein
+NA	0	0	NA	B97	294	hypothetical protein
+NA	0	0	NA	A58	177	hypothetical protein
+NA	0	0	NA	B66b	201	hypothetical protein
+NA	0	0	NA	F93	282	hypothetical protein
+NA	0	0	NA	B66a	201	hypothetical protein
+NA	0	0	NA	C121	366	hypothetical protein
+NA	0	0	NA	A81	246	hypothetical protein
+NA	5	355	NA	B124	375	hypothetical protein
+NA	0	0	NA	A77	234	hypothetical protein
+NA	0	0	NA	B264	795	hypothetical protein
+NA	0	0	NA	A109	330	hypothetical protein
+NA	0	0	NA	B164	495	hypothetical protein
+NA	0	0	NA	B345	1038	coat protein
+NA	1	282	NA	C557	1674	hypothetical protein
+NA	0	0	NA	A51	156	hypothetical protein
+NA	0	0	NA	KYMVgp1	2262	Overlapping protein/movement protein
+NA	0	0	NA	KYMVgp2	5625	replicase
+NA	0	0	NA	KYMVgp3	567	coat protein
+NA	0	0	NA	TVCVgp1	4806	RNA replicase read-through component
+NA	0	0	NA	TVCVgp2	3324	RNA replicase component
+NA	0	0	NA	TVCVgp3	804	movement protein
+NA	0	0	NA	TVCVgp4	474	coat protein
+NA	0	0	L	FLA40_sLgp1	11109	RNA-dependent RNA polymerase
+NA	0	0	NA	BVB46_s1gp1	6456	RNA-dependent RNA polymerase
+NA	0	0	NA	HVAV3e_gp001	3261	DNA polymerase
+NA	0	0	NA	HVAV3e_gp002	780	hypothetical protein
+NA	0	0	NA	HVAV3e_gp003	615	hypothetical protein
+NA	0	0	NA	HVAV3e_gp004	711	hypothetical protein
+NA	0	0	NA	HVAV3e_gp005	774	hypothetical protein
+NA	0	0	NA	HVAV3e_gp006	564	hypothetical protein
+NA	0	0	NA	HVAV3e_gp007	1434	hypothetical protein
+NA	0	0	NA	HVAV3e_gp008	1305	hypothetical protein
+NA	0	0	NA	HVAV3e_gp009	198	hypothetical protein
+NA	0	0	NA	HVAV3e_gp010	264	hypothetical protein
+NA	0	0	NA	HVAV3e_gp011	2580	DNA-directed RNA polymerase
+NA	0	0	NA	HVAV3e_gp012	663	hypothetical protein
+NA	0	0	NA	HVAV3e_gp013	876	Bro1
+NA	0	0	NA	HVAV3e_gp014	297	hypothetical protein
+NA	0	0	NA	HVAV3e_gp015	2835	DEAD-like helicase
+NA	0	0	NA	HVAV3e_gp179	402	hypothetical protein
+NA	0	0	NA	HVAV3e_gp016	1131	hypothetical protein
+NA	0	0	NA	HVAV3e_gp017	894	hypothetical protein
+NA	0	0	NA	HVAV3e_gp018	1968	esterase-lipase
+NA	0	0	NA	HVAV3e_gp019	1425	zinc-dependent metalloprotease
+NA	0	0	NA	HVAV3e_gp020	162	hypothetical protein
+NA	0	0	NA	HVAV3e_gp021	1941	hypothetical protein
+NA	0	0	NA	HVAV3e_gp022	342	iap-like protein
+NA	0	0	NA	HVAV3e_gp023	687	hypothetical protein
+NA	0	0	NA	HVAV3e_gp024	591	hypothetical protein
+NA	0	0	NA	HVAV3e_gp025	2331	hypothetical protein
+NA	0	0	NA	HVAV3e_gp026	2187	RNaseIII
+NA	0	0	NA	HVAV3e_gp027	741	iap-like protein
+NA	0	0	NA	HVAV3e_gp028	405	hypothetical protein
+NA	0	0	NA	HVAV3e_gp029	2280	hypothetical protein
+NA	0	0	NA	HVAV3e_gp030	1068	hypothetical protein
+NA	0	0	NA	HVAV3e_gp031	297	hypothetical protein
+NA	0	0	NA	HVAV3e_gp032	1176	hypothetical protein
+NA	0	0	NA	HVAV3e_gp033	978	hypothetical protein
+NA	0	0	NA	HVAV3e_gp034	360	hypothetical protein
+NA	0	0	NA	HVAV3e_gp035	270	hypothetical protein
+NA	0	0	NA	HVAV3e_gp036	423	hypothetical protein
+NA	0	0	NA	HVAV3e_gp037	1827	hr1
+NA	0	0	NA	HVAV3e_gp038	579	hypothetical protein
+NA	0	0	NA	HVAV3e_gp039	1059	Bro2
+NA	0	0	NA	HVAV3e_gp040	1041	Bro3
+NA	0	0	NA	HVAV3e_gp041	714	Bro4
+NA	0	0	NA	HVAV3e_gp042	1065	Bro5
+NA	0	0	NA	HVAV3e_gp043	462	Bro6
+NA	0	0	NA	HVAV3e_gp044	792	hypothetical protein
+NA	0	0	NA	HVAV3e_gp045	702	hypothetical protein
+NA	0	0	NA	HVAV3e_gp046	306	hypothetical protein
+NA	0	0	NA	HVAV3e_gp047	243	hypothetical protein
+NA	0	0	NA	HVAV3e_gp048	429	hypothetical protein
+NA	0	0	NA	HVAV3e_gp049	336	hypothetical protein
+NA	0	0	NA	HVAV3e_gp050	816	iap-like protein
+NA	0	0	NA	HVAV3e_gp051	1461	hypothetical protein
+NA	0	0	NA	HVAV3e_gp052	570	hypothetical protein
+NA	0	0	NA	HVAV3e_gp053	261	hypothetical protein
+NA	0	0	NA	HVAV3e_gp054	654	thymidine kinase
+NA	0	0	NA	HVAV3e_gp055	1368	major capsid protein
+NA	0	0	NA	HVAV3e_gp056	720	hypothetical protein
+NA	0	0	NA	HVAV3e_gp057	678	hypothetical protein
+NA	0	0	NA	HVAV3e_gp058	729	hypothetical protein
+NA	1	46	NA	HVAV3e_gp059	4164	DNA metabolism protein
+NA	1	233	NA	HVAV3e_gp060	1794	hypothetical protein
+NA	0	0	NA	HVAV3e_gp061	519	putative nucleic acid-binding protein
+NA	0	0	NA	HVAV3e_gp062	693	iap-like protein
+NA	0	0	NA	HVAV3e_gp063	3468	DNA-directed RNA polymerase II
+NA	0	0	NA	HVAV3e_gp064	525	hypothetical protein
+NA	0	0	NA	HVAV3e_gp065	906	hypothetical protein
+NA	0	0	NA	HVAV3e_gp066	252	hypothetical protein
+NA	0	0	NA	HVAV3e_gp067	1281	hypothetical protein
+NA	0	0	NA	HVAV3e_gp068	762	hypothetical protein
+NA	0	0	NA	HVAV3e_gp069	1116	hypothetical protein
+NA	0	0	NA	HVAV3e_gp070	1200	DNA repair exonuclease
+NA	0	0	NA	HVAV3e_gp071	237	hypothetical protein
+NA	0	0	NA	HVAV3e_gp072	255	hypothetical protein
+NA	0	0	NA	HVAV3e_gp073	627	hypothetical protein
+NA	0	0	NA	HVAV3e_gp074	468	phenylalanyl-tRNA synthetase alpha subunit
+NA	0	0	NA	HVAV3e_gp075	525	hypothetical protein
+NA	0	0	NA	HVAV3e_gp076	2439	serine/threonine protein kinase
+NA	0	0	NA	HVAV3e_gp077	1203	hypothetical protein
+NA	0	0	NA	HVAV3e_gp078	252	hypothetical protein
+NA	0	0	NA	HVAV3e_gp079	993	nuclease-VHS inhibit celluar gene expression
+NA	0	0	NA	HVAV3e_gp080	378	hypothetical protein
+NA	0	0	NA	HVAV3e_gp081	1350	DNA-directed RNA polymerase b subunit
+NA	0	0	NA	HVAV3e_gp082	915	hypothetical protein
+NA	0	0	NA	HVAV3e_gp083	1827	hr2
+NA	0	0	NA	HVAV3e_gp084	984	hypothetical protein
+NA	0	0	NA	HVAV3e_gp085	459	glycosyl transferase
+NA	0	0	NA	HVAV3e_gp086	702	ABC-type transport system permease
+NA	0	0	NA	HVAV3e_gp087	168	hypothetical protein
+NA	1	113	NA	HVAV3e_gp088	777	iap-like protein
+NA	0	0	NA	HVAV3e_gp089	1053	Bro7
+NA	0	0	NA	HVAV3e_gp090	237	Bro8
+NA	0	0	NA	HVAV3e_gp091	1566	Bro9
+NA	0	0	NA	HVAV3e_gp092	375	Bro10
+NA	0	0	NA	HVAV3e_gp093	369	nicotinate-nucleotide pyrophosphorylase
+NA	0	0	NA	HVAV3e_gp094	546	NAD-glutamate dehydrogenase
+NA	0	0	NA	HVAV3e_gp095	393	hypothetical protein
+NA	0	0	NA	HVAV3e_gp096	213	hypothetical protein
+NA	0	0	NA	HVAV3e_gp097	471	Bro11
+NA	0	0	NA	HVAV3e_gp098	207	hypothetical protein
+NA	0	0	NA	HVAV3e_gp180	402	hypothetical protein
+NA	0	0	NA	HVAV3e_gp099	693	hypothetical protein
+NA	0	0	NA	HVAV3e_gp100	492	hypothetical protein
+NA	0	0	NA	HVAV3e_gp101	1236	cathepsinB
+NA	0	0	NA	HVAV3e_gp102	582	hypothetical protein
+NA	0	0	NA	HVAV3e_gp103	552	hypothetical protein
+NA	0	0	NA	HVAV3e_gp104	1038	acetyltransferase
+NA	0	0	NA	HVAV3e_gp105	246	lectin-like protein
+NA	0	0	NA	HVAV3e_gp106	1803	hypothetical protein
+NA	0	0	NA	HVAV3e_gp107	1071	ATPase
+NA	0	0	NA	HVAV3e_gp108	570	hypothetical protein
+NA	0	0	NA	HVAV3e_gp109	507	hypothetical protein
+NA	0	0	NA	HVAV3e_gp110	795	hypothetical protein
+NA	0	0	NA	HVAV3e_gp111	477	Bro12
+NA	0	0	NA	HVAV3e_gp112	564	hypothetical protein
+NA	0	0	NA	HVAV3e_gp113	639	hypothetical protein
+NA	0	0	NA	HVAV3e_gp114	516	Bro13
+NA	0	0	NA	HVAV3e_gp115	1971	AV-like serine/threonine protein kinase
+NA	0	0	NA	HVAV3e_gp116	2658	ATPase
+NA	0	0	NA	HVAV3e_gp117	3159	ATPase
+NA	0	0	NA	HVAV3e_gp118	492	hypothetical protein
+NA	0	0	NA	HVAV3e_gp119	807	hypothetical protein
+NA	0	0	NA	HVAV3e_gp120	1527	helicase
+NA	0	0	NA	HVAV3e_gp121	807	Bro14
+NA	0	0	NA	HVAV3e_gp122	1827	hr3
+NA	0	0	NA	HVAV3e_gp123	336	Bro15
+NA	0	0	NA	HVAV3e_gp124	231	Bro16
+NA	0	0	NA	HVAV3e_gp125	924	hypothetical protein
+NA	0	0	NA	HVAV3e_gp126	927	patatin-like phospholipase
+NA	0	0	NA	HVAV3e_gp127	660	hypothetical protein
+NA	0	0	NA	HVAV3e_gp128	378	hypothetical protein
+NA	0	0	NA	HVAV3e_gp129	2958	lipopolysaccharide-modifying enzyme
+NA	0	0	NA	HVAV3e_gp130	483	hemolysin-like protein
+NA	0	0	NA	HVAV3e_gp131	465	hypothetical protein
+NA	0	0	NA	HVAV3e_gp132	834	putative S1/P1 nuclease
+NA	0	0	NA	HVAV3e_gp133	639	hypothetical protein
+NA	0	0	NA	HVAV3e_gp134	429	hypothetical protein
+NA	0	0	NA	HVAV3e_gp135	582	hypothetical protein
+NA	0	0	NA	HVAV3e_gp136	639	hypothetical protein
+NA	0	0	NA	HVAV3e_gp137	693	hypothetical protein
+NA	0	0	NA	HVAV3e_gp138	813	hypothetical protein
+NA	0	0	NA	HVAV3e_gp139	696	hypothetical protein
+NA	0	0	NA	HVAV3e_gp140	627	hypothetical protein
+NA	0	0	NA	HVAV3e_gp141	417	hypothetical protein
+NA	0	0	NA	HVAV3e_gp142	702	hypothetical protein
+NA	0	0	NA	HVAV3e_gp143	612	hypothetical protein
+NA	0	0	NA	HVAV3e_gp144	3774	hypothetical protein
+NA	0	0	NA	HVAV3e_gp145	180	hypothetical protein
+NA	0	0	NA	HVAV3e_gp146	543	hypothetical protein
+NA	0	0	NA	HVAV3e_gp147	1509	Bro17
+NA	0	0	NA	HVAV3e_gp148	711	Bro18
+NA	0	0	NA	HVAV3e_gp149	522	hypothetical protein
+NA	0	0	NA	HVAV3e_gp150	513	hypothetical protein
+NA	1	110	NA	HVAV3e_gp151	1278	Bro19
+NA	0	0	NA	HVAV3e_gp152	576	Bro20
+NA	0	0	NA	HVAV3e_gp153	321	hypothetical protein
+NA	0	0	NA	HVAV3e_gp154	1821	hr4
+NA	0	0	NA	HVAV3e_gp155	1095	Bro21
+NA	0	0	NA	HVAV3e_gp156	885	hypothetical protein
+NA	0	0	NA	HVAV3e_gp157	384	hypothetical protein
+NA	0	0	NA	HVAV3e_gp158	546	hypothetical protein
+NA	0	0	NA	HVAV3e_gp159	483	ubiquitin ligase
+NA	0	0	NA	HVAV3e_gp160	522	hypothetical protein
+NA	0	0	NA	HVAV3e_gp161	945	hypothetical protein
+NA	0	0	NA	HVAV3e_gp162	288	hypothetical protein
+NA	0	0	NA	HVAV3e_gp163	945	caspase-like protein
+NA	0	0	NA	HVAV3e_gp164	693	Bro22
+NA	0	0	NA	HVAV3e_gp165	723	Bro23
+NA	0	0	NA	HVAV3e_gp166	873	hypothetical protein
+NA	0	0	NA	HVAV3e_gp167	525	RING-finger-containing E3 ubiquitin ligase
+NA	0	0	NA	HVAV3e_gp168	1371	S_TKc serine/threonine protein kinase
+NA	0	0	NA	HVAV3e_gp169	1068	hypothetical protein
+NA	0	0	NA	HVAV3e_gp170	426	hypothetical protein
+NA	0	0	NA	HVAV3e_gp171	447	hypothetical protein
+NA	0	0	NA	HVAV3e_gp172	336	hypothetical protein
+NA	0	0	NA	HVAV3e_gp173	1185	hypothetical protein
+NA	0	0	NA	HVAV3e_gp174	198	hypothetical protein
+NA	0	0	NA	HVAV3e_gp175	819	hypothetical protein
+NA	0	0	NA	HVAV3e_gp176	1827	hr5
+NA	0	0	NA	HVAV3e_gp177	402	hypothetical protein
+NA	0	0	NA	HVAV3e_gp178	162	hypothetical protein
+NA	2	206	KP86R	ASFVgp001	261	pKP86R
+NA	1	79	KP93L	ASFVgp002	282	pKP93L
+NA	0	0	KP360L	ASFVgp003	1083	pKP360L
+NA	0	0	KP362L	ASFVgp004	1089	pKP362L
+NA	0	0	KP177R	ASFVgp005	534	structural protein p22
+NA	0	0	L83L	ASFVgp006	252	pL83L
+NA	0	0	L57L	ASFVgp007	174	pL57L
+NA	0	0	L356L	ASFVgp008	1071	pL356L
+NA	0	0	L270L	ASFVgp009	813	pL270L
+NA	0	0	U104L	ASFVgp010	315	pU104L precursor
+NA	0	0	XP124L	ASFVgp011	375	pXP124L precursor
+NA	0	0	V82L	ASFVgp012	249	pV82L precursor
+NA	0	0	Y118L	ASFVgp013	357	pY118L precursor
+NA	1	54	UP60L	ASFVgp014	183	pUP60L
+NA	0	0	X69R	ASFVgp015	210	pX69R
+NA	0	0	J268L	ASFVgp016	807	pJ268L
+NA	0	0	J64R	ASFVgp017	195	pJ64R
+NA	0	0	J154R	ASFVgp018	465	pJ154R
+NA	0	0	J328L	ASFVgp019	987	pJ328L
+NA	0	0	J319L	ASFVgp020	960	pJ319L
+NA	0	0	A125L	ASFVgp021	378	pA125L
+NA	0	0	A489R	ASFVgp022	1470	pA489R
+NA	1	39	A280R	ASFVgp023	843	pA280R
+NA	0	0	A505R	ASFVgp024	1518	pA505R
+NA	0	0	A498R	ASFVgp025	1497	pA498R
+NA	0	0	A528R	ASFVgp026	1587	pA528R
+NA	0	0	A506R	ASFVgp027	1521	pA506R
+NA	1	6	A542R	ASFVgp028	1629	pA542R
+NA	0	0	A224L	ASFVgp029	675	IAP homolog
+NA	0	0	A104R	ASFVgp030	315	histone-like protein
+NA	0	0	A240L	ASFVgp031	723	thymidylate kinase
+NA	0	0	A118R	ASFVgp032	357	pA118R precursor
+NA	0	0	A151R	ASFVgp033	456	pA151R
+NA	0	0	A276R	ASFVgp034	831	pA276R
+NA	0	0	A238L	ASFVgp035	717	IkB-like protein
+NA	0	0	A859L	ASFVgp036	2580	helicase
+NA	0	0	A179L	ASFVgp037	540	bcl-2/bax homolog
+NA	0	0	A137R	ASFVgp038	414	structural protein p11.5
+NA	0	0	F317L	ASFVgp039	954	pF317L
+NA	0	0	F334L	ASFVgp040	1005	ribonucleotide reductase small subunit
+NA	0	0	F778R	ASFVgp041	2337	ribonucleotide reductase large subunit
+NA	0	0	F165R	ASFVgp042	498	pF165R
+NA	1	52	F1055L	ASFVgp043	3168	helicase
+NA	0	0	K205R	ASFVgp044	618	pK205R
+NA	0	0	K78R	ASFVgp045	237	structural protein p10
+NA	0	0	K196R	ASFVgp046	591	thymidine kinase
+NA	0	0	K145R	ASFVgp047	438	pK145R
+NA	1	23	K421R	ASFVgp048	1266	pK421R
+NA	1	15	EP1242L	ASFVgp049	3729	RNA polymerase subunit 2
+NA	0	0	EP84R	ASFVgp050	255	pEP84R
+NA	0	0	EP424R	ASFVgp051	1275	pEP424R
+NA	0	0	EP152R	ASFVgp052	459	pEP152R
+NA	0	0	EP153R	ASFVgp053	462	lectin-like protein
+NA	4	649	EP402R	ASFVgp054	1209	CD2 homolog
+NA	0	0	EP364R	ASFVgp055	1095	pEP364R
+NA	0	0	M1249L	ASFVgp056	3750	pM1249L
+NA	0	0	M448R	ASFVgp057	1347	pM448R
+NA	0	0	C129R	ASFVgp058	390	pC129R
+NA	0	0	C84L	ASFVgp059	255	pC84L
+NA	0	0	C717R	ASFVgp060	2154	pC717R
+NA	0	0	C105R	ASFVgp061	318	pC105R
+NA	0	0	C257L	ASFVgp062	774	pC257L
+NA	0	0	C475L	ASFVgp063	1428	pC475L
+NA	1	4	C315R	ASFVgp064	948	pC315R
+NA	0	0	C147L	ASFVgp065	444	RNA polymerase subunit 6
+NA	0	0	C62L	ASFVgp066	189	pC62L
+NA	0	0	C962R	ASFVgp067	2889	pC962R
+NA	0	0	B962L	ASFVgp068	2889	helicase
+NA	0	0	B119L	ASFVgp069	360	pB119L
+NA	0	0	B318L	ASFVgp070	957	prenyltransferase
+NA	0	0	B438L	ASFVgp071	1317	pB438L
+NA	1	52	B169L	ASFVgp072	510	pB169L
+NA	3	328	B475L	ASFVgp073	1428	pB475L
+NA	0	0	B354L	ASFVgp074	1065	pB354L
+NA	4	586	B602L	ASFVgp075	1809	pB602L
+NA	0	0	B385R	ASFVgp076	1158	pB385R
+NA	0	0	B646L	ASFVgp077	1941	structural protein p72
+NA	0	0	B125R	ASFVgp078	378	pB125R
+NA	0	0	B117L	ASFVgp079	354	pB117L
+NA	1	65	B407L	ASFVgp080	1224	pB407L
+NA	0	0	B175L	ASFVgp081	528	pB175L
+NA	0	0	B263R	ASFVgp082	792	pB263R
+NA	0	0	B66L	ASFVgp083	201	pB66L precursor
+NA	0	0	G1340L	ASFVgp084	4023	pG1340L
+NA	1	27	G1211R	ASFVgp085	3636	DNA polymerase
+NA	0	0	CP123L	ASFVgp086	372	pCP123L
+NA	0	0	CP2475L	ASFVgp087	7428	220 kDa polyprotein
+NA	0	0	CP204L	ASFVgp088	615	ASFV-induced protein p32
+NA	0	0	CP530R	ASFVgp089	1593	60 kDa polyprotein
+NA	0	0	CP80R	ASFVgp090	243	RNA polymerase subunit 10
+NA	0	0	CP312R	ASFVgp091	939	pCP312R
+NA	0	0	O174L	ASFVgp092	525	DNA polymerase beta-like protein
+NA	0	0	O61R	ASFVgp093	186	structural protein p12
+NA	0	0	NP1450L	ASFVgp094	4353	RNA polymerase subunit 1
+NA	0	0	NP419L	ASFVgp095	1260	DNA ligase
+NA	0	0	NP868R	ASFVgp096	2607	guanylyltransferase
+NA	0	0	D250R	ASFVgp097	753	8-hydroxy-dGTPase
+NA	0	0	D129L	ASFVgp098	390	pD129L
+NA	0	0	D79L	ASFVgp099	240	pD79L
+NA	0	0	D339L	ASFVgp100	1020	pD339L
+NA	0	0	D1133L	ASFVgp101	3402	helicase
+NA	0	0	D117L	ASFVgp102	354	structural protein p17
+NA	0	0	D205R	ASFVgp103	618	RNA polymerase subunit 5
+NA	0	0	D345L	ASFVgp104	1038	pD345L
+NA	0	0	S183L	ASFVgp105	552	pS183L
+NA	0	0	S273R	ASFVgp106	822	pS273R
+NA	0	0	P1192R	ASFVgp107	3579	topoisomerase II
+NA	0	0	H359L	ASFVgp108	1080	RNA polymerase subunit 3
+NA	0	0	H171R	ASFVgp109	516	pH171R
+NA	0	0	H124R	ASFVgp110	375	pH124R
+NA	0	0	H339R	ASFVgp111	1020	pH339R
+NA	0	0	H108R	ASFVgp112	327	pH108R
+NA	0	0	H233R	ASFVgp113	702	pH233R precursor
+NA	0	0	H240R	ASFVgp114	723	pH240R
+NA	0	0	R298L	ASFVgp115	897	serine protein kinase
+NA	0	0	Q706L	ASFVgp116	2121	helicase
+NA	0	0	QP509L	ASFVgp117	1530	helicase
+NA	0	0	QP383R	ASFVgp118	1152	NifS-like protein
+NA	0	0	E184L	ASFVgp119	555	pE184L
+NA	1	37	E183L	ASFVgp120	552	structural protein p54
+NA	0	0	E423R	ASFVgp121	1272	pE423R
+NA	0	0	E301R	ASFVgp122	906	proliferating cell nuclear antigen-like protein
+NA	0	0	E146L	ASFVgp123	441	pE146L
+NA	0	0	E199L	ASFVgp124	600	pE199L
+NA	0	0	E165R	ASFVgp125	498	dUTPase
+NA	0	0	E248R	ASFVgp126	747	pE248R
+NA	0	0	E120R	ASFVgp127	363	structural protein p14.5
+NA	0	0	E296R	ASFVgp128	891	AP endonuclease class II
+NA	0	0	E111R	ASFVgp129	336	pE111R
+NA	0	0	E66L	ASFVgp130	201	pE66L
+NA	0	0	I267L	ASFVgp131	804	pI267L
+NA	0	0	I226R	ASFVgp132	681	pI226R
+NA	0	0	I243L	ASFVgp133	732	transcription factor SII homolog
+NA	0	0	I73R	ASFVgp134	222	pI73R
+NA	0	0	I329L	ASFVgp135	990	pI329L precursor
+NA	0	0	I215L	ASFVgp136	648	ubiquitin-conjugating enzyme
+NA	0	0	I177L	ASFVgp137	534	pI177L
+NA	1	161	I196L	ASFVgp138	591	pI196L
+NA	0	0	DP238L	ASFVgp139	717	pDP238L
+NA	0	0	DP311R	ASFVgp140	936	pDP311R
+NA	0	0	DP63R	ASFVgp141	192	pDP63R
+NA	0	0	DP542L	ASFVgp142	1629	pDP542L
+NA	0	0	DP141L	ASFVgp143	426	pDP141L
+NA	0	0	DP146L	ASFVgp144	441	pDP146L
+NA	0	0	DP148R	ASFVgp145	447	pDP148R
+NA	0	0	DP71L	ASFVgp146	216	pDP71L
+NA	0	0	DP96R	ASFVgp147	291	pDP96R
+NA	0	0	DP363R	ASFVgp148	1092	pDP363R
+NA	0	0	DP42R	ASFVgp149	129	pDP42R
+NA	1	2	DP60R	ASFVgp150	183	pDP60R
+NA	1	79	DP93R	ASFVgp151	282	pDP93R
+NA	2	205	DP86L	ASFVgp152	261	pDP86L
+NA	0	0	NA	FK966_s1gp1	4018	putative RNA polymerase
+NA	0	0	pol	FK849_gp1	1569	non-structural polyprotein 1AB
+NA	0	0	ORF2	FK849_gp2	2538	capsid protein precursor
+NA	0	0	NA	OAdVAgp01	438	hypothetical protein
+NA	0	0	NA	OAdVAgp02	480	hypothetical protein
+NA	0	0	NA	OAdVAgp03	1191	hypothetical protein
+NA	0	0	NA	OAdVAgp04	351	hypothetical protein
+NA	0	0	NA	OAdVAgp05	3054	DNA polymerase
+NA	0	0	NA	OAdVAgp06	1863	terminal protein precursor
+NA	0	0	pVIII	OAdVAgp14	468	hexon-associated protein
+NA	0	0	NA	OAdVAgp15	192	hypothetical protein
+NA	0	0	NA	OAdVAgp16	384	hypothetical protein
+NA	0	0	NA	OAdVAgp17	303	hypothetical protein
+NA	0	0	NA	OAdVAgp18	366	hypothetical protein
+NA	0	0	polh	MVMV_gp001	738	polyhedrin
+NA	0	0	orf1629	MVMV_gp002	1620	ORF1629
+NA	0	0	pk1	MVMV_gp003	813	protein kinase 1
+NA	0	0	NA	MVMV_gp004	999	Mv-ORF4 peptide
+NA	0	0	NA	MBVgp1	540	hypothetical protein
+NA	0	0	NA	MBVgp3	3077	hypothetical protein
+NA	0	0	NA	MBVgp2	1974	hypothetical protein
+NA	0	0	NA	MBVgp4	597	coat protein
+NA	0	0	NA	D1Y43_s1gp1	6345	polyprotein
+NA	0	0	NA	B7W91_gp1	5118	replicase
+NA	0	0	NA	B7W91_gp2	882	movement protein
+NA	0	0	NA	B7W91_gp3	579	coat protein
+NA	0	0	NA	B7W91_gp4	333	putative nucleic-acid binding protein
+NA	0	0	NA	ATV_gp01	165	hypothetical protein
+NA	1	29	NA	ATV_gp02	822	hypothetical protein
+NA	0	0	NA	ATV_gp03	240	hypothetical protein
+NA	0	0	NA	ATV_gp04	180	hypothetical protein
+NA	0	0	NA	ATV_gp05	147	hypothetical protein
+NA	0	0	NA	ATV_gp06	354	DNA binding protein
+NA	0	0	NA	ATV_gp07	213	hypothetical protein
+NA	0	0	NA	ATV_gp08	315	hypothetical protein
+NA	0	0	NA	ATV_gp09	630	hypothetical protein
+NA	0	0	NA	ATV_gp10	1230	putative transposase
+NA	0	0	NA	ATV_gp11	249	hypothetical protein
+NA	0	0	NA	ATV_gp12	360	hypothetical protein
+NA	0	0	NA	ATV_gp13	177	hypothetical protein
+NA	0	0	NA	ATV_gp14	186	hypothetical protein
+NA	0	0	NA	ATV_gp15	384	hypothetical protein
+NA	0	0	NA	ATV_gp16	528	hypothetical protein
+NA	0	0	NA	ATV_gp17	243	hypothetical protein
+NA	0	0	NA	ATV_gp18	636	hypothetical protein
+NA	0	0	NA	ATV_gp19	297	hypothetical protein
+NA	0	0	NA	ATV_gp20	138	hypothetical protein
+NA	0	0	NA	ATV_gp21	723	hypothetical protein
+NA	0	0	NA	ATV_gp22	348	hypothetical protein
+NA	0	0	NA	ATV_gp23	504	hypothetical protein
+NA	0	0	NA	ATV_gp24	261	hypothetical protein
+NA	0	0	NA	ATV_gp25	336	hypothetical protein
+NA	0	0	NA	ATV_gp26	303	hypothetical protein
+GOA:Q3V4V9	0	0	NA	ATV_gp27	180	hypothetical protein
+GOA:Q3V4V8	0	0	NA	ATV_gp28	570	hypothetical protein
+NA	0	0	NA	ATV_gp29	183	hypothetical protein
+NA	0	0	NA	ATV_gp30	486	hypothetical protein
+NA	0	0	NA	ATV_gp31	468	hypothetical protein
+NA	0	0	NA	ATV_gp32	564	hypothetical protein
+NA	1	48	NA	ATV_gp33	981	hypothetical protein
+GOA:Q3V4V4	0	0	NA	ATV_gp34	993	hypothetical protein
+NA	0	0	NA	ATV_gp35	663	hypothetical protein
+GOA:Q3V4V2	0	0	NA	ATV_gp36	297	hypothetical protein
+NA	0	0	NA	ATV_gp37	255	hypothetical protein
+NA	0	0	NA	ATV_gp38	246	hypothetical protein
+NA	0	0	NA	ATV_gp39	414	hypothetical protein
+NA	0	0	NA	ATV_gp40	1374	putative transposase
+NA	1	31	NA	ATV_gp41	582	hypothetical protein
+NA	0	0	NA	ATV_gp42	438	hypothetical protein
+GOA:Q3V4U8	0	0	NA	ATV_gp43	1152	putative transposase
+GOA:Q3V4R6	0	0	NA	ATV_gp44	906	hypothetical protein
+NA	0	0	NA	ATV_gp45	486	hypothetical protein
+NA	0	0	NA	ATV_gp46	117	hypothetical protein
+NA	0	0	NA	ATV_gp47	444	hypothetical protein
+NA	2	555	NA	ATV_gp48	2403	hypothetical protein
+GOA:Q3V4U7	1	45	NA	ATV_gp49	1704	hypothetical protein
+GOA:Q3V4U6	2	1011	NA	ATV_gp50	5823	hypothetical protein
+NA	0	0	NA	ATV_gp51	405	hypothetical protein
+NA	0	0	NA	ATV_gp52	684	hypothetical protein
+GOA:Q3V4U3	0	0	NA	ATV_gp53	1590	hypothetical protein
+NA	0	0	NA	ATV_gp54	105	hypothetical protein
+NA	0	0	NA	ATV_gp55	861	hypothetical protein
+NA	0	0	NA	ATV_gp56	834	hypothetical protein
+NA	1	84	NA	ATV_gp57	1962	hypothetical protein
+NA	0	0	NA	ATV_gp58	642	hypothetical protein
+NA	0	0	NA	ATV_gp59	315	hypothetical protein
+NA	0	0	NA	ATV_gp60	2133	hypothetical protein
+NA	0	0	NA	ATV_gp61	2679	hypothetical protein
+NA	0	0	NA	ATV_gp62	396	coat protein
+NA	0	0	NA	ATV_gp63	1164	hypothetical protein
+NA	0	0	NA	ATV_gp64	1089	hypothetical protein
+NA	0	0	NA	ATV_gp65	513	hypothetical protein
+GOA:Q3V4Q1	0	0	NA	ATV_gp66	1857	hypothetical protein
+NA	0	0	NA	ATV_gp67	1638	hypothetical protein
+NA	0	0	NA	ATV_gp68	1152	putative transposase
+NA	0	0	NA	ATV_gp69	579	hypothetical protein
+GOA:Q3V4Q0	0	0	NA	ATV_gp70	981	hypothetical protein
+NA	0	0	NA	ATV_gp71	4005	hypothetical protein
+GOA:Q3V4T7	0	0	NA	ATV_gp72	726	putative integrase
+Q3V4V9
+Q3V4V8
+Q3V4V4
+Q3V4V2
+Q3V4U8
+Q3V4R6
+Q3V4U7
+Q3V4U6
+Q3V4U3
+Q3V4Q1
+Q3V4Q0
+Q3V4T7
+Q3V4U7
+Q3V4U6
+NA	0	0	NA	D1Q01_sAgp1	381	nonstructural protein
+NA	0	0	NA	D1Q01_sAgp2	951	nonstructural protein
+NA	0	0	NA	D1Q01_sAgp3	1500	nonstructural protein
+NA	0	0	NA	D1Q01_sAgp4	3348	structural protein
+GOA:Q2PBR5	0	0	NA	D1T03_sAgp1	3345	polyprotein precursor
+NA	0	0	NA	D1Y15_gp1	1119	nucleoprotein
+NA	0	0	NA	D1Y15_gp2	264	X protein
+NA	0	0	NA	D1Y15_gp3	609	phosphoprotein
+NA	0	0	NA	D1Y15_gp4	429	matrix protein
+NA	0	0	NA	D1Y15_gp5	1500	glycoprotein
+NA	0	0	NA	D1Y15_gp6	6424	polymerase
+NA	0	0	NA	RaHV2_gp001	1056	ORF1
+NA	0	0	NA	RaHV2_gp002	1086	ORF2
+NA	0	0	NA	RaHV2_gp003	390	ORF3
+NA	0	0	NA	RaHV2_gp004	519	ORF4
+NA	0	0	NA	RaHV2_gp005	759	ORF5
+NA	0	0	NA	RaHV2_gp006	813	ORF6
+NA	0	0	NA	RaHV2_gp007	795	ORF7
+NA	0	0	NA	RaHV2_gp008	228	ORF8
+NA	0	0	NA	RaHV2_gp009	1383	ORF9
+NA	0	0	NA	RaHV2_gp010	1461	ORF10
+NA	0	0	NA	RaHV2_gp011	1605	ORF11
+NA	1	128	NA	RaHV2_gp012	1761	ORF12
+NA	0	0	NA	RaHV2_gp013	594	ORF13
+NA	0	0	NA	RaHV2_gp014	663	ORF14
+NA	0	0	NA	RaHV2_gp015	651	ORF15
+NA	0	0	NA	RaHV2_gp016	657	ORF16
+NA	0	0	NA	RaHV2_gp017	699	ORF17
+NA	0	0	NA	RaHV2_gp018	738	ORF18
+NA	0	0	NA	RaHV2_gp019	696	ORF19
+NA	0	0	NA	RaHV2_gp020	600	ORF20
+NA	0	0	NA	RaHV2_gp021	585	ORF21
+NA	0	0	NA	RaHV2_gp022	573	ORF22
+NA	0	0	NA	RaHV2_gp023	591	ORF23
+NA	0	0	NA	RaHV2_gp024	564	ORF24
+NA	0	0	NA	RaHV2_gp025	522	ORF25
+NA	0	0	NA	RaHV2_gp026	1071	ORF26
+NA	0	0	NA	RaHV2_gp027	342	ORF27
+NA	0	0	NA	RaHV2_gp028	582	ORF28
+NA	0	0	NA	RaHV2_gp029	417	ORF29
+NA	0	0	NA	RaHV2_gp030	477	ORF30
+NA	0	0	NA	RaHV2_gp031	615	ORF31
+NA	0	0	NA	RaHV2_gp032	1047	ORF32
+NA	0	0	NA	RaHV2_gp033	1320	ORF33
+NA	0	0	NA	RaHV2_gp034	936	ORF34
+NA	0	0	NA	RaHV2_gp035	1038	ORF35
+NA	0	0	NA	RaHV2_gp036	894	ORF36
+NA	0	0	NA	RaHV2_gp037	933	ORF37
+NA	0	0	NA	RaHV2_gp038	969	ORF38
+NA	0	0	NA	RaHV2_gp039	1002	ORF39
+NA	0	0	NA	RaHV2_gp040	1377	ORF40
+NA	0	0	NA	RaHV2_gp041	987	ORF41
+NA	0	0	NA	RaHV2_gp042	3114	ORF42
+NA	0	0	NA	RaHV2_gp043	3027	ORF43
+NA	0	0	NA	RaHV2_gp044	1476	ORF44
+NA	0	0	NA	RaHV2_gp045	516	ORF45
+NA	0	0	NA	RaHV2_gp046	522	ORF46
+NA	2	112	NA	RaHV2_gp047	651	ORF47
+NA	0	0	NA	RaHV2_gp048	1128	ORF48
+NA	0	0	NA	RaHV2_gp049	537	ORF49
+NA	0	0	NA	RaHV2_gp050	2658	ORF50
+NA	0	0	NA	RaHV2_gp051	894	ORF51
+NA	0	0	NA	RaHV2_gp052	939	ORF52
+NA	0	0	NA	RaHV2_gp053	936	ORF53
+NA	0	0	NA	RaHV2_gp054	1182	ORF54
+NA	0	0	NA	RaHV2_gp055	873	ORF55
+NA	0	0	NA	RaHV2_gp056	858	ORF56
+NA	0	0	NA	RaHV2_gp057	840	ORF57
+NA	0	0	NA	RaHV2_gp058	867	ORF58
+NA	0	0	NA	RaHV2_gp059	918	ORF59
+NA	0	0	NA	RaHV2_gp060	954	ORF60
+NA	0	0	NA	RaHV2_gp061	894	ORF61
+NA	0	0	NA	RaHV2_gp062	2778	ORF62
+NA	0	0	NA	RaHV2_gp063	513	ORF63
+NA	0	0	NA	RaHV2_gp064	813	ORF64
+NA	2	91	NA	RaHV2_gp065	3735	ORF65
+NA	0	0	NA	RaHV2_gp066	471	ORF66
+NA	0	0	NA	RaHV2_gp067	771	ORF67
+NA	5	898	NA	RaHV2_gp068	76119	ORF68
+NA	0	0	NA	RaHV2_gp069	735	ORF69
+NA	0	0	NA	RaHV2_gp070	1152	ORF70
+NA	0	0	NA	RaHV2_gp071	1224	ORF71
+NA	0	0	NA	RaHV2_gp072	3780	ORF72
+NA	1	37	NA	RaHV2_gp073	1104	ORF73
+NA	0	0	NA	RaHV2_gp074	978	ORF74
+NA	0	0	NA	RaHV2_gp075	1323	ORF75
+NA	0	0	NA	RaHV2_gp076	699	ORF76
+NA	0	0	NA	RaHV2_gp077	612	ORF77
+NA	0	0	NA	RaHV2_gp078	2070	ORF78
+NA	0	0	NA	RaHV2_gp079	693	ORF79
+NA	0	0	NA	RaHV2_gp080	4002	ORF80
+NA	0	0	NA	RaHV2_gp081	804	ORF81
+NA	0	0	NA	RaHV2_gp082	1788	ORF82
+NA	0	0	NA	RaHV2_gp083	1245	ORF83
+NA	0	0	NA	RaHV2_gp084	2652	ORF84
+NA	0	0	NA	RaHV2_gp085	1236	ORF85
+NA	0	0	NA	RaHV2_gp086	705	ORF86
+NA	0	0	NA	RaHV2_gp087	513	ORF87
+NA	0	0	NA	RaHV2_gp088	1848	ORF88
+NA	0	0	NA	RaHV2_gp089	1251	ORF89
+NA	0	0	NA	RaHV2_gp090	996	ORF90
+NA	0	0	NA	RaHV2_gp091	501	ORF91
+NA	0	0	NA	RaHV2_gp092	1299	ORF92
+NA	0	0	NA	RaHV2_gp093	1302	ORF93
+NA	0	0	NA	RaHV2_gp094	423	ORF94
+NA	0	0	NA	RaHV2_gp095	921	ORF95
+NA	0	0	NA	RaHV2_gp096	1173	ORF96
+NA	0	0	NA	RaHV2_gp097	1668	ORF97
+NA	1	41	NA	RaHV2_gp098	2184	ORF98
+NA	0	0	NA	RaHV2_gp099	735	ORF99
+NA	0	0	NA	RaHV2_gp100	714	ORF100
+NA	0	0	NA	RaHV2_gp101	1050	ORF101
+NA	0	0	NA	RaHV2_gp102	588	ORF102
+NA	0	0	NA	RaHV2_gp103	630	ORF103
+NA	0	0	NA	RaHV2_gp104	825	ORF104
+NA	0	0	NA	RaHV2_gp105	876	ORF105
+NA	0	0	NA	RaHV2_gp106	2517	ORF106
+NA	0	0	NA	RaHV2_gp107	3477	ORF107
+NA	0	0	NA	RaHV2_gp108	504	ORF108
+NA	0	0	NA	RaHV2_gp109	834	ORF109
+NA	0	0	NA	RaHV2_gp110	4470	ORF110
+NA	0	0	NA	RaHV2_gp111	3963	ORF111
+NA	0	0	NA	RaHV2_gp112	1245	ORF112
+NA	0	0	NA	RaHV2_gp113	1758	ORF113
+NA	0	0	NA	RaHV2_gp114	921	ORF114
+NA	0	0	NA	RaHV2_gp115	759	ORF115
+NA	0	0	NA	RaHV2_gp116	648	ORF116
+NA	0	0	NA	RaHV2_gp117	897	ORF117
+NA	0	0	NA	RaHV2_gp118	1227	ORF118
+NA	0	0	NA	RaHV2_gp119	999	ORF119
+NA	0	0	NA	RaHV2_gp120	2586	ORF120
+NA	0	0	NA	RaHV2_gp121	2154	ORF121
+NA	0	0	NA	RaHV2_gp122	1569	ORF122
+NA	2	188	NA	RaHV2_gp123	9486	ORF123
+NA	0	0	NA	RaHV2_gp124	4923	ORF124
+NA	1	37	NA	RaHV2_gp125	1305	ORF125
+NA	0	0	NA	RaHV2_gp126	5796	ORF126
+NA	0	0	NA	RaHV2_gp127	939	ORF127
+NA	0	0	NA	RaHV2_gp128	1197	ORF128
+NA	0	0	NA	RaHV2_gp129	1563	ORF129
+NA	0	0	NA	RaHV2_gp130	396	ORF130
+NA	0	0	NA	RaHV2_gp131	987	ORF131
+NA	0	0	NA	RaHV2_gp132	882	ORF132
+NA	0	0	NA	RaHV2_gp133	504	ORF133
+NA	0	0	NA	RaHV2_gp134	1026	ORF134
+NA	0	0	NA	RaHV2_gp135	1638	ORF135
+NA	0	0	NA	RaHV2_gp136	567	ORF136
+NA	0	0	NA	RaHV2_gp137	834	ORF137
+NA	0	0	NA	RaHV2_gp138	873	ORF138
+NA	0	0	NA	RaHV2_gp139	1143	ORF139
+NA	0	0	NA	RaHV2_gp140	972	ORF140
+NA	0	0	NA	RaHV2_gp141	1032	ORF141
+NA	0	0	NA	RaHV2_gp142	423	ORF142
+NA	0	0	NA	RaHV2_gp143	1368	ORF143
+NA	0	0	NA	RaHV2_gp144	1830	ORF144
+NA	0	0	NA	RaHV2_gp145	1449	ORF145
+NA	0	0	NA	RaHV2_gp146	3183	ORF146
+NA	0	0	NA	RaHV2_gp147	3714	ORF147
+NA	0	0	NA	EpCV-s1_gp1	2559	putative RNA dependent RNA polymerase
+NA	0	0	NA	O218_s1gp1	3294	replicase protein
+NA	0	0	NA	VESVgp1	5646	non-structural polyprotein
+NA	0	0	NA	VESVgp2	2106	capsid protein precursor
+NA	0	0	NA	VESVgp3	333	small basic protein
+NA	0	0	NA	PrVp1	3663	p130
+NA	0	0	NA	PrVp2	2748	p104
+NA	0	0	NA	PrVp3	1080	p40
+NA	0	0	NA	PrVp4	2265	p81
+NA	0	0	ORF1	BSVgp1	534	small protein of unknown function
+NA	0	0	ORF2	BSVgp2	405	small protein of unknown function
+GOA:O72700	0	0	ORF3	BSVgp3	5499	polyprotein, cleavage products include viral coat protein and proteins with homology to an aspartic protease, reverse transcriptase and RNase H
+NA	0	0	NA	FLB25_s1gp1	3318	RNA-dependent RNA polymerase
+NA	0	0	Cap	QY62_gp1	660	capsid
+NA	0	0	Rep	QY62_gp2	699	replicase
+NA	0	0	NA	FK791_gp01	285	hypothetical protein
+NA	0	0	NA	FK791_gp02	258	hypothetical protein
+NA	0	0	NA	FK791_gp03	186	hypothetical protein
+NA	0	0	NA	FK791_gp04	153	hypothetical protein
+NA	0	0	NA	FK791_gp05	372	hypothetical protein
+NA	0	0	NA	FK791_gp06	246	major virion protein
+NA	0	0	NA	FK791_gp07	606	minor virion protein
+NA	0	0	NA	FK791_gp08	282	minor virion protein
+NA	0	0	NA	FK791_gp09	300	minor virion protein
+NA	0	0	NA	FK791_gp10	594	hypothetical protein
+NA	0	0	NA	FK791_gp11	273	hypothetical protein
+NA	0	0	NA	FK791_gp12	234	hypothetical protein
+NA	0	0	NA	FK791_gp13	336	hypothetical protein
+NA	0	0	NA	FK791_gp14	576	hypothetical protein
+NA	0	0	MET/HEL	GLRaV1_gp01	6615	methyl transferase/helicase
+NA	0	0	POL	GLRaV1_gp02	1554	RNA dependent RNA polymerase
+NA	0	0	NA	GLRaV1_gp03	180	p7
+NA	0	0	HSP70	GLRaV1_gp04	1632	hsp70-like protein
+NA	0	0	NA	LLV_gp1	5190	replicase
+NA	0	0	NA	LLV_gp2	807	triple gene block protein 1
+NA	0	0	NA	LLV_gp3	363	triple gene block protein 2
+NA	0	0	NA	LLV_gp4	219	triple gene block protein 3
+NA	0	0	NA	LLV_gp5	882	coat protein
+NA	0	0	NA	LLV_gp6	138	putative nucleic acid-binding protein
+NA	0	0	NA	AVU57_gp1	20183	ORF1ab polyprotein
+NA	0	0	NA	AVU57_gp2	4113	spike glycoprotein
+NA	0	0	NA	AVU57_gp3	690	hypothetical protein ORF3
+NA	0	0	NA	AVU57_gp4	198	small envelope protein
+NA	0	0	NA	AVU57_gp5	684	membrane glycoprotein
+NA	0	0	NA	AVU57_gp6	1152	nucleocapsid protein
+NA	0	0	NA	AVU57_gp7	249	hypothetical protein ORF7
+NA	0	0	NA	FDJ46_gp01	474	hypothetical protein
+NA	0	0	NA	FDJ46_gp02	279	hypothetical protein
+NA	0	0	NA	FDJ46_gp03	225	hypothetical protein
+NA	0	0	NA	FDJ46_gp04	267	hypothetical protein
+NA	0	0	NA	FDJ46_gp05	1905	putative replication initiation protein
+NA	0	0	NA	FDJ46_gp06	195	transcription factor
+NA	0	0	NA	FDJ46_gp07	306	hypothetical protein
+NA	0	0	NA	FDJ46_gp08	432	hypothetical protein
+NA	0	0	NA	FDJ46_gp09	591	structural protein
+NA	0	0	NA	FDJ46_gp10	105	structural protein
+NA	0	0	NA	FDJ46_gp11	810	major capsid protein
+NA	0	0	NA	FDJ46_gp12	315	structural protein
+NA	0	0	NA	FDJ46_gp13	123	structural protein
+NA	0	0	NA	FDJ46_gp14	213	structural protein
+NA	1	58	NA	FDJ46_gp15	876	hypothetical protein
+NA	0	0	NA	FDJ46_gp16	1449	putative spike protein
+NA	0	0	NA	FDJ46_gp17	483	structural protein
+NA	0	0	NA	FDJ46_gp18	384	structural protein
+NA	0	0	NA	FDJ46_gp19	162	hypothetical protein
+NA	0	0	NA	FDJ46_gp20	156	hypothetical protein
+NA	0	0	NA	PM2_01	474	hypothetical protein
+NA	0	0	NA	PM2_02	111	hypothetical protein
+NA	0	0	NA	PM2_03	93	hypothetical protein
+NA	0	0	NA	PM2_04	279	hypothetical protein
+NA	0	0	NA	PM2_05	225	hypothetical protein
+NA	0	0	NA	PM2_06	243	hypothetical protein
+NA	0	0	NA	PM2_07	1905	putative replication initiation protein P12
+NA	0	0	NA	PM2_08	195	transcription factor P13
+NA	0	0	NA	PM2_09	306	protein P14
+NA	0	0	NA	PM2_10	432	hypothetical protein
+NA	0	0	NA	PM2_11	657	structural protein P9
+NA	0	0	NA	PM2_12	105	structural protein P7
+NA	0	0	NA	PM2_13	810	major capsid protein P2
+NA	0	0	NA	PM2_14	315	structural protein P3
+NA	0	0	NA	PM2_15	123	structural protein P4
+NA	0	0	NA	PM2_16	228	structural protein P8
+NA	0	0	NA	PM2_17	840	hypothetical protein
+NA	0	0	NA	PM2_18	1008	spike protein P1
+NA	0	0	V	PM2_19	483	virion protein
+NA	0	0	NA	PM2_20	384	structural protein P6
+NA	0	0	NA	PM2_21	162	hypothetical protein
+NA	0	0	NA	PM2_22	156	hypothetical protein
+NA	0	0	NA	phi-6L_1	486	hypothetical protein
+NA	0	0	pol	phi-6L_2	1998	RNA-dependent RNA polymerase
+NA	0	0	NA	phi-6L_3	999	packaging NTPase P4
+NA	0	0	NA	phi-6L_4	2310	hypothetical protein
+NA	0	0	NA	MCDiV_gp1	6540	non-structural polyprotein
+NA	0	0	NA	MCDiV_gp2	2853	structural polyprotein
+NA	0	0	NA	HT28_gp1	13743	putative polyprotein
+NA	0	0	NA	BVF18_gp1	21587	1ab
+NA	0	0	NA	BVF18_gp2	1614	putative glycoprotein 1
+NA	0	0	NA	BVF18_gp3	492	hypothetical protein
+NA	0	0	NA	BVF18_gp4	474	hypothetical protein
+NA	0	0	NA	BVF18_gp5	2094	putative glycoprotein 2
+NA	0	0	NA	BVF18_gp6	1080	hypothetical protein
+NA	0	0	NA	BVF18_gp7	618	hypothetical protein
+NA	0	0	NP	LLOV_gp1	2250	nucleoprotein
+NA	0	0	VP35	LLOV_gp2	963	polymerase complex protein
+NA	0	0	VP40	LLOV_gp3	990	matrix protein
+NA	0	0	NA	LLOV_gp4	1248	GP1
+NA	0	0	NA	LLOV_gp5	963	GP2
+NA	0	0	VP30	LLOV_gp6	987	minor nucleoprotein
+NA	0	0	NA	LLOV_gp7	570	hypothetical protein
+NA	0	0	VP24	LLOV_gp8	753	membrane-associated protein
+NA	0	0	L	LLOV_gp9	6591	RNA-dependent RNA polymerase
+NA	0	0	NA	RRoVsRNA1_gp1	6831	RNA-dependent RNA-polymerase p1
+NA	0	0	POLY	MVEVgp1	10305	polyprotein
+NA	0	0	NA	MVEVgp2	3593	truncated polyprotein
+NA	0	0	NA	D1Y10_gp1	948	Rep protein
+NA	0	0	NA	SSV2p01	14796	hypothetical protein
+NA	0	0	NA	SSV2p02	462	hypothetical protein
+NA	0	0	NA	SSV2p03	702	NTP-binding motif containing protein
+NA	0	0	int	SSV2p04	987	integrase
+NA	0	0	NA	SSV2p05	207	ORF 68
+NA	0	0	NA	SSV2p06	168	ORF 55a
+NA	0	0	NA	SSV2p07	168	ORF 55b
+NA	0	0	NA	SSV2p08	213	ORF 70
+NA	0	0	NA	SSV2p09	636	hypothetical protein
+NA	0	0	NA	SSV2p10	933	ORF 310
+NA	0	0	NA	SSV2p11	321	ORF 106
+NA	0	0	NA	SSV2p12	174	helix-turn-helix protein
+NA	0	0	NA	SSV2p13	186	ORF 61
+NA	0	0	NA	SSV2p14	219	ORF 72
+NA	0	0	NA	SSV2p15	240	ORF 79a
+NA	0	0	NA	SSV2p16	291	hypothetical protein
+NA	0	0	NA	SSV2p17	267	ORF 88a
+NA	0	0	NA	SSV2p18	249	ribbon-helix-helix domain containing protein
+NA	0	0	NA	SSV2p19	249	hypothetical protein
+NA	0	0	NA	SSV2p20	147	hypothetical protein
+NA	0	0	NA	SSV2p21	303	hypothetical protein
+NA	0	0	NA	SSV2p22	618	CRISPR-associated Cas4-like protein
+NA	0	0	NA	SSV2p23	468	hypothetical protein
+NA	0	0	NA	SSV2p24	918	ORF 305
+NA	0	0	NA	SSV2p25	366	ORF 126
+NA	0	0	NA	SSV2p26	2430	hypothetical protein
+NA	0	0	NA	SSV2p27	240	hypothetical protein
+NA	0	0	NA	SSV2p28	531	hypothetical protein
+NA	1	280	NA	BvFgp1	5691	replicase
+NA	0	0	NA	BvFgp2	909	coat protein
+NA	0	0	NA	D1S69_sAgp1	756	CP
+NA	0	0	NA	D1S69_sAgp2	390	TrAP
+NA	0	0	NA	D1S69_sAgp3	1086	Rep
+NA	0	0	NA	D1S69_sAgp4	399	REn
+NA	0	0	NA	D1S69_sAgp5	258	AC4
+NA	0	0	CP	JM55_gp1	936	capsid protein
+NA	0	0	rep	JM55_gp2	315	replication associated protein
+NA	0	0	rep	JM55_gp2	591	replication associated protein
+NA	0	0	NA	PyrSV_gp01	741	hypothetical protein
+NA	1	48	NA	PyrSV_gp02	1746	hypothetical protein
+NA	0	0	NA	PyrSV_gp03	942	hypothetical protein
+NA	0	0	NA	PyrSV_gp04	498	hypothetical protein
+NA	0	0	NA	PyrSV_gp05	498	hypothetical protein
+NA	0	0	NA	PyrSV_gp06	186	hypothetical protein
+NA	0	0	NA	PyrSV_gp07	516	hypothetical protein
+NA	0	0	NA	PyrSV_gp08	264	hypothetical protein
+NA	0	0	NA	PyrSV_gp09	411	hypothetical protein
+NA	0	0	NA	PyrSV_gp10	705	hypothetical protein
+NA	0	0	NA	PyrSV_gp11	717	hypothetical protein
+NA	0	0	NA	PyrSV_gp12	633	hypothetical protein
+NA	0	0	NA	PyrSV_gp13	321	hypothetical protein
+NA	0	0	NA	PyrSV_gp14	360	hypothetical protein
+NA	0	0	NA	PyrSV_gp15	684	hypothetical protein
+NA	0	0	NA	PyrSV_gp16	759	hypothetical protein
+NA	0	0	NA	PyrSV_gp17	882	hypothetical protein
+NA	0	0	NA	PyrSV_gp18	351	hypothetical protein
+GOA:Q6ZYI4	0	0	vp3	PyrSV_gp19	762	virus coat protein VP3
+GOA:Q6ZYI3	0	0	vp2	PyrSV_gp20	741	virus coat protein VP2
+NA	0	0	NA	PyrSV_gp21	951	hypothetical protein
+NA	0	0	NA	PyrSV_gp22	402	hypothetical protein
+NA	0	0	NA	PyrSV_gp23	414	hypothetical protein
+NA	0	0	NA	PyrSV_gp24	228	hypothetical protein
+NA	0	0	NA	PyrSV_gp25	489	hypothetical protein
+NA	0	0	NA	PyrSV_gp26	291	hypothetical protein
+NA	0	0	NA	PyrSV_gp27	315	hypothetical protein
+NA	0	0	NA	PyrSV_gp28	228	hypothetical protein
+NA	0	0	NA	PyrSV_gp29	225	hypothetical protein
+NA	0	0	NA	PyrSV_gp30	810	hypothetical protein
+NA	0	0	NA	PyrSV_gp31	846	hypothetical protein
+NA	0	0	NA	PyrSV_gp32	393	hypothetical protein
+NA	0	0	NA	PyrSV_gp33	450	hypothetical protein
+NA	0	0	NA	PyrSV_gp34	594	hypothetical protein
+NA	0	0	NA	PyrSV_gp35	501	hypothetical protein
+NA	0	0	NA	PyrSV_gp36	273	hypothetical protein
+NA	0	0	NA	PyrSV_gp37	387	hypothetical protein
+NA	0	0	NA	PyrSV_gp38	303	hypothetical protein
+NA	0	0	NA	PyrSV_gp39	528	hypothetical protein
+NA	0	0	NA	PyrSV_gp40	537	hypothetical protein
+NA	0	0	NA	PyrSV_gp41	513	hypothetical protein
+NA	0	0	NA	PyrSV_gp42	306	hypothetical protein
+NA	0	0	NA	PyrSV_gp43	513	hypothetical protein
+NA	0	0	NA	PyrSV_gp44	315	hypothetical protein
+NA	0	0	NA	PyrSV_gp45	264	hypothetical protein
+NA	0	0	NA	PyrSV_gp46	549	hypothetical protein
+NA	0	0	NA	PyrSV_gp47	378	hypothetical protein
+NA	0	0	NA	PyrSV_gp48	708	hypothetical protein
+NA	0	0	NA	PyrSV_gp01	741	hypothetical protein
+NA	0	0	NA	PyrSV_gp02	1746	hypothetical protein
+NA	0	0	NA	PyrSV_gp03	942	hypothetical protein
+NA	0	0	NA	PyrSV_gp04	498	hypothetical protein
+NA	0	0	NA	PyrSV_gp05	498	hypothetical protein
+NA	0	0	NA	PyrSV_gp06	186	hypothetical protein
+NA	0	0	NA	PyrSV_gp07	516	hypothetical protein
+NA	0	0	NA	PyrSV_gp08	264	hypothetical protein
+NA	0	0	NA	PyrSV_gp09	411	hypothetical protein
+NA	0	0	NA	PyrSV_gp10	705	hypothetical protein
+NA	0	0	NA	PyrSV_gp11	717	hypothetical protein
+NA	0	0	NA	PyrSV_gp12	633	hypothetical protein
+NA	0	0	NA	PyrSV_gp13	321	hypothetical protein
+NA	0	0	NA	PyrSV_gp14	360	hypothetical protein
+NA	0	0	NA	PyrSV_gp15	684	hypothetical protein
+NA	0	0	NA	PyrSV_gp16	759	hypothetical protein
+NA	0	0	NA	PyrSV_gp17	882	hypothetical protein
+NA	0	0	NA	PyrSV_gp18	351	hypothetical protein
+GOA:Q6ZYI4	0	0	vp3	PyrSV_gp19	762	virus coat protein VP3
+GOA:Q6ZYI3	0	0	vp2	PyrSV_gp20	741	virus coat protein VP2
+NA	0	0	NA	PyrSV_gp21	951	hypothetical protein
+NA	0	0	NA	PyrSV_gp22	402	hypothetical protein
+NA	0	0	NA	PyrSV_gp23	414	hypothetical protein
+NA	0	0	NA	PyrSV_gp24	228	hypothetical protein
+NA	0	0	NA	PyrSV_gp25	489	hypothetical protein
+NA	0	0	NA	PyrSV_gp26	291	hypothetical protein
+NA	0	0	NA	PyrSV_gp27	315	hypothetical protein
+NA	0	0	NA	PyrSV_gp28	228	hypothetical protein
+NA	0	0	NA	PyrSV_gp29	225	hypothetical protein
+NA	0	0	NA	PyrSV_gp30	810	hypothetical protein
+NA	0	0	NA	PyrSV_gp31	846	hypothetical protein
+NA	0	0	NA	PyrSV_gp32	393	hypothetical protein
+NA	0	0	NA	PyrSV_gp33	450	hypothetical protein
+NA	0	0	NA	PyrSV_gp34	594	hypothetical protein
+NA	0	0	NA	PyrSV_gp35	501	hypothetical protein
+NA	0	0	NA	PyrSV_gp36	273	hypothetical protein
+NA	0	0	NA	PyrSV_gp37	387	hypothetical protein
+NA	0	0	NA	PyrSV_gp38	303	hypothetical protein
+NA	0	0	NA	PyrSV_gp39	528	hypothetical protein
+NA	0	0	NA	PyrSV_gp40	537	hypothetical protein
+NA	0	0	NA	PyrSV_gp41	513	hypothetical protein
+NA	0	0	NA	PyrSV_gp42	306	hypothetical protein
+NA	0	0	NA	PyrSV_gp43	513	hypothetical protein
+NA	0	0	NA	PyrSV_gp44	315	hypothetical protein
+NA	0	0	NA	PyrSV_gp45	264	hypothetical protein
+NA	0	0	NA	PyrSV_gp46	549	hypothetical protein
+NA	0	0	NA	PyrSV_gp47	378	hypothetical protein
+NA	0	0	NA	PyrSV_gp48	708	hypothetical protein
+NA	0	0	NA	D1S24_sLgp1	6462	RNA-dependent RNA polymerase
+NA	0	0	NA	GSHVgp1	654	hypothetical protein
+NA	0	0	NA	GSHVgp2	2646	hypothetical protein
+NA	0	0	NA	GSHVgp3	849	hypothetical protein
+NA	0	0	NA	GSHVgp4	417	hypothetical protein
+NA	0	0	NA	DPTVsRNA1gp1	4950	putative RNA-dependent RNA polymerase
+NA	0	0	NA	CHVgp1	1317	hypothetical protein
+NA	0	0	NA	CHVgp2	9876	polyprotein
+NA	0	0	pol	MdSGHV001	2934	DNA polymerase
+NA	0	0	NA	MdSGHV002	582	hypothetical protein
+NA	0	0	NA	MdSGHV003	471	hypothetical protein
+NA	0	0	NA	MdSGHV004	396	hypothetical protein
+NA	0	0	NA	MdSGHV005	210	hypothetical protein
+NA	0	0	NA	MdSGHV006	219	hypothetical protein
+NA	1	126	NA	MdSGHV007	162	hypothetical protein
+NA	0	0	NA	MdSGHV008	252	hypothetical protein
+NA	0	0	NA	MdSGHV009	255	hypothetical protein
+NA	0	0	NA	MdSGHV010	771	mitochondrial carrier protein
+NA	0	0	NA	MdSGHV011	513	dihydrofolate reductase
+NA	0	0	NA	MdSGHV012	885	thymidylate synthase
+NA	0	0	NA	MdSGHV013	1935	hypothetical protein
+NA	0	0	NA	MdSGHV014	750	molybdopterin oxidoreductase
+NA	0	0	NA	MdSGHV015	900	hypothetical protein
+NA	0	0	NA	MdSGHV016	1500	hypothetical protein
+NA	0	0	NA	MdSGHV017	1662	hypothetical protein
+NA	0	0	NA	MdSGHV018	702	hypothetical protein
+NA	0	0	NA	MdSGHV019	678	hypothetical protein
+NA	0	0	NA	MdSGHV020	315	hypothetical protein
+NA	0	0	NA	MdSGHV021	1935	hypothetical protein
+NA	0	0	NA	MdSGHV022	1032	hypothetical protein
+NA	0	0	NA	MdSGHV023	771	hypothetical protein
+NA	0	0	NA	MdSGHV024	387	hypothetical protein
+NA	0	0	NA	MdSGHV025	1131	hypothetical protein
+NA	0	0	NA	MdSGHV026	183	hypothetical protein
+NA	0	0	NA	MdSGHV027	510	hypothetical protein
+NA	0	0	NA	MdSGHV028	1146	hypothetical protein
+NA	0	0	pif-1	MdSGHV029	1935	pif-1
+NA	0	0	NA	MdSGHV030	2079	hypothetical protein
+NA	0	0	NA	MdSGHV031	201	hypothetical protein
+NA	0	0	NA	MdSGHV032	1182	hypothetical protein
+NA	0	0	NA	MdSGHV033	1494	putative vacuolar sorting ATPase
+NA	0	0	NA	MdSGHV034	195	hypothetical protein
+NA	0	0	NA	MdSGHV035	729	hypothetical protein
+NA	0	0	NA	MdSGHV036	591	matrix metalloproteinase
+NA	1	63	NA	MdSGHV037	885	hypothetical protein
+NA	0	0	NA	MdSGHV038	753	hypothetical protein
+NA	0	0	p74	MdSGHV039	2124	p74
+NA	0	0	NA	MdSGHV040	1827	hypothetical protein
+NA	0	0	NA	MdSGHV041	1326	hypothetical protein
+NA	0	0	NA	MdSGHV042	1884	hypothetical protein
+NA	0	0	NA	MdSGHV043	1110	hypothetical protein
+NA	0	0	NA	MdSGHV044	936	hypothetical protein
+NA	0	0	NA	MdSGHV045	1143	hypothetical protein
+NA	0	0	NA	MdSGHV046	1188	hypothetical protein
+NA	0	0	edv-e66	MdSGHV047	2103	occlusion-derived virus envelope protein
+NA	4	520	NA	MdSGHV048	1173	hypothetical protein
+NA	0	0	NA	MdSGHV049	504	Ac150-like protein
+NA	0	0	NA	MdSGHV050	1215	aminoacylase
+NA	0	0	NA	MdSGHV051	954	hypothetical protein
+NA	0	0	NA	MdSGHV052	453	dUTPase
+NA	0	0	NA	MdSGHV053	441	hypothetical protein
+NA	0	0	NA	MdSGHV054	486	hypothetical protein
+NA	0	0	NA	MdSGHV055	1251	hypothetical protein
+NA	0	0	NA	MdSGHV056	348	hypothetical protein
+NA	0	0	NA	MdSGHV057	222	hypothetical protein
+NA	0	0	NA	MdSGHV058	396	hypothetical protein
+NA	0	0	NA	MdSGHV059	198	hypothetical protein
+NA	0	0	NA	MdSGHV060	156	hypothetical protein
+NA	0	0	NA	MdSGHV061	324	hypothetical protein
+NA	0	0	rr2	MdSGHV062	1032	ribonucleoside diphosphate reductase small subunit, rr2
+NA	0	0	NA	MdSGHV063	273	hypothetical protein
+NA	1	35	NA	MdSGHV064	1428	hypothetical protein
+NA	0	0	rr1	MdSGHV065	2358	ribonucleoside diphosphate reductase large subunit, rr1
+NA	0	0	NA	MdSGHV066	1740	hypothetical protein
+NA	0	0	NA	MdSGHV067	489	hypothetical protein
+NA	0	0	NA	MdSGHV068	399	hypothetical protein
+NA	0	0	tk	MdSGHV069	612	thymidine kinase
+NA	0	0	NA	MdSGHV070	2904	hypothetical protein
+NA	0	0	NA	MdSGHV071	1002	hypothetical protein
+NA	0	0	NA	MdSGHV072	411	hypothetical protein
+NA	0	0	NA	MdSGHV073	1173	hypothetical protein
+NA	0	0	NA	MdSGHV074	2097	hypothetical protein
+NA	0	0	NA	MdSGHV075	327	hypothetical protein
+NA	0	0	NA	MdSGHV076	1149	hypothetical protein
+NA	0	0	NA	MdSGHV077	897	hypothetical protein
+NA	0	0	iap	MdSGHV078	429	inhibitor of apoptosis protein
+NA	0	0	NA	MdSGHV079	369	hypothetical protein
+NA	0	0	NA	MdSGHV080	285	hypothetical protein
+NA	0	0	NA	MdSGHV081	285	hypothetical protein
+NA	0	0	NA	MdSGHV082	1080	hypothetical protein
+NA	0	0	NA	MdSGHV083	5343	hypothetical protein
+NA	0	0	NA	MdSGHV084	1530	hypothetical protein
+NA	0	0	NA	MdSGHV085	1212	hypothetical protein
+NA	0	0	NA	MdSGHV086	1146	hypothetical protein
+NA	0	0	NA	MdSGHV087	1635	hypothetical protein
+NA	1	29	NA	MdSGHV088	540	hypothetical protein
+NA	0	0	pif-2	MdSGHV089	1140	pif-2
+NA	0	0	NA	MdSGHV090	2019	hypothetical protein
+NA	0	0	NA	MdSGHV091	1272	hypothetical protein
+NA	0	0	NA	MdSGHV092	222	hypothetical protein
+NA	0	0	NA	MdSGHV093	852	hypothetical protein
+NA	0	0	NA	MdSGHV094	336	hypothetical protein
+NA	0	0	NA	MdSGHV095	423	hypothetical protein
+NA	1	31	NA	MdSGHV096	4422	hypothetical protein
+NA	0	0	NA	MdSGHV097	1449	hypothetical protein
+NA	0	0	NA	MdSGHV098	1215	hypothetical protein
+NA	3	123	NA	MdSGHV099	1839	hypothetical protein
+NA	0	0	NA	MdSGHV100	1368	hypothetical protein
+NA	0	0	NA	MdSGHV101	597	hypothetical protein
+NA	0	0	NA	MdSGHV102	774	hypothetical protein
+NA	0	0	NA	MdSGHV103	204	hypothetical protein
+NA	0	0	NA	MdSGHV104	2313	helicase-like protein
+NA	0	0	NA	MdSGHV105	726	hypothetical protein
+NA	0	0	pif-3	MdSGHV106	729	per os infectivity factor-3
+NA	0	0	NA	MdSGHV107	3378	hypothetical protein
+NA	0	0	NA	MdSGHV108	618	Ac81-like protein
+NA	0	0	NA	CI06_gp1	9033	polyprotein
+NA	0	0	NA	KSF-1phigpORFI	1104	DNA replication initiation protein
+NA	0	0	NA	KSF-1phigpORFII	267	hypothetical protein
+NA	0	0	NA	KSF-1phigpORFIII	108	hypothetical protein
+NA	0	0	NA	KSF-1phigpORFIV	240	hypothetical protein
+NA	0	0	NA	KSF-1phigpORFV	933	hypothetical protein
+NA	0	0	NA	KSF-1phigpORFVI	165	hypothetical protein
+NA	0	0	NA	KSF-1phigpORFVII	123	hypothetical protein
+NA	0	0	NA	KSF-1phigpORFVIII	345	hypothetical protein
+NA	0	0	NA	KSF-1phigpORFIX	1368	putative assembly protein
+NA	0	0	NA	KSF-1phigpORFX	174	hypothetical protein
+NA	0	0	NA	KSF-1phigpORFXII	132	hypothetical protein
+NA	0	0	NA	KSF-1phigpORFXIII	246	hypothetical protein
+NA	104	8542	NA	IIV6gp001	212482	468L
+NA	0	0	NA	IIV6gp002	195	001R
+NA	0	0	NA	IIV6gp003	174	002R
+NA	0	0	NA	IIV6gp004	237	003R
+NA	0	0	NA	IIV6gp005	129	004R
+NA	0	0	NA	IIV6gp006	243	005R
+NA	0	0	NA	IIV6gp007	1059	006L
+NA	0	0	NA	IIV6gp008	159	007R
+NA	0	0	NA	IIV6gp009	123	008R
+NA	0	0	NA	IIV6gp010	258	009R
+NA	0	0	NA	IIV6gp011	363	010R
+NA	0	0	NA	IIV6gp012	150	011L
+NA	0	0	EXO2	IIV6gp013	1875	012L
+NA	0	0	NA	IIV6gp014	123	013R
+NA	0	0	NA	IIV6gp015	237	014R
+NA	0	0	NA	IIV6gp016	156	015R
+NA	0	0	EXO2	IIV6gp013	258	016L
+NA	0	0	NA	IIV6gp017	159	017R
+NA	0	0	NA	IIV6gp018	171	018R
+NA	0	0	NA	IIV6gp019	840	019R
+NA	0	0	NA	IIV6gp020	132	020L
+NA	0	0	NA	IIV6gp021	141	021R
+NA	0	0	NTP1	IIV6gp022	3516	022L
+NA	0	0	NTP1	IIV6gp022	126	023L
+NA	0	0	NTP1	IIV6gp022	252	024L
+NA	0	0	NA	IIV6gp023	138	025R
+NA	0	0	NA	IIV6gp024	180	026R
+NA	0	0	NTP1	IIV6gp022	159	027L
+NA	0	0	NTP1	IIV6gp022	165	028L
+NA	0	0	NA	IIV6gp025	390	029R
+NA	0	0	HELI	IIV6gp026	1593	030L
+NA	0	0	NA	IIV6gp027	132	031R
+NA	0	0	NA	IIV6gp028	303	032R
+NA	0	0	NA	IIV6gp029	150	033L
+NA	0	0	NA	IIV6gp030	405	034R
+NA	0	0	NA	IIV6gp031	156	035L
+NA	0	0	NA	IIV6gp032	129	036R
+NA	0	0	DPOL	IIV6gp033	3822	037L
+NA	0	0	NA	IIV6gp034	147	038R
+NA	0	0	NA	IIV6gp035	150	039R
+NA	0	0	NA	IIV6gp036	123	040R
+NA	2	99	NA	IIV6gp037	369	041L
+NA	1	66	NA	IIV6gp038	285	042R
+NA	0	0	NA	IIV6gp039	351	043L
+NA	0	0	NA	IIV6gp040	198	044R
+NA	0	0	TOP2	IIV6gp041	3399	045L
+NA	0	0	NA	IIV6gp042	156	046R
+NA	0	0	NA	IIV6gp043	243	047R
+NA	0	0	NA	IIV6gp044	249	048R
+NA	1	38	NA	IIV6gp045	372	049L
+NA	0	0	NA	IIV6gp046	3159	050L
+NA	0	0	NA	IIV6gp047	186	051R
+NA	0	0	NA	IIV6gp048	156	052R
+NA	0	0	NA	IIV6gp049	174	053R
+NA	0	0	NA	IIV6gp050	132	054R
+NA	0	0	NA	IIV6gp051	129	055R
+NA	0	0	NA	IIV6gp052	852	056R
+NA	0	0	NA	IIV6gp053	138	057L
+NA	0	0	NA	IIV6gp054	126	058L
+NA	0	0	NA	IIV6gp055	126	059R
+NA	2	39	NA	IIV6gp056	711	060L
+NA	0	0	NA	IIV6gp057	468	061R
+NA	0	0	NA	IIV6gp058	540	062L
+NA	0	0	NA	IIV6gp059	141	063R
+NA	0	0	NA	IIV6gp060	351	064L
+NA	0	0	NA	IIV6gp061	168	065R
+NA	0	0	NA	IIV6gp062	123	066L
+NA	1	12	NA	IIV6gp063	1371	067R
+NA	0	0	NA	IIV6gp064	327	068L
+NA	0	0	NA	IIV6gp065	693	069L
+NA	0	0	NA	IIV6gp066	132	070R
+NA	0	0	NA	IIV6gp067	390	071L
+NA	0	0	NA	IIV6gp068	252	072R
+NA	0	0	NA	IIV6gp069	204	073R
+NA	0	0	NA	IIV6gp070	207	074R
+NA	0	0	NA	IIV6gp071	777	075L
+NA	0	0	NA	IIV6gp072	141	076L
+NA	0	0	NA	IIV6gp073	942	077L
+NA	0	0	NA	IIV6gp074	219	078R
+NA	0	0	NA	IIV6gp075	222	079L
+NA	0	0	NA	IIV6gp076	216	080L
+NA	1	40	NA	IIV6gp077	132	081L
+NA	3	70	NA	IIV6gp078	471	082L
+NA	3	78	NA	IIV6gp079	153	083L
+NA	1	30	NA	IIV6gp080	498	084L
+NA	1	29	NA	IIV6gp081	2880	085L
+NA	0	0	NA	IIV6gp082	135	086R
+NA	0	0	NA	IIV6gp083	159	087R
+NA	0	0	NA	IIV6gp084	150	088L
+NA	0	0	NA	IIV6gp085	138	089L
+NA	0	0	NA	IIV6gp086	159	090R
+NA	0	0	NA	IIV6gp087	171	091R
+NA	0	0	NA	IIV6gp088	240	092R
+NA	0	0	NA	IIV6gp089	126	093R
+NA	0	0	NA	IIV6gp090	357	094L
+NA	0	0	NA	IIV6gp091	258	095L
+NA	0	0	NA	IIV6gp092	525	096L
+NA	0	0	NA	IIV6gp093	147	097L
+NA	0	0	NA	IIV6gp094	1809	098R
+NA	0	0	NA	IIV6gp095	153	099L
+NA	0	0	NA	IIV6gp096	546	100L
+NA	0	0	NA	IIV6gp097	705	101L
+NA	0	0	NA	IIV6gp098	126	102R
+NA	0	0	NA	IIV6gp099	144	103R
+NA	2	68	NA	IIV6gp100	174	104L
+NA	0	0	NA	IIV6gp101	228	105R
+NA	0	0	NA	IIV6gp102	174	106L
+NA	0	0	NA	IIV6gp103	243	107L
+NA	0	0	NA	IIV6gp104	171	108R
+NA	0	0	NA	IIV6gp105	135	109R
+NA	0	0	NA	IIV6gp106	207	110R
+NA	0	0	NA	IIV6gp107	528	111R
+NA	0	0	NA	IIV6gp108	129	112R
+NA	0	0	NA	IIV6gp109	186	113L
+NA	0	0	NA	IIV6gp110	282	114L
+NA	0	0	NA	IIV6gp111	369	115R
+NA	0	0	NA	IIV6gp112	288	116L
+NA	0	0	NA	IIV6gp113	750	117L
+NA	0	0	NA	IIV6gp114	1548	118L
+NA	0	0	NA	IIV6gp115	126	119R
+NA	0	0	NA	IIV6gp116	363	120L
+NA	0	0	NA	IIV6gp117	270	121R
+NA	0	0	NA	IIV6gp118	426	122R
+NA	0	0	NA	IIV6gp119	429	123R
+NA	0	0	NA	IIV6gp120	150	124L
+NA	0	0	NA	IIV6gp121	141	125L
+NA	0	0	NA	IIV6gp122	822	126R
+NA	0	0	NA	IIV6gp123	708	127L
+NA	0	0	NA	IIV6gp124	162	128L
+NA	0	0	NA	IIV6gp125	183	129R
+NA	1	10	NA	IIV6gp126	606	130R
+NA	0	0	NA	IIV6gp127	312	131L
+NA	0	0	NA	IIV6gp128	720	132L
+NA	0	0	NA	IIV6gp129	144	133R
+NA	0	0	NA	IIV6gp130	192	134L
+NA	0	0	NA	IIV6gp131	216	135R
+NA	0	0	NA	IIV6gp132	537	136R
+NA	0	0	NA	IIV6gp133	174	137R
+NA	0	0	NA	IIV6gp134	345	138R
+NA	0	0	NA	IIV6gp135	198	139L
+NA	0	0	NA	IIV6gp136	195	140L
+NA	0	0	NA	IIV6gp137	255	141R
+NA	0	0	NA	IIV6gp138	879	142R
+NA	0	0	NA	IIV6gp139	588	143R
+NA	0	0	NA	IIV6gp140	165	144R
+NA	0	0	NA	IIV6gp141	468	145L
+NA	1	34	NA	IIV6gp142	738	146R
+NA	0	0	NA	IIV6gp143	201	147L
+NA	1	38	NA	IIV6gp144	1245	148R
+NA	0	0	NA	IIV6gp145	2001	149L
+NA	0	0	NA	IIV6gp146	234	150R
+NA	0	0	NA	IIV6gp147	204	151R
+NA	0	0	NA	IIV6gp148	153	152R
+NA	0	0	NA	IIV6gp149	159	153L
+NA	0	0	NA	IIV6gp150	255	154R
+NA	0	0	NA	IIV6gp151	768	155L
+NA	1	27	NA	IIV6gp152	174	156R
+NA	0	0	NA	IIV6gp153	459	157L
+NA	0	0	NA	IIV6gp154	189	158R
+NA	2	206	NA	IIV6gp155	1428	159L
+NA	0	0	NA	IIV6gp156	162	160L
+NA	0	0	NA	IIV6gp157	1329	161L
+NA	0	0	NA	IIV6gp158	459	162R
+NA	0	0	NA	IIV6gp159	183	163L
+NA	0	0	NA	IIV6gp160	126	164R
+NA	2	87	NA	IIV6gp161	795	165R
+NA	0	0	NA	IIV6gp162	153	166L
+NA	0	0	NA	IIV6gp163	129	167L
+NA	1	47	NA	IIV6gp164	150	168R
+NA	0	0	NA	IIV6gp165	399	169L
+NA	1	37	NA	IIV6gp166	741	170L
+NA	3	104	NA	IIV6gp167	162	171R
+NA	0	0	NA	IIV6gp168	1821	172L
+NA	0	0	NA	IIV6gp169	189	173R
+NA	0	0	NA	IIV6gp170	126	174R
+NA	0	0	NA	IIV6gp171	555	175R
+NA	1	39	NA	IIV6gp172	3081	176R
+NA	0	0	NA	IIV6gp173	168	177L
+NA	0	0	NA	IIV6gp174	141	178L
+NA	3	112	NA	IIV6gp175	3561	179R
+NA	0	0	NA	IIV6gp176	165	180L
+NA	0	0	NA	IIV6gp177	183	181L
+NA	0	0	NA	IIV6gp178	138	182L
+NA	0	0	NA	IIV6gp179	162	183L
+NA	0	0	NA	IIV6gp180	2916	184R
+NA	0	0	NA	IIV6gp181	132	185L
+NA	0	0	NA	IIV6gp182	135	186L
+NA	0	0	NA	IIV6gp183	141	187R
+NA	0	0	NA	IIV6gp184	165	188L
+NA	0	0	NA	IIV6gp185	300	189L
+NA	0	0	NA	IIV6gp186	207	190R
+NA	0	0	NA	IIV6gp187	156	191L
+NA	0	0	NA	IIV6gp188	222	192R
+NA	2	78	NA	IIV6gp189	627	193R
+NA	1	29	NA	IIV6gp190	207	194R
+NA	2	91	NA	IIV6gp191	420	195L
+NA	0	0	NA	IIV6gp192	525	196R
+NA	1	16	NA	IIV6gp193	801	197R
+NA	0	0	NA	IIV6gp194	1419	198R
+NA	0	0	NA	IIV6gp195	276	199L
+NA	0	0	NA	IIV6gp196	186	200R
+NA	0	0	NA	IIV6gp197	1260	201R
+NA	0	0	NA	IIV6gp198	231	202L
+NA	0	0	NA	IIV6gp199	483	203L
+NA	1	66	NA	IIV6gp200	189	204L
+NA	1	21	NA	IIV6gp201	1848	205R
+NA	0	0	NA	IIV6gp202	459	206R
+NA	0	0	NA	IIV6gp203	177	207L
+NA	0	0	NA	IIV6gp204	162	208L
+NA	0	0	NA	IIV6gp205	3141	209R
+NA	0	0	NA	IIV6gp206	141	210L
+NA	1	53	NA	IIV6gp207	1173	211L
+NA	0	0	NA	IIV6gp208	1083	212L
+NA	0	0	NA	IIV6gp209	1569	213R
+NA	0	0	NA	IIV6gp210	147	214L
+NA	0	0	NA	IIV6gp211	153	215R
+NA	0	0	NA	IIV6gp212	483	216R
+NA	0	0	NA	IIV6gp213	201	217L
+NA	0	0	NA	IIV6gp214	825	218R
+NA	0	0	NA	IIV6gp215	1032	219L
+NA	0	0	NA	IIV6gp216	126	220L
+NA	0	0	NA	IIV6gp217	171	221L
+NA	0	0	NA	IIV6gp218	339	222R
+NA	0	0	NA	IIV6gp219	192	223L
+NA	0	0	NA	IIV6gp220	1350	224L
+NA	0	0	NA	IIV6gp221	888	225R
+NA	0	0	NA	IIV6gp222	291	226R
+NA	0	0	NA	IIV6gp223	192	227L
+NA	0	0	NA	IIV6gp224	810	228L
+NA	0	0	NA	IIV6gp225	1332	229L
+NA	0	0	NA	IIV6gp226	195	230L
+NA	0	0	NA	IIV6gp227	138	231R
+NA	5	318	NA	IIV6gp228	2016	232R
+NA	0	0	NA	IIV6gp229	189	233L
+NA	1	26	NA	IIV6gp230	582	234R
+NA	0	0	NA	IIV6gp231	798	235L
+NA	0	0	NA	IIV6gp232	222	236L
+NA	0	0	NA	IIV6gp233	138	237R
+NA	1	28	NA	IIV6gp234	1323	238R
+NA	0	0	NA	IIV6gp235	180	239R
+NA	0	0	NA	IIV6gp236	189	240R
+NA	0	0	NA	IIV6gp237	513	241L
+NA	0	0	NA	IIV6gp238	300	242L
+NA	0	0	NA	IIV6gp239	132	243R
+NA	0	0	NA	IIV6gp240	849	244L
+NA	0	0	NA	IIV6gp241	177	245R
+NA	0	0	NA	IIV6gp242	381	246L
+NA	0	0	NA	IIV6gp243	354	247L
+NA	0	0	NA	IIV6gp244	303	248R
+NA	0	0	NA	IIV6gp245	165	249R
+NA	1	1	NA	IIV6gp246	426	250L
+NA	2	8	NA	IIV6gp247	642	251L
+NA	0	0	NA	IIV6gp248	141	252L
+NA	1	1	NA	IIV6gp249	501	253L
+NA	0	0	NA	IIV6gp250	1011	254L
+NA	0	0	NA	IIV6gp251	180	255L
+NA	0	0	NA	IIV6gp252	237	256R
+NA	0	0	NA	IIV6gp253	141	257R
+NA	0	0	NA	IIV6gp254	156	258R
+NA	0	0	NA	IIV6gp255	900	259R
+NA	0	0	NA	IIV6gp256	138	260R
+NA	3	300	NA	IIV6gp257	4086	261R
+NA	0	0	NA	IIV6gp258	162	262R
+NA	2	237	NA	IIV6gp259	186	263L
+NA	0	0	NA	IIV6gp260	132	264R
+NA	0	0	NA	IIV6gp261	327	265L
+NA	0	0	NA	IIV6gp262	162	266L
+NA	0	0	NA	IIV6gp263	141	267R
+NA	0	0	NA	IIV6gp264	2133	268L
+NA	0	0	NA	IIV6gp265	351	269R
+NA	0	0	NA	IIV6gp266	186	270R
+NA	0	0	NA	IIV6gp267	165	271R
+NA	1	8	NA	IIV6gp268	216	272L
+NA	0	0	NA	IIV6gp269	411	273R
+NA	0	0	NA	IIV6gp270	1404	274L
+NA	0	0	NA	IIV6gp271	147	275R
+NA	0	0	NA	IIV6gp272	222	276L
+NA	0	0	NA	IIV6gp273	144	277R
+NA	0	0	NA	IIV6gp274	162	278L
+NA	0	0	NA	IIV6gp275	228	279R
+NA	0	0	NA	IIV6gp276	189	280R
+NA	0	0	NA	IIV6gp277	159	281R
+NA	0	0	NA	IIV6gp278	1152	282R
+NA	0	0	NA	IIV6gp279	126	283L
+NA	0	0	NA	IIV6gp280	447	284R
+NA	1	15	NA	IIV6gp281	366	285L
+NA	0	0	NA	IIV6gp282	168	286L
+NA	0	0	NA	IIV6gp283	948	287R
+NA	0	0	NA	IIV6gp284	189	288R
+NA	0	0	NA	IIV6gp285	1254	289L
+NA	0	0	NA	IIV6gp286	132	290R
+NA	0	0	NA	IIV6gp287	204	291R
+NA	0	0	NA	IIV6gp288	177	292L
+NA	0	0	NA	IIV6gp289	459	293R
+NA	0	0	NA	IIV6gp290	135	294R
+NA	1	45	NA	IIV6gp291	4032	295L
+NA	0	0	NA	IIV6gp292	144	296R
+NA	0	0	NA	IIV6gp293	138	297L
+NA	1	45	NA	IIV6gp294	168	298R
+NA	0	0	NA	IIV6gp295	129	299R
+NA	0	0	NA	IIV6gp296	186	300R
+NA	0	0	NA	IIV6gp297	225	301L
+NA	1	10	NA	IIV6gp298	1137	302L
+NA	0	0	NA	IIV6gp299	177	303R
+NA	0	0	NA	IIV6gp300	189	304R
+NA	0	0	NA	IIV6gp301	627	305L
+NA	0	0	NA	IIV6gp302	939	306R
+NA	0	0	NA	IIV6gp303	594	307L
+NA	0	0	NA	IIV6gp304	222	308L
+NA	0	0	NA	IIV6gp305	654	309L
+NA	0	0	NA	IIV6gp306	132	310R
+NA	0	0	NA	IIV6gp307	123	311R
+NA	0	0	NA	IIV6gp308	279	312R
+NA	0	0	NA	IIV6gp309	1077	313L
+NA	0	0	NA	IIV6gp310	162	314L
+NA	0	0	NA	IIV6gp311	699	315L
+NA	0	0	NA	IIV6gp312	126	316R
+NA	0	0	NA	IIV6gp313	1257	317L
+NA	0	0	NA	IIV6gp314	144	318R
+NA	0	0	NA	IIV6gp315	231	319L
+NA	0	0	NA	IIV6gp316	174	320L
+NA	0	0	NA	IIV6gp317	150	321R
+NA	0	0	NA	IIV6gp318	210	322R
+NA	0	0	NA	IIV6gp319	168	323L
+NA	0	0	NA	IIV6gp320	138	324L
+NA	0	0	NA	IIV6gp321	480	325L
+NA	0	0	NA	IIV6gp322	123	326L
+NA	0	0	NA	IIV6gp323	189	327R
+NA	0	0	NA	IIV6gp324	123	328L
+NA	0	0	NA	IIV6gp325	1137	329R
+NA	0	0	NA	IIV6gp326	192	330L
+NA	0	0	NA	IIV6gp327	228	331R
+NA	0	0	NA	IIV6gp328	705	332L
+NA	0	0	NA	IIV6gp329	213	333L
+NA	0	0	NA	IIV6gp330	138	334R
+NA	0	0	NA	IIV6gp331	996	335L
+NA	0	0	NA	IIV6gp332	126	336R
+NA	2	92	NA	IIV6gp333	1239	337L
+NA	0	0	NA	IIV6gp334	153	338L
+NA	0	0	NA	IIV6gp335	144	339L
+NA	0	0	NA	IIV6gp336	522	340R
+NA	0	0	NA	IIV6gp337	144	341R
+NA	0	0	NA	IIV6gp338	267	342R
+NA	0	0	NA	IIV6gp339	1389	343L
+NA	0	0	NA	IIV6gp340	186	344R
+NA	0	0	NA	IIV6gp341	123	345R
+NA	0	0	NA	IIV6gp342	210	346R
+NA	0	0	NA	IIV6gp343	336	347L
+NA	0	0	NA	IIV6gp344	297	348R
+NA	0	0	NA	IIV6gp345	423	349L
+NA	0	0	NA	IIV6gp346	624	350L
+NA	0	0	NA	IIV6gp347	144	351R
+NA	0	0	NA	IIV6gp348	213	352R
+NA	0	0	NA	IIV6gp349	123	353L
+NA	0	0	NA	IIV6gp350	210	354L
+NA	0	0	NA	IIV6gp351	549	355R
+NA	0	0	NA	IIV6gp352	159	356L
+NA	0	0	NA	IIV6gp353	495	357R
+NA	0	0	NA	IIV6gp354	459	358L
+NA	1	14	NA	IIV6gp355	1041	359L
+NA	0	0	NA	IIV6gp356	189	360R
+NA	0	0	NA	IIV6gp357	1629	361L
+NA	0	0	NA	IIV6gp358	216	362R
+NA	0	0	NA	IIV6gp359	141	363L
+NA	0	0	NA	IIV6gp360	162	364L
+NA	0	0	NA	IIV6gp361	159	365L
+NA	2	174	NA	IIV6gp362	345	366R
+NA	0	0	NA	IIV6gp363	192	367L
+NA	0	0	NA	IIV6gp364	282	368R
+NA	1	32	NA	IIV6gp365	1248	369L
+NA	0	0	NA	IIV6gp366	135	370R
+NA	0	0	NA	IIV6gp367	123	371R
+NA	0	0	NA	IIV6gp368	165	372R
+NA	1	40	NA	IIV6gp369	732	373L
+NA	1	42	NA	IIV6gp370	498	374R
+NA	1	42	NA	IIV6gp371	156	375R
+NA	0	0	NA	IIV6gp372	1083	376L
+NA	0	0	NA	IIV6gp373	207	377R
+NA	3	310	NA	IIV6gp374	582	378R
+NA	0	0	NA	IIV6gp375	141	379L
+NA	0	0	NA	IIV6gp376	1587	380R
+NA	0	0	NA	IIV6gp377	141	381L
+NA	0	0	NA	IIV6gp378	153	382R
+NA	0	0	NA	IIV6gp379	129	383L
+NA	0	0	NA	IIV6gp380	123	384L
+NA	0	0	NA	IIV6gp381	765	385L
+NA	0	0	NA	IIV6gp382	228	386R
+NA	0	0	NA	IIV6gp383	123	387R
+NA	0	0	NA	IIV6gp384	1044	388R
+NA	0	0	NA	IIV6gp385	1236	389L
+NA	0	0	NA	IIV6gp386	129	390R
+NA	0	0	NA	IIV6gp387	885	391R
+NA	3	141	NA	IIV6gp388	279	392R
+NA	0	0	NA	IIV6gp389	1365	393L
+NA	0	0	NA	IIV6gp390	126	394R
+NA	0	0	NA	IIV6gp391	456	395R
+NA	0	0	NA	IIV6gp392	3174	396L
+NA	0	0	NA	IIV6gp393	123	397L
+NA	0	0	NA	IIV6gp394	126	398R
+NA	0	0	NA	IIV6gp395	393	399R
+NA	0	0	NA	IIV6gp396	132	400R
+NA	0	0	NA	IIV6gp397	732	401R
+NA	0	0	NA	IIV6gp398	135	402L
+NA	1	4	NA	IIV6gp399	144	403L
+NA	0	0	NA	IIV6gp400	717	404L
+NA	0	0	NA	IIV6gp401	135	405L
+NA	0	0	NA	IIV6gp402	177	406R
+NA	0	0	NA	IIV6gp403	129	407R
+NA	0	0	NA	IIV6gp404	147	408R
+NA	0	0	NA	IIV6gp405	915	411L
+NA	0	0	NA	IIV6gp406	126	409R
+NA	0	0	NA	IIV6gp407	177	410L
+NA	0	0	NA	IIV6gp408	129	412L
+NA	3	205	NA	IIV6gp409	627	413R
+NA	1	24	NA	IIV6gp410	579	414L
+NA	0	0	NA	IIV6gp411	729	415R
+NA	0	0	NA	IIV6gp412	129	416R
+NA	0	0	NA	IIV6gp413	168	417L
+NA	0	0	NA	IIV6gp414	168	418R
+NA	0	0	NA	IIV6gp415	156	419L
+NA	0	0	NA	IIV6gp416	1344	420R
+NA	0	0	NA	IIV6gp417	123	421L
+NA	0	0	NA	IIV6gp418	597	422L
+NA	0	0	NA	IIV6gp419	546	423L
+NA	0	0	NA	IIV6gp420	171	424R
+NA	0	0	NA	IIV6gp421	192	425R
+NA	0	0	NA	IIV6gp422	417	426R
+NA	0	0	NA	IIV6gp423	132	427R
+NA	2	74	NA	IIV6gp424	3582	428L
+NA	0	0	NA	IIV6gp425	135	429R
+NA	0	0	NA	IIV6gp426	225	430R
+NA	0	0	NA	IIV6gp427	195	431L
+NA	0	0	NA	IIV6gp428	168	432R
+NA	0	0	NA	IIV6gp429	147	433R
+NA	1	29	NA	IIV6gp430	168	434L
+NA	0	0	NA	IIV6gp431	198	435R
+NA	0	0	NA	IIV6gp432	918	436R
+NA	0	0	NA	IIV6gp433	198	437L
+NA	1	37	NA	IIV6gp434	891	438L
+NA	0	0	NA	IIV6gp435	1614	439L
+NA	0	0	NA	IIV6gp436	126	440R
+NA	0	0	NA	IIV6gp437	351	441R
+NA	0	0	NA	IIV6gp438	141	442L
+NA	3	3168	NA	IIV6gp439	7299	443R
+NA	0	0	NA	IIV6gp440	165	444R
+NA	1	207	NA	IIV6gp441	207	445L
+NA	1	207	NA	IIV6gp442	207	446L
+NA	1	186	NA	IIV6gp443	186	447L
+NA	2	724	NA	IIV6gp444	1089	448L
+NA	1	207	NA	IIV6gp445	207	449L
+NA	0	0	NA	IIV6gp446	225	450L
+NA	1	8	NA	IIV6gp447	390	451L
+NA	0	0	NA	IIV6gp448	189	452R
+NA	0	0	NA	IIV6gp449	417	453L
+NA	0	0	NA	IIV6gp450	555	454R
+NA	0	0	NA	IIV6gp451	162	455L
+NA	0	0	NA	IIV6gp452	147	456R
+NA	0	0	NA	IIV6gp453	885	457L
+NA	0	0	NA	IIV6gp454	1488	458R
+NA	0	0	NA	IIV6gp455	135	459L
+NA	0	0	NA	IIV6gp456	663	460R
+NA	0	0	NA	IIV6gp457	147	461R
+NA	0	0	NA	IIV6gp458	171	462R
+NA	0	0	NA	IIV6gp459	873	463L
+NA	0	0	NA	IIV6gp460	198	464R
+NA	0	0	NA	IIV6gp461	153	465R
+NA	0	0	NA	IIV6gp462	273	466R
+NA	0	0	NA	IIV6gp463	1512	467R
+NA	0	0	NA	CLVC_sRNA-1gp1	7539	replicase
+NA	0	0	p29	CLVC_sRNA-1gp2	792	p29
+NA	0	0	NA	X812_gp01	336	hypothetical protein
+NA	0	0	NA	X812_gp02	222	hypothetical protein
+NA	1	7	NA	X812_gp03	408	hypothetical protein
+NA	2	57	NA	X812_gp04	594	Putative transposase
+NA	0	0	NA	X812_gp05	1131	minor virion protein
+NA	0	0	NA	X812_gp06	1830	Capsid protein
+NA	0	0	NA	X812_gp07	1329	hypothetical protein
+NA	1	1	NA	X812_gp08	246	hypothetical protein
+NA	0	0	NA	X812_gp09	2337	DNA replication protein
+NA	0	0	NA	X812_gp10	507	hypothetical protein
+NA	0	0	NA	X812_gp11	744	Putative integrase
+NA	0	0	NA	X812_gp12	567	hypothetical protein
+NA	0	0	NA	X812_gp13	555	minor virion protein
+NA	0	0	NA	X812_gp14	726	hypothetical protein
+NA	3	417	NA	X812_gp15	918	collagen-like protein
+NA	0	0	NA	X812_gp16	366	hypothetical protein
+NA	0	0	NA	X812_gp17	402	hypothetical protein
+NA	0	0	NA	X812_gp18	738	DNA packaging protein
+NA	0	0	NA	X812_gp19	444	hypothetical protein
+NA	0	0	NA	X812_gp20	444	hypothetical protein
+NA	0	0	HcRNAV34 ORF-1	HCRV_gp1	3000	polyprotein coding for replicases including RNA-dependent RNA polymerase region
+NA	0	0	HcRNAV34 ORF-2	HCRV_gp2	1080	major viral capsid protein
+NA	0	0	mat	MX1p1	1266	maturation protein
+NA	0	0	NA	MX1p2	990	minor coat protein
+NA	0	0	NA	MX1p3	402	major coat protein
+NA	0	0	rep	MX1p4	1761	RNA replicase, beta subunit
+NA	0	0	NA	AFV1_ORF150	453	hypothetical protein
+NA	0	0	NA	AFV1_ORF90	573	hypothetical protein
+NA	0	0	NA	AFV1_ORF99	300	hypothetical protein
+NA	0	0	NA	AFV1_ORF72	219	hypothetical protein
+NA	0	0	NA	AFV1_ORF157	474	hypothetical protein
+GOA:Q70LE5	0	0	NA	AFV1_ORF59a	180	hypothetical protein
+NA	0	0	NA	AFV1_ORF95	288	hypothetical protein
+GOA:Q70LE3	0	0	NA	AFV1_ORF59b	180	hypothetical protein
+NA	0	0	NA	AFV1_ORF77	234	hypothetical protein
+NA	0	0	NA	AFV1_ORF48	147	hypothetical protein
+NA	0	0	NA	AFV1_ORF166	501	hypothetical protein
+NA	0	0	NA	AFV1_ORF144	435	hypothetical protein
+NA	0	0	NA	AFV1_ORF115	348	hypothetical protein
+NA	0	0	NA	AFV1_ORF135	408	hypothetical protein
+NA	0	0	NA	AFV1_ORF426	1281	putative ATP-dependent protease
+NA	0	0	NA	AFV1_ORF74	225	hypothetical protein
+NA	0	0	NA	AFV1_ORF223	672	CRISPR-associated Cas4-like protein
+NA	0	0	NA	AFV1_ORF65	198	hypothetical protein
+NA	0	0	NA	AFV1_ORF94	285	hypothetical protein
+GOA:Q70LD1	0	0	NA	AFV1_ORF110	333	hypothetical protein
+NA	0	0	NA	AFV1_ORF195	588	hypothetical protein
+NA	0	0	NA	AFV1_ORF221	666	hypothetical protein
+NA	0	0	NA	AFV1_ORF137	414	hypothetical protein
+NA	0	0	NA	AFV1_ORF132	399	hypothetical protein
+NA	0	0	NA	AFV1_ORF140	423	hypothetical protein
+GOA:Q70LC5	0	0	NA	AFV1_ORF313	942	hypothetical protein
+NA	0	0	NA	AFV1_ORF146	441	hypothetical protein
+NA	0	0	NA	AFV1_ORF102	309	hypothetical protein
+NA	0	0	NA	AFV1_ORF807	2424	hypothetical protein
+NA	0	0	NA	AFV1_ORF55	168	hypothetical protein
+NA	0	0	NA	AFV1_ORF307	924	hypothetical protein
+NA	0	0	NA	AFV1_ORF274	825	hypothetical protein
+NA	0	0	NA	AFV1_ORF52	159	hypothetical protein
+NA	0	0	NA	AFV1_ORF80	243	hypothetical protein
+NA	0	0	NA	AFV1_ORF300	903	hypothetical protein
+NA	0	0	NA	AFV1_ORF224	675	hypothetical protein
+NA	0	0	NA	AFV1_ORF116	351	DNA binding protein
+NA	0	0	NA	AFV1_ORF63	192	hypothetical protein
+NA	0	0	NA	AFV1_ORF108	327	hypothetical protein
+NA	0	0	NA	AFV1_ORF75	228	hypothetical protein
+NA	0	0	ORF1	BJD81_gp1	1704	ORF1
+NA	0	0	ORF2	BJD81_gp2	831	ORF2
+NA	0	0	L	BJD81_gp3	6606	RNA-dependent RNA polymerase
+NA	0	0	NA	BCVgp1	747	putative protein P0
+NA	0	0	NA	BCVgp2	3242	putative fusion protein P1-P2
+NA	0	0	NA	BCBgp6	1971	putative protein P1
+NA	0	0	NA	BCVgp3	2004	putative protein P5
+NA	0	0	NA	BCVgp4	609	putative protein P3
+NA	0	0	NA	BCVgp5	528	putative protein P4
+NA	0	0	NA	OsHV1_gp001	447	ORF1
+NA	0	0	NA	OsHV1_gp002	504	ORF2
+NA	1	31	NA	OsHV1_gp003	765	ORF3
+NA	0	0	NA	OsHV1_gp004	1050	ORF4
+NA	0	0	NA	OsHV1_gp005	2031	ORF6
+NA	0	0	NA	OsHV1_gp006	3546	ORF7
+NA	0	0	NA	OsHV1_gp007	960	ORF8
+NA	0	0	NA	OsHV1_gp008	1779	ORF9
+NA	0	0	NA	OsHV1_gp009	1029	ORF10
+NA	1	93	NA	OsHV1_gp010	3288	ORF11
+NA	0	0	NA	OsHV1_gp011	588	ORF12
+NA	0	0	NA	OsHV1_gp012	318	ORF13
+NA	0	0	NA	OsHV1_gp013	585	ORF14
+NA	0	0	NA	OsHV1_gp014	645	ORF15
+NA	0	0	NA	OsHV1_gp015	231	ORF16
+NA	0	0	NA	OsHV1_gp016	348	ORF17
+NA	0	0	NA	OsHV1_gp017	282	ORF18
+NA	0	0	NA	OsHV1_gp018	1209	ORF19
+NA	0	0	NA	OsHV1_gp019	1740	ORF20
+NA	0	0	NA	OsHV1_gp020	2955	ORF21
+NA	0	0	NA	OsHV1_gp021	4899	ORF22
+NA	0	0	NA	OsHV1_gp022	3819	ORF23
+NA	0	0	NA	OsHV1_gp023	1134	ORF24
+NA	0	0	NA	OsHV1_gp024	666	ORF25
+NA	0	0	NA	OsHV1_gp025	1188	ORF26
+NA	0	0	NA	OsHV1_gp026	801	ORF27
+NA	0	0	NA	OsHV1_gp027	2562	ORF28
+NA	0	0	NA	OsHV1_gp028	606	ORF29
+NA	0	0	NA	OsHV1_gp029	747	ORF30
+NA	0	0	NA	OsHV1_gp030	558	ORF31
+NA	0	0	NA	OsHV1_gp031	891	ORF33
+NA	0	0	NA	OsHV1_gp032	375	ORF34
+NA	0	0	NA	OsHV1_gp033	474	ORF35
+NA	0	0	NA	OsHV1_gp034	228	ORF36
+NA	0	0	NA	OsHV1_gp035	231	ORF37
+NA	0	0	NA	OsHV1_gp036	582	ORF38
+NA	0	0	NA	OsHV1_gp037	585	ORF39
+NA	0	0	NA	OsHV1_gp038	1728	ORF40
+NA	0	0	NA	OsHV1_gp039	2919	ORF41
+NA	0	0	NA	OsHV1_gp040	1095	ORF42
+NA	0	0	NA	OsHV1_gp041	612	ORF43
+NA	0	0	NA	OsHV1_gp042	927	ORF44
+NA	0	0	NA	OsHV1_gp043	726	ORF45
+NA	0	0	NA	OsHV1_gp044	648	ORF46
+NA	0	0	NA	OsHV1_gp045	4239	ORF47
+NA	0	0	NA	OsHV1_gp046	483	ORF48
+NA	0	0	NA	OsHV1_gp047	3417	ORF49
+NA	0	0	NA	OsHV1_gp048	2508	ORF51
+NA	0	0	NA	OsHV1_gp049	543	ORF52
+NA	0	0	NA	OsHV1_gp050	1548	ORF53
+NA	0	0	NA	OsHV1_gp051	2424	ORF54
+NA	0	0	NA	OsHV1_gp052	420	ORF55
+NA	0	0	NA	OsHV1_gp053	849	ORF56
+NA	1	32	NA	OsHV1_gp054	951	ORF57
+NA	0	0	NA	OsHV1_gp055	1566	ORF58
+NA	0	0	NA	OsHV1_gp056	3243	ORF59
+NA	0	0	NA	OsHV1_gp057	1236	ORF60
+NA	0	0	NA	OsHV1_gp058	1737	ORF61
+NA	0	0	NA	OsHV1_gp059	1197	ORF64
+NA	0	0	NA	OsHV1_gp060	3393	ORF66
+NA	0	0	NA	OsHV1_gp061	1791	ORF67
+NA	0	0	NA	OsHV1_gp062	2082	ORF68
+NA	0	0	NA	OsHV1_gp063	1392	ORF69
+NA	0	0	NA	OsHV1_gp064	603	ORF70
+NA	0	0	NA	OsHV1_gp065	1362	ORF71
+NA	0	0	NA	OsHV1_gp066	567	ORF72
+NA	0	0	NA	OsHV1_gp067	357	ORF74
+NA	0	0	NA	OsHV1_gp068	711	ORF75
+NA	0	0	NA	OsHV1_gp069	2037	ORF76
+NA	0	0	NA	OsHV1_gp070	3795	ORF77
+NA	0	0	NA	OsHV1_gp071	3456	ORF78
+NA	0	0	NA	OsHV1_gp072	441	ORF79
+NA	0	0	NA	OsHV1_gp073	351	ORF80
+NA	0	0	NA	OsHV1_gp074	642	ORF81
+NA	0	0	NA	OsHV1_gp075	891	ORF82
+NA	0	0	NA	OsHV1_gp076	1107	ORF83
+NA	0	0	NA	OsHV1_gp077	357	ORF84
+NA	0	0	NA	OsHV1_gp078	2004	ORF85
+NA	0	0	NA	OsHV1_gp079	408	ORF86
+NA	0	0	NA	OsHV1_gp080	513	ORF87
+NA	1	91	NA	OsHV1_gp081	2247	ORF88
+NA	0	0	NA	OsHV1_gp082	735	ORF89
+NA	0	0	NA	OsHV1_gp083	885	ORF90
+NA	0	0	NA	OsHV1_gp084	1083	ORF91
+NA	0	0	NA	OsHV1_gp085	690	ORF92
+NA	0	0	NA	OsHV1_gp086	1215	ORF93
+NA	0	0	NA	OsHV1_gp087	1044	ORF94
+NA	0	0	NA	OsHV1_gp088	933	ORF95
+NA	0	0	NA	OsHV1_gp089	723	ORF96
+NA	0	0	NA	OsHV1_gp090	546	ORF97
+NA	0	0	NA	OsHV1_gp091	1755	ORF98
+NA	0	0	NA	OsHV1_gp092	753	ORF99
+NA	0	0	NA	OsHV1_gp093	5637	ORF100
+NA	0	0	NA	OsHV1_gp094	630	ORF101
+NA	0	0	NA	OsHV1_gp095	2289	ORF102
+NA	0	0	NA	OsHV1_gp096	1272	ORF103
+NA	0	0	NA	OsHV1_gp097	3612	ORF104
+NA	0	0	NA	OsHV1_gp098	1398	ORF106
+NA	1	42	NA	OsHV1_gp099	2070	ORF107
+NA	0	0	NA	OsHV1_gp100	813	ORF108
+NA	0	0	NA	OsHV1_gp101	2625	ORF109
+NA	0	0	NA	OsHV1_gp102	786	ORF110
+NA	0	0	NA	OsHV1_gp103	870	ORF111
+NA	0	0	NA	OsHV1_gp104	1389	ORF112
+NA	0	0	NA	OsHV1_gp105	957	ORF113
+NA	0	0	NA	OsHV1_gp106	1485	ORF114
+NA	0	0	NA	OsHV1_gp107	1050	ORF4
+NA	1	30	NA	OsHV1_gp108	765	ORF3
+NA	0	0	NA	OsHV1_gp109	504	ORF2
+NA	0	0	NA	OsHV1_gp110	447	ORF1
+NA	0	0	NA	OsHV1_gp111	762	ORF115
+NA	0	0	NA	OsHV1_gp112	771	ORF116
+NA	0	0	NA	OsHV1_gp113	1116	ORF117
+NA	0	0	NA	OsHV1_gp114	669	ORF118
+NA	0	0	NA	OsHV1_gp115	579	ORF119
+NA	0	0	NA	OsHV1_gp116	231	ORF120
+NA	0	0	NA	OsHV1_gp117	648	ORF121
+NA	1	26	NA	OsHV1_gp118	1155	ORF122
+NA	0	0	NA	OsHV1_gp119	912	ORF123
+NA	0	0	NA	OsHV1_gp120	1425	ORF124
+NA	2	68	NA	OsHV1_gp121	1155	ORF122
+NA	0	0	NA	OsHV1_gp122	648	ORF121
+NA	0	0	NA	OsHV1_gp123	231	ORF120
+NA	0	0	NA	OsHV1_gp124	579	ORF119
+NA	0	0	NA	OsHV1_gp125	669	ORF118
+NA	0	0	NA	OsHV1_gp126	1116	ORF117
+NA	0	0	NA	OsHV1_gp127	771	ORF116
+NA	0	0	NA	FLB31_gp1	4929	non-structural polyprotein
+NA	0	0	NA	FLB31_gp2	2598	structural polyprotein
+NA	0	0	NA	MAR_ORF001	747	hypothetical protein
+NA	0	0	NA	MAR_ORF002	657	hypothetical protein
+NA	0	0	NA	MAR_ORF003	765	hypothetical protein
+NA	0	0	NA	MAR_ORF004	474	hypothetical protein
+NA	0	0	NA	MAR_ORF005	279	hypothetical protein
+NA	0	0	NA	MAR_ORF006	483	hypothetical protein
+NA	0	0	NA	MAR_ORF007	402	hypothetical protein
+NA	0	0	NA	MAR_ORF008	252	hypothetical protein
+NA	0	0	NA	MAR_ORF009	468	hypothetical protein
+NA	0	0	NA	MAR_ORF010	222	hypothetical protein
+NA	0	0	NA	MAR_ORF011	294	hypothetical protein
+NA	0	0	NA	MAR_ORF012	444	hypothetical protein
+NA	0	0	NA	MAR_ORF013	396	hypothetical protein
+NA	0	0	NA	MAR_ORF014	204	hypothetical protein
+NA	0	0	NA	MAR_ORF015	216	truncated dUTPase
+NA	0	0	NA	MAR_ORF016	630	hypothetical protein
+NA	0	0	NA	MAR_ORF017	888	Dam-like adenine-specific DNA methylase
+NA	0	0	NA	MAR_ORF018	912	hypothetical protein
+NA	1	21	NA	MAR_ORF019	729	F-box containing protein
+NA	0	0	NA	MAR_ORF020	387	hypothetical protein
+NA	0	0	NA	MAR_ORF021	297	hypothetical protein
+NA	0	0	NA	MAR_ORF022	300	hypothetical protein
+NA	0	0	NA	MAR_ORF023	3834	DNA-directed RNA polymerase subunit beta
+NA	0	0	NA	MAR_ORF024	1782	hypothetical protein
+NA	0	0	NA	MAR_ORF025	1185	hypothetical protein
+NA	0	0	NA	MAR_ORF026	1155	hypothetical protein
+NA	0	0	NA	MAR_ORF028	798	F-box containing protein
+NA	0	0	NA	MAR_ORF029	333	hypothetical protein
+NA	0	0	NA	MAR_ORF030	198	hypothetical protein
+NA	0	0	NA	MAR_ORF032	471	hypothetical protein
+NA	0	0	NA	MAR_ORF035	282	hypothetical protein
+NA	0	0	NA	MAR_ORF036	2421	highly derived D5-like helicase-primase
+NA	0	0	NA	MAR_ORF037	519	hypothetical protein
+NA	0	0	NA	MAR_ORF038	276	hypothetical protein
+NA	0	0	NA	MAR_ORF039	888	F-box containing protein
+NA	0	0	NA	MAR_ORF040	1293	restriction endonuclease
+NA	0	0	NA	MAR_ORF041	174	hypothetical protein
+NA	0	0	NA	MAR_ORF042	741	F-box containing protein
+NA	0	0	NA	MAR_ORF043	468	hypothetical protein
+NA	0	0	NA	MAR_ORF045	1149	hypothetical protein
+NA	0	0	NA	MAR_ORF046	414	hypothetical protein
+NA	0	0	NA	MAR_ORF047	294	hypothetical protein
+NA	0	0	NA	MAR_ORF048	600	hypothetical protein
+NA	0	0	NA	MAR_ORF050	759	hypothetical protein
+NA	0	0	NA	MAR_ORF052	2958	DNA-directed RNA polymerase subunit alpha
+NA	0	0	NA	MAR_ORF053	231	hypothetical protein
+NA	0	0	NA	MAR_ORF054	162	hypothetical protein
+NA	0	0	NA	MAR_ORF055	1491	DNA-directed RNA polymerase subunit alpha
+NA	0	0	NA	MAR_ORF056	462	hypothetical protein
+NA	0	0	NA	MAR_ORF057	234	hypothetical protein
+NA	0	0	NA	MAR_ORF058	477	hypothetical protein
+NA	0	0	NA	MAR_ORF059	480	hypothetical protein
+NA	0	0	NA	MAR_ORF060	468	hypothetical protein
+NA	0	0	NA	MAR_ORF061	231	hypothetical protein
+NA	0	0	NA	MAR_ORF062	573	hypothetical protein
+NA	0	0	NA	MAR_ORF063	273	hypothetical protein
+NA	0	0	NA	MAR_ORF064	192	hypothetical protein
+NA	0	0	NA	MAR_ORF065	225	hypothetical protein
+NA	0	0	NA	MAR_ORF067	1152	hypothetical protein
+NA	0	0	NA	MAR_ORF068	843	F-box containing protein
+NA	0	0	NA	MAR_ORF069	387	hypothetical protein
+NA	0	0	NA	MAR_ORF070	1212	zinc finger protein
+NA	0	0	NA	MAR_ORF071	159	hypothetical protein
+NA	0	0	NA	MAR_ORF072	1218	ATP-dependent DNA ligase
+NA	1	197	NA	MAR_ORF073	888	hypothetical protein
+NA	0	0	NA	MAR_ORF074	624	metal dependent phosphohydrolase
+NA	0	0	NA	MAR_ORF075	438	hypothetical protein
+NA	0	0	NA	MAR_ORF076	204	hypothetical protein
+NA	0	0	NA	MAR_ORF077	273	hypothetical protein
+NA	0	0	NA	MAR_ORF078	543	hypothetical protein
+NA	0	0	NA	MAR_ORF079	288	translation initiation factor SUI1
+NA	0	0	NA	MAR_ORF080	435	hypothetical protein
+NA	0	0	NA	MAR_ORF081	246	nucleoside deaminase
+NA	0	0	NA	MAR_ORF082	360	hypothetical protein
+NA	0	0	NA	MAR_ORF083	474	hypothetical protein
+NA	0	0	NA	MAR_ORF084	1038	serine/threonine protein kinase
+NA	0	0	NA	MAR_ORF085	222	hypothetical protein
+NA	0	0	NA	MAR_ORF086	492	hypothetical protein
+NA	0	0	NA	MAR_ORF087	417	hypothetical protein
+NA	0	0	NA	MAR_ORF088	216	hypothetical protein
+NA	0	0	NA	MAR_ORF089	447	hypothetical protein
+NA	0	0	NA	MAR_ORF090	513	hypothetical protein
+NA	0	0	NA	MAR_ORF091	447	hypothetical protein
+NA	0	0	NA	MAR_ORF092	417	HTH-containing DNA-binding protein
+NA	0	0	NA	MAR_ORF093	402	hypothetical protein
+NA	0	0	NA	MAR_ORF094	456	hypothetical protein
+NA	0	0	NA	MAR_ORF095	540	hypothetical protein
+NA	0	0	NA	MAR_ORF096	462	hypothetical protein
+NA	0	0	NA	MAR_ORF097	390	putative antitoxin
+NA	0	0	NA	MAR_ORF098	339	toxin of RelE/StbE family
+NA	0	0	NA	MAR_ORF099	1344	flavin-containing amine oxidoreductase
+NA	0	0	NA	MAR_ORF100	336	hypothetical protein
+NA	0	0	NA	MAR_ORF101	546	hypothetical protein
+NA	0	0	NA	MAR_ORF102	288	hypothetical protein
+NA	0	0	NA	MAR_ORF103	642	hypothetical protein
+NA	0	0	NA	MAR_ORF104	1203	hypothetical protein
+NA	0	0	NA	MAR_ORF105	474	hypothetical protein
+NA	0	0	NA	MAR_ORF106	687	F-box containing protein
+NA	0	0	NA	MAR_ORF107	447	hypothetical protein
+NA	0	0	NA	MAR_ORF108	675	hypothetical protein
+NA	0	0	NA	MAR_ORF109	501	hypothetical protein
+NA	0	0	NA	MAR_ORF110	279	hypothetical protein
+NA	0	0	NA	MAR_ORF111	543	hypothetical protein
+NA	0	0	NA	MAR_ORF112	675	hypothetical protein
+NA	0	0	NA	MAR_ORF113	492	hypothetical protein
+NA	0	0	NA	MAR_ORF114	1773	hypothetical protein
+NA	0	0	NA	MAR_ORF115	240	hypothetical protein
+NA	0	0	NA	MAR_ORF116	534	hypothetical protein
+NA	0	0	NA	MAR_ORF117	363	hypothetical protein
+NA	0	0	NA	MAR_ORF118	2358	SMC1 family ATPase
+NA	0	0	NA	MAR_ORF119	711	hypothetical protein
+NA	0	0	NA	MAR_ORF120	321	small membrane protein
+NA	0	0	NA	MAR_ORF121	339	small membrane protein
+NA	0	0	NA	MAR_ORF122	4383	serine/threonine protein kinase
+NA	0	0	NA	MAR_ORF124	510	MORN repeat-containing protein
+NA	0	0	NA	MAR_ORF126	675	hypothetical protein
+NA	0	0	NA	MAR_ORF128	444	hypothetical protein
+NA	0	0	NA	MAR_ORF129	426	ribonuclease H
+NA	0	0	NA	MAR_ORF130	1152	eukaryotic peptide chain release translation termination factor 1
+NA	0	0	NA	MAR_ORF131	816	DHH family phosphohydrolase
+NA	0	0	NA	MAR_ORF133	750	hypothetical protein
+NA	0	0	NA	MAR_ORF134	699	hypothetical protein
+NA	0	0	NA	MAR_ORF135	504	hypothetical protein
+NA	0	0	NA	MAR_ORF136	348	hypothetical protein
+NA	0	0	NA	MAR_ORF137	696	hypothetical protein
+NA	0	0	NA	MAR_ORF138	243	hypothetical protein
+NA	1	29	NA	MAR_ORF139	1083	hypothetical protein
+NA	0	0	NA	MAR_ORF140	324	hypothetical protein
+NA	0	0	NA	MAR_ORF141	765	hypothetical protein
+NA	0	0	NA	MAR_ORF142	648	hypothetical protein
+NA	0	0	NA	MAR_ORF143	657	hypothetical protein
+NA	0	0	NA	MAR_ORF144	720	hypothetical protein
+NA	0	0	NA	MAR_ORF145	210	hypothetical protein
+NA	0	0	NA	MAR_ORF146	432	F-box containing protein
+NA	0	0	NA	MAR_ORF147	474	hypothetical protein
+NA	0	0	NA	MAR_ORF148	447	hypothetical protein
+NA	1	131	NA	MAR_ORF149	1668	hypothetical protein
+NA	0	0	NA	MAR_ORF150	339	hypothetical protein
+NA	0	0	NA	MAR_ORF151	465	F-box containing protein
+NA	0	0	NA	MAR_ORF152	2712	D5 family helicase-primase
+NA	0	0	NA	MAR_ORF153	804	hypothetical protein
+NA	0	0	NA	MAR_ORF154	303	zinc-ribbon-containing protein
+NA	0	0	NA	MAR_ORF155	402	hypothetical protein
+NA	0	0	NA	MAR_ORF156	1599	restriction endonuclease
+NA	0	0	NA	MAR_ORF157	774	A32-like packaging ATPase
+NA	0	0	NA	MAR_ORF158	486	hypothetical protein
+NA	0	0	NA	MAR_ORF159	900	hypothetical protein
+NA	0	0	NA	MAR_ORF160	726	serine/threonine protein kinase
+NA	0	0	NA	MAR_ORF161	381	mannosyltransferase OCH1-like protein
+NA	0	0	NA	MAR_ORF162	909	mannosyltransferase OCH1-like protein
+NA	0	0	NA	MAR_ORF163	1260	translation elongation factor EF-1alpha
+NA	0	0	NA	MAR_ORF164	402	hypothetical protein
+NA	0	0	NA	MAR_ORF165	210	small membrane protein
+NA	0	0	NA	MAR_ORF166	507	histone 2A-domain-containing protein
+NA	0	0	NA	MAR_ORF167	918	hypothetical protein
+NA	0	0	NA	MAR_ORF168	267	hypothetical protein
+NA	0	0	NA	MAR_ORF169	507	hypothetical protein
+NA	0	0	NA	MAR_ORF170	189	hypothetical protein
+NA	0	0	NA	MAR_ORF171	738	hypothetical protein
+NA	0	0	NA	MAR_ORF172	549	hypothetical protein
+NA	0	0	NA	MAR_ORF173	3270	DNA topoisomerase II
+NA	0	0	NA	MAR_ORF174	195	hypothetical protein
+NA	0	0	NA	MAR_ORF175	552	hypothetical protein
+NA	0	0	NA	MAR_ORF176	366	hypothetical protein
+NA	0	0	NA	MAR_ORF177	237	hypothetical protein
+NA	0	0	NA	MAR_ORF178	543	hypothetical protein
+NA	0	0	NA	MAR_ORF179	375	hypothetical protein
+NA	0	0	NA	MAR_ORF180	303	hypothetical protein
+NA	0	0	NA	MAR_ORF181	996	putative nuclease
+NA	0	0	NA	MAR_ORF182	360	hypothetical protein
+NA	0	0	NA	MAR_ORF183	1539	hypothetical protein
+NA	0	0	NA	MAR_ORF184	3522	helicase origin-binding-protein
+NA	0	0	NA	MAR_ORF186	207	hypothetical protein
+NA	0	0	NA	MAR_ORF188	657	hypothetical protein
+NA	0	0	NA	MAR_ORF189	897	class 3 lipase
+NA	0	0	NA	MAR_ORF190	381	hypothetical protein
+NA	0	0	NA	MAR_ORF191	840	serine/threonine protein kinase
+NA	0	0	NA	MAR_ORF192	546	hypothetical protein
+NA	0	0	NA	MAR_ORF193	1347	zinc finger protein
+NA	0	0	NA	MAR_ORF194	3894	hypothetical protein
+NA	0	0	NA	MAR_ORF195	732	serine/threonine protein kinase
+NA	0	0	NA	MAR_ORF196	270	hypothetical protein
+NA	0	0	NA	MAR_ORF197	1233	RNA ligase
+NA	0	0	NA	MAR_ORF198	411	hypothetical protein
+NA	0	0	NA	MAR_ORF199	876	serine/threonine protein kinase
+NA	0	0	NA	MAR_ORF200	1563	hypothetical protein
+NA	0	0	NA	MAR_ORF201	393	hypothetical protein
+NA	1	3	NA	MAR_ORF202	327	hypothetical protein
+NA	1	4	NA	MAR_ORF203	2319	D6/D11-like helicase
+NA	0	0	NA	MAR_ORF204	519	hypothetical protein
+NA	0	0	NA	MAR_ORF205	585	hypothetical protein
+NA	0	0	NA	MAR_ORF206	390	RING finger E3 ubiquitin protein ligase
+NA	0	0	NA	MAR_ORF207	546	hypothetical protein
+NA	0	0	NA	MAR_ORF208	306	hypothetical protein
+NA	0	0	NA	MAR_ORF209	396	hypothetical protein
+NA	0	0	NA	MAR_ORF210	528	Rossmann-fold nucleotide-binding protein
+NA	0	0	NA	MAR_ORF211	2751	ribonucleoside diphosphate reductase alpha subunit
+NA	0	0	NA	MAR_ORF212	897	proliferating cell nuclear antigen
+NA	0	0	NA	MAR_ORF213	801	transcription initiation factor TFIIB
+NA	0	0	NA	MAR_ORF214	228	hypothetical protein
+NA	0	0	NA	MAR_ORF215	405	hypothetical protein
+NA	0	0	NA	MAR_ORF216	639	RuvC-like Holliday junction resolvase
+NA	0	0	NA	MAR_ORF217	471	dNMP kinase
+NA	0	0	NA	MAR_ORF218	318	hypothetical protein
+NA	0	0	NA	MAR_ORF219	654	hypothetical protein
+NA	2	103	NA	MAR_ORF221	657	hypothetical protein
+NA	0	0	NA	MAR_ORF222	450	transcription factor S-II-domain-containing protein RNAP subunit
+NA	0	0	NA	MAR_ORF223	1038	class 3 lipase
+NA	0	0	NA	MAR_ORF224	747	hypothetical protein
+NA	0	0	NA	MAR_ORF225	351	hypothetical protein
+NA	0	0	NA	MAR_ORF226	2367	hypothetical protein
+NA	0	0	NA	MAR_ORF227	627	putative RNA methyltransferase
+NA	0	0	NA	MAR_ORF228	885	patatin-like phospholipase
+NA	1	35	NA	MAR_ORF229	1128	hypothetical protein
+NA	0	0	NA	MAR_ORF230	1170	hypothetical protein
+NA	0	0	NA	MAR_ORF231	375	thioredoxin
+NA	0	0	NA	MAR_ORF232	444	hypothetical protein
+NA	0	0	NA	MAR_ORF233	906	hypothetical protein
+NA	0	0	NA	MAR_ORF234	618	hypothetical protein
+NA	0	0	NA	MAR_ORF235	324	hypothetical protein
+NA	0	0	NA	MAR_ORF236	561	thymidine kinase
+NA	0	0	NA	MAR_ORF237	579	zinc finger/DNA-binding protein
+NA	0	0	NA	MAR_ORF238	483	hypothetical protein
+NA	0	0	NA	MAR_ORF239	894	hypothetical protein
+NA	0	0	NA	MAR_ORF241	4614	D6/D11-like helicase
+NA	0	0	NA	MAR_ORF242	504	NUDIX hydrolase
+NA	0	0	NA	MAR_ORF243	333	hypothetical protein
+NA	0	0	NA	MAR_ORF244	939	ribonuclease III
+NA	0	0	NA	MAR_ORF245	1500	restriction endonuclease
+NA	0	0	NA	MAR_ORF246	666	hypothetical protein
+NA	0	0	NA	MAR_ORF247	228	ubiquitin
+NA	0	0	NA	MAR_ORF249	1455	MutH/Vsr/archaeal HJR-like endonuclease
+NA	0	0	NA	MAR_ORF251	252	hypothetical protein
+NA	0	0	NA	MAR_ORF252	252	hypothetical protein
+NA	0	0	NA	MAR_ORF253	1641	hypothetical protein
+NA	0	0	NA	MAR_ORF254	729	hypothetical protein
+NA	0	0	NA	MAR_ORF255	1044	hypothetical protein
+NA	0	0	NA	MAR_ORF257	243	hypothetical protein
+NA	0	0	NA	MAR_ORF258	597	alkylated DNA repair protein
+NA	0	0	NA	MAR_ORF259	570	hypothetical protein
+NA	0	0	NA	MAR_ORF260	2745	divergent serine/threonine protein kinase
+NA	0	0	NA	MAR_ORF261	258	hypothetical protein
+NA	0	0	NA	MAR_ORF262	276	hypothetical protein
+NA	0	0	NA	MAR_ORF263	1395	hypothetical protein
+NA	0	0	NA	MAR_ORF264	1332	serine/threonine protein kinase catalytic domain-containing protein
+NA	0	0	NA	MAR_ORF265	510	hypothetical protein
+NA	0	0	NA	MAR_ORF266	192	hypothetical protein
+NA	0	0	NA	MAR_ORF267	579	hypothetical protein
+NA	0	0	NA	MAR_ORF268	843	ribonucleotide reductase small chain
+NA	0	0	NA	MAR_ORF269	840	chaperone protein DnaJ
+NA	0	0	NA	MAR_ORF270	1209	superfamily II helicase
+NA	0	0	NA	MAR_ORF271	321	hypothetical protein
+NA	0	0	NA	MAR_ORF272	819	membrane protein
+NA	0	0	NA	MAR_ORF273	993	membrane protein
+NA	0	0	NA	MAR_ORF274	1326	hypothetical protein
+NA	0	0	NA	MAR_ORF275	183	hypothetical protein
+NA	0	0	NA	MAR_ORF276	1551	papain-like cysteine peptidase
+NA	0	0	NA	MAR_ORF277	696	NUDIX hydrolase
+NA	0	0	NA	MAR_ORF278	432	metallopeptidase WLM
+NA	0	0	NA	MAR_ORF279	612	bacterial MORN repeat-containing protein
+NA	0	0	NA	MAR_ORF280	339	hypothetical protein
+NA	0	0	NA	MAR_ORF281	429	membrane-bound metal-dependent hydrolase
+NA	0	0	NA	MAR_ORF282	1887	glycosyltransferase
+NA	0	0	NA	MAR_ORF283	231	hypothetical protein
+NA	0	0	NA	MAR_ORF284	294	hypothetical protein
+NA	0	0	NA	MAR_ORF285	1317	papain-like cysteine peptidase
+NA	0	0	NA	MAR_ORF286	321	hypothetical protein
+NA	1	8	NA	MAR_ORF287	492	hypothetical protein
+NA	1	1	NA	MAR_ORF288	306	hypothetical protein
+NA	0	0	NA	MAR_ORF289	531	putative nuclease
+NA	0	0	NA	MAR_ORF291	684	SWIB/MDM2 domain-containing protein
+NA	0	0	NA	MAR_ORF292	876	hypothetical protein
+NA	0	0	NA	MAR_ORF293	900	AP endonuclease family 2 protein
+NA	0	0	NA	MAR_ORF294	558	hypothetical protein
+NA	0	0	NA	MAR_ORF295	1395	HNH-family endonuclease
+NA	0	0	NA	MAR_ORF296	630	membrane protein
+NA	0	0	NA	MAR_ORF297	354	hypothetical protein
+NA	0	0	NA	MAR_ORF298	309	hypothetical protein
+NA	0	0	NA	MAR_ORF299	231	hypothetical protein
+NA	0	0	NA	MAR_ORF301	1707	Vsr/MutH/archaeal HJR family nuclease
+NA	0	0	NA	MAR_ORF302	705	hypothetical protein
+NA	0	0	NA	MAR_ORF303	255	hypothetical protein
+NA	0	0	NA	MAR_ORF304	453	eukaryotic translation initiation factor 5
+NA	0	0	NA	MAR_ORF305	360	hypothetical protein
+NA	0	0	NA	MAR_ORF306	3408	early transcription factor large subunit
+NA	0	0	NA	MAR_ORF307	669	hypothetical protein
+NA	0	0	NA	MAR_ORF308	525	hypothetical protein
+NA	0	0	NA	MAR_ORF309	219	hypothetical protein
+NA	0	0	NA	MAR_ORF310	399	disulfide oxidoreductase
+NA	0	0	NA	MAR_ORF311	432	hypothetical protein
+NA	0	0	NA	MAR_ORF312	1383	hypothetical protein
+NA	0	0	NA	MAR_ORF313	561	thioredoxin
+NA	0	0	NA	MAR_ORF314	2460	3-domain mRNA capping enzyme
+NA	0	0	NA	MAR_ORF315	1011	DNA repair exonuclease SbcCD D subunit
+NA	0	0	NA	MAR_ORF316	2076	ankyrin repeat-containing protein
+NA	0	0	NA	MAR_ORF319	1473	"XRN1 5-3 exonuclease"
+NA	0	0	NA	MAR_ORF320	165	hypothetical protein
+NA	0	0	NA	MAR_ORF321	1212	zinc finger protein
+NA	0	0	NA	MAR_ORF322	372	zinc finger protein
+NA	0	0	NA	MAR_ORF323	291	truncated XRN1
+NA	0	0	NA	MAR_ORF325	768	hypothetical protein
+NA	0	0	NA	MAR_ORF326	636	P-loop ATPase/GTPase
+NA	0	0	NA	MAR_ORF327	1287	restriction endonuclease
+NA	0	0	NA	MAR_ORF328	876	glycosyltransferase
+NA	0	0	NA	MAR_ORF330	1434	ankyrin repeat-containing protein
+NA	0	0	NA	MAR_ORF331	492	ankyrin repeat-containing protein
+NA	0	0	NA	MAR_ORF332	612	thioredoxin
+NA	0	0	NA	MAR_ORF333	429	hypothetical protein
+NA	0	0	NA	MAR_ORF334	453	inactivated thioredoxin/glutaredoxin
+NA	0	0	NA	MAR_ORF336	348	hypothetical protein
+NA	0	0	NA	MAR_ORF337	399	hypothetical protein
+NA	0	0	NA	MAR_ORF338	597	membrane protein
+NA	0	0	NA	MAR_ORF339	726	hypothetical protein
+NA	0	0	NA	MAR_ORF340	1041	transcription factor A2-like protein
+NA	0	0	NA	MAR_ORF341	243	hypothetical protein
+NA	0	0	NA	MAR_ORF342	1434	major capsid protein
+NA	0	0	NA	MAR_ORF343	582	hypothetical protein
+NA	0	0	NA	MAR_ORF344	1539	zinc-ribbon-containing protein
+NA	0	0	NA	MAR_ORF345	285	hypothetical protein
+NA	0	0	NA	MAR_ORF346	411	hypothetical protein
+NA	0	0	NA	MAR_ORF347	651	zinc-ribbon-containing protein
+NA	0	0	NA	MAR_ORF348	420	hypothetical protein
+NA	0	0	NA	MAR_ORF349	1305	restriction endonuclease
+NA	0	0	NA	MAR_ORF351	549	hypothetical protein
+NA	0	0	NA	MAR_ORF352	597	divergent serine/threonine protein kinase
+NA	0	0	NA	MAR_ORF353	588	divergent serine/threonine protein kinase
+NA	0	0	NA	MAR_ORF354	441	hypothetical protein
+NA	0	0	NA	MAR_ORF355	516	MORN repeat-containing protein
+NA	0	0	NA	MAR_ORF356	633	hypothetical protein
+NA	0	0	NA	MAR_ORF357	282	hypothetical protein
+NA	0	0	NA	MAR_ORF358	315	hypothetical protein
+NA	0	0	NA	MAR_ORF359	219	hypothetical protein
+NA	0	0	NA	MAR_ORF360	597	divergent serine/threonine protein kinase
+NA	0	0	NA	MAR_ORF361	420	MORN repeat-containing protein
+NA	0	0	NA	MAR_ORF362	291	hypothetical protein
+NA	0	0	NA	MAR_ORF363	729	calcineurin-like phosphoesterase
+NA	0	0	NA	MAR_ORF364	294	hypothetical protein
+NA	0	0	NA	MAR_ORF365	1089	flap-specific endonuclease
+NA	0	0	NA	MAR_ORF366	525	MORN repeat-containing protein
+NA	0	0	NA	MAR_ORF367	936	putative nuclease
+NA	1	51	NA	MAR_ORF368	1443	hypothetical protein
+NA	0	0	NA	MAR_ORF369	723	hypothetical protein
+NA	0	0	NA	MAR_ORF371	1269	Csr/MutH/archaeal HJR family nuclease
+NA	0	0	NA	MAR_ORF372	300	hypothetical protein
+NA	0	0	NA	MAR_ORF373	264	hypothetical protein
+NA	0	0	NA	MAR_ORF375	420	hypothetical protein
+NA	0	0	NA	MAR_ORF377	375	hypothetical protein
+NA	0	0	NA	MAR_ORF378	300	hypothetical protein
+NA	0	0	NA	MAR_ORF379	333	hypothetical protein
+NA	0	0	NA	MAR_ORF380	735	hypothetical protein
+NA	0	0	NA	MAR_ORF381	429	hypothetical protein
+NA	0	0	NA	MAR_ORF382	813	hypothetical protein
+NA	0	0	NA	MAR_ORF383	582	RNAP subunit Rpb5
+NA	0	0	NA	MAR_ORF384	258	hypothetical protein
+NA	0	0	NA	MAR_ORF385	633	F-box containing protein
+NA	0	0	NA	MAR_ORF386	483	hypothetical protein
+NA	0	0	NA	MAR_ORF387	1893	HNH endonuclease
+NA	0	0	NA	MAR_ORF388	336	hypothetical protein
+NA	0	0	NA	MAR_ORF389	201	hypothetical protein
+NA	0	0	NA	MAR_ORF390	192	hypothetical protein
+NA	0	0	NA	MAR_ORF391	717	multiple zinc ribbon protein
+NA	0	0	NA	MAR_ORF392	441	hypothetical protein
+NA	0	0	NA	MAR_ORF393	552	hypothetical protein
+NA	0	0	NA	MAR_ORF394	342	hypothetical protein
+NA	0	0	NA	MAR_ORF395	606	galactose binding lectin domain-containing protein
+NA	0	0	NA	MAR_ORF396	699	hypothetical protein
+NA	0	0	NA	MAR_ORF397	414	hypothetical protein
+NA	0	0	NA	MAR_ORF398	1215	uracil-DNA glycosylase D4
+NA	0	0	NA	MAR_ORF399	1077	hypothetical protein
+NA	0	0	NA	MAR_ORF400	810	cell division cycle 123 protein
+NA	0	0	NA	MAR_ORF401	2532	hypothetical protein
+NA	0	0	NA	MAR_ORF403	1764	zinc finger protein
+NA	0	0	NA	MAR_ORF404	2628	AAA family ATPase
+NA	0	0	NA	MAR_ORF405	369	hypothetical protein
+NA	0	0	NA	MAR_ORF406	279	hypothetical protein
+NA	0	0	NA	MAR_ORF407	324	ubiquitin-like protein
+NA	0	0	NA	MAR_ORF408	1410	ATP-dependent exoDNAse alpha subunit
+NA	0	0	NA	MAR_ORF409	1509	restriction endonuclease
+NA	0	0	NA	MAR_ORF410	327	hypothetical protein
+NA	0	0	NA	MAR_ORF411	774	hypothetical protein
+NA	0	0	NA	MAR_ORF412	372	hypothetical protein
+NA	0	0	NA	MAR_ORF413	699	histone H3
+NA	0	0	NA	MAR_ORF414	741	histone H2B/H2A fusion protein
+NA	0	0	NA	MAR_ORF415	606	hypothetical protein
+NA	0	0	NA	MAR_ORF416	618	peptidoglycan peptidase
+NA	0	0	NA	MAR_ORF417	636	hypothetical protein
+NA	0	0	NA	MAR_ORF418	273	hypothetical protein
+NA	0	0	NA	MAR_ORF419	405	hypothetical protein
+NA	0	0	NA	MAR_ORF420	651	hypothetical protein
+NA	0	0	NA	MAR_ORF421	498	hypothetical protein
+NA	0	0	NA	MAR_ORF422	258	hypothetical protein
+NA	0	0	NA	MAR_ORF423	384	putative P-loop kinase
+NA	0	0	NA	MAR_ORF424	639	serine/threonine protein kinase
+NA	0	0	NA	MAR_ORF425	180	hypothetical protein
+NA	0	0	NA	MAR_ORF426	933	WD repeat protein
+NA	0	0	NA	MAR_ORF427	744	serine/threonine protein kinase
+NA	0	0	NA	MAR_ORF428	417	Vsr/MutH/archaeal HJR family endonuclease
+NA	0	0	NA	MAR_ORF429	1335	bifunctional dihydrofolate reductase-thymidylate synthase
+NA	0	0	NA	MAR_ORF430	483	hypothetical protein
+NA	0	0	NA	MAR_ORF431	459	hypothetical protein
+NA	0	0	NA	MAR_ORF432	720	serine/threonine protein kinase
+NA	0	0	NA	MAR_ORF433	297	hypothetical protein
+NA	0	0	NA	MAR_ORF434	678	MORN repeat-containing protein
+NA	0	0	NA	MAR_ORF435	510	hypothetical protein
+NA	0	0	NA	MAR_ORF436	270	hypothetical protein
+NA	0	0	NA	MAR_ORF437	414	hypothetical protein
+NA	0	0	NA	MAR_ORF438	525	hypothetical protein
+NA	0	0	NA	MAR_ORF439	255	hypothetical protein
+NA	0	0	NA	MAR_ORF440	867	hypothetical protein
+NA	0	0	NA	MAR_ORF441	423	hypothetical protein
+NA	0	0	NA	MAR_ORF442	276	hypothetical protein
+NA	0	0	NA	MAR_ORF443	360	hypothetical protein
+NA	0	0	NA	MAR_ORF444	294	hypothetical protein
+NA	0	0	NA	MAR_ORF445	579	ankyrin repeat-containing protein
+NA	0	0	NA	MAR_ORF446	759	serine/threonine protein kinase
+NA	0	0	NA	MAR_ORF447	165	hypothetical protein
+NA	0	0	NA	MAR_ORF448	366	hypothetical protein
+NA	0	0	NA	MAR_ORF449	189	hypothetical protein
+NA	0	0	NA	MAR_ORF450	171	hypothetical protein
+NA	0	0	NA	MAR_ORF451	990	glycosyltransferase
+NA	0	0	NA	MAR_ORF452	570	hypothetical protein
+NA	0	0	NA	MAR_ORF453	651	hypothetical protein
+NA	0	0	NA	MAR_ORF454	216	hypothetical protein
+NA	0	0	NA	MAR_ORF455	171	hypothetical protein
+NA	0	0	NA	MAR_ORF456	798	hypothetical protein
+NA	0	0	NA	MAR_ORF457	483	hypothetical protein
+NA	1	36	NA	MAR_ORF458	249	hypothetical protein
+NA	0	0	NA	MAR_ORF459	2430	D5-like helicase-primase
+NA	0	0	NA	RUBVgp1	6351	non-structural polyprotein
+NA	0	0	NA	RUBVgp2	3192	structural polyprotein
+NA	0	0	NA	BVE96_gp1	14604	hypothetical protein
+NA	0	0	NA	BVE96_gp2	5436	putative structural polyprotein
+NA	0	0	NA	RnMBV1_sL1_gp1	3723	hypothetical protein
+NA	0	0	NA	RnMBV1_sL1_gp2	3336	RNA-dependent RNA polymerase
+NA	0	0	NA	CD924_gp1	3163	fusion protein
+NA	0	0	NA	CD924_gp2	1164	putative coat protein
+NA	0	0	NA	D1P23_gp1	8094	ORF1
+NA	0	0	NA	D1P23_gp2	7506	ORF2
+NA	1	33	NA	D1P23_gp3	2739	ORF3
+NA	0	0	NA	phiMH2Kp01	4594	putative replication initiation protein
+NA	0	0	NA	phiMH2Kp02	1602	major capsid protein
+NA	0	0	NA	phiMH2Kp03	195	hypothetical protein
+NA	0	0	NA	phiMH2Kp04	192	hypothetical protein
+NA	0	0	NA	phiMH2Kp05	213	hypothetical protein
+NA	0	0	NA	phiMH2Kp06	600	minor capsid protein
+NA	0	0	NA	phiMH2Kp07	156	hypothetical protein
+NA	0	0	NA	phiMH2Kp08	456	minor capsid protein
+NA	0	0	NA	phiMH2Kp09	255	nonstructural protein
+NA	0	0	NA	phiMH2Kp10	117	putative DNA binding protein
+NA	0	0	NA	phiMH2Kp11	330	hypothetical protein
+NA	1	167	NA	crov001	417	hypothetical protein
+NA	1	1468	NA	crov002	1785	hypothetical protein
+NA	0	0	NA	crov003	168	hypothetical protein
+NA	0	0	NA	crov004	417	putative eIF-2B/eIF-5
+NA	0	0	NA	crov005	228	hypothetical protein
+NA	0	0	NA	crov006	408	hypothetical protein
+NA	0	0	NA	crov007	384	hypothetical protein
+NA	0	0	NA	crov008	411	hypothetical protein
+NA	0	0	NA	crov009	432	hypothetical protein
+NA	3	808	NA	crov010	792	hypothetical protein
+NA	0	0	NA	crov011	864	putative RNaseH
+NA	2	56	NA	crov012	1206	hypothetical protein
+NA	0	0	NA	crov013	1440	hypothetical protein
+NA	0	0	NA	crov014	381	hypothetical protein
+NA	0	0	NA	crov015	2742	putative DNA N6-adenine methyltransferase
+NA	0	0	NA	crov016	168	hypothetical protein
+NA	0	0	NA	crov017	240	hypothetical protein
+NA	0	0	NA	crov018	2058	putative superfamily II helicase
+NA	0	0	NA	crov019	1473	hypothetical protein
+NA	0	0	NA	crov020	609	hypothetical protein
+NA	1	40	NA	crov021	990	hypothetical protein
+NA	1	287	NA	crov022	321	hypothetical protein
+NA	0	0	NA	crov023	561	hypothetical protein
+NA	0	0	NA	crov024	240	hypothetical protein
+NA	0	0	NA	crov025	360	hypothetical protein
+NA	0	0	NA	crov026	885	hypothetical protein
+NA	3	1207	NA	crov027	996	hypothetical protein
+NA	0	0	NA	crov028	234	hypothetical protein
+NA	3	708	NA	crov029	555	hypothetical protein
+NA	0	0	NA	crov030	186	hypothetical protein
+NA	4	2872	NA	crov031	1236	hypothetical protein
+NA	1	29	NA	crov032	483	hypothetical protein
+NA	0	0	NA	crov033	234	hypothetical protein
+NA	4	451	NA	crov034	516	hypothetical protein
+NA	2	127	NA	crov035	2463	hypothetical protein
+NA	1	38	NA	crov036	2436	putative Lon protease
+NA	1	32	NA	crov037	966	putative DNA endonuclease
+NA	1	76	NA	crov038	2115	"putative 5-3 exoribonuclease"
+NA	2	72	NA	crov039	462	hypothetical protein
+NA	0	0	NA	crov040	237	hypothetical protein
+NA	0	0	NA	crov041	981	hypothetical protein
+NA	0	0	NA	crov042	192	hypothetical protein
+NA	8	1271	NA	crov043	1758	putative RecQ-like ATP-dependent DNA helicase
+NA	0	0	NA	crov044	219	hypothetical protein
+NA	1	250	NA	crov045	348	hypothetical protein
+NA	0	0	NA	crov046	231	hypothetical protein
+NA	0	0	NA	crov047	2892	hypothetical protein
+NA	3	669	NA	crov048	1350	putative exodeoxyribonuclease VII large subunit
+NA	0	0	NA	crov049	372	hypothetical protein
+NA	0	0	NA	crov050	261	hypothetical protein
+NA	0	0	NA	crov051	1017	putative alkylated DNA repair protein
+NA	1	40	NA	crov052	351	hypothetical protein
+NA	0	0	NA	crov053	411	putative eIF-2B/eIF-5
+NA	0	0	NA	crov054	561	hypothetical protein
+NA	0	0	NA	crov055	444	hypothetical protein
+NA	1	1	NA	crov056	594	putative DNA polymerase III alpha subunit
+NA	0	0	NA	crov057	1947	hypothetical protein
+NA	0	0	NA	crov058	477	putative ubiquitin-conjugating enzyme E2
+NA	7	1054	NA	crov059	1215	hypothetical protein
+NA	0	0	NA	crov060	723	hypothetical protein
+NA	0	0	NA	crov061	1158	"putative 3-5 exonuclease/tRNA(Ile) lysidine synthetase"
+NA	0	0	NA	crov062	1089	hypothetical protein
+NA	0	0	NA	crov063	327	putative SUI1/eIF-1
+NA	0	0	NA	crov064	540	hypothetical protein
+NA	0	0	NA	crov065	549	putative eIF-2B/eIF-5
+NA	0	0	NA	crov066	273	hypothetical protein
+NA	0	0	NA	crov067	1866	putative metalloendopeptidase
+NA	4	2306	NA	crov068	1884	hypothetical protein
+NA	0	0	NA	crov069	492	"putative deoxyuridine 5-triphosphate nucleotidohydrolase"
+NA	2	121	NA	crov070	360	hypothetical protein
+NA	0	0	NA	crov071	732	putative tRNA pseudouridine 5S synthase
+NA	0	0	NA	crov072	2322	putative superfamily II helicase
+NA	0	0	NA	crov073	651	hypothetical protein
+NA	0	0	NA	crov074	894	putative DNA N6-adenine methyltransferase
+NA	0	0	NA	crov075	1671	putative asparagine synthetase B
+NA	0	0	NA	crov076	408	hypothetical protein
+NA	0	0	NA	crov077	270	hypothetical protein
+NA	0	0	NA	crov078	372	hypothetical protein
+NA	2	107	NA	crov079	1446	hypothetical protein
+NA	0	0	NA	crov080	564	putative deoxynucleoside monophosphate kinase
+NA	0	0	NA	crov081	219	hypothetical protein
+NA	0	0	NA	crov082	495	putative ubiquitin-conjugating enzyme E2
+NA	0	0	NA	crov083	729	hypothetical protein
+NA	0	0	NA	crov084	2244	putative DNA topoisomerase IA
+NA	0	0	NA	crov085	291	hypothetical protein
+NA	0	0	NA	crov086	195	hypothetical protein
+NA	0	0	NA	crov087	624	putative methyltransferase
+NA	3	121	NA	crov088	2163	hypothetical protein
+NA	2	160	NA	crov089	1347	hypothetical protein
+NA	0	0	NA	crov090	1287	hypothetical protein
+NA	0	0	NA	crov091	768	hypothetical protein
+NA	0	0	NA	crov092	498	hypothetical protein
+NA	1	25	NA	crov093	471	hypothetical protein
+NA	2	288	NA	crov094	588	hypothetical protein
+NA	0	0	NA	crov095	978	hypothetical protein
+NA	0	0	NA	crov096	546	hypothetical protein
+NA	0	0	NA	crov097	783	hypothetical protein
+NA	0	0	NA	crov098	240	hypothetical protein
+NA	0	0	NA	crov099	570	hypothetical protein
+NA	0	0	NA	crov100	1035	hypothetical protein
+NA	0	0	NA	crov101	369	hypothetical protein
+NA	1	1	NA	crov102	453	putative ubiquitin-conjugating enzyme E2
+NA	0	0	NA	crov103	621	hypothetical protein
+NA	0	0	NA	crov104	234	hypothetical protein
+NA	1	153	NA	crov105	579	hypothetical protein
+NA	0	0	NA	crov106	789	putative apurinic-apyrimidinic endonuclease 1
+NA	1	25	NA	crov107	1410	putative AAA+ superfamily ATPase
+NA	0	0	NA	crov108	213	hypothetical protein
+NA	0	0	NA	crov109	3396	putative superfamily II helicase/VV D6-like early transcription factor small subunit
+NA	1	404	NA	crov110	990	hypothetical protein
+NA	0	0	NA	crov111	2316	hypothetical protein
+NA	0	0	NA	crov112	585	putative tRNA 2-phosphotransferase
+NA	1	46	NA	crov113	1845	putative eIF-2/eIF-5B
+NA	1	1585	NA	crov114	1779	hypothetical protein
+NA	0	0	NA	crov115	1425	putative CPD class I photolyase
+NA	0	0	NA	crov116	357	hypothetical protein
+NA	0	0	NA	crov117	948	hypothetical protein
+NA	1	52	NA	crov118	4926	putative RNA helicase
+NA	0	0	NA	crov119	660	putative papain-like cysteine protease
+NA	1	39	NA	crov120	786	putative fatty acid hydroxylase
+NA	0	0	NA	crov121	663	hypothetical protein
+NA	2	322	NA	crov122	165	hypothetical protein
+NA	1	214	NA	crov123	402	hypothetical protein
+NA	0	0	NA	crov124	813	hypothetical protein
+NA	0	0	NA	crov125	630	putative phosphoglycerate mutase
+NA	0	0	NA	crov126	1032	hypothetical protein
+NA	0	0	NA	crov127	1209	putative DnaJ/Hsp40
+NA	0	0	NA	crov128	1104	putative HD superfamily phosphohydrolase
+NA	0	0	NA	crov129	417	hypothetical protein
+NA	0	0	NA	crov130	1887	hypothetical protein
+NA	0	0	NA	crov131	1713	putative superfamily II helicase/VV D11-like transcription factor
+NA	2	67	NA	crov132	1485	hypothetical protein
+NA	3	246	NA	crov133	1461	hypothetical protein
+NA	0	0	NA	crov134	342	hypothetical protein
+NA	0	0	NA	crov135	906	hypothetical protein
+NA	4	172	NA	crov136	1698	hypothetical protein
+NA	1	29	NA	crov137	2604	putative insulinase-like metalloprotease
+NA	0	0	NA	crov138	792	putative glycosyltransferase
+NA	0	0	NA	crov139	2184	"putative 5-3 exoribonuclease"
+NA	0	0	NA	crov140	1785	hypothetical protein
+NA	0	0	NA	crov141	483	hypothetical protein
+NA	0	0	NA	crov142	5553	hypothetical protein
+NA	0	0	NA	crov143	546	putative Erv-family thiol oxidoreductase
+NA	0	0	NA	crov144	558	hypothetical protein
+NA	2	125	NA	crov145	768	hypothetical protein
+NA	1	152	NA	crov146	777	hypothetical protein
+NA	0	0	NA	crov147	1065	putative ornithine decarboxylase
+NA	0	0	NA	crov148	729	hypothetical protein
+NA	0	0	NA	crov149	1443	putative photolyase
+NA	1	101	NA	crov150	2433	hypothetical protein
+NA	0	0	NA	crov151	1281	hypothetical protein
+NA	0	0	NA	crov152	1605	putative DNA topoisomerase IB
+NA	2	184	NA	crov153	3069	hypothetical protein
+NA	0	0	NA	crov154	312	putative GIY-YIG endonuclease
+NA	1	36	NA	crov155	2289	hypothetical protein
+NA	0	0	NA	crov156	687	hypothetical protein
+NA	2	79	NA	crov157	1287	hypothetical protein
+NA	1	24	NA	crov158	231	hypothetical protein
+NA	0	0	NA	crov159	1422	hypothetical protein
+NA	0	0	NA	crov160	900	putative TATA-box binding protein
+NA	0	0	NA	crov161	567	putative thymidine kinase
+NA	0	0	NA	crov162	786	putative eIF-2alpha
+NA	0	0	NA	crov163	858	putative Holliday junction resolvase
+NA	0	0	NA	crov164	720	putative transcription factor
+NA	0	0	NA	crov165	567	hypothetical protein
+NA	4	223	NA	crov166	1263	hypothetical protein
+NA	0	0	NA	crov167	360	hypothetical protein
+NA	0	0	NA	crov168	288	hypothetical protein
+NA	1	43	NA	crov169	858	putative patatin-like phospholipase
+NA	0	0	NA	crov170	756	putative DnaJ/Hsp40
+NA	0	0	NA	crov171	1035	putative ADP-ribosyl glycohydrolase
+NA	0	0	NA	crov172	462	putative protein disulfide isomerase
+NA	0	0	NA	crov173	804	hypothetical protein
+NA	0	0	NA	crov174	1266	hypothetical protein
+NA	0	0	NA	crov175	765	hypothetical protein
+NA	0	0	NA	crov176	1521	putative capsid protein 4
+NA	0	0	NA	crov177	504	hypothetical protein
+NA	0	0	NA	crov178	10014	hypothetical protein
+NA	2	88	NA	crov179	342	hypothetical protein
+NA	0	0	NA	crov180	258	hypothetical protein
+NA	1	25	NA	crov181	336	hypothetical protein
+NA	0	0	NA	crov182	1089	putative dsRNA-specific ribonuclease III
+NA	5	442	NA	crov183	2331	hypothetical protein
+NA	0	0	NA	crov184	885	putative cysteine protease
+NA	2	558	NA	crov185	2610	hypothetical protein
+NA	0	0	NA	crov186	585	hypothetical protein
+NA	0	0	NA	crov187	381	hypothetical protein
+NA	1	34	NA	crov188	906	hypothetical protein
+NA	1	213	NA	crov189	891	hypothetical protein
+NA	0	0	NA	crov190	1248	hypothetical protein
+NA	1	324	NA	crov191	468	hypothetical protein
+NA	0	0	NA	crov192	513	hypothetical protein
+NA	4	631	NA	crov193	951	hypothetical protein
+NA	0	0	NA	crov194	570	hypothetical protein
+NA	0	0	NA	crov195	945	putative replication factor C subunit
+NA	1	5	NA	crov196	963	putative replication factor C subunit
+NA	0	0	NA	crov197	267	hypothetical protein
+NA	1	24	NA	crov198	2190	putative ubiquitin-conjugating enzyme E2
+NA	3	164	NA	crov199	2130	hypothetical protein
+NA	1	2	NA	crov200	1071	putative exonuclease
+NA	0	0	NA	crov201	234	putative DNA-directed RNA polymerase subunit Rpb10
+NA	0	0	NA	crov202	312	hypothetical protein
+NA	8	900	NA	crov203	1821	hypothetical protein
+NA	0	0	NA	crov204	423	hypothetical protein
+NA	0	0	NA	crov205	408	hypothetical protein
+NA	1	25	NA	crov206	1440	putative lambda-type exonuclease
+NA	0	0	NA	crov207	360	hypothetical protein
+NA	0	0	NA	crov208	597	hypothetical protein
+NA	0	0	NA	crov209	609	hypothetical protein
+NA	0	0	NA	crov210	369	putative DnaJ/Hsp40
+NA	0	0	NA	crov211	195	hypothetical protein
+NA	0	0	NA	crov212	3048	putative mRNA capping enzyme
+NA	1	33	NA	crov213	420	hypothetical protein
+NA	0	0	NA	crov214	1455	hypothetical protein
+NA	0	0	NA	crov215	543	hypothetical protein
+NA	0	0	NA	crov216	1899	putative nucleotidyl transferase
+NA	0	0	NA	crov217	2604	hypothetical protein
+NA	0	0	NA	crov218	954	putative NAD-dependent epimerase/dehydratase
+NA	0	0	NA	crov219	837	putative proliferating cell nuclear antigen
+NA	0	0	NA	crov220	492	putative eIF-4E
+NA	0	0	NA	crov221	456	hypothetical protein
+NA	1	31	NA	crov222	1167	hypothetical protein
+NA	2	62	NA	crov223	873	hypothetical protein
+NA	0	0	NA	crov224	3996	putative DNA-directed RNA polymerase subunit Rpb2 precursor
+NA	0	0	NA	crov225	897	hypothetical protein
+NA	0	0	NA	crov226	429	hypothetical protein
+NA	1	174	NA	crov227	546	hypothetical protein
+NA	0	0	NA	crov228	645	hypothetical protein
+NA	0	0	NA	crov229	372	hypothetical protein
+NA	0	0	NA	crov230	1137	putative transcription initiation factor TFIIB
+NA	0	0	NA	crov231	843	hypothetical protein
+NA	0	0	NA	crov232	1545	putative ABC-type amino acid transporter
+NA	0	0	NA	crov233	765	hypothetical protein
+NA	0	0	NA	crov234	171	hypothetical protein
+NA	0	0	NA	crov235	207	hypothetical protein
+NA	0	0	NA	crov236	321	hypothetical protein
+NA	0	0	NA	crov237	2808	putative Lon protease
+NA	0	0	NA	crov238	690	hypothetical protein
+NA	0	0	NA	crov239	867	hypothetical protein
+NA	1	3	NA	crov240	237	hypothetical protein
+NA	0	0	NA	crov241	1986	putative DnaK/Hsp70
+NA	2	5	NA	crov242	834	putative UDP-glucose 6-dehydrogenase
+NA	1	2	NA	crov243	1005	hypothetical protein
+NA	0	0	NA	crov244	678	hypothetical protein
+NA	0	0	NA	crov245	159	hypothetical protein
+NA	0	0	NA	crov246	645	hypothetical protein
+NA	1	44	NA	crov247	696	putative glycosyltransferase
+NA	0	0	NA	crov248	174	hypothetical protein
+NA	0	0	NA	crov249	225	hypothetical protein
+NA	0	0	NA	crov250	921	hypothetical protein
+NA	0	0	NA	crov251	261	hypothetical protein
+NA	0	0	NA	crov252	714	hypothetical protein
+NA	2	42	NA	crov253	942	hypothetical protein
+NA	0	0	NA	crov254	762	hypothetical protein
+NA	0	0	NA	crov255	762	hypothetical protein
+NA	0	0	NA	crov256	1905	hypothetical protein
+NA	0	0	NA	crov257	159	hypothetical protein
+NA	0	0	NA	crov258	372	hypothetical protein
+NA	0	0	NA	crov259	975	hypothetical protein
+NA	0	0	NA	crov260	903	putative exostosin family protein
+NA	0	0	NA	crov261	1593	putative methyltransferase
+NA	1	35	NA	crov262	816	hypothetical protein
+NA	0	0	NA	crov263	744	hypothetical protein
+NA	0	0	NA	crov264	351	hypothetical protein
+NA	1	37	NA	crov265	1374	putative bifunctional KDO 8-phosphate phosphatase/arabinose 5-phosphate isomerase
+NA	0	0	NA	crov266	1305	putative bifunctional N-acylneuraminate cytidylyltransferase/demethylmenaquinone methyltransferase
+NA	0	0	NA	crov267	1461	putative bifunctional KDO 8-P synthase/dTDP-6-deoxy-L-hexose 3-O-methyltransferase
+NA	0	0	NA	crov268	1299	hypothetical protein
+NA	0	0	NA	crov269	759	hypothetical protein
+NA	0	0	NA	crov270	2346	hypothetical protein
+NA	1	45	NA	crov271	2466	hypothetical protein
+NA	1	9	NA	crov272	819	hypothetical protein
+NA	0	0	NA	crov273	5163	putative glycosyltransferase
+NA	2	76	NA	crov274	1164	hypothetical protein
+NA	0	0	NA	crov275	1047	hypothetical protein
+NA	2	415	NA	crov276	660	hypothetical protein
+NA	1	24	NA	crov277	243	hypothetical protein
+NA	1	39	NA	crov278	837	hypothetical protein
+NA	1	45	NA	crov279	1272	putative ATPase
+NA	6	572	NA	crov280	789	hypothetical protein
+NA	0	0	NA	crov281	453	putative ubiquitin-conjugating enzyme E2
+NA	1	14	NA	crov282	714	hypothetical protein
+NA	1	2	NA	crov283	2334	putative superfamily II helicase/VV D11-like transcription factor
+NA	4	253	NA	crov284	567	hypothetical protein
+NA	4	282	NA	crov285	753	hypothetical protein
+NA	0	0	NA	crov286	1362	putative polyadenylate polymerase catalytic subunit
+NA	0	0	NA	crov287	300	hypothetical protein
+NA	0	0	NA	crov288	561	hypothetical protein
+NA	0	0	NA	crov289	186	hypothetical protein
+NA	1	109	NA	crov290	972	hypothetical protein
+NA	0	0	NA	crov291	588	putative metal-dependent hydrolase
+NA	0	0	NA	crov292	5487	putative VV A7-like early transcription factor large subunit
+NA	0	0	NA	crov293	225	hypothetical protein
+NA	0	0	NA	crov294	306	hypothetical protein
+NA	0	0	NA	crov295	516	hypothetical protein
+NA	0	0	NA	crov296	597	hypothetical protein
+NA	0	0	NA	crov297	2067	hypothetical protein
+NA	1	42	NA	crov298	2637	hypothetical protein
+NA	0	0	NA	crov299	474	putative transcription elongation factor TFIIS
+NA	1	25	NA	crov299a	144	hypothetical protein
+NA	0	0	NA	crov300	246	hypothetical protein
+NA	0	0	NA	crov301	396	hypothetical protein
+NA	1	42	NA	crov302	1488	putative AAA+ family ATPase
+NA	0	0	NA	crov303	840	putative formamidopyrimidine-DNA glycosylase
+NA	0	0	NA	crov304	1689	"putative 5-3 exonuclease"
+NA	2	129	NA	crov305	657	hypothetical protein
+NA	6	1374	NA	crov306	1266	hypothetical protein
+NA	1	175	NA	crov307	189	hypothetical protein
+NA	1	2	NA	crov308	891	putative tubulin-tyrosine ligase family protein
+NA	0	0	NA	crov309	1197	putative serine/threonine protein kinase
+NA	0	0	NA	crov310	897	hypothetical protein
+NA	0	0	NA	crov311	4641	hypothetical protein
+NA	5	1138	NA	crov312	1086	hypothetical protein
+NA	1	33	NA	crov313	984	putative phosphoesterase
+NA	0	0	NA	crov314	939	hypothetical protein
+NA	0	0	NA	crov315	522	hypothetical protein
+NA	0	0	NA	crov316	1434	putative VV A18-like helicase
+NA	5	374	NA	crov317	924	hypothetical protein
+NA	0	0	NA	crov318	237	hypothetical protein
+NA	2	78	NA	crov319	4275	hypothetical protein
+NA	0	0	NA	crov320	561	hypothetical protein
+NA	2	43	NA	crov321	1962	putative capsid protein 3
+NA	1	36	NA	crov322	684	hypothetical protein
+NA	0	0	NA	crov323	363	hypothetical protein
+NA	0	0	NA	crov324	357	hypothetical protein
+NA	0	0	NA	crov325	4467	putative DNA topoisomerase IIA precursor
+NA	0	0	NA	crov326	1995	hypothetical protein
+NA	2	92	NA	crov327	1050	hypothetical protein
+NA	0	0	NA	crov328	570	hypothetical protein
+NA	0	0	NA	crov329	951	putative DNA replication factor C subunit
+NA	1	29	NA	crov330	3246	hypothetical protein
+NA	0	0	NA	crov331	531	hypothetical protein
+NA	1	4	NA	crov332	1800	major core protein
+NA	0	0	NA	crov333	1290	hypothetical protein
+NA	0	0	NA	crov334	429	hypothetical protein
+NA	0	0	NA	crov335	318	hypothetical protein
+NA	1	50	NA	crov336	1347	hypothetical protein
+NA	0	0	NA	crov337	201	hypothetical protein
+NA	0	0	NA	crov338	852	putative VV A32-like packaging ATPase
+NA	0	0	NA	crov339	636	hypothetical protein
+NA	0	0	NA	crov340	291	hypothetical protein
+NA	0	0	NA	crov341	1047	putative transcription factor VLTF3
+NA	0	0	NA	crov342	1521	major capsid protein
+NA	0	0	NA	crov343	570	putative cysteine protease
+NA	1	37	NA	crov344	630	hypothetical protein
+NA	0	0	NA	crov345	756	hypothetical protein
+NA	1	46	NA	crov346	1989	hypothetical protein
+NA	0	0	NA	crov347	477	putative DNA N6-adenine methyltransferase
+NA	0	0	NA	crov348	336	hypothetical protein
+NA	0	0	NA	crov349	633	putative prolyl 4-hydroxylase alpha subunit
+NA	0	0	NA	crov350	228	ubiquitin
+NA	1	43	NA	crov351	393	hypothetical protein
+NA	0	0	NA	crov352	429	hypothetical protein
+NA	0	0	NA	crov353	672	hypothetical protein
+NA	0	0	NA	crov354	435	putative deoxycytidylate deaminase
+NA	0	0	NA	crov355	390	hypothetical protein
+NA	0	0	NA	crov356	1251	putative transposase
+NA	0	0	NA	crov357	618	putative resolvase
+NA	1	14	NA	crov358	993	hypothetical protein
+NA	3	313	NA	crov359	4692	hypothetical protein
+NA	0	0	NA	crov360	912	hypothetical protein
+NA	0	0	NA	crov361	549	hypothetical protein
+NA	0	0	NA	crov362	204	hypothetical protein
+NA	2	85	NA	crov363	1065	hypothetical protein
+NA	3	226	NA	crov364	744	hypothetical protein
+NA	1	39	NA	crov365	378	hypothetical protein
+NA	0	0	NA	crov366	216	hypothetical protein
+NA	0	0	NA	crov367	369	hypothetical protein
+NA	0	0	NA	crov368	4482	putative DNA-directed RNA polymerase subunit Rpb1
+NA	1	29	NA	crov369	996	hypothetical protein
+NA	0	0	NA	crov370	1155	putative superfamily II helicase/eIF-4AIII
+NA	0	0	NA	crov371	156	hypothetical protein
+NA	1	45	NA	crov372	1029	hypothetical protein
+NA	0	0	NA	crov373	543	hypothetical protein
+NA	2	74	NA	crov374	951	hypothetical protein
+NA	0	0	NA	crov375	939	putative DnaJ/Hsp40
+NA	1	77	NA	crov376	447	hypothetical protein
+NA	0	0	NA	crov377	285	hypothetical protein
+NA	1	35	NA	crov378	309	hypothetical protein
+NA	1	44	NA	crov379	357	putative protein disulfide isomerase
+NA	0	0	NA	crov380	225	hypothetical protein
+NA	0	0	NA	crov381	207	hypothetical protein
+NA	0	0	NA	crov382	2319	putative superfamily II RNA helicase
+NA	0	0	NA	crov383	2454	putative type I restriction modification enzyme, M and S domains
+NA	0	0	NA	crov384	2079	hypothetical protein
+NA	0	0	NA	crov385	222	hypothetical protein
+NA	0	0	NA	crov386	789	putative ubiquitin carboxyl-terminal hydrolase
+NA	0	0	NA	crov387	1416	putative exoribonuclease
+NA	2	324	NA	crov388	1032	hypothetical protein
+NA	0	0	NA	crov389	3180	putative superfamily II RNA helicase
+NA	3	1734	NA	crov390	3126	hypothetical protein
+NA	0	0	NA	crov391	2115	putative ELP3 family histone acetyltransferase
+NA	0	0	NA	crov392	417	putative N-acetyltransferase
+NA	0	0	NA	crov393	771	hypothetical protein
+NA	0	0	NA	crov394	1011	hypothetical protein
+NA	0	0	NA	crov395	459	hypothetical protein
+NA	0	0	NA	crov396	1653	putative DNA methyltransferase
+NA	0	0	NA	crov397	210	hypothetical protein
+NA	1	13	NA	crov398	1386	putative capsid protein 2
+NA	0	0	NA	crov399	1107	hypothetical protein
+NA	0	0	NA	crov400	1080	hypothetical protein
+NA	1	16	NA	crov401	267	hypothetical protein
+NA	3	147	NA	crov402	2451	putative superfamily II helicase
+NA	0	0	NA	crov403	1947	putative DnaK/Hsp70
+NA	0	0	NA	crov404	420	hypothetical protein
+NA	0	0	NA	crov405	438	hypothetical protein
+NA	4	1415	NA	crov406	1743	hypothetical protein
+NA	0	0	NA	crov407	609	putative ribonuclease HII
+NA	3	444	NA	crov408	393	hypothetical protein
+NA	3	2178	NA	crov409	1980	hypothetical protein
+NA	0	0	NA	crov410	330	hypothetical protein
+NA	0	0	NA	crov411	456	hypothetical protein
+NA	0	0	NA	crov412	1158	hypothetical protein
+NA	0	0	NA	crov413	435	putative type I cysteine dioxygenase
+NA	0	0	NA	crov414	435	hypothetical protein
+NA	1	41	NA	crov415	1320	hypothetical protein
+NA	0	0	NA	crov416	237	hypothetical protein
+NA	0	0	NA	crov417	486	hypothetical protein
+NA	0	0	NA	crov418	255	hypothetical protein
+NA	0	0	NA	crov419	1461	hypothetical protein
+NA	0	0	NA	crov420	738	hypothetical protein
+NA	0	0	NA	crov421	705	hypothetical protein
+NA	0	0	NA	crov422	708	hypothetical protein
+NA	0	0	NA	crov423	474	hypothetical protein
+NA	1	45	NA	crov424	1431	hypothetical protein
+NA	0	0	NA	crov425	399	hypothetical protein
+NA	0	0	NA	crov426	2655	putative UvrD/REP helicase
+NA	5	989	NA	crov427	1884	hypothetical protein
+NA	0	0	NA	crov428	225	hypothetical protein
+NA	0	0	NA	crov429	459	hypothetical protein
+NA	0	0	NA	crov430	171	hypothetical protein
+NA	0	0	NA	crov431	906	hypothetical protein
+NA	0	0	NA	crov432	786	hypothetical protein
+NA	2	75	NA	crov433	459	hypothetical protein
+NA	0	0	NA	crov434	165	hypothetical protein
+NA	0	0	NA	crov435	2601	putative ubiquitin-activating enzyme E1
+NA	0	0	NA	crov436	426	hypothetical protein
+NA	3	273	NA	crov437	699	putative DNA-directed RNA polymerase subunit Rpb7
+NA	0	0	NA	crov438	516	hypothetical protein
+NA	0	0	NA	crov439	573	putative DNA-directed RNA polymerase subunit Rpb5
+NA	0	0	NA	crov440	2100	hypothetical protein
+NA	0	0	NA	crov441	168	hypothetical protein
+NA	0	0	NA	crov442	1338	putative FtsJ-like methyltransferase
+NA	0	0	NA	crov443	297	hypothetical protein
+NA	0	0	NA	crov444	492	putative Erv-family thiol oxidoreductase
+NA	1	42	NA	crov445	792	hypothetical protein
+NA	0	0	NA	crov446	897	putative NUDIX-like hydrolase
+NA	0	0	NA	crov447	603	putative DNA methyltransferase
+NA	0	0	NA	crov448	276	hypothetical protein
+NA	0	0	NA	crov449	633	putative mitochondrial carrier protein
+NA	0	0	NA	crov450	972	hypothetical protein
+NA	5	292	NA	crov451	633	hypothetical protein
+NA	0	0	NA	crov452	981	putative ribonucleoside-diphosphate reductase small subunit
+NA	0	0	NA	crov453	1065	hypothetical protein
+NA	2	83	NA	crov454	3774	putative ribonucleotide reductase large subunit precursor
+NA	0	0	NA	crov455	462	hypothetical protein
+NA	1	29	NA	crov456	1836	hypothetical protein
+NA	0	0	NA	crov457	1071	putative ubiquitin carboxyl-terminal hydrolase
+NA	0	0	NA	crov458	1053	putative family X DNA polymerase
+NA	0	0	NA	crov459	798	putative metal-dependent hydrolase
+NA	0	0	NA	crov460	420	hypothetical protein
+NA	0	0	NA	crov461	1005	putative replication factor C subunit
+NA	0	0	NA	crov462	1956	putative NAD-dependent DNA ligase
+NA	0	0	NA	crov463	210	hypothetical protein
+NA	0	0	NA	crov464	156	hypothetical protein
+NA	0	0	NA	crov465	354	hypothetical protein
+NA	0	0	NA	crov466	603	hypothetical protein
+NA	0	0	NA	crov467	294	hypothetical protein
+NA	2	244	NA	crov468	417	hypothetical protein
+NA	2	153	NA	crov469	213	hypothetical protein
+NA	0	0	NA	crov470	213	hypothetical protein
+NA	3	980	NA	crov471	477	hypothetical protein
+NA	1	1	NA	crov472	4005	putative methyltransferase
+NA	0	0	NA	crov473	174	hypothetical protein
+NA	1	34	NA	crov474	1125	hypothetical protein
+NA	0	0	NA	crov475	810	putative family 2C serine/threonine phosphatase
+NA	0	0	NA	crov476	417	hypothetical protein
+NA	0	0	NA	crov477	996	hypothetical protein
+NA	1	37	NA	crov478	3129	putative Lon protease
+NA	0	0	NA	crov479	1236	putative eIF-2gamma
+NA	0	0	NA	crov480	1371	hypothetical protein
+NA	0	0	NA	crov481	402	hypothetical protein
+NA	0	0	NA	crov482	978	putative DNA-dependent RNA polymerase subunit Rpb3/Rpb11
+NA	0	0	NA	crov483	582	hypothetical protein
+NA	0	0	NA	crov484	495	putative ribonuclease H1
+NA	0	0	NA	crov485	819	putative cysteine protease
+NA	0	0	NA	crov486	2772	putative DNA mismatch repair protein MutS
+NA	1	16	NA	crov487	300	hypothetical protein
+NA	0	0	NA	crov488	417	hypothetical protein
+NA	0	0	NA	crov489	1209	putative serine/threonine protein kinase
+NA	0	0	NA	crov490	243	hypothetical protein
+NA	0	0	NA	crov491	462	putative DNA-dependent RNA polymerase subunit Rpb6
+NA	0	0	NA	crov492	558	putative DNA-dependent RNA polymerase subunit Rpb9
+NA	0	0	NA	crov493	711	putative ubiquitin-conjugating enzyme E2
+NA	0	0	NA	crov494	2634	putative VV D5-type primase/helicase
+NA	1	46	NA	crov495	1935	hypothetical protein
+NA	0	0	NA	crov496	651	hypothetical protein
+NA	1	32	NA	crov497	4818	putative DNA-dependent DNA polymerase family B precursor
+NA	4	201	NA	crov498	4413	hypothetical protein
+NA	0	0	NA	crov499	273	hypothetical protein
+NA	0	0	NA	crov500	642	putative carrier protein
+NA	2	60	NA	crov501	591	hypothetical protein
+NA	0	0	NA	crov502	1359	putative bifunctional dihydrofolate reductase/thymidylate synthase
+NA	0	0	NA	crov503	2613	putative helicase/exonuclease
+NA	0	0	NA	crov504	336	hypothetical protein
+NA	0	0	NA	crov505	2868	putative isoleucyl-tRNA synthetase
+NA	0	0	NA	crov506	2214	putative superfamily II helicase
+NA	1	442	NA	crov507	1284	hypothetical protein
+NA	3	109	NA	crov508	3636	hypothetical protein
+NA	0	0	NA	crov509	543	hypothetical protein
+NA	0	0	NA	crov510	198	hypothetical protein
+NA	2	1434	NA	crov511	1503	hypothetical protein
+NA	3	426	NA	crov512	792	hypothetical protein
+NA	0	0	NA	crov513	279	hypothetical protein
+NA	2	1454	NA	crov514	1005	hypothetical protein
+NA	0	0	NA	crov515	2934	putative type I restriction modification enzyme, M and S domains
+NA	2	117	NA	crov516	1248	hypothetical protein
+NA	0	0	NA	crov517	174	hypothetical protein
+NA	0	0	NA	crov518	153	hypothetical protein
+NA	1	32	NA	crov519	981	hypothetical protein
+NA	1	23	NA	crov520	390	hypothetical protein
+NA	0	0	NA	crov521	321	hypothetical protein
+NA	0	0	NA	crov522	294	hypothetical protein
+NA	0	0	NA	crov523	351	hypothetical protein
+NA	0	0	NA	crov524	408	hypothetical protein
+NA	3	174	NA	crov525	1953	putative serine/threonine protein phosphatase
+NA	1	38	NA	crov526	2169	putative superfamily II helicase/restriction enzyme
+NA	4	2172	NA	crov527	1977	hypothetical protein
+NA	3	1701	NA	crov528	1407	hypothetical protein
+NA	2	487	NA	crov529	327	hypothetical protein
+NA	3	2092	NA	crov530	735	hypothetical protein
+NA	2	365	NA	crov531	240	hypothetical protein
+NA	0	0	NA	crov532	597	hypothetical protein
+NA	0	0	NA	crov533	807	hypothetical protein
+NA	0	0	NA	crov534	258	hypothetical protein
+NA	0	0	NA	crov535	1089	hypothetical protein
+NA	0	0	NA	crov536	291	hypothetical protein
+NA	0	0	NA	crov537	834	hypothetical protein
+NA	1	69	NA	crov538	171	hypothetical protein
+NA	2	1169	NA	crov539	873	hypothetical protein
+NA	1	44	NA	crov540	195	hypothetical protein
+NA	2	945	NA	crov541	729	hypothetical protein
+NA	0	0	NA	crov542	993	hypothetical protein
+NA	4	951	NA	crov543	423	hypothetical protein
+NA	0	0	NA	EXI08_gp1	40671	PSCNV polyprotein
+NA	0	0	Q	PSP3p01	1023	portal vertex protein
+NA	0	0	NA	PSP3p02	747	gp2
+NA	0	0	P	PSP3p03	1770	terminase ATPase subunit
+NA	0	0	O	PSP3p04	855	capsid-scaffolding protein
+NA	0	0	N	PSP3p05	1068	capsid protein
+NA	0	0	M	PSP3p06	750	terminase endonuclease subunit
+NA	0	0	NA	PSP3p07	507	gp7
+NA	0	0	NA	PSP3p08	204	gp8
+NA	0	0	NA	PSP3p09	297	gp9
+NA	0	0	NA	PSP3p10	498	gp10
+NA	0	0	NA	PSP3p11	414	gp11
+NA	0	0	NA	PSP3p12	291	gp12
+NA	0	0	NA	PSP3p13	477	gp13
+NA	0	0	NA	PSP3p14	450	gp14
+NA	0	0	NA	PSP3p15	642	gp15
+NA	0	0	W	PSP3p16	348	baseplate wedge subunit
+NA	0	0	J	PSP3p17	909	baseplate assembly protein
+NA	0	0	NA	PSP3p18	531	gp18
+NA	1	304	NA	PSP3p19	2028	gp19
+NA	0	0	NA	PSP3p20	549	gp20
+NA	0	0	FI	PSP3p21	1188	major tail sheath protein
+NA	0	0	FII	PSP3p22	519	major tail tube protein
+NA	0	0	NA	PSP3p23	488	gp23.5
+NA	0	0	NA	PSP3p24	336	gp23
+NA	0	0	NA	PSP3p25	2445	gp24
+NA	0	0	NA	PSP3p26	486	gp25
+NA	0	0	D	PSP3p27	1170	tail protein
+NA	0	0	NA	PSP3p28	219	Pag
+NA	0	0	int	PSP3p29	1050	integrase
+NA	0	0	NA	PSP3p30	339	gp28
+NA	0	0	cI	PSP3p31	861	CI
+NA	0	0	NA	PSP3p32	354	gp30
+NA	0	0	NA	PSP3p33	510	gp31
+NA	0	0	NA	PSP3p34	201	gp32
+NA	0	0	NA	PSP3p35	234	gp33
+NA	0	0	NA	PSP3p36	225	DksA-like zinc finger domain containing protein
+NA	0	0	NA	PSP3p37	522	gp35
+NA	0	0	NA	PSP3p38	2127	gp36
+NA	0	0	tumA	PSP3p39	183	TumA
+NA	0	0	tumB	PSP3p40	234	TumB
+NA	0	0	NA	PSP3p41	210	gp37
+NA	0	0	NA	PSP3p42	420	gp38
+NA	0	0	NA	B1T82_s1gp1	9654	RNA-dependent RNA polymerase
+NA	0	0	NA	CAB94_sLgp1	11979	RNA-dependent RNA polymerase
+NA	0	0	NA	CFDVgp1	873	ORF1
+NA	0	0	NA	CFDVgp2	462	ORF2
+NA	0	0	NA	CFDVgp3	147	ORF6
+NA	0	0	NA	CFDVgp4	159	ORF3
+NA	0	0	NA	CFDVgp5	165	ORF5
+NA	0	0	NA	CFDVgp6	189	ORF4
+NA	0	0	NA	A6I18_s2gp1	1374	hypothetical protein
+NA	0	0	pol6	OnmV6gp1	2088	RNA-dependent RNA polymerase, putative
+NA	12	3598	NA	SWSSV_gp001	5055	collagen-like protein
+NA	0	0	NA	SWSSV_gp002	627	envelope protein
+NA	0	0	NA	SWSSV_gp003	315	hypothetical protein
+NA	3	135	NA	SWSSV_gp004	888	hypothetical protein
+NA	0	0	NA	SWSSV_gp005	288	envelope protein
+NA	0	0	NA	SWSSV_gp006	294	envelope protein
+NA	3	106	NA	SWSSV_gp007	3906	envelope protein
+NA	0	0	NA	SWSSV_gp008	603	hypothetical protein
+NA	0	0	NA	SWSSV_gp009	861	hypothetical protein
+NA	0	0	NA	SWSSV_gp010	696	hypothetical protein
+NA	0	0	NA	SWSSV_gp011	4608	hypothetical protein
+NA	0	0	NA	SWSSV_gp012	2919	envelope protein
+NA	0	0	NA	SWSSV_gp013	3843	hypothetical protein
+NA	1	70	NA	SWSSV_gp014	2946	hypothetical protein
+NA	0	0	NA	SWSSV_gp015	591	hypothetical protein
+NA	0	0	NA	SWSSV_gp016	681	immediate-early protein
+NA	0	0	NA	SWSSV_gp017	627	hypothetical protein
+NA	0	0	NA	SWSSV_gp018	2532	hypothetical protein
+NA	0	0	NA	SWSSV_gp019	870	thymidylate synthetase
+NA	0	0	NA	SWSSV_gp020	675	immediate-early protein
+NA	0	0	NA	SWSSV_gp021	1269	hypothetical protein
+NA	1	35	NA	SWSSV_gp022	831	hypothetical protein
+NA	0	0	NA	SWSSV_gp023	894	hypothetical protein
+NA	1	31	NA	SWSSV_gp024	1197	immediate-early protein
+NA	1	37	NA	SWSSV_gp025	1536	immediate-early protein
+NA	0	0	NA	SWSSV_gp026	1746	protein kinase, immediate-early protein
+NA	0	0	NA	SWSSV_gp027	447	hypothetical protein
+NA	0	0	NA	SWSSV_gp028	378	hypothetical protein
+NA	6	395	NA	SWSSV_gp029	3438	immediate-early protein
+NA	1	85	NA	SWSSV_gp030	1875	putative CREB-binding protein, immediate-early protein
+NA	2	196	NA	SWSSV_gp031	231	hypothetical protein
+NA	0	0	NA	SWSSV_gp032	312	hypothetical protein
+NA	0	0	NA	SWSSV_gp033	690	hypothetical protein
+NA	0	0	NA	SWSSV_gp034	558	hypothetical protein
+NA	1	37	NA	SWSSV_gp035	1386	dUTPase
+NA	0	0	NA	SWSSV_gp036	2907	hypothetical protein
+NA	3	106	NA	SWSSV_gp037	3135	hypothetical protein
+NA	0	0	NA	SWSSV_gp038	306	hypothetical protein
+NA	5	2872	NA	SWSSV_gp039	1515	hypothetical protein
+NA	1	21	NA	SWSSV_gp040	453	hypothetical protein
+NA	0	0	NA	SWSSV_gp041	1455	hypothetical protein
+NA	0	0	NA	SWSSV_gp042	816	hypothetical protein
+NA	0	0	NA	SWSSV_gp043	669	hypothetical protein
+NA	0	0	NA	SWSSV_gp044	387	hypothetical protein
+NA	0	0	NA	SWSSV_gp045	1014	hypothetical protein
+NA	0	0	NA	SWSSV_gp046	3627	hypothetical protein
+NA	0	0	NA	SWSSV_gp047	414	hypothetical protein
+NA	10	1043	NA	SWSSV_gp048	6939	hypothetical protein
+NA	0	0	NA	SWSSV_gp049	1380	hypothetical protein
+NA	1	192	NA	SWSSV_gp050	414	hypothetical protein
+NA	1	600	NA	SWSSV_gp051	600	hypothetical protein
+NA	0	0	NA	SWSSV_gp052	4311	hypothetical protein
+NA	1	34	NA	SWSSV_gp053	2280	hypothetical protein
+NA	0	0	NA	SWSSV_gp054	3219	hypothetical protein
+NA	0	0	NA	SWSSV_gp055	2547	ribonucleotide reductase large subunit
+NA	0	0	NA	SWSSV_gp056	321	hypothetical protein
+NA	1	659	NA	SWSSV_gp057	909	immediate-early protein
+NA	0	0	NA	SWSSV_gp058	225	hypothetical protein
+NA	0	0	NA	SWSSV_gp059	1119	hypothetical protein
+NA	0	0	NA	SWSSV_gp060	1626	hypothetical protein
+NA	0	0	NA	SWSSV_gp061	1242	ribonucleotide reductase small subunit
+NA	0	0	NA	SWSSV_gp062	936	hypothetical protein
+NA	0	0	NA	SWSSV_gp063	3060	hypothetical protein
+NA	0	0	NA	SWSSV_gp064	774	hypothetical protein
+NA	1	25	NA	SWSSV_gp065	837	envelope protein
+NA	0	0	NA	SWSSV_gp066	2571	hypothetical protein
+NA	1	317	NA	SWSSV_gp067	540	hypothetical protein
+NA	1	390	NA	SWSSV_gp068	390	hypothetical protein
+NA	0	0	NA	SWSSV_gp069	615	hypothetical protein
+NA	0	0	NA	SWSSV_gp070	828	hypothetical protein
+NA	0	0	NA	SWSSV_gp071	4821	envelope protein
+NA	0	0	NA	SWSSV_gp072	186	DNA-binding protein
+NA	0	0	NA	SWSSV_gp073	3585	envelope protein
+NA	0	0	NA	SWSSV_gp074	2025	capsid protein
+NA	0	0	NA	SWSSV_gp075	2535	E3 ligase
+NA	4	166	NA	SWSSV_gp076	2811	hypothetical protein
+NA	1	26	NA	SWSSV_gp077	249	ICP11/P9
+NA	2	179	NA	SWSSV_gp078	1845	hypothetical protein
+NA	0	0	NA	SWSSV_gp079	885	hypothetical protein
+NA	0	0	NA	SWSSV_gp080	879	envelope protein
+NA	6	459	NA	SWSSV_gp081	1461	envelope protein
+NA	0	0	NA	SWSSV_gp082	903	envelope protein
+NA	0	0	NA	SWSSV_gp083	2376	hypothetical protein
+NA	1	21	NA	SWSSV_gp084	240	hypothetical protein
+NA	2	497	NA	SWSSV_gp085	2283	E3 ligase, immediate-early protein
+NA	0	0	NA	SWSSV_gp086	1503	hypothetical protein
+NA	0	0	NA	SWSSV_gp087	846	hypothetical protein
+NA	0	0	NA	SWSSV_gp088	1155	envelope protein
+NA	0	0	NA	SWSSV_gp089	930	envelope protein
+NA	0	0	NA	SWSSV_gp090	2769	hypothetical protein
+NA	0	0	NA	SWSSV_gp091	846	hypothetical protein
+NA	0	0	NA	SWSSV_gp092	1470	hypothetical protein
+NA	0	0	NA	SWSSV_gp093	513	hypothetical protein
+NA	1	44	NA	SWSSV_gp094	3660	capsid protein
+NA	0	0	NA	SWSSV_gp095	2376	hypothetical protein
+NA	0	0	NA	SWSSV_gp096	210	hypothetical protein
+NA	0	0	NA	SWSSV_gp097	1905	hypothetical protein
+NA	0	0	NA	SWSSV_gp098	303	hypothetical protein
+NA	0	0	NA	SWSSV_gp099	3303	hypothetical protein
+NA	0	0	NA	SWSSV_gp100	4698	capsid protein
+NA	0	0	NA	SWSSV_gp101	294	envelope protein
+NA	0	0	NA	SWSSV_gp102	621	hypothetical protein
+NA	0	0	NA	SWSSV_gp103	630	hypothetical protein
+NA	0	0	NA	SWSSV_gp104	930	hypothetical protein
+NA	0	0	NA	SWSSV_gp105	570	hypothetical protein
+NA	0	0	NA	SWSSV_gp106	2676	putative TATA-box bind protein
+NA	0	0	NA	SWSSV_gp107	1260	envelope protein
+NA	0	0	NA	SWSSV_gp108	1401	capsid protein
+NA	0	0	NA	SWSSV_gp109	819	hypothetical protein
+NA	0	0	NA	SWSSV_gp110	615	envelope protein
+NA	6	310	NA	SWSSV_gp111	3543	hypothetical protein
+NA	0	0	NA	SWSSV_gp112	354	envelope protein
+NA	0	0	NA	SWSSV_gp113	684	hypothetical protein
+NA	0	0	NA	SWSSV_gp114	249	hypothetical protein
+NA	0	0	NA	SWSSV_gp115	1398	envelope protein
+NA	0	0	NA	SWSSV_gp116	2571	envelope protein
+NA	0	0	NA	SWSSV_gp117	2361	hypothetical protein
+NA	0	0	NA	SWSSV_gp118	1302	envelope protein
+NA	0	0	NA	SWSSV_gp119	852	envelope protein
+NA	0	0	NA	SWSSV_gp120	786	envelope protein
+NA	0	0	NA	SWSSV_gp121	303	hypothetical protein
+NA	1	25	NA	SWSSV_gp122	12543	hypothetical protein
+NA	2	66	NA	SWSSV_gp123	18234	capsid protein
+NA	0	0	NA	SWSSV_gp124	207	envelope protein
+NA	0	0	NA	SWSSV_gp125	2190	hypothetical protein
+NA	0	0	NA	SWSSV_gp126	966	anti-apoptosis protein
+NA	0	0	NA	SWSSV_gp127	1197	TK-TMK, chimeric thymidine and thymidylate kinase
+NA	0	0	NA	SWSSV_gp128	516	hypothetical protein
+NA	0	0	NA	SWSSV_gp129	384	hypothetical protein
+NA	1	57	NA	SWSSV_gp130	552	hypothetical protein
+NA	1	171	NA	SWSSV_gp131	1926	E3 ligase, immediate-early protein
+NA	0	0	NA	SWSSV_gp132	780	hypothetical protein
+NA	0	0	NA	SWSSV_gp133	684	hypothetical protein
+NA	0	0	NA	SWSSV_gp134	195	hypothetical protein
+NA	0	0	NA	SWSSV_gp135	480	hypothetical protein
+NA	0	0	NA	SWSSV_gp136	366	envelope protein
+NA	0	0	NA	SWSSV_gp137	1635	capsid protein
+NA	0	0	NA	SWSSV_gp138	582	hypothetical protein
+NA	0	0	NA	SWSSV_gp139	294	hypothetical protein
+NA	0	0	NA	SWSSV_gp140	615	envelope protein
+NA	0	0	NA	SWSSV_gp141	2193	putative protein kinase
+NA	0	0	NA	SWSSV_gp142	1872	hypothetical protein
+NA	0	0	NA	SWSSV_gp143	309	hypothetical protein
+NA	0	0	NA	SWSSV_gp144	3786	hypothetical protein
+NA	2	62	NA	SWSSV_gp145	1824	hypothetical protein
+NA	0	0	NA	SWSSV_gp146	2403	envelope and capsid protein
+NA	1	27	NA	SWSSV_gp147	1584	hypothetical protein
+NA	2	97	NA	SWSSV_gp148	5805	hypothetical protein
+NA	0	0	NA	SWSSV_gp149	522	hypothetical protein
+NA	0	0	NA	SWSSV_gp150	780	hypothetical protein
+NA	0	0	NA	SWSSV_gp151	417	hypothetical protein
+NA	0	0	NA	SWSSV_gp152	897	hypothetical protein
+NA	3	323	NA	SWSSV_gp153	1530	hypothetical protein
+NA	0	0	NA	SWSSV_gp154	876	hypothetical protein
+NA	0	0	NA	SWSSV_gp155	915	hypothetical protein
+NA	0	0	NA	SWSSV_gp156	1338	hypothetical protein
+NA	0	0	NA	SWSSV_gp157	867	hypothetical protein
+NA	0	0	NA	SWSSV_gp158	3732	immediate-early protein
+NA	1	45	NA	SWSSV_gp159	273	hypothetical protein
+NA	1	216	NA	SWSSV_gp160	216	hypothetical protein
+NA	0	0	NA	SWSSV_gp161	627	hypothetical protein
+NA	1	25	NA	SWSSV_gp162	1530	hypothetical protein
+NA	0	0	NA	SWSSV_gp163	540	hypothetical protein
+NA	0	0	NA	SWSSV_gp164	651	hypothetical protein
+NA	0	0	NA	SWSSV_gp165	2340	hypothetical protein
+NA	0	0	NA	SWSSV_gp166	738	hypothetical protein
+NA	0	0	NA	SWSSV_gp167	339	hypothetical protein
+NA	0	0	NA	SWSSV_gp168	411	hypothetical protein
+NA	1	34	NA	SWSSV_gp169	687	hypothetical protein
+NA	2	252	NA	SWSSV_gp170	1317	hypothetical protein
+NA	0	0	NA	SWSSV_gp171	1698	hypothetical protein
+NA	0	0	NA	SWSSV_gp172	630	hypothetical protein
+NA	0	0	NA	SWSSV_gp173	3030	hypothetical protein
+NA	0	0	NA	SWSSV_gp174	1617	hypothetical protein
+NA	0	0	NA	SWSSV_gp175	7056	DNA polymerase
+NA	0	0	NA	SWSSV_gp176	216	hypothetical protein
+NA	0	0	NA	SWSSV_gp177	1347	hypothetical protein
+NA	0	0	NA	NoVsRNA1gp1	3132	RNA dependent RNA polymerase protein A
+NA	0	0	NA	NoVsRNA1gp2	414	protein B2
+NA	19	1016	NA	GrBNV_gp01	96944	hypothetical protein
+NA	0	0	vp91	GrBNV_gp02	2220	VP91 capsid protein
+NA	0	0	pif-3	GrBNV_gp03	603	per os infectivity factor 3
+NA	0	0	NA	GrBNV_gp04	567	hypothetical protein
+NA	0	0	odv-e56	GrBNV_gp05	1404	occlusion-derived virus envelope-56 protein
+NA	0	0	NA	GrBNV_gp06	1230	hypothetical protein
+NA	0	0	NA	GrBNV_gp07	963	hypothetical protein
+NA	0	0	NA	GrBNV_gp08	210	hypothetical protein
+NA	0	0	NA	GrBNV_gp09	777	hypothetical protein
+NA	0	0	NA	GrBNV_gp10	318	hypothetical protein
+NA	0	0	NA	BVJ75_gp1	1821	putative nucleoprotein
+NA	0	0	NA	BVJ75_gp2	477	hypothetical protein 1
+NA	0	0	NA	BVJ75_gp3	387	hypothetical protein 2
+NA	0	0	NA	BVJ75_gp4	5763	RNA-dependent RNA polymerase
+NA	0	0	PB2	FLUCVs1gp1	2325	polymerase 2
+NA	0	0	NA	FGG62_gp01	333	hypothetical protein
+NA	0	0	NA	FGG62_gp02	309	hypothetical protein
+NA	0	0	NA	FGG62_gp03	480	SAM-dependent methyltransferase
+NA	0	0	NA	FGG62_gp04	336	hypothetical protein
+NA	0	0	NA	FGG62_gp05	237	hypothetical protein
+NA	0	0	NA	FGG62_gp06	210	hypothetical protein
+NA	0	0	NA	FGG62_gp07	306	hypothetical protein
+NA	0	0	NA	FGG62_gp08	396	hypothetical protein
+NA	0	0	NA	FGG62_gp09	267	hypothetical protein
+NA	0	0	NA	FGG62_gp10	312	hypothetical protein
+NA	0	0	NA	FGG62_gp11	189	hypothetical protein
+NA	0	0	NA	FGG62_gp12	177	hypothetical protein
+NA	0	0	NA	FGG62_gp13	462	hypothetical protein
+NA	0	0	NA	FGG62_gp14	390	3 transmembrane domain protein
+NA	0	0	NA	FGG62_gp15	324	VP4
+NA	0	0	NA	FGG62_gp16	1146	signal peptide protein
+NA	0	0	NA	FGG62_gp17	237	2 transmembrane domain protein
+NA	0	0	NA	FGG62_gp18	423	hypothetical protein
+NA	0	0	NA	FGG62_gp19	159	hypothetical protein
+NA	0	0	NA	FGG62_gp20	1383	VP1,2 transmembrane domain protein
+NA	0	0	NA	FGG62_gp21	2040	VP3
+NA	0	0	NA	FGG62_gp22	174	hypothetical protein
+NA	0	0	NA	FGG62_gp23	846	GTB-type glycosyltransferase
+NA	0	0	NA	FGG62_gp24	237	hypothetical protein
+NA	0	0	NA	FGG62_gp25	207	transmembrane domain protein
+NA	0	0	NA	FGG62_gp26	255	transmembrane domain protein
+NA	0	0	NA	FGG62_gp27	258	hypothetical protein
+NA	0	0	NA	FGG62_gp28	318	hypothetical protein
+NA	0	0	NA	FGG62_gp29	2445	VP2 transmembrane domain protein
+NA	0	0	NA	FGG62_gp30	1926	3 transmembrane domain protein
+NA	0	0	NA	FGG62_gp31	198	hypothetical protein
+NA	0	0	NA	FGG62_gp32	315	hypothetical protein
+NA	0	0	NA	FGG62_gp33	363	Zn_C2H2-containing protein
+NA	0	0	NA	FGG62_gp34	303	hypothetical protein
+NA	0	0	NA	FGG62_gp35	357	hypothetical protein
+NA	0	0	NA	FGG62_gp36	1998	type B DNA polymerase
+NA	0	0	NA	FGG62_gp37	330	hypothetical protein
+NA	0	0	NA	FGG62_gp38	219	hypothetical protein
+NA	0	0	NA	BPPV1_gp1	444	E6
+NA	0	0	NA	BPPV1_gp2	273	E7
+NA	0	0	NA	BPPV1_gp3	1791	E1
+NA	5	355	NA	BPPV1_gp4	1365	E2
+NA	2	18	NA	BPPV1_gp5	489	E4
+NA	2	118	NA	BPPV1_gp6	1572	L2
+NA	0	0	NA	BPPV1_gp7	1512	L1
+NA	0	0	NA	D1S83_s1gp1	2241	RNA-dependent RNA polymerase

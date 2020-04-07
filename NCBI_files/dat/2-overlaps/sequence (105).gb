@@ -1,0 +1,40 @@
+LOCUS       AY338213                 285 bp    DNA     linear   VRL 14-APR-2004
+DEFINITION  Chlorella virus AL-2A potassium channel protein gene, complete cds.
+ACCESSION   AY338213
+VERSION     AY338213.1
+KEYWORDS    .
+SOURCE      Paramecium bursaria Chlorella virus AL2A
+  ORGANISM  Paramecium bursaria Chlorella virus AL2A
+            Viruses; Phycodnaviridae; Chlorovirus.
+REFERENCE   1  (bases 1 to 285)
+  AUTHORS   Kang,M., Moroni,A., Gazzarrini,S., DiFrancesco,D., Thiel,G.,
+            Severino,M. and Van Etten,J.L.
+  TITLE     Small potassium ion channel proteins encoded by chlorella viruses
+  JOURNAL   Proc. Natl. Acad. Sci. U.S.A. 101 (15), 5318-5324 (2004)
+   PUBMED   14762169
+REFERENCE   2  (bases 1 to 285)
+  AUTHORS   Kang,M. and Van Etten,J.L.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (09-JUL-2003) Plant Pathology, University of
+            Nebraska-Lincoln, 406 Plant Sciences Hall, East Campus, Lincoln, NE
+            68583-0722, USA
+FEATURES             Location/Qualifiers
+     source          1..285
+                     /organism="Paramecium bursaria Chlorella virus AL2A"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:240261"
+     CDS             1..285
+                     /note="AL-2A kcv"
+                     /codon_start=1
+                     /product="potassium channel protein"
+                     /protein_id="AAQ16130.1"
+                     /translation="MLVFSKFLTRTEPFMIHLLILAMFVMIYKFFPGGFENNFSVANP
+                     DKKASWIDCLYFGVTTHSTVGFGDILPKTTGAKLCTIAHICVVFFVVLTL"
+ORIGIN      
+        1 atgttagtat ttagtaaatt tctaacgcga actgaaccat tcatgataca tctcttaatt
+       61 cttgcgatgt tcgtgatgat atataaattc tttccgggag ggttcgaaaa taacttttct
+      121 gttgcaaacc cggacaaaaa ggcatcatgg atagattgtt tatatttcgg agtaacgaca
+      181 cactcgaccg tcgggttcgg agatatacta ccgaagacga ctggtgcaaa gctttgtacg
+      241 atcgcgcata tttgtgtagt attcttcgtc gttctaactt tgtag
+//
+

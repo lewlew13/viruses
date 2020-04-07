@@ -1,0 +1,17 @@
+NC_005898.1 Dendrolimus punctatus tetravirus RNA1, complete genome	1656	1661	CACACA	+
+NC_005898.1 Dendrolimus punctatus tetravirus RNA1, complete genome	2530	2535	CACACA	+
+NC_005898.1 Dendrolimus punctatus tetravirus RNA1, complete genome	2557	2562	CACACA	+
+NC_005898.1 Dendrolimus punctatus tetravirus RNA1, complete genome	992	997	CGCGCG	+
+NC_005898.1 Dendrolimus punctatus tetravirus RNA1, complete genome	1557	1562	CGCGCG	+
+NC_005898.1 Dendrolimus punctatus tetravirus RNA1, complete genome	3061	3066	CGCGCG	+
+NC_005898.1 Dendrolimus punctatus tetravirus RNA1, complete genome	306	311	CTCTCT	+
+NC_005898.1 Dendrolimus punctatus tetravirus RNA1, complete genome	1717	1722	CTCTCT	+
+NC_005898.1 Dendrolimus punctatus tetravirus RNA1, complete genome	5261	5266	CTCTCT	+
+NC_005898.1 Dendrolimus punctatus tetravirus RNA1, complete genome	369	374	GAGAGA	+
+NC_005898.1 Dendrolimus punctatus tetravirus RNA1, complete genome	2572	2577	GAGAGA	+
+NC_005898.1 Dendrolimus punctatus tetravirus RNA1, complete genome	63	68	GCGCGC	+
+NC_005898.1 Dendrolimus punctatus tetravirus RNA1, complete genome	993	998	GCGCGC	+
+NC_005898.1 Dendrolimus punctatus tetravirus RNA1, complete genome	3718	3723	GCGCGC	+
+NC_005898.1 Dendrolimus punctatus tetravirus RNA1, complete genome	1442	1447	GTGTGT	+
+NC_005898.1 Dendrolimus punctatus tetravirus RNA1, complete genome	307	312	TCTCTC	+
+NC_005898.1 Dendrolimus punctatus tetravirus RNA1, complete genome	4195	4200	TGTGTG	+

@@ -1,0 +1,3 @@
+GOA	RepOver	RepCov	Gene	Locus	GeneLen	Product
+NA	0	0	POLY	MVEVgp1	10305	polyprotein
+NA	0	0	NA	MVEVgp2	3593	truncated polyprotein

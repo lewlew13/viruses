@@ -1,0 +1,5 @@
+GOA	RepOver	RepCov	Gene	Locus	GeneLen	Product
+NA	0	0	NA	PrVp1	3663	p130
+NA	0	0	NA	PrVp2	2748	p104
+NA	0	0	NA	PrVp3	1080	p40
+NA	0	0	NA	PrVp4	2265	p81

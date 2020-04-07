@@ -1,0 +1,89 @@
+LOCUS       NC_003540                399 bp ss-RNA     circular VRL 13-AUG-2018
+DEFINITION  Chrysanthemum chlorotic mottle viroid, complete genome.
+ACCESSION   NC_003540
+VERSION     NC_003540.1
+DBLINK      BioProject: PRJNA485481
+KEYWORDS    RefSeq; virion.
+SOURCE      Chrysanthemum chlorotic mottle viroid
+  ORGANISM  Chrysanthemum chlorotic mottle viroid
+            Viruses; Riboviria; Avsunviroidae; Pelamoviroid.
+REFERENCE   1  (bases 1 to 399)
+  AUTHORS   Navarro,B. and Flores,R.
+  TITLE     Chrysanthemum chlorotic mottle viroid: unusual structural
+            properties of a subgroup of self-cleaving viroids with hammerhead
+            ribozymes
+  JOURNAL   Proc. Natl. Acad. Sci. U.S.A. 94 (21), 11262-11267 (1997)
+   PUBMED   9326597
+REFERENCE   2  (bases 1 to 399)
+  CONSRTM   NCBI Genome Project
+  TITLE     Direct Submission
+  JOURNAL   Submitted (17-MAY-2002) National Center for Biotechnology
+            Information, NIH, Bethesda, MD 20894, USA
+REFERENCE   3  (bases 1 to 399)
+  AUTHORS   Flores,R.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (27-AUG-1997) R. Flores, Instituto de Biologia Molecular
+            y Celul. de Plantas, (UPV-CSIC), Universidad Politecnica de
+            Valencia, Camino de Vera 14, 46022 Valencia, SPAIN
+COMMENT     VALIDATED REFSEQ: This record has undergone validation or
+            preliminary review. The reference sequence was derived from Y14700.
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..399
+                     /organism="Chrysanthemum chlorotic mottle viroid"
+                     /mol_type="genomic RNA"
+                     /cultivar="Bonnie Jean"
+                     /isolate="Horst"
+                     /db_xref="taxon:68402"
+     ncRNA           join(392..399,1..52)
+                     /ncRNA_class="hammerhead_ribozyme"
+                     /product="plus strand HH"
+     variation       5
+                     /note="variant CM1"
+                     /replace="t"
+     variation       10
+                     /note="variant CM20"
+                     /replace="t"
+     variation       34
+                     /note="variant CM1"
+                     /replace="a"
+     ncRNA           53..133
+                     /ncRNA_class="hammerhead_ribozyme"
+                     /product="minus strand HH"
+     variation       70
+                     /note="variant CM20"
+                     /replace="c"
+     variation       141..142
+                     /note="variant CM20"
+                     /replace="aa"
+     variation       141
+                     /note="variant CM1"
+                     /replace=""
+     variation       184
+                     /note="variant CM1"
+                     /replace="c"
+     variation       204
+                     /note="variant CM1"
+                     /replace="g"
+     variation       216
+                     /note="variant CM1"
+                     /replace="t"
+     variation       224
+                     /note="variant CM1"
+                     /replace="a"
+     variation       260
+                     /note="variant CM1"
+                     /replace="t"
+     variation       383..384
+                     /note="variant CM1"
+                     /replace="at"
+ORIGIN      
+        1 ggcacctgac gtcggtgtcc tgatgaagat ccatgacagg atcgaaacct cttccagttt
+       61 cggcttgtgt gggagtaaag ctttcgctct ctccacagcc tcatcaggaa acccacttca
+      121 ggtctcgact ggaaggtcgt taaacttccc ctctaagcgg agtagaggta aatacctccg
+      181 tccaaccccg ggaggaaagg ggttgggacc cggaacagat ccagttccgg tcctttggag
+      241 tccatttctc tcgttggata ttctcctcgg agaagggaga tggggccagt cccagtcggt
+      301 tcgctctcgt agtcacagcc actggggaac ctaggcagat ggctggacgg agtcttagtc
+      361 cactccagag gaccttgggt ttgaaacccc caagaggtc
+//
+

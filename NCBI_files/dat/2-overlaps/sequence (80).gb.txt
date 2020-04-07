@@ -1,0 +1,4 @@
+GOA	RepOver	RepCov	Gene	Locus	GeneLen	Product
+NA	0	0	NA	D1P23_gp1	8094	ORF1
+NA	0	0	NA	D1P23_gp2	7506	ORF2
+NA	1	33	NA	D1P23_gp3	2739	ORF3

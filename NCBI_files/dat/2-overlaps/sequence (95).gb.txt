@@ -1,0 +1,2 @@
+GOA	RepOver	RepCov	Gene	Locus	GeneLen	Product
+NA	0	0	PB2	FLUCVs1gp1	2325	polymerase 2

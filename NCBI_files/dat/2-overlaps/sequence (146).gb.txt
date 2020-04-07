@@ -1,0 +1,5 @@
+GOA	RepOver	RepCov	Gene	Locus	GeneLen	Product
+NA	0	0	NA	TVCVgp1	4806	RNA replicase read-through component
+NA	0	0	NA	TVCVgp2	3324	RNA replicase component
+NA	0	0	NA	TVCVgp3	804	movement protein
+NA	0	0	NA	TVCVgp4	474	coat protein

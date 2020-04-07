@@ -1,0 +1,8 @@
+GOA	RepOver	RepCov	Gene	Locus	GeneLen	Product
+NA	0	0	NA	BVF18_gp1	21587	1ab
+NA	0	0	NA	BVF18_gp2	1614	putative glycoprotein 1
+NA	0	0	NA	BVF18_gp3	492	hypothetical protein
+NA	0	0	NA	BVF18_gp4	474	hypothetical protein
+NA	0	0	NA	BVF18_gp5	2094	putative glycoprotein 2
+NA	0	0	NA	BVF18_gp6	1080	hypothetical protein
+NA	0	0	NA	BVF18_gp7	618	hypothetical protein

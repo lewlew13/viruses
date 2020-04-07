@@ -1,0 +1,847 @@
+LOCUS       NC_016509              18659 bp    RNA     linear   VRL 13-AUG-2018
+DEFINITION  Grapevine leafroll-associated virus 1, complete genome.
+ACCESSION   NC_016509
+VERSION     NC_016509.1
+DBLINK      BioProject: PRJNA485481
+KEYWORDS    RefSeq.
+SOURCE      Grapevine leafroll-associated virus 1
+  ORGANISM  Grapevine leafroll-associated virus 1
+            Viruses; Riboviria; Closteroviridae; Ampelovirus.
+REFERENCE   1  (bases 1 to 18659)
+  AUTHORS   Rott,M.E. and Belton,M.
+  TITLE     Sequence variability within a single isolate of Grapevine
+            leafroll-associated virus 1
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 18659)
+  CONSRTM   NCBI Genome Project
+  TITLE     Direct Submission
+  JOURNAL   Submitted (28-DEC-2011) National Center for Biotechnology
+            Information, NIH, Bethesda, MD 20894, USA
+REFERENCE   3  (bases 1 to 18659)
+  AUTHORS   Rott,M.E. and Belton,M.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (09-NOV-2011) Sidney Laboratory, Canadian Food Inspection
+            Agency, 8801 East Saanich Rd, Sidney, British Columbia V8L 1H3,
+            Canada
+COMMENT     PROVISIONAL REFSEQ: This record has not yet been subject to final
+            NCBI review. The reference sequence is identical to JQ023131.
+            
+            ##Assembly-Data-START##
+            Assembly Method       :: CLCBio genomic workbench v. 4.8
+            Sequencing Technology :: Illumina HiSeq
+            ##Assembly-Data-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..18659
+                     /organism="Grapevine leafroll-associated virus 1"
+                     /mol_type="genomic RNA"
+                     /isolate="1050"
+                     /isolation_source="infected plant 1050"
+                     /db_xref="taxon:47985"
+                     /country="Canada"
+                     /collection_date="22-Oct-2010"
+     5'UTR           1..781
+     variation       207
+                     /frequency=".023"
+                     /replace="c"
+     variation       376
+                     /frequency=".426"
+                     /replace="c"
+     variation       458
+                     /frequency=".379"
+                     /replace="t"
+     gene            782..7396
+                     /gene="MET/HEL"
+                     /locus_tag="GLRaV1_gp01"
+                     /db_xref="GeneID:11476679"
+     CDS             782..7396
+                     /gene="MET/HEL"
+                     /locus_tag="GLRaV1_gp01"
+                     /codon_start=1
+                     /product="methyl transferase/helicase"
+                     /protein_id="YP_004940641.1"
+                     /db_xref="GeneID:11476679"
+                     /translation="MAVKSIFAQEDLISIQKDFRFPFVSSSTSLFLCNLPSPPIIFQK
+                     GSRFIAPTRSSNGFLRKAIDYAVCCKNYGRSLKFDATPVQSTHHIIVKAVFRNTYYRA
+                     ASGKWVTLRAGTASGTVRLVRPAVVELESDHAGMFSVFFVRKQLSEAPEKAKSPQCVI
+                     DRKPAQSKIPVPTPIKAKQVAAAVPGLNGNNAQSHARFGKFFNEGGSFQRPAFLLRSG
+                     RLWDIQGQCFFTPKFCHKWLLTRDWSSGKRYVFCFVEGAVIAVPLEVIRYDMRVLWRR
+                     LPVGVYVALPHLLFRCEDTGELFYGDKYWCWLQLAVLNGNNLLAGSFESCISVRKLKR
+                     MLRFNVKLEKTDEANIFHVGNKPTVSLAEVDDRCFVGMAAKGGQQSLVASVSNALNQE
+                     DLFEGIVSTIANRLVLKEGSTLVTHLDEKISELFMMKEDTLGKKNKCVVTVALSAVAK
+                     ESLTRAFPELFITFLDSVSSSHSLCNAVRSCFNSLYASKYRGVPFVDIGGSVAYHVRN
+                     GDKDCHCCNPVLDYKDCRRREEECLRLATAEEKVMTVESVLKKEAAKNITYCQMDTRF
+                     CDHKAPVGFMVDVYDLDVFELAQALEKKDIKIFELCLMFPIELTARDGSLTIPELGVE
+                     VVRKGDVIMYTVGGVGDAYTHSVQKIISFFGSNVVQLPSGSAFSVEYVGYRLGYHQFS
+                     LCVIDTAHASYNLTRKVSTTFKGHSLVMIPEIADGFLSFRQMYLDSDFVDRVYSYLLN
+                     TTSAFVDRTFEYAVSCARSQKTHVIVGTRVVHDKVELSPEEQWGLVVALMIQAITDRK
+                     KAHVAHHSIEALRGNLWNCIVLIVRKLCSSFFSGMNEYALTMLQALGSNLDVLMDQNF
+                     RFVRTVPATVTLHLVAETNPCFTDRSMLLDEGLMAYRLHLRNGTNIKVAKDLVREAHK
+                     ILRSMRAAEKAKAESKGLEVDEREITEDDILTFIQTKNLHVGLKGGVRSRIINQGVKS
+                     YVNSAASTFTSSGNPASWAKSFAELKVAENGYTVGKIFSKSPANGVVKLPIAATVASL
+                     VMKDDGGLGEKIEVGQPAWVSLLASSLRALSERAAYVLRSKSSLLMFGGGLLLMASML
+                     AFRRQILNRAHGLAQGVRTSLKKTKGKLVLGLSDLKERLGSVRRNAVVSAQGSVRSLK
+                     VVARAEFKDRVSGYVEEMGYIYGDSLNVQTVCLTAAAYLSSSYEKSAILILLAPKRFR
+                     YIGSVGYGIAALRCIKGGEYGRASKLMGVAACLALTAKKGASRAASLQIVFPKRGDVY
+                     EGVTSFYRQRAERKGAAIEPSRRSEGEAMDDILDEATCGTSSEVEQEKEDLTSKTEDS
+                     TDASDDESVESSQHTAQSHFVTTSVNESKHESGILADGKVESRKEEEPRRIVDKGKKV
+                     VDYDEELNMRKEKCRLIIEKRREEHGGLIPVVFKEPKCEGKDDESEEESEGYLCLSST
+                     KVERGDASPSGCKSADCKSISEESPERKTKSSAIIEDVTPVKVEVSAPRNVQTAMERE
+                     KFKGARKLVSSDIFVDKLRGRDVAFYSKYSRRYVYNGGSHASQGWNKALDELREELKL
+                     DESYDHCLIQKYRKGATIGFHADDEKCYTSGVSVVTVNLNGQARFRVRSNKTGEIVEH
+                     LLGDGDVFVMSPGMQRDFKHSVESLDEGRVSITLRNATVDYCKREATEGKRVKGEVTP
+                     QSRVSVNDGKTSKEAKGLLGPVPSSGVSSSSGESVATVRQSASKSTIGTAVEMGCIDK
+                     DSWVLGEDPVLGIQSFNDVVYCKDLKTAGTEAPAIEFIMYLARRCFDLFIKLKRARDL
+                     VAKTDKRVGHKFPLAVYENLPGLRVYDANFKVVANAPEDGTTIFDLEYVFLVSTGTFV
+                     PGRNLEAVLSRQDAVLVCDDLLVFHDAMNLRGCVRLAKRALVGEYMKNVRLSAVNSPP
+                     GGGKTTRLVDEYFGRKKRAKIATANTGSAADINSAIRAREGKKETDLVAKTANSWIVN
+                     SRPRPNSHVGLIDEVYMLHKGMFQLTVVAMGVKEVIAYGDKNQIPFINREKTFVTPNE
+                     AVEFAEELIEYTDISYRCPADVCYVLSSMTDMRGAKLYPNGVFPNGDTRPLRSFEKVP
+                     IATPEDALLYEADVYLTMTQNEKAEMQRVVAKMEIAAGKKRPDVLTTHEAQGKTYGDV
+                     VLVRLKKADDPIFSRKPHIVVALSRHTRSMKYAVLSSKMSDTISKLIDGTYAGKVSDV
+                     LLQQLQRNDRFRVD"
+     variation       1086
+                     /note="results in alanine to valine substitution"
+                     /frequency=".013"
+                     /replace="t"
+     variation       1335
+                     /note="results in proline to leucine substitution"
+                     /frequency=".011"
+                     /replace="t"
+     variation       1381
+                     /note="results in lysine to asparagine substitution"
+                     /frequency=".014"
+                     /replace="t"
+     variation       1762
+                     /frequency=".023"
+                     /replace="c"
+     variation       2084
+                     /note="results in lysine to glutamic acid substitution"
+                     /frequency=".012"
+                     /replace="g"
+     variation       3004
+                     /frequency=".019"
+                     /replace="a"
+     variation       3133
+                     /frequency=".022"
+                     /replace="g"
+     variation       3148
+                     /frequency=".064"
+                     /replace="a"
+     variation       3157
+                     /frequency=".050"
+                     /replace="g"
+     variation       3162
+                     /note="results in isoleucine to threonine substitution"
+                     /frequency=".045"
+                     /replace="c"
+     variation       3166
+                     /frequency=".038"
+                     /replace="c"
+     variation       3899
+                     /note="results in glutamic acid to lysine substitution"
+                     /frequency=".034"
+                     /replace="a"
+     variation       3983
+                     /frequency=".381"
+                     /replace="t"
+     variation       4018
+                     /frequency=".019"
+                     /replace="g"
+     variation       4166
+                     /note="results in serine to glycine substitution"
+                     /frequency=".011"
+                     /replace="g"
+     variation       4560
+                     /note="results in aspartic acid to glycine substitution"
+                     /frequency=".015"
+                     /replace="g"
+     variation       4887
+                     /note="results in arginine to lysine substitution"
+                     /frequency=".035"
+                     /replace="a"
+     variation       5031
+                     /note="results in glutamic acid to glycine substitution"
+                     /frequency=".011"
+                     /replace="g"
+     variation       5053
+                     /note="results in glutamic acid to aspartic acid
+                     substitution"
+                     /frequency=".026"
+                     /replace="t"
+     variation       5305
+                     /frequency=".010"
+                     /replace="t"
+     variation       5696
+                     /note="results in arginine to glycine substitution"
+                     /frequency=".016"
+                     /replace="g"
+     variation       5716
+                     /frequency=".020"
+                     /replace="t"
+     variation       5776
+                     /note="results in glutamic acid to aspartic acid
+                     substitution"
+                     /frequency=".067"
+                     /replace="c"
+     variation       6748
+                     /frequency=".011"
+                     /replace="g"
+     variation       6874
+                     /frequency=".029"
+                     /replace="g"
+     variation       7123
+                     /frequency=".012"
+                     /replace="a"
+     variation       7141
+                     /frequency=".460"
+                     /replace="a"
+     variation       7142
+                     /note="results in threonine to alanine substitution"
+                     /frequency=".027"
+                     /replace="g"
+     variation       7297
+                     /frequency=".027"
+                     /replace="c"
+     variation       7309
+                     /frequency=".010"
+                     /replace="a"
+     gene            7374..8927
+                     /gene="POL"
+                     /locus_tag="GLRaV1_gp02"
+                     /db_xref="GeneID:11476680"
+     CDS             7374..8927
+                     /gene="POL"
+                     /locus_tag="GLRaV1_gp02"
+                     /codon_start=1
+                     /product="RNA dependent RNA polymerase"
+                     /protein_id="YP_004940642.1"
+                     /db_xref="GeneID:11476680"
+                     /translation="MIAFESIECFSAAPQLEKYIMAKVSTSHVQVVNLFLESRVPGIT
+                     CFNTEFWEDDFETSGLDTLVETATISDNFPKYRVTDRPRLQNVVRSVIGRPKRNSLKC
+                     NLVTFESRNFNADRGCDVSSDPIAATELASLFFDTWVDGSKLAECVGDTISQNAVAAS
+                     SWLDSRSSMAKQSLWARLRSFVYDLSAMTRYKLMVKSDAKPKLDSTPLQQYITGQNIV
+                     YHDRAITAMFSHIFTQAVERLKYVLHTKVLAYHGMSTEDFSREVGDRLGDVSGYYVYE
+                     LDISKYDKSQGACMKDVERRILIGLGVSESVVDAFFCGEYDSVVTMGKNELVLSVGAQ
+                     RRSGGANTWLGNTLVLMTLLAISLKGSEPSLVVVCGDDSLIFSKNELQIDDRILEESF
+                     GFDLKLTCQCAPYFCSKYLVRTPDHCYFLPDPFKLFLKLSLEREPNEDLLFEVFTSFV
+                     DLTRGFGDESAVQQLVAMDAQRYGPNPYAYAAFCLVHILAANFVQFKRLFYDADGVFG
+                     KNSKSKATR"
+     variation       7528
+                     /note="results in glutamic acid to glycine substitution"
+                     /frequency=".044"
+                     /replace="g"
+     variation       8007
+                     /note="results in isoleucine to valine substitution"
+                     /frequency=".444"
+                     /replace="g"
+     variation       8160
+                     /note="results in glycine to serine substitution"
+                     /frequency=".026"
+                     /replace="a"
+     variation       8980
+                     /frequency=".034"
+                     /replace="g"
+     variation       9046
+                     /frequency=".458"
+                     /replace="a"
+     variation       9047
+                     /frequency=".456"
+                     /replace="c"
+     variation       9065
+                     /frequency=".481"
+                     /replace="t"
+     variation       9072
+                     /frequency=".500"
+                     /replace="a"
+     variation       9087
+                     /frequency=".453"
+                     /replace="a"
+     variation       9098
+                     /frequency=".477"
+                     /replace="a"
+     variation       9112
+                     /frequency=".462"
+                     /replace="t"
+     variation       9120
+                     /frequency=".446"
+                     /replace="c"
+     variation       9121
+                     /frequency=".013"
+                     /replace="t"
+     variation       9126
+                     /frequency=".419"
+                     /replace="g"
+     variation       9128
+                     /frequency=".423"
+                     /replace="a"
+     variation       9133
+                     /frequency=".397"
+                     /replace="t"
+     variation       9135
+                     /frequency=".397"
+                     /replace="t"
+     variation       9145
+                     /frequency=".383"
+                     /replace="g"
+     variation       9471
+                     /frequency=".020"
+                     /replace="g"
+     variation       9619
+                     /frequency=".059"
+                     /replace="a"
+     gene            9680..9859
+                     /locus_tag="GLRaV1_gp03"
+                     /db_xref="GeneID:11499280"
+     CDS             9680..9859
+                     /locus_tag="GLRaV1_gp03"
+                     /note="ORF2"
+                     /codon_start=1
+                     /product="p7"
+                     /protein_id="YP_004940643.1"
+                     /db_xref="GeneID:11499280"
+                     /translation="MDLRQFSHELLYTVSLFILVALCFVVYFIVRAIRHCCAKIEDKP
+                     VREPGNSSYRYVAQP"
+     gene            9865..11496
+                     /gene="HSP70"
+                     /locus_tag="GLRaV1_gp04"
+                     /db_xref="GeneID:11476681"
+     CDS             9865..11496
+                     /gene="HSP70"
+                     /locus_tag="GLRaV1_gp04"
+                     /codon_start=1
+                     /product="hsp70-like protein"
+                     /protein_id="YP_004940644.1"
+                     /db_xref="GeneID:11476681"
+                     /translation="MEVGLDFGTTFSTACFSVPSEDDSGCVTLVNSPFVPTQVFIGSD
+                     MTYSIGHRAYSDFVAGKPGGLYINPKRWVGVDGYNFQAVKRKLNPEYEVKLSNGEVVL
+                     GSVGNVNAPLVRVVDLVFLFVKGILLETEEAVGKAVSGVVCTVPAEYNSFKRSFLGVA
+                     LEGLGKPLRALINEPTSAALYGAVRGGALKETYAVFDFGGGTLDISFISRFNNVVSVL
+                     FSKGDNFLGGRDIDRAIVQFLRKEKRITGVIDAGILAVMIADLKEKICVNGGTQYTQV
+                     KTSNGLETLSMSVDELNAVSEPFVDRAIKIFAEGANELKRSPIVCVLTGGSVALPLVQ
+                     QKLKTLPYVSRTEYDSKTFRLSVAVGAKIYSDILTGHSDLRLIDTVSQTLSDELSGFT
+                     EIVIFPKGHPIPSEYETSFQISGSTMEYGIIEGESNRTWLNEIAFKGTDYRPSNERKS
+                     DKVKYEISVDGKLKLSVDGRQLKNTRLPAPVSASAHAYRYVSSMKKYLIQLENNYVDM
+                     FSELHGDKISIDDVYDATGAYFDKNILVNFLRLSK"
+     variation       9876
+                     /frequency=".016"
+                     /replace="g"
+     variation       10131
+                     /frequency=".010"
+                     /replace="g"
+     variation       10422
+                     /frequency=".024"
+                     /replace="g"
+     variation       10699
+                     /note="results in serine to alanaine substitution"
+                     /frequency=".011"
+                     /replace="g"
+     gene            11493..12941
+                     /locus_tag="GLRaV1_gp05"
+                     /db_xref="GeneID:11499281"
+     CDS             11493..12941
+                     /note="ORF4"
+                     /codon_start=1
+                     /product="p55"
+                     /protein_id="YP_004940645.1"
+                     /translation="MNPLVWLTGATDYMSVLRPLYEDFKAGGGRRVVNYIEVIDRGDK
+                     PHIIRGLSPSDENFELIAWAVAVGAFENSIYAFDTILSTMRNWKAYATPGSLQLDTPI
+                     TKKKNKHFTLTAEQQAAVRTSPNSTNEAFAQLFLNLGVFLKRVPKDEDISGRGNIPLV
+                     RVSQAESTDRIEQGRYSPLLAKFVRKYTHVVDAYDSVVTRQKIEVCSYYIPELIGLLF
+                     RARDGAQAYKTVSLYLASFLQSKDPGKYDPETRVIWFARTLTMARELLEIYYNIRVEV
+                     SEREIIRNFRIQPGDEFHQLSTMLLGLVADTSAKLTGITDVDVVLRRVLGLCLKAMVD
+                     ENQHISNINYTGALYLMLVYFSIVGTNYLRKKDTPNEMVFRINGVVRKVNFTHLKRLV
+                     AEASVDGRNYPREISSVFAGITLQLRQLGNIDTVVWPDVVLSNPSLGFDTVLHSGYIS
+                     LNPAMYKDIEIIKRKIRNSTHWVGGYKYGKRF"
+     variation       11685
+                     /locus_tag="GLRaV1_gp05"
+                     /note="results in valine to leucine substitution"
+                     /frequency=".017"
+                     /replace="t"
+     variation       12280
+                     /locus_tag="GLRaV1_gp05"
+                     /note="results in arginine to proline substitution"
+                     /frequency=".106"
+                     /replace="c"
+     gene            13046..14014
+                     /gene="CP"
+                     /locus_tag="GLRaV1_gp06"
+                     /db_xref="GeneID:11476682"
+     CDS             13046..14014
+                     /gene="CP"
+                     /locus_tag="GLRaV1_gp06"
+                     /codon_start=1
+                     /product="coat protein"
+                     /protein_id="YP_004940646.1"
+                     /db_xref="GeneID:11476682"
+                     /translation="MASVISQNDDDYNVVRGGNIVVPRTPTLNGFGTSAFTIPAGEAT
+                     AYVLKTQYSKPEAGTPEANHPVIGVLPDEYVFVKGPGGYTLRPSRPSTGQRSGDSEVA
+                     KREMGDKLKRTFNIAEIFTNPEMNIIFEPPKDMEVSVVVPTGPGLVTPAVATAISTEL
+                     KNLCAEVMGNTDQKSLTDFFLAMLQLMLTFSTSPDTESKEEYFVNLYSNGERKLTYEK
+                     VKGAVVKGAEGSTFENPMRQYARLFSATAVHLILNGKLRPNEKVAMQHGVPKRFLPYT
+                     FDFCRPSYSQFSNDAIRAWQLAAESAFGRKSNVTSSVLRNTSELKV"
+     variation       13274
+                     /note="results in valine to leucine substitution"
+                     /frequency=".060"
+                     /replace="t"
+     variation       13675
+                     /frequency=".018"
+                     /replace="t"
+     gene            14037..15539
+                     /gene="CPd1"
+                     /locus_tag="GLRaV1_gp07"
+                     /db_xref="GeneID:11476683"
+     CDS             14037..15539
+                     /gene="CPd1"
+                     /locus_tag="GLRaV1_gp07"
+                     /codon_start=1
+                     /product="coat protein duplicate 1"
+                     /protein_id="YP_004940647.1"
+                     /db_xref="GeneID:11476683"
+                     /translation="MTTALVAPIVGDKGEYLSLLRNLPNDNSQESWLPNAGRMNDDFF
+                     KIGEAYKLQNLSIGYTINVSVSIKSIPKETMGVLRVIIEPRDGDMLIHTLRFYRDKNL
+                     IEQVYTQRKGGVGSVLKSRPVDSSIVNFHNERKETMTSMVNKQNRLMEVFTNGSSLGS
+                     SQIKVPVDSLITVIVSLESKKVSCDGLSELVPNDVGSIVKFDGTVDYKEINRERKYIF
+                     PYKTFRDSKYREILTEAIAARNETAAAQPETETVPVHPIANVTYVTPPEGVSITNAAI
+                     PETKPIDEVATLLTAIENVTDLPIGRSKLNVSELDVIELTGYYNPSVMEADDVRSVNA
+                     KLLDYYSRLYGRSESSNRALAIGMIQGALTWSTSANLKDGEIRKVDVSLNGRKFTVDF
+                     NELRHIIQSSVPQSKYENPVRQYMRWFSTTTISLIKSGVVVPNYHVMARHGVTSQFIP
+                     YGFDYCILLPSYNRRDDKVAAALARAQAIALANKRRAGKTLYNFSELEKS"
+     variation       14060
+                     /frequency=".014"
+                     /replace="c"
+     variation       14402
+                     /frequency=".207"
+                     /replace="a"
+     variation       14502
+                     /note="results in serine to threonine substitution"
+                     /frequency=".329"
+                     /replace="a"
+     variation       15096
+                     /frequency=".026"
+                     /replace="t"
+     variation       15358
+                     /note="results in arginine to proline substitution"
+                     /frequency=".025"
+                     /replace="c"
+     variation       15500
+                     /frequency=".010"
+                     /replace="g"
+     gene            15540..16862
+                     /gene="CPd2"
+                     /locus_tag="GLRaV1_gp08"
+                     /db_xref="GeneID:11476684"
+     CDS             15540..16862
+                     /gene="CPd2"
+                     /locus_tag="GLRaV1_gp08"
+                     /codon_start=1
+                     /product="coat protein duplicate 2"
+                     /protein_id="YP_004940648.1"
+                     /db_xref="GeneID:11476684"
+                     /translation="MEIDEAVDSRNAIRIYDVKRALLSLSKSMVLRSRVRFVRRAGFR
+                     SLYQVWIGRGKNVLELGVDFGGTHGAKLRPFVYYGGSYYYNEQMVPTDISEDVLDYVN
+                     VEISLTLSKKRVVTAALINGIDVPCLGYALKNGTLRFGHEIIFKVDDDSLHYLLDKST
+                     RNKRIEGLYTELVVKVDGGDVLLGDVDMAGTPLDRAYSNKTGIEPSIHVANVGDWKSL
+                     FVLSASDTRTGVEQPYTENAMLYYEVVDRNLEDVAKTCGYFEIPTATVAGLTMVDFEG
+                     MEKVTLSVSGESTYLSKDVAKRITLALLRLPLTVDDGSVLTDKRLLLVLIIQGAVTYG
+                     TRADFVEKGPSNVCVSYKGKSVRLDFMYVRSVIIANCDSIYITNPIRKYMRWWSTATI
+                     QLIKLGIVKPNPIVAAKRGLSSNNIWLSFDYILLDARFNDRKEKILLR"
+     variation       15624
+                     /note="results in methionine to valine substitution"
+                     /frequency=".019"
+                     /replace="g"
+     variation       15753
+                     /frequency=".025"
+                     /replace="t"
+     variation       15892
+                     /note="results in alanine to glycine substitution"
+                     /frequency=".018"
+                     /replace="g"
+     variation       16103
+                     /note="results in methionine to isoleucine substitution"
+                     /frequency=".012"
+                     /replace="a"
+     variation       16109
+                     /frequency=".304"
+                     /replace="g"
+     variation       16119
+                     /note="results in aspartic acid to asparagine
+                     substitution"
+                     /frequency=".240"
+                     /replace="a"
+     variation       16136
+                     /frequency=".012"
+                     /replace="t"
+     variation       16368
+                     /note="results in methionine to valine substitution"
+                     /frequency=".012"
+                     /replace="g"
+     variation       16479
+                     /note="results in serine to glycine substitution"
+                     /frequency=".018"
+                     /replace="g"
+     gene            16946..17515
+                     /locus_tag="GLRaV1_gp09"
+                     /db_xref="GeneID:11499278"
+     CDS             16946..17515
+                     /locus_tag="GLRaV1_gp09"
+                     /note="ORF8"
+                     /codon_start=1
+                     /product="p21"
+                     /protein_id="YP_004940649.1"
+                     /db_xref="GeneID:11499278"
+                     /translation="MEFAPVCYICTKNEEGSDKKLTLLSREDLIDFNSDENQDELSLE
+                     KKPFVKSYENYLRDWAERPFYFSNAMSVMDLAMHTGNASIDSDSGLSKSGEKRRTAVE
+                     VQSPWKTGIPFDSVDNGVLVAVGYEGLNADKKKARSVALFMQNEGSYIMLIGGEVYAS
+                     SSYIKECMRCQRLASTMSGDVFVDALRLV"
+     variation       17188
+                     /locus_tag="GLRaV1_gp09"
+                     /note="results in asparagine to lysine substitution"
+                     /frequency=".054"
+                     /replace="a"
+     variation       17484
+                     /locus_tag="GLRaV1_gp09"
+                     /note="results in aspartic acid to glycine substitution"
+                     /frequency=".016"
+                     /replace="g"
+     gene            17559..18191
+                     /locus_tag="GLRaV1_gp10"
+                     /db_xref="GeneID:11499279"
+     CDS             17559..18191
+                     /locus_tag="GLRaV1_gp10"
+                     /note="ORF9"
+                     /codon_start=1
+                     /product="p24"
+                     /protein_id="YP_004940650.1"
+                     /db_xref="GeneID:11499279"
+                     /translation="MALITPKYVGNFSEFCVHIIEISNADSVHLLYEALKLNSRWLEL
+                     SFSTFVEETQKELEQTPNGWQLRFARENTVAEIDTKFMRKMYGMYLREADTLKDIRKA
+                     LHLILVDTKLTDASVNGLARGRGKKNFSRSLLKGMMRAIRELQSSLDKIGVKSGAEVK
+                     LTAIAISLLAEDSHSSPKDVILRVNRLSSYYLLKDNVTFHFFGAIASNLV"
+     variation       17860
+                     /locus_tag="GLRaV1_gp10"
+                     /note="results in lysine to arginine substitution"
+                     /frequency=".024"
+                     /replace="g"
+     variation       18002
+                     /locus_tag="GLRaV1_gp10"
+                     /frequency=".030"
+                     /replace="g"
+     3'UTR           18192..18659
+     variation       18464
+                     /frequency=".067"
+                     /replace="a"
+ORIGIN      
+        1 gtaggtatcg aaccagacaa tcccaatcct accattgctt tccatttcag atctgaaatc
+       61 cacacttctt ctcttctctc cgcttccgag cattcttact ctcattcctt tttctctcga
+      121 gtgctaaaac cactcccttc tcactaccct tttacctctc ccttttcgtt tcctttctct
+      181 cagggacgaa gtatatactt cacctctcta ctgttctact tcttctcctt ttctttcctt
+      241 tttctcttga gtgctgatat cactctattc tcactacttt ttcacttctc cctttttgtt
+      301 tcctttcatt cagggacgaa gcacgtactt cttctcttta ctcttctccc ttttctcctt
+      361 atctttcctt tcttttttat tttttattta actctattta tccgccttct ttcttttcgt
+      421 atcgttcatt tccttctctt ttctttttct ttttatcgtt actttttcgc cttctttctt
+      481 attgtatcca tcgtttcctt ttcttttctc cttagttcgt cactctaacg ttttcccgaa
+      541 ccactccatt tcttttcatt tcctttcatt tcgcgtgctt cactttattg tttccccttt
+      601 cttttactgt ctaggttcta atttttcctt ttcctcctta gtattttgca gtatcggttt
+      661 catttctaac ttttttattc gtcttgtact tccttttatc ttcgcttttc tcgtttttgt
+      721 cgttccccat tgttctcttt tcttattttt atatttcctt tcttctcgtt tatttaaaat
+      781 catggcagtt aagtccatct ttgcacaaga agacttgatt tccattcaaa aagattttcg
+      841 tttccccttt gtttcttctt ctacatcttt atttttgtgc aatcttcctt cacccccaat
+      901 catatttcaa aaagggtcac gctttatagc ccccacaagg agtagcaatg gttttctgag
+      961 gaaagcgatc gactatgctg tttgttgcaa aaactacggt cggtcattga aatttgacgc
+     1021 tacacctgtc cagtccactc accacataat agtaaaggct gtgttcagga acacatatta
+     1081 tagggctgcg tcaggcaagt gggtaacttt gcgggcaggg acagcttcag gtacggtacg
+     1141 tttagtgagg ccggcggtcg tggaacttga atcagaccac gccgggatgt tttctgtttt
+     1201 cttcgtaaga aaacagctgt cggaggcacc agagaaggct aaatccccgc agtgtgtgat
+     1261 cgaccgaaag ccagcgcagt cgaaaatacc ggtgcctaca ccaataaagg caaagcaggt
+     1321 tgcggccgcc gtgccgggtc taaatgggaa caacgcgcaa tctcacgcgc gtttcggaaa
+     1381 attttttaat gaaggcggtt cgtttcagcg cccggcattt ttgttgcgtt cggggcggct
+     1441 atgggatatt caagggcaat gttttttcac cccgaaattt tgtcacaagt ggttgttgac
+     1501 ccgcgactgg agttcaggta agaggtatgt tttttgtttc gttgaagggg cagttatcgc
+     1561 cgtacctctt gaagttataa ggtacgatat gcgcgttcta tggcggaggc tgcctgtggg
+     1621 tgtttacgtg gcgcttcctc acttgctctt tagatgtgag gacacgggtg agctgtttta
+     1681 tggtgataag tattggtgtt ggttgcagct ggcagttctg aacggcaaca atcttttggc
+     1741 cggctctttc gagagctgta ttagtgtgcg gaagttgaag cgaatgctgc gctttaacgt
+     1801 caagctggag aagacggatg aagcgaatat ctttcatgtg gggaacaaac ccactgtttc
+     1861 tttggctgag gttgatgata gatgcttcgt cggtatggcg gctaaagggg ggcaacagag
+     1921 cctggtggca agcgtaagta atgcgctcaa tcaggaagat ctattcgaag ggatagtatc
+     1981 aacaattgct aaccggctag tactgaaaga agggagcaca ctggtgacgc acctcgacga
+     2041 gaagatttcg gagctgttca tgatgaagga ggatacactg gggaagaaga ataagtgcgt
+     2101 cgtgacggta gcgcttagtg ctgtggctaa agaaagtttg acgagagctt ttccagaact
+     2161 ttttataacc tttttggata gtgtttcgag ctcgcacagt ttatgtaacg ctgttcgttc
+     2221 gtgcttcaac tcattgtatg cgagcaaata cagaggcgta ccgttcgtag acatcggagg
+     2281 gagtgttgcc tatcatgtgc gtaatggaga caaagattgt cattgttgta accccgttct
+     2341 ggattacaaa gattgcagaa ggcgcgaaga ggagtgtttg aggctcgcta cagctgagga
+     2401 aaaggttatg acagtcgaaa gcgtgcttaa gaaagaggct gcgaagaaca tcacgtactg
+     2461 ccaaatggac acgcgctttt gtgatcataa agcgccagtt ggtttcatgg ttgacgtcta
+     2521 cgacttagat gtttttgaat tggcgcaagc actagagaag aaagatataa aaatattcga
+     2581 gttgtgcttg atgtttccaa tagagctgac agccagagac ggcagcctaa ctataccaga
+     2641 actgggtgtg gaagtggtgc gaaaaggcga tgtgataatg tatactgtcg gaggcgtagg
+     2701 cgatgcttac actcattccg tgcagaagat tataagtttc ttcgggagta acgtcgttca
+     2761 gttacccagt ggcagtgctt tttcggtcga gtatgtaggc tacaggcttg gttaccatca
+     2821 gttttctctg tgcgttatcg ataccgctca tgcctcgtac aatttgacga ggaaagtgtc
+     2881 gacgacgttt aagggacata gtctggttat gataccggag attgctgatg gttttctctc
+     2941 attcagacaa atgtacttag attccgattt cgttgatcgt gtgtactcgt atttgcttaa
+     3001 tacgacgtct gcattcgtgg atagaacatt tgagtacgcc gtgtcttgcg cgcggagcca
+     3061 gaagacgcat gttatcgtgg gtacacgtgt ggtgcacgac aaggtcgaat tgtctccgga
+     3121 agagcagtgg ggactggttg tagcgttgat gatacaagcg atcacagaca gaaagaaggc
+     3181 acacgtggct catcactcga tcgaggctct tcgcgggaac ttgtggaatt gtatcgtttt
+     3241 gatcgtacgg aagctttgta gctctttctt ttcggggatg aatgagtacg ctttgactat
+     3301 gttgcaggcg ctggggtcta atctggacgt gttgatggat caaaattttc ggttcgtacg
+     3361 tacggttcct gccacggtga cgctacatct ggtggcggag accaaccctt gtttcactga
+     3421 tagatcgatg ttattggatg agggtttgat ggcttacagg ttgcacctcc gtaacgggac
+     3481 gaatatcaag gtcgctaagg atctagttcg tgaagcgcac aaaattctga ggagcatgag
+     3541 agccgcagaa aaggcgaagg ctgagagcaa aggtttggag gttgatgaga gagaaatcac
+     3601 tgaagatgat atcctgacgt ttatacagac gaaaaatctc catgtcggtt tgaaaggtgg
+     3661 tgttagaagt cgcataatca atcagggcgt aaagtcatac gtgaattcag cggcgagcac
+     3721 gtttacatcg agcgggaatc cggcaagttg ggccaaatct ttcgctgaat tgaaggtggc
+     3781 ggagaacggt tacaccgtgg gaaaaatttt ttcaaaatct ccagcgaacg gagtagtcaa
+     3841 gcttccaatt gcggcaacgg tggcatcgct ggtaatgaag gacgatggag gtctagggga
+     3901 aaaaatagag gttgggcagc ctgcgtgggt atctttgctt gcgtcatcat tgcgcgctct
+     3961 gagcgagagg gcggcttatg ttctacggag taagtcgtcg ttgctaatgt tcgggggagg
+     4021 tctattactg atggcttcca tgctcgcttt tcggcgccaa attttgaaca gagctcatgg
+     4081 gttagcgcaa ggtgtccgca cctccttgaa aaagacgaaa ggtaagctgg tgttaggtct
+     4141 gagcgacttg aaagagagac tcgggagtgt aagaaggaat gccgtcgttt cggctcaggg
+     4201 atcagtgcgt tcattgaagg tggtagcgag ggctgaattt aaagatcgcg tgtctggata
+     4261 cgtggaagag atggggtaca tttacggcga ctcgttgaac gttcagaccg tgtgccttac
+     4321 ggccgccgca tatctatcat cgagctatga gaaatcggcg attcttatat tactcgcgcc
+     4381 taagcggttc aggtatatag ggagcgtcgg atacgggata gcggcattga ggtgtatcaa
+     4441 aggaggcgag tatggcaggg cttcgaaatt gatgggcgta gccgcgtgtt tggcgttgac
+     4501 tgcaaagaaa ggtgcaagta gggcagccag cttgcagatt gtgttcccga agcgtgggga
+     4561 cgtgtatgag ggcgttacta gcttctacag gcagcgagca gaaaggaagg gtgcggcaat
+     4621 cgaaccgtcg cgcagaagcg aaggcgaggc tatggatgat atcctggatg aagcaacttg
+     4681 tggaacctcg agcgaagttg agcaagagaa ggaggatttg acgtcaaaaa ctgaggattc
+     4741 aacagacgca tcagatgacg aatcagttga aagtagtcag catacggcac agtcgcactt
+     4801 tgtgactaca agcgtcaacg agtcaaaaca cgaaagcggt atcttggctg atgggaaagt
+     4861 cgaaagtcgg aaggaagagg agccgaggcg tattgtcgat aaagggaaga aggtcgttga
+     4921 ttacgacgaa gagttgaata tgcggaagga gaagtgcagg ttgattatag agaagagacg
+     4981 agaagagcat ggtggcctaa ttcctgttgt gtttaaagaa ccgaagtgtg aggggaagga
+     5041 cgacgaatcg gaagaagaga gcgaaggcta tctgtgctta agctctacca aagtggagcg
+     5101 tggcgacgct tcgcccagtg gttgtaagtc cgctgattgc aagagtatat cggaggaaag
+     5161 cccggagaga aagacgaaat cgtcagcgat tatcgaagat gttactccgg tcaaggtcga
+     5221 agtgtcagct ccccgaaacg ttcaaacggc gatggagcgt gaaaaattca aaggggcccg
+     5281 caaactagtg agcagcgaca ttttcgtcga taagttgcgg gggagagatg tagcattcta
+     5341 cagcaagtac agccgaaggt atgtctataa tggtggttcg cacgcgagtc agggttggaa
+     5401 taaagcgctt gatgagcttc gggaggaact gaaattggat gagagttatg atcattgctt
+     5461 gatacagaag tacagaaagg gtgctacgat cgggtttcat gctgatgatg agaaatgcta
+     5521 cacatctggt gtgagcgttg tcaccgtaaa tttgaatggt caggctcgct ttagagtgcg
+     5581 gtcgaataag acgggagaga ttgtcgagca tcttctgggt gatggtgatg tcttcgtgat
+     5641 gagcccgggg atgcagcgtg attttaagca ttcggtggaa tctttggatg aagggagggt
+     5701 gagtattaca ttacgcaacg ccactgtgga ttattgcaag cgcgaagcta ctgaaggcaa
+     5761 gcgcgttaaa ggcgaagtta ctcctcaatc ccgggtatcg gtgaatgacg ggaagacgtc
+     5821 gaaggaagct aaaggtctac tgggacctgt gccaagttca ggggttagtt cttcttcagg
+     5881 cgaaagtgtg gcgaccgttc ggcaaagcgc gtcaaagtct actatcggca cagctgtgga
+     5941 gatggggtgt atcgacaagg acagttgggt attaggtgaa gacccagtct tggggataca
+     6001 atccttcaat gatgtcgtat actgcaaaga tctgaagacc gcgggtactg aagccccggc
+     6061 gattgagttc attatgtatt tagcacggcg atgtttcgat ttgttcatca agctgaagcg
+     6121 agcgcgagat cttgttgcta aaacggacaa aagagtagga cacaagtttc cgctcgcagt
+     6181 ttacgagaat cttcctggtt tacgagtgta cgacgcgaat ttcaaagtgg ttgcaaatgc
+     6241 gccggaagac gggacgacta tcttcgattt ggaatacgtc tttttggtat ccacaggcac
+     6301 tttcgtgcca gggcgaaatc tcgaggcagt attgtcgagg caagatgccg tgctagtttg
+     6361 tgatgatcta ctagtgtttc atgatgcgat gaatttgcgt ggatgtgtta ggttggctaa
+     6421 gagggcgttg gtcggtgaat acatgaagaa tgtgaggttg tccgcggtga attcaccacc
+     6481 tggtggaggc aagacgacgc gtctcgttga cgaatatttt ggaaggaaga agcgtgcgaa
+     6541 gattgctaca gcgaacactg gaagcgctgc agatattaac tcggctattc gagccagaga
+     6601 agggaagaag gagaccgatt tggtagcgaa gaccgcgaac tcgtggattg ttaattcccg
+     6661 gccccgtcca aactcgcatg ttgggcttat cgatgaagtg tatatgctgc ataagggaat
+     6721 gtttcagtta acagtggtag cgatgggagt gaaagaagtt atcgcgtacg gagataagaa
+     6781 tcagatacca tttatcaaca gggaaaagac gtttgtcacg cctaatgaag ccgtagaatt
+     6841 cgcggaagag ctgattgagt acactgacat ttcatacagg tgccctgctg atgtatgtta
+     6901 cgtattatcg tcgatgactg atatgcgagg agctaaattg tacccgaatg gtgtgtttcc
+     6961 taacggggac actcgacctt tacgctcttt cgagaaggtg cctatcgcaa ctccagagga
+     7021 cgctttactg tatgaagcgg atgtttacct gacaatgact cagaatgaaa aagcagaaat
+     7081 gcagagggtt gttgcgaaga tggaaattgc ggctggaaaa aagaggccag atgtgttaac
+     7141 gacgcatgaa gcgcaaggca agacgtatgg tgatgttgta ttggtaagat tgaagaaggc
+     7201 agatgatccg atcttctcgc ggaagcctca tattgtagtt gctttgtcaa ggcatactcg
+     7261 cagcatgaaa tacgcggtgc tgagctctaa gatgtctgat actatctcga agctgattga
+     7321 tggtacgtac gctggaaaag tgagtgacgt tttgttgcag caactgcagc ggaatgatcg
+     7381 ctttcgagtc gattgagtgt ttctcggctg ctccgcagct ggagaagtat attatggcga
+     7441 aggtttctac atcccacgtt caagtggtga atcttttctt ggagagcaga gtgcccggta
+     7501 tcacgtgttt caatacggaa ttttgggagg atgattttga gacgtctggt cttgatacgt
+     7561 tggtcgaaac ggccacgata agtgacaact tcccgaagta tagggtaacg gacaggcctc
+     7621 ggttgcagaa tgtggtaagg tcagtgattg gacggcccaa gcggaacagt ttgaaatgta
+     7681 acctcgtcac gtttgagagc agaaacttca atgcagacag gggatgtgat gtctcgtctg
+     7741 accctatcgc tgctactgag cttgccagct tgttttttga tacctgggtt gatgggagta
+     7801 agctcgcaga gtgcgtcggg gacacaatat cccaaaatgc agtggcggcg tcgtcgtggc
+     7861 tcgatagcag gtcttctatg gctaagcagt cgttgtgggc tcgtttgcgg tcttttgtct
+     7921 acgatctgtc ggcaatgact cgttataagc ttatggttaa gtcagacgcc aaaccgaagt
+     7981 tggactccac gcctttacag cagtacatta cagggcaaaa cattgtgtac catgatagag
+     8041 ctataactgc gatgttttca cacatcttta cgcaagcggt cgagaggttg aaatatgtgc
+     8101 tgcatacgaa agtcttagca taccacggta tgtcaacaga agacttcagt cgcgaggttg
+     8161 gtgatagact gggggatgtg tcgggttatt atgtttacga gctggatatt tcaaaatatg
+     8221 acaagtctca gggcgcgtgc atgaaggacg tcgaaaggcg aattttaatc ggtctaggtg
+     8281 tgtcggaatc tgttgtagat gctttcttct gtggagagta tgattccgtg gtcacgatgg
+     8341 ggaagaacga gctcgttttg tcggtagggg cgcagcggag atctggaggt gcaaatacgt
+     8401 ggttagggaa cactttggtt cttatgactt tgttggcgat atctttgaaa ggttcggaac
+     8461 cgtctttggt tgttgtttgt ggcgatgact ctttgatttt ttcgaagaac gagctgcaga
+     8521 tagatgatag gattcttgaa gagagttttg ggttcgacct caagttaacg tgccagtgtg
+     8581 ctccttattt ttgttcgaaa tatttggtga ggacaccgga tcattgttat tttttacctg
+     8641 acccgtttaa gttgtttttg aagctaagct tggaaagaga gcccaatgaa gatttgttgt
+     8701 ttgaagtgtt tacctcgttt gttgatttga cgcgaggttt tggggatgag agcgcagtac
+     8761 agcagcttgt cgcgatggat gcacagaggt atggtcctaa tccatacgca tacgcagcgt
+     8821 tttgtttagt gcatatactg gcagcaaatt ttgtgcaatt caagaggtta ttttatgatg
+     8881 ctgatggggt gtttgggaag aactcaaaga gtaaggctac tcgatgagct ctatatgtaa
+     8941 tggtctcgta taccagggaa tacggctcaa ttctcgacca cccgtaattg gggagaaaag
+     9001 atcagggatc gggtgtctac tatcctgaag tagaggtaac ggctatttga gctaggtcgt
+     9061 tacaatgtaa tgtagtgtgc agtttttctt agctttagtt catggtttta ggtgttttta
+     9121 atttttagta gtgtcgcgtc ttttattctt tcttttcgta gtttattttt gtctatttat
+     9181 gttcgtctta gtatagagta gtctagggtg gtagagtaag tttgtggtgt cttcgtctca
+     9241 gccgggccgt acgcctcgga ggagttcacc gcacaatcgt gggtactagc gcgttatgtg
+     9301 ccgtaaaggc accaggggat gaggcgtacg gcctggctga attgggagat tcaggtaaga
+     9361 ttgtatatag gtgtttcgtt gtatagcgtg tacatacgtg ttaaggcgtc ttagtgtgtg
+     9421 tatgccgtca tggcattaag ggggtaagca tgcggcttgg ctccttgggg aggttctggt
+     9481 aagaatgtta ccatgtattg taatatatat agtgcaagta cgtagtatgg cattataaca
+     9541 ccaaaatcgg tagtgttaaa atcagggtta tcccaggttt gcatattaat cgtcaatatt
+     9601 taactgtgat atcgccaagt ttgtaatata ctatcagtac agcggtgtgt tttgggtttg
+     9661 aataatatac actttcttta tggacttgcg acagttttcc cacgaacttc tatataccgt
+     9721 ttctcttttt atactagtag ccttgtgttt tgtcgtatat tttatcgtaa gagctattcg
+     9781 gcactgttgt gcgaaaatcg aggataaacc ggtgcgagaa ccaggaaatt catcgtatag
+     9841 gtacgtagct caaccgtaga cggaatggaa gtgggacttg atttcggcac tactttcagt
+     9901 acggcttgtt tttcggttcc atcggaagat gattccgggt gcgtaacgtt ggtgaattct
+     9961 ccgttcgttc caacgcaggt ttttatagga agtgatatga cgtatagcat tgggcacaga
+    10021 gcctactccg attttgtagc aggcaaaccc gggggacttt atatcaatcc gaagcgttgg
+    10081 gtgggcgtcg acggctacaa ttttcaggct gttaagcgaa agctgaatcc agaatacgaa
+    10141 gttaaactga gtaatggtga agttgtttta ggcagcgtgg gtaatgtgaa tgcgccattg
+    10201 gtcagagtag ttgatttggt ttttcttttc gtgaagggta tattgctaga aacagaggaa
+    10261 gcggtaggca aagcggtatc aggcgttgtc tgtaccgtgc cagcggagta taactcgttc
+    10321 aagcgaagtt ttttgggtgt cgctctggaa gggttaggta agccattgag ggctctcata
+    10381 aacgaaccaa cgtcagcagc tttgtacgga gctgttaggg gaggtgcgct gaaagagacg
+    10441 tacgccgtct tcgacttcgg aggagggact ttggatatat cgttcatatc aaggtttaat
+    10501 aacgtcgtga gtgtgctatt ttcgaaggga gacaactttc tgggaggtcg cgacatagac
+    10561 agagcgatag tgcagtttct gcgtaaggag aaacgaataa ccggagtgat agatgcgggt
+    10621 atattggcag tgatgatagc cgacctaaaa gaaaaaattt gtgttaatgg tggtacacaa
+    10681 tatacgcagg tgaagacgtc aaacggctta gaaacgttgt caatgtccgt agacgaattg
+    10741 aacgctgtct ctgaaccatt tgtagacaga gcaatcaaaa tcttcgcaga aggtgctaat
+    10801 gagcttaaac gtagtccgat tgtctgtgtt ctaaccggcg ggtcggtcgc tttaccgttg
+    10861 gtacaacaaa agctaaagac gttaccgtat gttagccgaa cggagtacga ctctaagaca
+    10921 tttagattat cggtggccgt aggtgctaag atttatagtg atattctaac ggggcatagc
+    10981 gatttgcgac taattgacac ggtttcccaa acgttgtctg acgaattgtc aggtttcacg
+    11041 gagatcgtaa tttttcccaa gggtcacccc ataccgtcgg aatatgaaac aagttttcaa
+    11101 atatcgggaa gtactatgga gtatggaata atagaaggtg agtctaatcg tacttggttg
+    11161 aacgagatcg cttttaaagg tacggattac agaccatcta acgaaaggaa gagtgataag
+    11221 gttaaatacg agatatcagt agacggaaaa ttgaaactga gcgtcgacgg tagacaattg
+    11281 aaaaataccc gattaccagc gccggtgagc gcgtcggcgc acgcgtatcg ctacgtatcg
+    11341 agtatgaaga agtatttaat tcaactcgag aataattacg tcgatatgtt ctctgagtta
+    11401 catggcgata aaatatcgat cgacgacgtc tatgatgcta caggtgcgta cttcgacaag
+    11461 aatatactag taaacttttt aagattgtcg aaatgaatcc attggtctgg ttgaccggag
+    11521 ctaccgatta tatgtcggtg cttaggccac tttacgagga tttcaaagct gggggcggtc
+    11581 ggcgcgtagt gaattatatc gaagttatag atcgcggtga taagccgcat ataattcggg
+    11641 ggttgtctcc ctcagatgag aacttcgaat tgatagcatg ggcagtagcc gttggtgctt
+    11701 tcgagaactc aatttatgcg ttcgatacga tcctttctac gatgcgtaat tggaaggcgt
+    11761 acgcgacccc tgggtcgtta caattagaca cgccgataac aaagaaaaag aataagcact
+    11821 tcacgttgac agctgaacag caggcagcgg taagaacgtc accgaatagt acgaatgaag
+    11881 cttttgcgca attgttcttg aatttaggcg ttttcttgaa acgcgtacca aaggacgaag
+    11941 atatatcagg acgaggcaat atcccacttg tgcgtgtgtc acaagcggag tcgacagata
+    12001 gaatagaaca gggaaggtac agtcctcttt tggcaaagtt tgtacgtaag tatactcacg
+    12061 ttgttgacgc gtacgattcc gttgtcactc gccaaaagat tgaggtgtgt agttattaca
+    12121 ttcctgagtt aataggattg ctttttcgag cacgcgatgg cgctcaggca tataaaacgg
+    12181 tttcgttata tttggcctcc tttttgcagt ctaaggatcc tggaaagtac gatcccgaaa
+    12241 cgagagttat atggtttgcg cggacgttaa cgatggctcg cgaactatta gagatctatt
+    12301 acaatattcg cgttgaagtc agcgaaaggg aaattattcg taacttcagg attcaacctg
+    12361 gagacgaatt ccatcagctg tcgacaatgt tgttggggtt ggtagcagac acgtcggcta
+    12421 agttgacggg gataaccgat gttgatgttg tactaaggag agtcctgggt ctgtgtttaa
+    12481 aagctatggt tgatgaaaat caacatatca gtaacatcaa ctataccggt gcgctttatc
+    12541 taatgctagt ttatttctcg atagttggaa ctaattactt gaggaagaaa gatacaccta
+    12601 acgaaatggt tttcagaatt aacggtgttg tgcggaaagt aaactttact catttaaaga
+    12661 ggcttgtggc tgaagcgtcg gttgacggga ggaattatcc gagagaaatt tcgagtgttt
+    12721 ttgctgggat tactttgcaa ctacgccagc taggtaatat agacacggta gtatggccgg
+    12781 atgtggtctt aagtaatccg agtcttgggt tcgataccgt tttacatagc gggtacatta
+    12841 gtttgaaccc tgctatgtac aaggatatcg agattatcaa aagaaagata cggaattcaa
+    12901 ctcattgggt gggtggatat aaatatggaa aaagattttg atattatcat ctaagtgata
+    12961 aggatactca taaagcgaca aatttcgtgt tttaacagta ttttgattcg gtaatacatc
+    13021 gtgcgtttta cggtatcgat ttaagatggc tagcgttata tctcaaaatg atgatgacta
+    13081 taacgtcgtc cggggaggaa atatcgttgt gccgcgcacg cctactttaa atggtttcgg
+    13141 tacatcggcc ttcactatac ctgcaggtga ggcgactgcg tacgttttga aaacacagta
+    13201 ctcgaagcca gaagctggta ctcccgaggc aaatcaccct gtgattggtg ttctgccaga
+    13261 cgagtatgtg ttcgtgaaag gtccgggagg ttatactctc cgtccttctc gaccgtctac
+    13321 gggtcagcgt tcgggggatt ctgaagtggc taagcgagaa atgggcgata agttaaagag
+    13381 aactttcaat atagcagaaa tctttactaa tcccgagatg aatattatct ttgaaccacc
+    13441 aaaggatatg gaagtttcgg ttgtggtgcc gaccggaccc ggcttggtga ctccggcagt
+    13501 ggcaacagct atatctacgg aattaaaaaa tttatgtgct gaagtgatgg gtaacactga
+    13561 tcagaaaagt ctcacagatt ttttcttggc aatgttgcaa ttaatgttga cgtttagcac
+    13621 atcaccagac actgagagca aagaagagta cttcgtgaat ttgtacagta acggcgagcg
+    13681 aaaattaact tacgagaagg ttaagggcgc cgttgtcaaa ggagctgaag gctcgacgtt
+    13741 cgaaaatcct atgcgtcagt atgccaggtt gttctcagca acggctgtac atttaatatt
+    13801 gaatggaaag ttaaggccga acgagaaagt agctatgcaa cacggcgtac ctaagaggtt
+    13861 tcttccgtat acttttgatt tctgcagacc atcttattct caatttagca atgacgccat
+    13921 tagagcatgg cagttggcgg cagaatcggc gttcgggcgg aagagtaatg taacaagctc
+    13981 agtactaaga aacaccagtg agctcaaggt gtagatttag aaagctgtga ttaataatga
+    14041 caacggcgtt agtggctcct atagttgggg ataaaggcga gtatttgtct ttactgagaa
+    14101 acttgccgaa tgataattcc caagaatctt ggctccctaa cgcgggtcgg atgaatgatg
+    14161 atttctttaa aataggagag gcgtataagt tacaaaatct ttcgataggg tacacgatta
+    14221 atgtatctgt ttcgattaaa tcgatcccaa aagaaacgat gggcgtgctt agagtaataa
+    14281 tagaaccacg ggacggtgat atgcttatac acactctaag attctatcgt gacaagaact
+    14341 taattgaaca ggtctacacg caaagaaaag gtggcgtcgg tagtgttctc aaaagtagac
+    14401 cggtggattc gtcaatcgta aattttcata atgaaagaaa agaaactatg acctcaatgg
+    14461 ttaataagca gaataggtta atggaagtct ttacgaatgg ctctagttta ggatcgagcc
+    14521 aaatcaaagt cccagtcgac agtttgatca ctgttatagt ttcgttagag tcaaagaaag
+    14581 tttcatgcga tggactctcc gaattggtac cgaacgacgt gggctcgatt gtgaaattcg
+    14641 acggaacggt cgattacaag gaaataaatc gcgaacggaa gtatatcttt ccgtataaga
+    14701 cgtttaggga ttcgaaatac cgggagatct taaccgaagc gattgctgca cgaaacgaaa
+    14761 cagcggcggc tcagcctgaa acagagacag ttccggtgca tccgatcgcg aacgtgacct
+    14821 atgtaactcc accagagggt gtatcgataa caaatgcagc tatccctgaa actaaaccca
+    14881 ttgacgaagt agcgacgtta cttactgcga ttgagaacgt caccgattta cctataggta
+    14941 ggtcgaagtt gaatgtttca gaattggatg ttatcgagtt gacgggatat tacaatccca
+    15001 gtgttatgga agcagacgat gttcgctctg ttaacgcgaa attactggat tattattcgc
+    15061 ggttgtacgg aagatcagaa agttcgaacc gtgcgctggc gataggtatg atccaaggag
+    15121 cgctcacgtg gagtacaagt gcaaatctca aggacggtga gatacggaaa gtggatgtat
+    15181 cactgaacgg aagaaaattt acagtggact ttaacgaact ccggcatatt atacagtcgt
+    15241 cggtaccgca gtcaaaatac gagaaccccg tcagacagta tatgcgttgg ttttctacaa
+    15301 cgactataag tctgataaag tctggcgtgg tagtaccaaa ctatcatgta atggctcgac
+    15361 acggtgtgac tagccaattt ataccatatg gttttgacta ttgtatatta ttaccttcgt
+    15421 ataacaggag agacgataaa gtagcggccg cgttggctag agctcaggct atagcgttag
+    15481 cgaacaaaag acgggcagga aagacactat ataacttttc tgaattagaa aaatcataaa
+    15541 tggagatcga cgaggcggtc gattcgagaa acgcgattcg tatctatgac gtcaagcgcg
+    15601 cgttgctctc tctgtccaag tctatggttt tacgtagcag ggtcaggttc gttagaagag
+    15661 ctggtttccg gagtttatat caagtgtgga tcggtagagg taaaaacgta ttagagttgg
+    15721 gtgtagactt cgggggcact catggtgcta aactacgacc ctttgtttac tacggtggtt
+    15781 catattatta taatgagcaa atggttccaa ctgatatatc ggaagatgta ttggattatg
+    15841 tgaacgttga gatcagtttg actctctcaa agaaaagagt cgtaacggct gctttaataa
+    15901 acggaatcga cgtgccgtgc ctaggttacg ccttgaaaaa cggaacgctg cgattcggac
+    15961 acgaaattat ttttaaagtt gatgacgaca gtttacatta tctattagat aaatcgacta
+    16021 ggaataaacg aatcgaaggg ttgtatactg aattagtcgt taaggtcgat ggcggtgacg
+    16081 ttttattggg agacgttgat atggcaggta cgccactaga cagagcgtac tcaaacaaaa
+    16141 cggggatcga gccttctata cacgttgcga acgtgggaga ctggaaaagc ttgtttgttt
+    16201 tatcagcttc tgacacgagg acaggcgtcg aacaacccta taccgaaaat gcaatgcttt
+    16261 actatgaagt agtcgataga aatttagaag acgtagcgaa aacgtgcggc tattttgaaa
+    16321 taccgaccgc tactgttgct ggattaacta tggtagactt cgaggggatg gaaaaggtaa
+    16381 cgctttccgt cagtggtgaa agtacttatc ttagcaaaga cgttgccaag agaataacac
+    16441 tggcgttgtt gagactaccg ttgacggtcg acgacgggag tgtgttgact gataaaagac
+    16501 tgctattggt attaataatc cagggagcag tcacttatgg aacgcgagcg gatttcgtag
+    16561 agaaaggccc gtctaacgtt tgtgtcagtt acaagggaaa gagtgtgcgg ttagatttta
+    16621 tgtatgtcag aagtgtgata atagcaaatt gtgacagcat atatattact aatcctatac
+    16681 gcaagtacat gcgttggtgg tctacagcga ctatacagct cattaagttg ggtatcgtta
+    16741 aaccaaatcc aatagtggcg gcgaagagag gattatcgag taataacata tggttatcat
+    16801 tcgactatat actactggac gcgaggttta acgatagaaa agaaaagatt ttgttgcggt
+    16861 gatagttggt tcactgagtg aaataactct atgtaaataa tatcactaaa gctttataaa
+    16921 gtaattagac tataaattta aaaatatgga atttgctcca gtgtgttata tttgtactaa
+    16981 gaatgaagaa ggaagtgata agaaattaac gcttttgtct cgtgaggatc tcatcgattt
+    17041 taacagtgac gagaaccaag atgagctctc tttggagaaa aagcccttcg taaaatctta
+    17101 cgagaattat ctgcgagatt gggctgagag accgttttat ttctctaatg ctatgtcggt
+    17161 tatggatctg gctatgcaca cggggaatgc atcgatagac tcagattctg gtttaagcaa
+    17221 gtcgggtgag aagaggcgta ccgctgtaga agttcaaagt ccttggaaaa ctggtatccc
+    17281 gttcgatagc gtcgataacg gcgtcttggt ggcagtaggg tacgaaggtt taaatgcgga
+    17341 taagaaaaag gcccgttccg tggctctatt tatgcagaac gagggatctt atataatgtt
+    17401 gataggcggc gaagtgtatg cgtcgtcgtc atacattaaa gagtgtatgc gctgtcaacg
+    17461 cttggcatca acgatgagcg gggacgtgtt cgtagatgca ttgagactgg tttgagggta
+    17521 atcaaagtta cccactgttt gttatacata ttgctacgat ggctttgatt acgcctaagt
+    17581 atgttggtaa cttctctgag ttttgcgtac acatcatcga aatttcgaac gcggatagcg
+    17641 ttcacttact ctatgaagcg ttaaaattga attctcgatg gttagagtta tcgttctcga
+    17701 catttgtgga ggagacgcag aaggaattag agcagacgcc aaacggttgg cagttgaggt
+    17761 tcgctcgtga gaacacggtg gccgaaattg acaccaagtt tatgcgtaag atgtatggaa
+    17821 tgtacctgcg cgaggcagac acactcaaag acatacgcaa ggcgttacat ttgattttag
+    17881 ttgacacgaa gttgaccgat gctagcgtaa acggtctagc tcggggtaga gggaagaaaa
+    17941 atttttctcg ttcgttgctg aaaggaatga tgagagcgat acgggaactt caatcgagtt
+    18001 tagacaaaat tggggtgaaa tcgggggctg aggtcaagct aacagctata gcgatatcgc
+    18061 tgttggccga agacagtcac agtagcccga aagatgttat tttgagggtt aataggcttt
+    18121 catcctatta tttgctcaaa gataatgtca cgtttcactt tttcggggct atagccagca
+    18181 atttggtgta agaagagtca gatgtgattc gttttcgtat cttcaccaat gagcaagaag
+    18241 aggtgaattg gttggtatca tttccatgat ccaacatcga tgtccgtcag tgcgagacat
+    18301 ttatattgac aattggcgtt cagagactaa caacggtgaa aaatgcggtt atggcacgtt
+    18361 caccatcaca aaaggcgcca atacgcttta atcgacgcgt atattatgat tattattgtt
+    18421 ctaataatgt tgttagtgct tactttttat ttaattaaga agaggcgatt aagttaaatt
+    18481 aaaataaaat aaaataaaat aaataaatgg ctcctaacgc taattaccgg ggagtgaaat
+    18541 atcgaaatgt tacttagtaa taagataatc tgagggtcta ggttctcaga ttatataagt
+    18601 cctattaggg tgagatatat aaataaacgg aaacgcgcgg acatcgatgt tggatcatg
+//
+

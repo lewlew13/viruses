@@ -1,0 +1,188 @@
+LOCUS       NC_001633               4009 bp ss-RNA     linear   VRL 13-AUG-2018
+DEFINITION  Mushroom bacilliform virus, complete genome.
+ACCESSION   NC_001633
+VERSION     NC_001633.1
+DBLINK      Project: 14676
+            BioProject: PRJNA485481
+KEYWORDS    RefSeq.
+SOURCE      Mushroom bacilliform virus
+  ORGANISM  Mushroom bacilliform virus
+            Viruses; Riboviria; Barnaviridae; Barnavirus.
+REFERENCE   1  (bases 1 to 4009)
+  AUTHORS   Revill,P.A., Davidson,A.D. and Wright,P.J.
+  TITLE     The nucleotide sequence and genome organization of mushroom
+            bacilliform virus: a single-stranded RNA virus of Agaricus bisporus
+            (Lange) Imbach
+  JOURNAL   Virology 202 (2), 904-911 (1994)
+   PUBMED   8030251
+REFERENCE   2  (bases 1 to 4009)
+  CONSRTM   NCBI Genome Project
+  TITLE     Direct Submission
+  JOURNAL   Submitted (10-MAY-2002) National Center for Biotechnology
+            Information, NIH, Bethesda, MD 20894, USA
+REFERENCE   3  (bases 1 to 4009)
+  AUTHORS   Revill,P.A.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (07-MAR-1994) Peter A. Revill, Monash University,
+            Microbiology, Wellington Rd, Clayton, Victoria, 3168, Australia
+COMMENT     PROVISIONAL REFSEQ: This record has not yet been subject to final
+            NCBI review. The reference sequence was derived from U07551.
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..4009
+                     /organism="Mushroom bacilliform virus"
+                     /mol_type="genomic RNA"
+                     /db_xref="taxon:32625"
+                     /country="Australia"
+     gene            61..600
+                     /locus_tag="MBVgp1"
+                     /db_xref="GeneID:1497109"
+     CDS             61..600
+                     /locus_tag="MBVgp1"
+                     /note="orf1"
+                     /codon_start=1
+                     /product="hypothetical protein"
+                     /protein_id="NP_042508.1"
+                     /db_xref="GeneID:1497109"
+                     /translation="MNNVEISRDECKAMSHGLYCRVASDAQLQRAGWLVQFAVVPRKG
+                     QKQLAANWPFYLVLHRALRNGPEFVGFLLFAAREIEQIRTRLGSGFRKTLVVGNDHFN
+                     KYIKYNGKTIVWCDVLCGTVVPKDSSHCPDVGLETLVPGTVLSGSQFATLSQNIGMAL
+                     RGNCRCHLRDVCMVHQEVS"
+     gene            68..3144
+                     /locus_tag="MBVgp3"
+                     /db_xref="GeneID:1497107"
+     CDS             join(68..1594,1594..3144)
+                     /locus_tag="MBVgp3"
+                     /inference="non-experimental evidence, no additional
+                     details recorded"
+                     /note="orf3; putative RNA-dependent RNA polymerase; The
+                     frameshifting site was predicted based on homology with
+                     luteoviruses"
+                     /codon_start=1
+                     /product="hypothetical protein"
+                     /protein_id="NP_042510.2"
+                     /db_xref="GeneID:1497107"
+                     /translation="MSKYLATSVRLCLMVCIVGWLLMPSYKELDGWCSSLSSLERDKS
+                     NWLLTGLSTWFCIVPSGTDQSSLVSYFSPLEKLSKFVQDLDLDFVKLWWLETITLINT
+                     LNTTEKLLSGVTFSVVLWYPRILVTVLMLVWKLWFPVRFLVVASSLLCLRILVWPFEV
+                     IADVILETCAWFTRKYHKLMDVIEDLMMIPQRVMEWCSGNTAKMVVPTVASCVSESIE
+                     SKLDRILMALGRKGTVLEAAQPGSDFVECEQWPNGLVAIRRHDGRIVGMGFLVVLNGK
+                     WRLVTAAHVARECKRGIMLSAGIDSKTVTFQDLDVVLQTQVDACIMNVPAGTAASLGV
+                     RKVVINRTPSESKVVRTYGYNSGKFCMSEGLVGTTSANMGFRHGCSTLRGWSGTPIYR
+                     DNKVVGIHSRCNGIYENFGLSLDLLVGRLESEETDRYARTMEEFNTEDRPVTPPMEFS
+                     WEFEEKFERVRSTRKSFARIESEVATFTATKLSGFDWTDDAPMDFDELPVFESTMVSV
+                     FSGAPSWGASYFKWQQGRGEEDNVRGVGTFEIFNPGGGKTHAPSKEEQEEVEELRNWS
+                     WPRGTIAATKQAFLTHTRRLRTGFITPCLAAIDWICAQIMDSGLYPKTGAPTWFYGWS
+                     KQREGGFSDFGSEIFRLRALPPLKAEIFRGIREVVEYNITGDSHPGYPWCKLGSDNKA
+                     VLTGFGDLIWDEVAKRFNNMLGYGDAIFSMTPSELVQNGICDAVKVFIKQEPHSLEKV
+                     NAGRLRIIAAVGLVDQIVTRLLCMKQNNAEIDCWESCPSAPGMGLNDEGLRTLYSTAQ
+                     VMAEHGTICETDISGWDWSVQQWELDSDARLRTQLAGEEIGGYLNFFLRVHAYVVGHS
+                     VFVMPDGEMLEQTVPGGQLSGDYNTSSSNSRMRVIATMFARYLAGQVSGFPLLGIKAM
+                     GDDSFEIWFKGLEEYLGKMGHTVKMCVQRPGLVGFEFCSQVFLGLGIAYPVDFSKTLY
+                     RFLSHHPADPKYSEYRAQLMYYFRHLPSSTLQKVIRLAGARVERAQKLATSSN"
+     gene            68..2041
+                     /locus_tag="MBVgp2"
+                     /db_xref="GeneID:1497108"
+     CDS             68..2041
+                     /locus_tag="MBVgp2"
+                     /note="orf2"
+                     /codon_start=1
+                     /product="hypothetical protein"
+                     /protein_id="NP_042509.1"
+                     /db_xref="GeneID:1497108"
+                     /translation="MSKYLATSVRLCLMVCIVGWLLMPSYKELDGWCSSLSSLERDKS
+                     NWLLTGLSTWFCIVPSGTDQSSLVSYFSPLEKLSKFVQDLDLDFVKLWWLETITLINT
+                     LNTTEKLLSGVTFSVVLWYPRILVTVLMLVWKLWFPVRFLVVASSLLCLRILVWPFEV
+                     IADVILETCAWFTRKYHKLMDVIEDLMMIPQRVMEWCSGNTAKMVVPTVASCVSESIE
+                     SKLDRILMALGRKGTVLEAAQPGSDFVECEQWPNGLVAIRRHDGRIVGMGFLVVLNGK
+                     WRLVTAAHVARECKRGIMLSAGIDSKTVTFQDLDVVLQTQVDACIMNVPAGTAASLGV
+                     RKVVINRTPSESKVVRTYGYNSGKFCMSEGLVGTTSANMGFRHGCSTLRGWSGTPIYR
+                     DNKVVGIHSRCNGIYENFGLSLDLLVGRLESEETDRYARTMEEFNTEDRPVTPPMEFS
+                     WEFEEKFERVRSTRKSFARIESEVATFTATKLSGFDWTDDAPMDFDELPVFESTMVSV
+                     FQERPLGGLPISNGNKAEEKKITSEALEPSKSSTPEAAKHTRRRRRNKKKSKNSETGH
+                     GPEEQSQQQSRPSSPIPDDSAPVSSPPVSPPSTGSVPKSWTQAYTQKLVLLLGSMDGQ
+                     SKEKVDLAILEAKSFASALFPPSKPKSSEESEK"
+     gene            3163..3759
+                     /locus_tag="MBVgp4"
+                     /db_xref="GeneID:1497106"
+     CDS             3163..3759
+                     /locus_tag="MBVgp4"
+                     /note="orf4"
+                     /codon_start=1
+                     /product="coat protein"
+                     /protein_id="NP_042511.1"
+                     /db_xref="GeneID:1497106"
+                     /translation="MANRRQSRRRGNKNRNSATVRRAPPNRATQSSSGKVKFVKWIAA
+                     SPTKLIPHIGENETSYGVLFDITGTTFPELSSLMSRHSRYRVLSLGARIVPYDPNCLG
+                     AHSVKVFAESVYDSSATPTVPSVHYLQSNGCRVVPANKQLSSPPSSDVNKYYEICSDD
+                     AVIGRIMYAWNGPGLSTARVGFCSFEVYADLEFDGIRE"
+ORIGIN      
+        1 acaaaataat tgaagaaatt atttttgttt tacatattta gatcttttta tccgatctat
+       61 atgaataatg tcgaaatatc tcgcgacgag tgtaaggcta tgtctcatgg tctgtattgt
+      121 cgggtggctt ctgatgccca gttacaaaga gctggatggt tggtgcagtt cgctgtcgtc
+      181 cctagaaagg gacaaaagca actggctgct aactggcctt tctacttggt tttgcatcgt
+      241 gccctccgga acggaccaga gttcgttggt ttcctacttt tcgccgctcg agaaattgag
+      301 caaattcgta caagacttgg atctggattt cgtaaaactt tggtggttgg aaacgatcac
+      361 tttaataaat acattaaata caacggaaaa actattgtct ggtgtgacgt tctctgtggt
+      421 actgtggtac ccaaggattc tagtcactgt cctgatgttg gtctggaaac tttggttccc
+      481 ggtacggttc ttagtggtag ccagttcgct actttgtctc agaatattgg tatggccctt
+      541 cgaggtaatt gccgatgtca tcttagagac gtgtgcatgg ttcaccagga agtatcataa
+      601 actaatggat gtgattgagg atcttatgat gatcccacaa cgtgtcatgg agtggtgttc
+      661 aggaaatact gctaaaatgg ttgtacctac ggtggcttct tgtgtctcgg aatcgattga
+      721 gtctaaactc gatcgaatct tgatggctct tggtcgcaaa ggtacagtcc ttgaggcagc
+      781 acaacccgga tccgatttcg tcgaatgtga acagtggcct aacggtcttg tcgctattcg
+      841 ccgtcatgac ggtcgcattg ttggcatggg tttcttggta gtgttgaatg gaaaatggcg
+      901 cctcgtcaca gcagcacatg tggctagaga gtgcaaacgc ggtatcatgt tgtcagctgg
+      961 tattgactcg aaaacggtca cattccagga tttagatgtt gtacttcaga cgcaagttga
+     1021 cgcttgtatc atgaatgtac ctgccggaac tgctgcttca cttggtgtga gaaaggttgt
+     1081 aataaaccgg actccgtctg aaagtaaggt ggtcagaacc tacggttaca acagcggaaa
+     1141 attctgtatg agtgaaggac ttgtcgggac tacatcggct aacatgggat ttagacatgg
+     1201 atgctcaaca cttcgtggtt ggtcaggcac tcctatctac cgtgataaca aagtagttgg
+     1261 tattcattct cggtgtaatg gtatctatga gaacttcggt ttgtcgcttg acttgttagt
+     1321 cggacgatta gaatctgagg aaactgatag gtatgcacgg acaatggaag aattcaatac
+     1381 tgaagatcga ccggtgactc cacctatgga attttcatgg gaattcgagg agaaattcga
+     1441 aagagtacgc tccacacgga aatcctttgc ccggatagaa tctgaagtgg cgacatttac
+     1501 ggctaccaag ttgtctggtt ttgattggac tgatgatgct cctatggact ttgatgaact
+     1561 tccggtcttt gaatctacta tggtatcggt ttttcaggag cgccctcttg gggggcttcc
+     1621 tatttcaaat ggcaacaagg cagaggagaa gaagataacg tcagaggcgt tggaaccttc
+     1681 gaaatcttca accccggagg cggcaaaaca cacgcgccgt cgaaggagga acaagaagaa
+     1741 gtcgaagaac tccgaaactg gtcatggccc cgaggaacaa tcgcagcaac aaagcaggcc
+     1801 ttcctcaccc ataccagacg actccgcacc ggtttcatca ccccctgtct cgccgccatc
+     1861 gactggatct gtgcccaaat catggactca ggcttatacc caaaaactgg tgctcctact
+     1921 tggttctatg gatggtcaaa gcaaagagaa ggtggattta gcgattttgg aagcgaaatc
+     1981 tttcgcctcc gcgctcttcc ccccctcaaa gccgaaatct tccgaggaat ccgagaagta
+     2041 gttgagtaca atattactgg tgactcacac ccaggttatc cctggtgcaa gttgggttca
+     2101 gataataaag cggttttaac gggttttggt gatttaattt gggatgaagt tgcgaaaagg
+     2161 ttcaacaaca tgttgggcta tggagatgct atattctcta tgactccatc ggaattagtt
+     2221 cagaacggta tctgtgatgc tgttaaagtt tttattaaac aagagccaca cagtcttgag
+     2281 aaagttaatg ctggtcgact ccgtattatt gcggcagttg gcctcgtcga tcaaatcgtg
+     2341 actaggttgt tgtgtatgaa acaaaacaac gcagaaatcg attgctggga gagctgtcca
+     2401 agcgctcctg gtatgggctt aaacgatgag ggtctaagga cattgtactc cactgctcag
+     2461 gtgatggccg aacacggtac gatttgtgaa acagacattt cgggctggga ttggtcagta
+     2521 caacagtggg agttggattc ggacgcacga ctacgtacac agttagcggg agaggagatc
+     2581 ggagggtatc tgaatttctt ccttcgtgta catgcatatg tggtcggaca ttctgttttc
+     2641 gtcatgccgg atggtgagat gttagaacag actgtgccag gcggtcagct atcgggtgat
+     2701 tacaacacat cttcgagtaa ttcgagaatg agagtgattg ccacgatgtt tgctcgatac
+     2761 ctggcaggtc aagtttctgg tttcccgctt cttggtatta aggcgatggg ggatgacagc
+     2821 ttcgagattt ggtttaaagg actggaagag tatcttggga aaatgggaca cactgtaaag
+     2881 atgtgcgtac agagacccgg acttgtgggc ttcgaatttt gctcgcaagt tttcctaggt
+     2941 ttgggtatcg cttacccagt agactttagc aagacactct atcggttctt gagtcatcat
+     3001 cctgcagatc cgaagtattc ggagtatagg gctcaactga tgtattattt cagacacctt
+     3061 ccttcaagta ctctgcagaa ggtcataaga ctagctggtg cgcgtgttga gcgtgcacaa
+     3121 aagttagcaa cgagtagcaa ttaagcgcat tttcgaaata acatggcgaa tcgaagacaa
+     3181 agtcgtcgtc gtgggaataa aaatagaaat tcggctaccg ttcggcgagc tccgcctaat
+     3241 cgagcaaccc agagctcctc tgggaaagta aagtttgtca agtggatcgc agcatctcct
+     3301 acgaaactca tacctcatat tggggaaaat gagacttctt atggagtgtt gtttgatata
+     3361 acgggcacca cctttcctga gttgagttca ctgatgtcca ggcatagtcg ttatcgtgta
+     3421 ctatcgctcg gggctcgtat tgtaccctat gatcccaatt gtttgggcgc tcatagtgtc
+     3481 aaagtgtttg cagaatctgt gtatgattcg tcggctacgc cgactgttcc tagtgtacat
+     3541 tatttacaaa gtaatggttg tcgagtggtt cctgctaata agcagttatc gtctcctccc
+     3601 agtagcgatg tgaataagta ctacgaaata tgtagtgatg atgctgttat tggacgcatc
+     3661 atgtatgcat ggaatggtcc tggtttgtcg acggctcgtg tcggattttg ctcctttgag
+     3721 gtatatgcgg accttgagtt tgatggcatt cgagagtgac tacactcggg cccaggggga
+     3781 ccggttgagg tagaaatacc aatagatgag gaagatgaca ctccccatcg gtcagttcaa
+     3841 ccaagtccag tagctccagc tataggctca tcctcacagt ctagagggtt ccatcgcgca
+     3901 agtgatagta cttactcagg atttgagtag atgaggtcat ggtatacaaa acctaaattg
+     3961 tcgaaggtcg ctccataaag aaagaaattt ctttttggag tggctgggt
+//
+

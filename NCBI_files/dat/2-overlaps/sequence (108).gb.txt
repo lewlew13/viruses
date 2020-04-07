@@ -1,0 +1,15 @@
+GOA	RepOver	RepCov	Gene	Locus	GeneLen	Product
+NA	0	0	NA	L2_01	11965	envelope protein
+NA	0	0	NA	L2_02	1776	hypothetical protein
+NA	0	0	NA	L2_03	246	hypothetical protein
+NA	0	0	NA	L2_04	939	hypothetical protein
+NA	0	0	NA	L2_05	486	hypothetical protein
+NA	0	0	NA	L2_06	870	integrase
+NA	0	0	NA	L2_07	246	hypothetical protein
+NA	0	0	NA	L2_08	378	hypothetical protein
+NA	0	0	NA	L2_09	195	hypothetical protein
+NA	0	0	NA	L2_10	237	hypothetical protein
+NA	0	0	NA	L2_11	423	hypothetical protein
+NA	0	0	NA	L2_12	657	hypothetical protein
+NA	0	0	NA	L2_13	474	hypothetical protein
+NA	0	0	NA	L2_14	2217	envelope protein

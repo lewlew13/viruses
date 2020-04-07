@@ -1,0 +1,3 @@
+GOA	RepOver	RepCov	Gene	Locus	GeneLen	Product
+NA	0	0	NA	TTMV8_gp1	300	ORF2
+NA	0	0	NA	TTMV8_gp2	2028	ORF1

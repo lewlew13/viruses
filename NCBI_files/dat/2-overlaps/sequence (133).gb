@@ -1,0 +1,1495 @@
+LOCUS       NC_020998              28072 bp    DNA     linear   PHG 13-AUG-2018
+DEFINITION  Halovirus PH1, complete genome.
+ACCESSION   NC_020998
+VERSION     NC_020998.1
+DBLINK      Project: 196975
+            BioProject: PRJNA485481
+KEYWORDS    RefSeq.
+SOURCE      Haloarcula hispanica virus PH1
+  ORGANISM  Haloarcula hispanica virus PH1
+            Viruses; Sphaerolipoviridae; Alphasphaerolipovirus.
+REFERENCE   1  (bases 1 to 28072)
+  AUTHORS   Porter,K., Tang,S.L., Chen,C.P., Chiang,P.W., Hong,M.J. and
+            Dyall-Smith,M.
+  TITLE     PH1: An Archaeovirus of Haloarcula hispanica Related to SH1 and
+            HHIV-2
+  JOURNAL   Archaea 2013, 456318 (2013)
+   PUBMED   23585730
+REFERENCE   2  (bases 1 to 28072)
+  CONSRTM   NCBI Genome Project
+  TITLE     Direct Submission
+  JOURNAL   Submitted (14-APR-2013) National Center for Biotechnology
+            Information, NIH, Bethesda, MD 20894, USA
+REFERENCE   3  (bases 1 to 28072)
+  AUTHORS   Porter,K., Dyall-Smith,M.L., Tang,S.-L., Chen,C.-P., Chiang,P.-W.
+            and Hong,M.-J.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (02-DEC-2012) School of Biomedical Sciences, Charles
+            Sturt University, Boorooma Street, Wagga Wagga, Nsw 2678, Australia
+COMMENT     PROVISIONAL REFSEQ: This record has not yet been subject to final
+            NCBI review. The reference sequence is identical to KC252997.
+            
+            ##Assembly-Data-START##
+            Assembly Method       :: PHRED/PHRAP/CONSED v. phrap version
+                                     1.090158
+            Sequencing Technology :: Sanger dideoxy sequencing; 454
+            ##Assembly-Data-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..28072
+                     /organism="Haloarcula hispanica virus PH1"
+                     /mol_type="genomic DNA"
+                     /isolate="1"
+                     /host="Haloarcula hispanica ATCC 33960"
+                     /db_xref="taxon:1282967"
+                     /country="Australia"
+                     /collection_date="01-Jan-1998"
+     repeat_region   1..307
+                     /rpt_type=inverted
+                     /rpt_type=terminal
+     gene            441..605
+                     /locus_tag="K745_gp01"
+                     /old_locus_tag="HhPH1_gp01"
+                     /db_xref="GeneID:15152053"
+     CDS             441..605
+                     /locus_tag="K745_gp01"
+                     /old_locus_tag="HhPH1_gp01"
+                     /note="ORF1 (GLIMMER predicted, predicted pI=4.33);
+                     similar to SH1 ORF2 protein of accession YP_271859"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="hypothetical protein"
+                     /protein_id="YP_007761590.1"
+                     /db_xref="GeneID:15152053"
+                     /translation="MRPAVPFPLREDADPSPTRSNGRGEAADSRATRRCDGESLADAL
+                     TTEWPAVADD"
+     gene            602..802
+                     /locus_tag="K745_gp02"
+                     /old_locus_tag="HhPH1_gp02"
+                     /db_xref="GeneID:15152005"
+     CDS             602..802
+                     /locus_tag="K745_gp02"
+                     /old_locus_tag="HhPH1_gp02"
+                     /note="ORF2 (predicted pI=10.92); similar to SH1 ORF3
+                     protein of accession YP_271860; TAT signal sequence
+                     predicted by TatP"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="hypothetical protein"
+                     /protein_id="YP_007761591.1"
+                     /db_xref="GeneID:15152005"
+                     /translation="MTRRTGLINWSELIFITDRRPGLGSRGARTSRLHGPMANATFAG
+                     PSPGAFRQTYRRETTAADEEGR"
+     gene            802..1059
+                     /locus_tag="K745_gp03"
+                     /old_locus_tag="HhPH1_gp03"
+                     /db_xref="GeneID:15152006"
+     CDS             802..1059
+                     /locus_tag="K745_gp03"
+                     /old_locus_tag="HhPH1_gp03"
+                     /note="ORF3 (GLIMMER predicted, predicted pI=3.9); similar
+                     to SH1 ORF4 protein of accession YP_271861"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="hypothetical protein"
+                     /protein_id="YP_007761592.1"
+                     /db_xref="GeneID:15152006"
+                     /translation="MPSVTRLTESDDCAEGFAVETESGGTTYRYEFEVVEERDPDAED
+                     EEDRMGTVLFTARFEDGTPTDISLTGTAREAMNEYGFTVDQ"
+     gene            1056..1283
+                     /locus_tag="K745_gp04"
+                     /old_locus_tag="HhPH1_gp04"
+                     /db_xref="GeneID:15152007"
+     CDS             1056..1283
+                     /locus_tag="K745_gp04"
+                     /old_locus_tag="HhPH1_gp04"
+                     /note="ORF4 (GLIMMER predicted, predicted pI=3.9); similar
+                     to SH1 ORF5 protein of accession YP_271862; coiled-coil
+                     region predicted by Pepcoil"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="hypothetical protein"
+                     /protein_id="YP_007761593.1"
+                     /db_xref="GeneID:15152007"
+                     /translation="MTVEPDDEDAHTDPVGTMTDRLEEYLDVLEEEREVVEEVLADLE
+                     DAPDEESLTREEYRRVFPRLMPTEEWGGFGA"
+     gene            1276..1686
+                     /locus_tag="K745_gp05"
+                     /old_locus_tag="HhPH1_gp05"
+                     /db_xref="GeneID:15152008"
+     CDS             1276..1686
+                     /locus_tag="K745_gp05"
+                     /old_locus_tag="HhPH1_gp05"
+                     /note="ORF5 (GLIMMER predicted, predicted pI=4.87);
+                     similar to SH1 ORF6 protein of accession YP_271863; two
+                     transmembrane regions predicted by TMHMM"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="hypothetical protein"
+                     /protein_id="YP_007761594.1"
+                     /db_xref="GeneID:15152008"
+                     /translation="MPDDDGLFTGTDDADRPGPPPGQTSDPLQGSDPVGLKPWLDDLT
+                     YDEVHAFTVGFAPMWTGLLLLPFMPRAATSLLALAALLTSAAVVEKHRPTKALRYIVR
+                     EVHYYLGGQAIAATLGIGWVGLVGVLTHLGGALA"
+     gene            1683..1829
+                     /locus_tag="K745_gp06"
+                     /old_locus_tag="HhPH1_gp06"
+                     /db_xref="GeneID:15152009"
+     CDS             1683..1829
+                     /locus_tag="K745_gp06"
+                     /old_locus_tag="HhPH1_gp06"
+                     /note="ORF6 (GLIMMER predicted, predicted pI=6.1); similar
+                     to SH1 ORF7 protein of accession YP_271864; hydrophobic
+                     N-terminal region (SignalP predicted signal sequence), and
+                     TMHMM predicted transmembrane region"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="hypothetical protein"
+                     /protein_id="YP_007761595.1"
+                     /db_xref="GeneID:15152009"
+                     /translation="MTTDQLRLAVAGLLAAGAGAFAVGKRRADRRRRDDDEDSDFVEV
+                     PIRG"
+     gene            1822..2130
+                     /locus_tag="K745_gp07"
+                     /old_locus_tag="HhPH1_gp07"
+                     /db_xref="GeneID:15152010"
+     CDS             1822..2130
+                     /locus_tag="K745_gp07"
+                     /old_locus_tag="HhPH1_gp07"
+                     /note="ORF7 (GLIMMER predicted, predicted pI=5.8); similar
+                     to SH1 ORF8 protein of accession YP_271865, and to HHIV-2
+                     putative protein 3 of accession AFD02284); other homologs
+                     include Nocardia protein pnf2110 of accession YP_122060.1,
+                     Hrr. lacusprofundi Hlac_0751 of accession YP_002565421.1,
+                     and ORFs in actinophage VWB (of accession AAR29707),
+                     Frankia (of accession EAN11657), and Mycobacterium phage
+                     Dori (of accession AER47690)"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="hypothetical protein"
+                     /protein_id="YP_007761596.1"
+                     /db_xref="GeneID:15152010"
+                     /translation="MGEVQRSDVPEEVPDEATTEHPPDVPGADPEDYPRRWYLYRNRD
+                     VSGISGKGVVAYGVQFPDGVVAYRWTTSPRTTQVAKSIHDVQHIHGHEGKTLVRWIDG
+                     "
+     gene            2123..2383
+                     /locus_tag="K745_gp08"
+                     /old_locus_tag="HhPH1_gp08"
+                     /db_xref="GeneID:15152011"
+     CDS             2123..2383
+                     /locus_tag="K745_gp08"
+                     /old_locus_tag="HhPH1_gp08"
+                     /note="ORF8 (GLIMMER predicted, predicted pI=4.2); similar
+                     to SH1 ORF9 protein of accession YP_271866"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="hypothetical protein"
+                     /protein_id="YP_007761597.1"
+                     /db_xref="GeneID:15152011"
+                     /translation="MGDDHPERPTNPNEGIDGATWDAYRKTTATWAVKLPVDVTVRTS
+                     HGPVEVDGGDYLCISANADLYPCSADTFEKQYEPSGPLEGSE"
+     gene            2380..2724
+                     /locus_tag="K745_gp09"
+                     /old_locus_tag="HhPH1_gp09"
+                     /db_xref="GeneID:15152012"
+     CDS             2380..2724
+                     /locus_tag="K745_gp09"
+                     /old_locus_tag="HhPH1_gp09"
+                     /note="ORF9 (GLIMMER predicted, predicted pI=5.2); similar
+                     to SH1 ORF11 protein of accession YP_271868, to HHIV-2
+                     putative protein 4 of accession AFD02285, and to Hbf.
+                     lacisalsi HlacAJ_19877 of accession ZP_09950016"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="hypothetical protein"
+                     /protein_id="YP_007761598.1"
+                     /db_xref="GeneID:15152012"
+                     /translation="MTEEKTIGEVYDDRNALVLGLAATVQRLHDKLRAAGHGAALEYR
+                     TCWTPDGGDDADAGEWAIVYCWLPTGQVSWHVPREMVEDTGLPRKQAEWDGHDRAEKN
+                     RRSGRSWPTDSC"
+     gene            2861..3004
+                     /locus_tag="K745_gp10"
+                     /old_locus_tag="HhPH1_gp10"
+                     /db_xref="GeneID:15152013"
+     CDS             2861..3004
+                     /locus_tag="K745_gp10"
+                     /old_locus_tag="HhPH1_gp10"
+                     /note="ORF10 (predicted pI=10.4); weak similarity to the
+                     N-terminal region of SH1 ORF12 protein of accession
+                     YP_271869"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="hypothetical protein"
+                     /protein_id="YP_007761599.1"
+                     /db_xref="GeneID:15152013"
+                     /translation="MDRSLDGPKPPGTRTMNGAESLGIRRRPREFLCARDLYPAFHQL
+                     IPR"
+     gene            3029..3100
+                     /locus_tag="K745_gp11"
+                     /old_locus_tag="HhPH1_gp11"
+                     /db_xref="GeneID:15152014"
+     CDS             3029..3100
+                     /locus_tag="K745_gp11"
+                     /old_locus_tag="HhPH1_gp11"
+                     /note="ORF11; no homolog present in haloviruses SH1 or
+                     HHIV-2"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="capsid protein VP1"
+                     /protein_id="YP_007761600.1"
+                     /db_xref="GeneID:15152014"
+                     /translation="MRTDQFRRPITGTRRAVRWVALI"
+     gene            3134..7453
+                     /locus_tag="K745_gp12"
+                     /old_locus_tag="HhPH1_gp12"
+                     /db_xref="GeneID:15152015"
+     CDS             3134..7453
+                     /locus_tag="K745_gp12"
+                     /old_locus_tag="HhPH1_gp12"
+                     /note="ORF12 (GLIMMER predicted and confirmed by MS of
+                     purified protein, predicted pI=4.2); similar to SH1 VP1
+                     (ORF13) of accession YP_271870, to HHIV-2 VP1 of accession
+                     AFD02286, and to Hbf. lacisalsi HlacAJ_19872; predicted
+                     helix-turn-helix and RuvA-like domain (Interproscan)."
+                     /codon_start=1
+                     /transl_table=11
+                     /product="capsid protein VP1"
+                     /protein_id="YP_007761601.1"
+                     /db_xref="GeneID:15152015"
+                     /translation="MDPQNWSEIPSDKLGELDYGLKHSEDAAVAVGYVHADPGYVTWA
+                     TEGKLHEGGPEARLDFYADKEDARQAVHDYAADHPDVMNARQAVRGTGDAAKGVADPD
+                     GMDENLPWSAFGGGRQVKNAVEDAFSSPEELAEASDAHLASFEGVGPKTIEDLRAWLV
+                     EEGYADGPDTDDDGYTEGDIDISVEPSGLELDDPATEITGVGDSSNLARDTVGDFWDM
+                     GCPFHEVAGAWQEEALKDILGASFFMNTQPGHIIRLFAGYTAAYGYDRSGEELGNYAE
+                     AMFSEFDWDDVRWAWADHGLTTEFGKVAAASEIIEEQAAVATGDELPQWELDFDPEED
+                     TGLSGLHMVEDADVFHDSNTGAAEGVHYTADVDHENDDVYVPFETVALYSLLFQVDYS
+                     DPQNAEHVRLVVDTGTSDEAKQLNLTSSGSGRNNRYVAVFDHPNADLHGIAEGQLTVK
+                     PRDFDLEEPSEYRAWAEEAARQIEERREAHRREVQRGPDDLRDVAGVSPPDALEDATH
+                     TLGEPNVDREDPNELDHFDSVMGDIYDPVPDVAGEVEENVQAAEEAGVLDGDVGDLED
+                     PTHSTNIGGKTYHFPVQIGDFDIVKAQPSLVYENGGSLSVHVEQHQDIADSFKFLLHD
+                     EDEGLEAVETGTGRTPKDFFEWFDGLEATGDADPVYPKTEESSIARKEKPEDVAGYEV
+                     VTNDPQGGMIEWEGKGGGTPPSGLLQQDYNTELQLMNSGGRYKHRWLLRVHWRAGTDH
+                     KVRTIMQWKYAGTDGQDAARKENKEKGIARAEEWMRENPAEGADDGDQPPTERVEAFA
+                     DRTGVPADVSERIFTDFGTAVGKDWEHTEERIYKAADYGKERDRLLSVKGVGEARQKQ
+                     IAEADGDDDGTDLETTVAEIENAPPGGWTEEDRVDGGDDQTVYDAYTEKDLDPEKARE
+                     QIGRYLMATVPEDVARRLAETFGNTQSLAGATLGQLRDVEGVGDAVVREFYKAVPDDE
+                     NLTIAHGQKRADWGPFSTFGGYGPRLDRKPETGDYLGFEYADSGGMAGWVTRVEGDEA
+                     LVRLDANSQPDRYDWEDGVVEDVNGEVHDVQHVEVGDKQAPGDLLDEDAPGGGFEVPE
+                     EDDLQDALAAKGINNIVASNLADQYDSMDAVEQAVAGADDPSELHGVGEASAAQVGEA
+                     FGQAASDGGSVLPPEMDPAEYDGPYKNQRMEDAHYWAAQLVGWMKNGPNAGLRGSYYV
+                     DILAGKPVLVMDDTWLESNVDAIKTEMRNVGFPSPIREKEMDDGGWRLFIREPTNGDR
+                     LPTSYYPGDWRDFETTGGDGGDPDAMFAQDQLDTWDTPNPNVEDDDSDPAGDREEAEE
+                     NRKAVQAARDTDPDDDLPGPALAALKKNWSVYKRGLKEGREAVEEAEEYRDDHRKKAE
+                     RAAAIINDIRDAYGQEPIDFDGVEGVPAVEELGGPITAESSGVSLSFDWKADPYDPTE
+                     EVL"
+     gene            complement(7505..8227)
+                     /locus_tag="K745_gp13"
+                     /old_locus_tag="HhPH1_gp13"
+                     /db_xref="GeneID:15152016"
+     CDS             complement(7505..8227)
+                     /locus_tag="K745_gp13"
+                     /old_locus_tag="HhPH1_gp13"
+                     /note="ORF13 (GLIMMER predicted; predicted pI=5.4);
+                     similar to SH1 ORF17 (YP_271874), and to predicted ATPases
+                     of HHIV-2 (AFD02288), Hap. paucihalophilus (ZP_08046180),
+                     HlacAJ_19867 of Hbf. lacisalsi (ZP_09950014). predicted
+                     P-loop ATPase domain (COG0433)."
+                     /codon_start=1
+                     /transl_table=11
+                     /product="putative ATPase"
+                     /protein_id="YP_007761602.1"
+                     /db_xref="GeneID:15152016"
+                     /translation="MARVTVLGRSGTGKSYYTGYLLEQVVPDFDFAVHFDIEDEEIGL
+                     SDSSHDPLYQTLHLDKKTAANISWVKAIYNHRKLRVVPDGLTTAEQREVYAQIADAVM
+                     VLCKDAVPDATAFVSCDEAHNIVKQNAFDERVERMITGGRKHGVECLHISQRPQLLHT
+                     TVISQADRRVYFAISDDNDLGKIDRQAGFPASRLKDLPARVCIVENKDTGEHEKLDTN
+                     GIGRQRPHYSGDDGLVDDKLPV"
+     gene            complement(8228..8419)
+                     /locus_tag="K745_gp14"
+                     /old_locus_tag="HhPH1_gp14"
+                     /db_xref="GeneID:15152017"
+     CDS             complement(8228..8419)
+                     /locus_tag="K745_gp14"
+                     /old_locus_tag="HhPH1_gp14"
+                     /note="ORF14 (GLIMMER predicted, predicted pI=5.1);
+                     similar to SH1 ORF18 protein of accession YP_271875;
+                     central transmembrane domain predicted by Phobius"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="hypothetical protein"
+                     /protein_id="YP_007761603.1"
+                     /db_xref="GeneID:15152017"
+                     /translation="MNGPNISEGASDQAKVAAASLGVLGRLRLKLAVPFFWVAMALVP
+                     PAMKDAMDRTVTKAQDEEE"
+     gene            complement(8416..8856)
+                     /locus_tag="K745_gp15"
+                     /old_locus_tag="HhPH1_gp15"
+                     /db_xref="GeneID:15152018"
+     CDS             complement(8416..8856)
+                     /locus_tag="K745_gp15"
+                     /old_locus_tag="HhPH1_gp15"
+                     /note="ORF15 (GLIMMER predicted, predicted pI=4.1);
+                     similar to SH1 ORF19 protein of accession YP_271876, to
+                     HHIV-2 putative protein 9 of accession AFD02290, Hbf.
+                     lacisalsi ORF HlacAJ_19857, and Hap. paucihalophilus ORF
+                     ZOD2009_19093"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="hypothetical protein"
+                     /protein_id="YP_007761604.1"
+                     /db_xref="GeneID:15152018"
+                     /translation="MTNGLALGGMDMNPRQMARMMRDPQNIADMLTESGPTGDSPAEI
+                     FADIVNVHRADIRRLGMAADVDVEAENMSVERAAELLAGTVAGDGVELVVMFNEMAEK
+                     RDRLLRDALDDEEYQQFMAGKQAMMKTGDPGGFEDDGESAEGDA"
+     gene            complement(8853..9500)
+                     /locus_tag="K745_gp16"
+                     /old_locus_tag="HhPH1_gp16"
+                     /db_xref="GeneID:15152019"
+     CDS             complement(8853..9500)
+                     /locus_tag="K745_gp16"
+                     /old_locus_tag="HhPH1_gp16"
+                     /note="ORF16 (GLIMMER predicted, predicted pI=3.9);
+                     similar to SH1 ORF20 protein of accession YP_271877, to
+                     HHIV-2 putative protein 11 of accession AFD02292, Hap.
+                     paucihalophilus ORF ZOD2009_19098, and Hbf. lacisalsi ORF
+                     HlacAJ_19852; c-terminal transmembrane domain predicted by
+                     Phobius"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="hypothetical protein"
+                     /protein_id="YP_007761605.1"
+                     /db_xref="GeneID:15152019"
+                     /translation="MAAPTVATESGDDDPGLEADDEADEAVGESLDEARELAEGAAET
+                     PEPDDDPDVAEVDLTDDDLGGSASDLFTGTDDATTDSDDSALSTDDDGDSDDEEEDTD
+                     ALDALGARGESMEEAINDGAARLAVVGLDDEDDKDGLQEEFTEVFEAFRLGYFGSRFF
+                     EEYVFTDDDEVDPMWGLFGAALTCTAFIVWMRPDGDEMVQQAREAVEGLIGGSLT"
+     gene            complement(9500..9919)
+                     /locus_tag="K745_gp17"
+                     /old_locus_tag="HhPH1_gp17"
+                     /db_xref="GeneID:15152020"
+     CDS             complement(9500..9919)
+                     /locus_tag="K745_gp17"
+                     /old_locus_tag="HhPH1_gp17"
+                     /note="ORF17 (GLIMMER predicted, predicted pI=4.1);
+                     similar to SH1 ORF21 protein of accession YP_271878, to
+                     HHIV-2 putative protein 12 of accession AFD02293, and to
+                     Hbf. lacisalsi HlacAJ_19847 of accession ZP_09950010;
+                     predicted transmembrane domain (Phobius)."
+                     /codon_start=1
+                     /transl_table=11
+                     /product="hypothetical protein"
+                     /protein_id="YP_007761606.1"
+                     /db_xref="GeneID:15152020"
+                     /translation="MGETPAVDEIRQKEQGGTNDGDDDQDGGVLDGATRMFDGGIPTF
+                     GLSRAQLLIIGLVVVAVLAWKLRESSSDGGESGTKAREAVDSMRDPDLGDVKVREEEE
+                     AEEVEVVLPANPDNELEKDEAIIQHFKNAGHIEGDDD"
+     gene            complement(9923..10594)
+                     /locus_tag="K745_gp18"
+                     /old_locus_tag="HhPH1_gp18"
+                     /db_xref="GeneID:15152021"
+     CDS             complement(9923..10594)
+                     /locus_tag="K745_gp18"
+                     /old_locus_tag="HhPH1_gp18"
+                     /note="ORF18 (GLIMMER predicted, predicted pI=4.27);
+                     similar to SH1 ORF22 protein of accession YP_271879, to
+                     HHIV-2 putative protein 13 of accession AFD02294, Hap.
+                     paucihalophilus ZOD2009_19108; and to Hbf. lacisalsi
+                     HlacAJ_19842; contains four CxxC motifs; predicted signal
+                     sequence (signalP) and N-terminal transmembrane region
+                     (TMHMM)"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="hypothetical protein"
+                     /protein_id="YP_007761607.1"
+                     /db_xref="GeneID:15152021"
+                     /translation="MVGRENHYEPVAGIGAWLAARPLTRPHQLPGYAWRLHIQISRRD
+                     GGIVIEPCQYCASERVAAVLDKRIEASPTAGNKYRKRCLSCSRWLPMCGAADFQTADH
+                     QHVLPRGADPESDDPTVPAEDFDGQVDGVQTAAPSDGPPPCQDPYCEEDATAASGHTW
+                     CDEHEGHNGQQVATDGGEPVEEADDEQQDVNEFDCPECGVAVEGYPDECPGCGVPYQW
+                     DDEDQ"
+     gene            10659..10943
+                     /locus_tag="K745_gp19"
+                     /old_locus_tag="HhPH1_gp19"
+                     /db_xref="GeneID:15152022"
+     CDS             10659..10943
+                     /locus_tag="K745_gp19"
+                     /old_locus_tag="HhPH1_gp19"
+                     /note="ORF19 (Glimmer predicted and confirmed by MS of
+                     purified protein, predicted pI=10.4); similar to SH1 VP12
+                     (ORF23) of accession YP_271880, to HHIV-2 VP12 of
+                     accession AFD02295, Hbf. lacisalsi HlacAJ_19837, and to
+                     Hap. paucihalophilus ZOD2009_19113; two transmembrane
+                     domains predicted by Phobius"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="capsid protein VP12"
+                     /protein_id="YP_007761608.1"
+                     /db_xref="GeneID:15152022"
+                     /translation="MASINVSRATNTLMSPPFLKSAVLIVVGSLLAQVVTTYLRNNVR
+                     DISVKGGDAIYSAVAAMMALMVLPNKYGKPLALGATATSVRVLLRELGVV"
+     gene            10960..11517
+                     /locus_tag="K745_gp20"
+                     /old_locus_tag="HhPH1_gp20"
+                     /db_xref="GeneID:15152023"
+     CDS             10960..11517
+                     /locus_tag="K745_gp20"
+                     /old_locus_tag="HhPH1_gp20"
+                     /note="ORF20 (GLIMMER predicted and confirmed by MS of
+                     purified protein, predicted pI=4.4); similar to SH1 VP7
+                     (ORF24) of accession YP_271881, to HHIV-2 VP7 of accession
+                     AFD02296, Hap. paucihalophilus ORF ZOD2009_19118, and to
+                     Hbf. lacisalsi ORF AJ5 HlacAJ_19832"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="capsid protein VP7"
+                     /protein_id="YP_007761609.1"
+                     /db_xref="GeneID:15152023"
+                     /translation="MGNIGNLSAEKQISVYDGQPFVDEQDVPADDPNTPALTIEGPDG
+                     YVIAVDAGTPIAPEFRDSNGNKLDPSTRVIVQKCDRQGNPLGDGIVFNDTLGRFDYEQ
+                     MRTDPDFMRKTAKSLMIDEREIVKVFVDIPAGANGYDADKSRLTLGDDTSDFGKAVEI
+                     VDHDELSSAETRAVKAASQRSAGGR"
+     gene            11519..12217
+                     /locus_tag="K745_gp21"
+                     /old_locus_tag="HhPH1_gp21"
+                     /db_xref="GeneID:15152024"
+     CDS             11519..12217
+                     /locus_tag="K745_gp21"
+                     /old_locus_tag="HhPH1_gp21"
+                     /note="ORF21 (GLIMMER predicted and confirmed by MS of
+                     purified protein, predicted pI=4.1); similar to SH1 VP4
+                     (ORF25) of accession YP_271882, to HHIV-2 VP4 of accession
+                     AFD02297, Hap. paucihalophilus ORF ZOD2009_19123, and to
+                     Hbf. lacisalsi AJ5 ORF HlacAJ_19827"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="capsid protein VP4"
+                     /protein_id="YP_007761610.1"
+                     /db_xref="GeneID:15152024"
+                     /translation="MADQKQEYTVSHTGGTLGSSKVTTAGNQTAPQRETAIISFECPR
+                     KFSEIEYVGQRDSTRFVPRTTESITGTAGDDTVVSLTANIQPVAGETAIEDQDYPVAV
+                     AYNVTQGVQVDIEDVDYAADEVTLASNPADGDEVKVWSIMGDGDVQFRLVNQFGQEEG
+                     RVYPWATPLYRWHDFPQLKRGREINLHGSVTWEENETVEVLLDAPQEITWEDADYPEG
+                     QYVSTFEQDVEITL"
+     gene            12233..12454
+                     /locus_tag="K745_gp22"
+                     /old_locus_tag="HhPH1_gp22"
+                     /db_xref="GeneID:15152025"
+     CDS             12233..12454
+                     /locus_tag="K745_gp22"
+                     /old_locus_tag="HhPH1_gp22"
+                     /note="ORF22 (GLIMMER predicted, predicted pI=3.9);
+                     similar to SH1 ORF26 protein of accession YP_271883, and
+                     to HHIV-2 putative protein 17 of accession AFD02298"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="hypothetical protein"
+                     /protein_id="YP_007761611.1"
+                     /db_xref="GeneID:15152025"
+                     /translation="MGVISEHIEERDAQGRPDSETSTEQTTQATSAEGDLPDDIDPFL
+                     QQYITEEYQADAATVDQILTGLMAIGNLL"
+     gene            12458..12697
+                     /locus_tag="K745_gp23"
+                     /old_locus_tag="HhPH1_gp23"
+                     /db_xref="GeneID:15152026"
+     CDS             12458..12697
+                     /locus_tag="K745_gp23"
+                     /old_locus_tag="HhPH1_gp23"
+                     /note="ORF23 (GLIMMER predicted, predicted pI=4.8);
+                     similar to SH1 VP13 (ORF27) of accession YP_271884, and to
+                     HHIV-2 VP13 of accession AFD02299; predicted coil-coil
+                     domain (aa 3-32), and C-terminal transmembrane domain
+                     (Phobius)"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="capsid protein VP13"
+                     /protein_id="YP_007761612.1"
+                     /db_xref="GeneID:15152026"
+                     /translation="MGVKDQIRDLDEYQTQVQQAAEGQQQARQAAARTGGQAGTVGQT
+                     LGPVMDWEKTDVEFWMQVAQVVLLYLILRELRRGA"
+     gene            12701..15064
+                     /locus_tag="K745_gp24"
+                     /old_locus_tag="HhPH1_gp24"
+                     /db_xref="GeneID:15152027"
+     CDS             12701..15064
+                     /locus_tag="K745_gp24"
+                     /old_locus_tag="HhPH1_gp24"
+                     /note="ORF24 (GLIMMER predicted and confirmed by MS of
+                     purified protein, predicted pI=3.9); similar to SH1 VP2
+                     (ORF28) of accession YP_271885, to HHIV-2 VP2 of accession
+                     AFD02300, and to Hap. paucihalophilus ORF ZOD2009_19133 of
+                     accession ZP_08046189; no Cys or His residues; contains
+                     repeated sequence motifs, and a 9 x Gly region"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="capsid protein VP2"
+                     /protein_id="YP_007761613.1"
+                     /db_xref="GeneID:15152027"
+                     /translation="MGFFSDLKQGAEDTYNSASNTVSNTADDAGDAFNDFTSGASQTA
+                     TDAFSGVQDTADDAGDAFNDFTSGASQTATDAFSGVQDTAEDAFDFTTGGGGGGGGGS
+                     VADAVSGVFNSGAGAADDAFNFATGGAGDAADDVAEQAQGVARFFSGGADDTVDDAVN
+                     AFEDVSRSFSGGSGALANAVQEAGEDAAENIQQVQSFADDLGDSAVESVVSGSADITE
+                     EVENASGDLKQEAFEFANETTQKAKNAADFESYLEDIGRIQKDVQGYQAPDPGAFLQG
+                     ITDGAGDVAGDIGGGLADVTGATEFKNSEQARRTNRQIQEAREQGGIMGALKEVDART
+                     KGGLDFFLDNPNASVQDSAREGIEFATGVDSEDQGQAAANLAGQTSAAVGGAIEGTAL
+                     DNPVTDAVATGADIFVADPAKAALRGTTGISIDSGSTEGTVGAVDAFDLVFTAGTAGA
+                     GKVGLGAVKGASGAASGADEAGTLVGRLLGGGDEAAGAADDAVDSGRGIVTDGGVDVA
+                     DDIPEAGRAADEASGPFRDVIDIGPARVADDAASGADDAAQATTSTSSTILGGIAGLG
+                     DEAVRFGDEAAPAADDAARGAFDRAGGLLDDFTARFGDDAARGSDDAVRGADDAARGS
+                     DEAVRGSDEAARGTDEAVRGTDEAAQAAEESPGLLSRFLGTTTGKVTAGAAGALAGGA
+                     LLESLGTFDQLKVTDPQTGETFALVRQKDYPATRQRQNGGILWEVRTGSERQGFNNSQ
+                     GLTVMVGASGRNVYILDGQGNRTRAQVPVETLQQAVSRGRGNTGGAA"
+     gene            15065..15961
+                     /locus_tag="K745_gp25"
+                     /old_locus_tag="HhPH1_gp25"
+                     /db_xref="GeneID:15152028"
+     CDS             15065..15961
+                     /locus_tag="K745_gp25"
+                     /old_locus_tag="HhPH1_gp25"
+                     /note="ORF25 (GLIMMER predicted, predicted pI=4.45);
+                     similar to SH1 VP5 (ORF29) of accession YP_271886, to
+                     HHIV-2 VP5 of accession AFD02301, Hbf. lacisalsi AJ5 ORF
+                     HlacAJ_19807, and to Hap. paucihalophilus ORF
+                     ZOD2009_19133"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="capsid protein VP5"
+                     /protein_id="YP_007761614.1"
+                     /db_xref="GeneID:15152028"
+                     /translation="MAISTPFSTEQEADAAYYGSGGGGGDDSTGPGPGPGPGPGPGPG
+                     PNGGDGSGAQWGELQESAALGGGWILVYQDQVNGSRTRWFVIRMTDGTLQALNSQGQV
+                     EDAGENTKLSELPHYSNEEDARAAFNAWAEENPEEAEEGPGGEDGTGPGGEGGEEAAN
+                     WGEWKKISEASVWHIYSRTHREEDRAQFLATGMVKQETVYLAPEGKVVKDPHIYDDPE
+                     ALRQSLQTYFQKAENGEIPESQQPNGDDPGAERVRREATTAKSSNQSKIERLVEKMGG
+                     KKVALAVAVGGVALYQQQDGGS"
+     gene            15964..16446
+                     /locus_tag="K745_gp26"
+                     /old_locus_tag="HhPH1_gp26"
+                     /db_xref="GeneID:15152029"
+     CDS             15964..16446
+                     /locus_tag="K745_gp26"
+                     /old_locus_tag="HhPH1_gp26"
+                     /note="ORF26 (GLIMMER predicted, predicted pI=4.55);
+                     similar to SH1 VP10 (ORF30) of accession YP_271887, to
+                     HHIV-2 VP10 of accession AFD02302, Hap. paucihalophilus
+                     ORF ZOD2009_19138, and to Hbf. lacisalsi ORF HlacAJ_19802;
+                     C-terminal transmembrane domain predicted by TMHMM"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="capsid protein VP10"
+                     /protein_id="YP_007761615.1"
+                     /db_xref="GeneID:15152029"
+                     /translation="MGKFALASRLADELGTSVSKASRFVDEVGAPAARNTIDEAAQAG
+                     SRTVSKWWKPTAAVGTIGTGGALAWRQQDLSQARAIADQQQDYTAAVESIMDSDLPPE
+                     RKREMVDALNQNAPASGENKNGGNDGGDGGLLGGDLQTTLVLLIVVAFALRYTLGDDD
+                     "
+     gene            16446..16895
+                     /locus_tag="K745_gp27"
+                     /old_locus_tag="HhPH1_gp27"
+                     /db_xref="GeneID:15152030"
+     CDS             16446..16895
+                     /locus_tag="K745_gp27"
+                     /old_locus_tag="HhPH1_gp27"
+                     /note="ORF27 (GLIMMER predicted and confirmed by MS of
+                     purified protein, predicted pI=4.2); similar to SH1 VP9
+                     (ORF31) of accession YP_271888, and to Hap.
+                     paucihalophilus ORF ZOD2009_19143 of accession
+                     ZP_08046191"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="capsid protein VP9"
+                     /protein_id="YP_007761616.1"
+                     /db_xref="GeneID:15152030"
+                     /translation="MVPGLRDNEDLLVERLGRLVDVLETKEFGDTTVERSVTQNIDRT
+                     RTDSPNNENQPVYFSTGPAAIAVENTEEWERLDFGIVAETVNIRTTDDIDIAFADPNK
+                     NGPVIRVRQEESPFTIGGDAGIESAFVWVRQPDTASGTPGIQIIAFN"
+     gene            16908..17921
+                     /locus_tag="K745_gp28"
+                     /old_locus_tag="HhPH1_gp28"
+                     /db_xref="GeneID:15152031"
+     CDS             16908..17921
+                     /locus_tag="K745_gp28"
+                     /old_locus_tag="HhPH1_gp28"
+                     /note="ORF28 (GLIMMER predicted and confirmed by MS of
+                     purified protein, predicted pI=4.26); similar to SH1 VP3
+                     (ORF32) of accession YP_271889, and to Natrinema sp. J7-2
+                     ORF NJ7G_2365"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="capsid protein VP3"
+                     /protein_id="YP_007761617.1"
+                     /db_xref="GeneID:15152031"
+                     /translation="MTTIGPKTDNLGTLLSDLTTEMINNGGWAEADSYVTNDQSTDDW
+                     YNNGRALYHAASDTYVALFLDYYRTLYYYTNNQNLSLCMVQSTDWDDTNHHPAGLTTD
+                     CGRYPFSGDVGNGAGASFDYRNDHGNNPIGNNSENSERLSAYTKGYSPDISDAATSVD
+                     NDDTWTYGLSVGLDYFTIFAVNDSSNTGAAGCMGWEYLDEKFWADGRPPVHAFSSYND
+                     SDNGSGEWVNSTEFHTAFYDDDHPNTEMPYNRSSRTQDPRFGYINSDPDDDSYFFQFA
+                     VLEDDNSRQRPIAHPRIVIPNDIANGANDGDTVTSDGRTYRFFVASGGNQSKTLSFGL
+                     RWD"
+     gene            17928..18617
+                     /locus_tag="K745_gp29"
+                     /old_locus_tag="HhPH1_gp29"
+                     /db_xref="GeneID:15152032"
+     CDS             17928..18617
+                     /locus_tag="K745_gp29"
+                     /old_locus_tag="HhPH1_gp29"
+                     /note="ORF29 (GLIMMER predicted, predicted pI=4.2);
+                     similar to SH1 VP6 (ORF33) of accession YP_271890), and to
+                     Natrinema sp.J7-2 ORF NJ7G_3194, and Hmc. mukohataei ORF
+                     Hmuk_0476; predicted carboxypeptidase regulatory-like
+                     domain (CarboxypepD_reg, pfam13620)"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="capsid protein VP6"
+                     /protein_id="YP_007761618.1"
+                     /db_xref="GeneID:15152032"
+                     /translation="MVAYTGVDSSGANSMGAFSDYASVWSPSNAVGVLVSVADAADGV
+                     FTAHKRLGSSSDPPTIVPHSEPPTASSTDFTDAATSFPDGPFGHPLNASAQTTDYQSE
+                     YVGHGVGSMETYIYSWAYIPLKFFHEVTGRVYDTEGEPIKNAQFIATPDNLGTVGSVD
+                     EDGYYSIYLLRVPYQTFLLGVPAKGGYDLVWYRTEDGQRIGGDQDDIDLVFVPESIPT
+                     PLDTSVDLRFQ"
+     gene            18614..18943
+                     /locus_tag="K745_gp30"
+                     /old_locus_tag="HhPH1_gp30"
+                     /db_xref="GeneID:15152033"
+     CDS             18614..18943
+                     /locus_tag="K745_gp30"
+                     /old_locus_tag="HhPH1_gp30"
+                     /note="ORF30 (Glimmer predicted, predicted pI=4.9);
+                     similar to SH1 ORF34 protein of accession YP_271891, and
+                     to HHIV-2 putative protein 27 of accession AFD02308;
+                     predicted signal sequence (SignalP) and one predicted
+                     Asn-linked glycosylation site (NetNGlyc)"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="hypothetical protein"
+                     /protein_id="YP_007761619.1"
+                     /db_xref="GeneID:15152033"
+                     /translation="MNMADLVSQFVLPFAVVVSAAATTTMAALAWKLYRTVTSHDRAL
+                     FGEEAVNGHDGVIQAVNENTTRSEVNRRVLRAHDMVPPGPRGDYYQAASGPVAADGED
+                     GDGPGGS"
+     gene            complement(19054..19176)
+                     /locus_tag="K745_gp31"
+                     /old_locus_tag="HhPH1_gp31"
+                     /db_xref="GeneID:15152034"
+     CDS             complement(19054..19176)
+                     /locus_tag="K745_gp31"
+                     /old_locus_tag="HhPH1_gp31"
+                     /note="ORF31 (GLIMMER predicted, predicted pI=5.0); no
+                     homolog in SH1 or HHIV-2; contains two CxxC motifs"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="hypothetical protein"
+                     /protein_id="YP_007761620.1"
+                     /db_xref="GeneID:15152034"
+                     /translation="MTCRCISCDSVYCLYREEVHEWWCNDCWSEKNERAGRWPA"
+     gene            complement(19173..19289)
+                     /locus_tag="K745_gp32"
+                     /old_locus_tag="HhPH1_gp32"
+                     /db_xref="GeneID:15152035"
+     CDS             complement(19173..19289)
+                     /locus_tag="K745_gp32"
+                     /old_locus_tag="HhPH1_gp32"
+                     /note="ORF32; predicted pI=4.1; similar to SH1 ORF37
+                     protein of accession YP_271894"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="hypothetical protein"
+                     /protein_id="YP_007761621.1"
+                     /db_xref="GeneID:15152035"
+                     /translation="MTFSTRAAWYGYPTPAEMDALTVTLDADSAHVVAEGLA"
+     gene            complement(19286..19552)
+                     /locus_tag="K745_gp33"
+                     /old_locus_tag="HhPH1_gp33"
+                     /db_xref="GeneID:15152036"
+     CDS             complement(19286..19552)
+                     /locus_tag="K745_gp33"
+                     /old_locus_tag="HhPH1_gp33"
+                     /note="ORF33 (GLIMMER predicted, predicted pI=5.3);
+                     similar to SH1 ORF39 protein of accession YP_271896, and
+                     to HHIV-2 putative protein 29 of accession AFD02310;
+                     contains four CxxC motifs"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="hypothetical protein"
+                     /protein_id="YP_007761622.1"
+                     /db_xref="GeneID:15152036"
+                     /translation="MSNECRRCGTETEAPFITTTGGLRFDGWLCDHCRQSFREWLEAS
+                     EKPPVRGGCSSCAGPVEATFRYVGHGVEVVVHCPRCDWTERVDE"
+     gene            complement(19549..19731)
+                     /locus_tag="K745_gp34"
+                     /old_locus_tag="HhPH1_gp34"
+                     /db_xref="GeneID:15152037"
+     CDS             complement(19549..19731)
+                     /locus_tag="K745_gp34"
+                     /old_locus_tag="HhPH1_gp34"
+                     /note="ORF34 (GLIMMER predicted, predicted pI=7.0); no
+                     homolog in SH1 or HHIV-2; contains a CxxC motif"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="hypothetical protein"
+                     /protein_id="YP_007761623.1"
+                     /db_xref="GeneID:15152037"
+                     /translation="MMRVPYHTECRCGHHVVAFCPCLMGEGGHWIRCSECDHINYAEE
+                     RYGADEKVERGNRRPA"
+     gene            complement(19728..20219)
+                     /locus_tag="K745_gp35"
+                     /old_locus_tag="HhPH1_gp35"
+                     /db_xref="GeneID:15152038"
+     CDS             complement(19728..20219)
+                     /locus_tag="K745_gp35"
+                     /old_locus_tag="HhPH1_gp35"
+                     /note="ORF35 (GLIMMER predicted, predicted pI=5.6);
+                     similar to SH1 ORF41 protein of accession YP_271898, and
+                     to HHIV-2 putative protein 30 of accession AFD02311"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="hypothetical protein"
+                     /protein_id="YP_007761624.1"
+                     /db_xref="GeneID:15152038"
+                     /translation="MTPEHVERPDQEFESRITVDLDGDKYTHTQFDLEAVKVWHNLQN
+                     TADYVDVHVSSSGLGLHFVAWFEQPLRFHEEVAIRRSSGDDPRRVWMDCQRWLNGLYT
+                     DVLFEQKDTRRFDKERDFATVYDALAFIAANRTDDADRMKRLANEGHRGAPDLARKAR
+                     RTA"
+     gene            complement(20216..21415)
+                     /locus_tag="K745_gp36"
+                     /old_locus_tag="HhPH1_gp36"
+                     /db_xref="GeneID:15152039"
+     CDS             complement(20216..21415)
+                     /locus_tag="K745_gp36"
+                     /old_locus_tag="HhPH1_gp36"
+                     /note="ORF36 (GLIMMER predicted, predicted pI=5.0);
+                     similar to SH1 ORF42 protein of accession YP_271899, and
+                     to HHIV-2 putative protein 31 of accession AFD02312"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="hypothetical protein"
+                     /protein_id="YP_007761625.1"
+                     /db_xref="GeneID:15152039"
+                     /translation="MNAQLLDSPLAAADLSVSEPDYFGARLGSIDNLYQWNLRDGDGP
+                     LTRTSYVYQAVYQIGSGKDKEYGGIQLRARVHTYGTPSNDLEGWLATAAHRAAYMYDS
+                     GIETPGYAPPGGGVRGTDGGDGYLSGFNAVENYRNWEQEQVAPHEMNTSPGVVDWSTE
+                     VYTDDSFNDADLSGIAQGLAFPWTVEVDSQPGEPPVSVAPHEWGLTWNKSRQQYDVHP
+                     PGRREARKRYQPGGAAHDKTVYINEKPVGKLDDEGRTWLKREYAGNPNTTSGAFGTYW
+                     SREGLVDQTGATYQALRDEGNLYLTGETKDGIYLVTAAEKPDGYESADPDSVSPTVEV
+                     REGRDGYERQYLRLRDRQGDEPLRCECRRDDKLIKHLGRSSPTYTHLLGPRQNWRGGS
+                     AQAGRGA"
+     gene            complement(21419..21778)
+                     /locus_tag="K745_gp37"
+                     /old_locus_tag="HhPH1_gp37"
+                     /db_xref="GeneID:15152040"
+     CDS             complement(21419..21778)
+                     /locus_tag="K745_gp37"
+                     /old_locus_tag="HhPH1_gp37"
+                     /note="ORF37 (GLIMMER predicted, predicted pI=4.1);
+                     similar to SH1 ORF43 protein of accession YP_271900, and
+                     to HHIV-2 putative protein 32 of accession AFD02313"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="hypothetical protein"
+                     /protein_id="YP_007761626.1"
+                     /db_xref="GeneID:15152040"
+                     /translation="MSPLSDHPIGTEARLGQLTGDDADLLGYFMADTTSQGYYYLTLR
+                     TWEHPDDPDAWTLSMRYAYLTAGDGGDGWVDEGMNMRVNGPREPFLQALALMCAGAIP
+                     RLDQPDADAWTGNVTEE"
+     gene            complement(21762..23006)
+                     /locus_tag="K745_gp38"
+                     /old_locus_tag="HhPH1_gp38"
+                     /db_xref="GeneID:15152041"
+     CDS             complement(21762..23006)
+                     /locus_tag="K745_gp38"
+                     /old_locus_tag="HhPH1_gp38"
+                     /note="ORF38 (GLIMMER predicted, predicted pI=4.2);
+                     similar to SH1 ORF44 protein of accession YP_271901, and
+                     to HHIV-2 putative protein 33 of accession AFD02314;
+                     predicted coiled-coil region (aa 15-45, Pepcoil), and
+                     helix-turn-helix motif (HTH) in the same region"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="hypothetical protein"
+                     /protein_id="YP_007761627.1"
+                     /db_xref="GeneID:15152041"
+                     /translation="MTDERDPKVSYRMPREKLETLQTLAEQYEVSLSALLRRFDSYGL
+                     ETNAEAVAVEAQIENLRQDIIDYGKPIDKAGGFAGRVRSDFEKRFKNGYDAKWLVAKA
+                     ESYRREAEMLEEKVEEHPDAPPVEEGELVEEVDRVLRDALEAMKLSDWADRYSNPFER
+                     LTGVSEGKEGRRFALVLTRNALRMDRDLEPLRSGIGSERRVRADDLPDLADEELPPTV
+                     ERDDVARVARQLADRGVDPDEMDLDPTEFDPFGWTDAEPVEDDVVTVESTETPELPDD
+                     AETDGDPQVVAPDGGRNEATVAYASTADDPEPDRDVGDVVEWAAERLRDERSYSDYED
+                     WKAEQKRRKARESAENQVRAVFETDTTNWQTEIMDRSTLTPDDIVELADDYNDERTAA
+                     LRGERDSAPQALEDGQGGVTLE"
+     gene            complement(23003..23158)
+                     /locus_tag="K745_gp39"
+                     /old_locus_tag="HhPH1_gp39"
+                     /db_xref="GeneID:15152042"
+     CDS             complement(23003..23158)
+                     /locus_tag="K745_gp39"
+                     /old_locus_tag="HhPH1_gp39"
+                     /note="ORF39; predicted pI=6.5; similar to SH1 ORF45
+                     protein of accession YP_271902"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="hypothetical protein"
+                     /protein_id="YP_007761628.1"
+                     /db_xref="GeneID:15152042"
+                     /translation="MTNENRGGEGGNLPGNMDQSPERGGCRAPNRDPGVHQFTLPAQT
+                     IFGGGRA"
+     gene            complement(23161..23370)
+                     /locus_tag="K745_gp40"
+                     /old_locus_tag="HhPH1_gp40"
+                     /db_xref="GeneID:15152043"
+     CDS             complement(23161..23370)
+                     /locus_tag="K745_gp40"
+                     /old_locus_tag="HhPH1_gp40"
+                     /note="ORF40 (GLIMMER predicted, predicted pI=3.5);
+                     similar to SH1 ORF46 protein of accession YP_271903, and
+                     to HHIV-2 putative protein 35 of accession AFD02316"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="hypothetical protein"
+                     /protein_id="YP_007761629.1"
+                     /db_xref="GeneID:15152043"
+                     /translation="MSREFDGAAKALLPDHYNFSVWAESVLWEALLDEYGAEAVLEAV
+                     EDAQDEMDDDDLLPESDWEQYELPA"
+     gene            complement(23422..23586)
+                     /locus_tag="K745_gp41"
+                     /old_locus_tag="HhPH1_gp41"
+                     /db_xref="GeneID:15152044"
+     CDS             complement(23422..23586)
+                     /locus_tag="K745_gp41"
+                     /old_locus_tag="HhPH1_gp41"
+                     /note="ORF41 (GLIMMER predicted, predicted pI=8.9);
+                     similar to SH1 ORF47 protein of accession YP_271904;
+                     contains 2 CxxC motifs, and shows some similarity to
+                     conserved protein domain family PRK14714"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="hypothetical protein"
+                     /protein_id="YP_007761630.1"
+                     /db_xref="GeneID:15152044"
+                     /translation="MTIETFTCPMCGTGPQREDRSGKRDCRRCEWEYRPSRDRPSGSE
+                     PSKQVGLDNW"
+     gene            complement(23583..24023)
+                     /locus_tag="K745_gp42"
+                     /old_locus_tag="HhPH1_gp42"
+                     /db_xref="GeneID:15152045"
+     CDS             complement(23583..24023)
+                     /locus_tag="K745_gp42"
+                     /old_locus_tag="HhPH1_gp42"
+                     /note="ORF42 (GLIMMER predicted, predicted pI=4.75);
+                     similar to SH1 ORF48 protein of accession YP_271905, to
+                     HHIV-2 putative protein 36 of accession AFD02317, to Hcc.
+                     hamelinensis ORF Hham1_14540 of accession ZP_11271999, and
+                     to Natrialba phage PhiCh1 ORF PhiCh1p72 of accession
+                     NP_665989; predicted DUF4326 (pfam14216) family domain"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="hypothetical protein"
+                     /protein_id="YP_007761631.1"
+                     /db_xref="GeneID:15152045"
+                     /translation="MRTFDADEGGEVPDLVTLEVVHVGRSSETLDVYGGRKRRDGDLA
+                     HAQNTNPPAPGWLGNPYTMDDDSTAERRRVIAAWTDYVLERVKRDEDFADALERLRGK
+                     RVACWCRGVSQERTPDTWCHLDVVAAYLAGDLTPVYDYLRGDDA"
+     gene            complement(24020..24538)
+                     /locus_tag="K745_gp43"
+                     /old_locus_tag="HhPH1_gp43"
+                     /db_xref="GeneID:15152046"
+     CDS             complement(24020..24538)
+                     /locus_tag="K745_gp43"
+                     /old_locus_tag="HhPH1_gp43"
+                     /note="ORF43 (GLIMMER predicted, predicted pI=4.7);
+                     similar to SH1 ORF49 protein of accession YP_271906, and
+                     to HHIV-2 putative protein 37 of accession AFD02318"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="hypothetical protein"
+                     /protein_id="YP_007761632.1"
+                     /db_xref="GeneID:15152046"
+                     /translation="MNYKDTSDPVPLLGVEEVERESQGKKVVDAWLVLEGRHGPTPAR
+                     RVVSIETRDGAVYRFQRYATDEYLAFYNRENADGTSFKRAAALPEHVEAVRTAIMDHE
+                     VLPDFEKALEAEVQVGERTRDDATDEEVREAAEAAEVAMLADGGTLGTFEEDRRREAA
+                     MRSGYAEPGGGR"
+     gene            complement(24535..25053)
+                     /locus_tag="K745_gp44"
+                     /old_locus_tag="HhPH1_gp44"
+                     /db_xref="GeneID:15152047"
+     CDS             complement(24535..25053)
+                     /locus_tag="K745_gp44"
+                     /old_locus_tag="HhPH1_gp44"
+                     /note="ORF44 (GLIMMER predicted, predicted pI=4.3);
+                     similar to SH1 ORF50 protein of accession YP_271907, and
+                     to HHIV-2 putative protein 38 of accession AFD02319"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="hypothetical protein"
+                     /protein_id="YP_007761633.1"
+                     /db_xref="GeneID:15152047"
+                     /translation="MSAATERRESVQEAMRTGEFGTTDFGSPEHGAVVELLMCEHLGL
+                     TFVDGVSVDARTSEGEPVQIKACQLEHANGGDETVPGRWDAWSETLLHLLADDGQYLL
+                     VVYDGEMDPSEVSPDDLDDYILAWRFVSAVDFGGLIDPDAWHDGGRPSKGRKGRVFWT
+                     DVFDREKLEGER"
+     gene            complement(25050..25277)
+                     /locus_tag="K745_gp45"
+                     /old_locus_tag="HhPH1_gp45"
+                     /db_xref="GeneID:15152048"
+     CDS             complement(25050..25277)
+                     /locus_tag="K745_gp45"
+                     /old_locus_tag="HhPH1_gp45"
+                     /note="ORF45 (GLIMMER predicted, predicted pI=4.3); no
+                     homolog in SH1 or HHIV-2"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="hypothetical protein"
+                     /protein_id="YP_007761634.1"
+                     /db_xref="GeneID:15152048"
+                     /translation="MTGDSNPTRTLTTYVGAGCSCTVALDLYMVRDAGMSPEAWAAIR
+                     GRSVRAVTQSLDSAADTFPGLDLDALTGGDA"
+     gene            complement(25274..25387)
+                     /locus_tag="K745_gp46"
+                     /old_locus_tag="HhPH1_gp46"
+                     /db_xref="GeneID:15152049"
+     CDS             complement(25274..25387)
+                     /locus_tag="K745_gp46"
+                     /old_locus_tag="HhPH1_gp46"
+                     /note="ORF46 (GLIMMER predicted, predicted pI=4.8); no
+                     homolog in SH1 or HHIV-2"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="hypothetical protein"
+                     /protein_id="YP_007761635.1"
+                     /db_xref="GeneID:15152049"
+                     /translation="MAAMDQKPQTEGHWQYGSNVTERADLRTDGAFYGWSA"
+     gene            complement(25533..25904)
+                     /locus_tag="K745_gp47"
+                     /old_locus_tag="HhPH1_gp47"
+                     /db_xref="GeneID:15152050"
+     CDS             complement(25533..25904)
+                     /locus_tag="K745_gp47"
+                     /old_locus_tag="HhPH1_gp47"
+                     /note="ORF47 (GLIMMER predicted, predicted pI=4.29);
+                     similar to SH1 protein ORF51 of accession YP_271908, and
+                     to HHIV-2 putative protein 39 of accession AFD02320;
+                     contains COG1342 domain (predicted DNA binding protein),
+                     and predicted helix-turn-helix motif (residues 80-101)."
+                     /codon_start=1
+                     /transl_table=11
+                     /product="hypothetical protein"
+                     /protein_id="YP_007761636.1"
+                     /db_xref="GeneID:15152050"
+                     /translation="MNDEAPEDRLQRERTGVSGDPVPDHEYGDSPEDLTPDVAPDEAG
+                     DGVSPSVRGAARRLADPGLLTDRQALAYVLRDVEGVSRPDSAERMGVSVSTLDSLLGT
+                     ARRKLGQARDTLDLADDLADE"
+     gene            complement(25901..26092)
+                     /locus_tag="K745_gp48"
+                     /old_locus_tag="HhPH1_gp48"
+                     /db_xref="GeneID:15152051"
+     CDS             complement(25901..26092)
+                     /locus_tag="K745_gp48"
+                     /old_locus_tag="HhPH1_gp48"
+                     /note="ORF48 (GLIMMER predicted, predicted pI=4.9); one
+                     CxxC motif; no homolog in SH1 or HHIV-2"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="hypothetical protein"
+                     /protein_id="YP_007761637.1"
+                     /db_xref="GeneID:15152051"
+                     /translation="MSARYDCPACGEEGEHVEEDQARCTAFTCRVTTFQTTTPPDAHR
+                     EHEAGPQADPARFSPGGGR"
+     gene            complement(26089..27648)
+                     /locus_tag="K745_gp49"
+                     /old_locus_tag="HhPH1_gp49"
+                     /db_xref="GeneID:15152052"
+     CDS             complement(26089..27648)
+                     /locus_tag="K745_gp49"
+                     /old_locus_tag="HhPH1_gp49"
+                     /note="ORF49 (GLIMMER predicted, predicted pI=4.0);
+                     similar to SH1 ORF55 protein of accession YP_271912, but
+                     only in the N-terminal half; homolog of HHIV-2 structural
+                     protein VP18 of accession AFD02323"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="putative capsid protein VP18"
+                     /protein_id="YP_007761638.1"
+                     /db_xref="GeneID:15152052"
+                     /translation="MANYKCLPQNCSSMARESQSDDVTADENTQTLRDVYGAVDMDGL
+                     ESREEYDPALLPDGAVPEEAPDGRDYHTAAWDGGMSDLEAAPGAYTSEEGQPAVLVYV
+                     SNRGGVQVHEGEIVTCSGRVLTVEADDGTIRTAHRADIAGRENAVHNHAGADSRFIGT
+                     MLEVRLVESWDDYERRMELLEEARADDDEDDDEGDDGDDEARTDGGPDRLDTPQWKDR
+                     MGDLRTDGGEDEPDTDDLHCSAYDWCGGVPTYPTGACAQHAEEVEEADAPTVKNPPSW
+                     EVVAALAESIGANAKNPWVVTYEHDGAERTVITETLRGSSEDESAGLTDAETGDEWHG
+                     DVDDIVAVQPVLDRRGEPVAAGVDLGDLYDLLPLEVLLATFTDDEGDDDGDDDDEPVM
+                     MTDGGRRIRAEAVETEDGFEVLPPEVAAEDRVPDAVVEAVEAAVADEPNTLVEPRIQG
+                     HGPETHGVASLYATYQEQPAIGDDGDLLGWKAPYQAREDFDAALREHLPDGYAIEAVN
+                     NGQTAFYEVDA"
+     repeat_region   27766..28072
+                     /rpt_type=inverted
+                     /rpt_type=terminal
+ORIGIN      
+        1 cactctctct ctctctgggg gaccgcgacc gccggaaccg ctggtcgagc cgaccgggga
+       61 accgcctggt gcctgccgcc gccacacgct cctcctccct gcggtcgtcg tcgctcccgc
+      121 accgcaccgc accgccccgc cgtcgtcgct cctactactc cttctactac tacatggtcc
+      181 gaccgtcgga ccgagcagta cgacccgctg gcaggccaca caagcccaga cacgcccgaa
+      241 tccccttctg acctttatta cagtaccccc ccgggtttaa gaccccccgg ggtgttttcg
+      301 tgcggtccga ccggggtagc cgccgaaacc gcacgacggt aggcggatac ggcgctaccc
+      361 ctttatcacc cccctacgtc agacgcctgg cgtacggacc gaaaccgcag gacggcaggg
+      421 ccgttgctgt gagaggcgct gtgcggcccg ctgtgccgtt cccgctccgg gaggatgcag
+      481 acccttcacc gacccgctcg aacggacggg gtgaggcggc ggacagccga gcgacccggc
+      541 gctgcgacgg cgagagcctg gccgacgccc tcacgaccga gtggcccgcc gtcgctgacg
+      601 actgacccgg cgaaccggcc taattaattg gtcagaactt atctttatca cggaccgtcg
+      661 cccaggtctg ggtagccgag gagcgcggac ctcccggcta catggaccga tggcaaacgc
+      721 cactttcgca ggcccttccc ctggggcctt ccgacagacg taccgccgag aaaccactgc
+      781 tgccgacgag gagggccggt aatgccgtcc gtcacccgcc tcaccgagag cgacgactgc
+      841 gccgagggct tcgccgtcga gacggagtcc ggcggcacca cgtaccgcta cgagttcgag
+      901 gtggtcgagg agcgcgaccc cgacgccgag gacgaggagg accggatggg aaccgtgctg
+      961 ttcacggccc gcttcgagga cggcaccccc accgacataa gcctgaccgg gacggcccgg
+     1021 gaggccatga acgagtacgg cttcacggtg gaccaatgac ggtcgaaccc gacgacgagg
+     1081 acgcccacac cgacccagtc ggcaccatga ccgaccgcct ggaggagtac ctggacgtgc
+     1141 tggaggagga gcgcgaggtg gtcgaggagg tgctggccga cctcgaagac gctcccgacg
+     1201 aggagagcct gacccgcgag gagtaccgcc gagtcttccc ccggttgatg ccgaccgagg
+     1261 agtggggtgg gttcggtgcc tgacgacgac ggcctgttca ccggcaccga cgacgccgac
+     1321 cgccccgggc caccgccggg ccagaccagc gacccgctcc aggggtcgga ccccgtcggc
+     1381 ctgaaaccgt ggctggacga cctgacgtat gacgaggtac acgccttcac cgtcggcttc
+     1441 gcgccgatgt ggaccggact actactgctc ccgttcatgc cccgggccgc tacctcgctg
+     1501 ctcgccctcg ccgccctgct cacgtcggcg gcagtggtcg agaagcaccg accaacgaag
+     1561 gcgctccgct acatcgtccg agaagtccac tactacctcg gaggccaggc catcgccgcg
+     1621 accctcggta tcggatgggt cggcctggtg ggcgtcctga cgcacctggg gggcgctctc
+     1681 gcatgaccac cgaccaacta cggctcgccg tggccgggct gctggccgcc ggggccgggg
+     1741 ccttcgccgt cgggaagcgc cgggccgacc gccgccgccg cgacgacgac gaggacagcg
+     1801 acttcgtgga ggtgcccatc cgtgggtgag gtgcagcggt ccgacgttcc cgaggaggtc
+     1861 cccgacgagg cgaccaccga gcacccgccg gacgttcccg gggccgaccc cgaggactac
+     1921 ccccggcgct ggtatctcta ccgaaaccgg gacgtgtccg gtatctcggg gaagggcgtc
+     1981 gtggcctacg gcgtccaatt cccggacggt gtcgtcgcct atcgttggac gacatcgccc
+     2041 cggactaccc aggtcgcaaa atccatccac gacgtgcagc acatccacgg ccacgaggga
+     2101 aaaacgctcg tgaggtggat tgatgggtga cgaccacccg gagcgaccga ccaacccgaa
+     2161 cgagggtatc gacggcgcga cgtgggacgc ctaccggaag acgacggcca cctgggccgt
+     2221 gaagctcccc gtggacgtga ccgtccgaac gagccacggg ccggtcgagg tggacggagg
+     2281 cgactacctc tgtatctccg cgaacgccga cctatacccg tgctccgccg acaccttcga
+     2341 gaagcagtac gaaccgagcg gtcccctgga ggggtcggag tgaccgagga gaagactatc
+     2401 ggagaggtgt acgacgaccg gaacgccctg gttctcggcc tggccgcgac ggtccagcgc
+     2461 ctccacgaca agctccgagc ggcgggccac ggggccgccc tggagtatcg gacctgctgg
+     2521 acccccgacg gcggcgacga cgcagacgcc ggggagtggg ccatcgtgta ctgctggctc
+     2581 ccgaccggcc aggtgtcgtg gcacgtcccg agggagatgg tcgaggacac cgggctgcct
+     2641 cggaaacagg ccgagtggga cggccacgac cgggccgaga agaaccggcg ctccggtcgc
+     2701 tcctggccga ctgactcctg ctaataacct aacacttttc caccaattgc ggcccgcgtt
+     2761 ctggcgattg tgaaagtctc ggaacagaca cagtattgat aaagcacccc cgtttacagg
+     2821 cagttgcgta ccagtcccta actggttgct gttcggatac atggaccgaa gcctcgatgg
+     2881 acctaaacca ccggggaccc ggacgatgaa cggggccgag tcgcttggaa tccgtcgtcg
+     2941 gccccgtgag ttcctttgtg cccgcgattt atatcccgct tttcatcaat taattcccag
+     3001 gtagtcatgc ggagggcttg aaatcctggt gagaaccgac caattccgcc gaccaataac
+     3061 cggcacacgt cgggcggttc ggtgggtcgc actaatctaa aagtcgggcc agagacaccg
+     3121 tctacacggc tacatggacc cgcagaactg gtctgaaatc ccgagcgaca aactcgggga
+     3181 actcgactac ggactcaagc acagtgagga cgccgccgtg gcggtcggct acgtccacgc
+     3241 agaccccggc tacgtcacct gggcgaccga ggggaagctg cacgagggcg gccccgaggc
+     3301 ccgcctggac ttctacgccg acaaggagga cgcccggcag gccgtccacg actacgccgc
+     3361 cgaccacccc gacgtgatga acgctcggca ggccgtccgg gggaccgggg acgccgcgaa
+     3421 gggcgtggcc gaccccgacg ggatggacga gaatctgccc tggtcggcct tcggcggcgg
+     3481 acggcaggtg aagaacgccg tggaggacgc tttcagcagc cccgaggagt tggccgaggc
+     3541 gtcggacgca cacctggcgt cgttcgaggg cgtcgggccg aagaccatcg aggacctgcg
+     3601 ggcctggctg gtcgaggagg ggtacgccga cggccccgac accgacgacg acggctacac
+     3661 ggagggcgac atcgacatct cggtggagcc gtccggcctg gagttggacg acccggcgac
+     3721 ggaaatcacc ggagttggtg actcgtccaa cctggcccgc gacaccgtcg gggacttctg
+     3781 ggacatgggc tgcccgttcc acgaggtcgc cggggcctgg caggaggagg ccctgaagga
+     3841 catcctgggg gcgtcgttct tcatgaacac gcagcccggc cacatcatcc ggctgttcgc
+     3901 cgggtacacc gccgcctacg gctacgaccg gagcggcgag gagttgggga actacgccga
+     3961 agcgatgttc agtgagttcg actgggacga cgtgcggtgg gcctgggcgg accacggcct
+     4021 cacgaccgaa ttcgggaagg tggccgccgc gtccgaaatc atcgaggagc aggccgccgt
+     4081 ggcgacgggc gacgagctac cccagtggga gttggacttc gaccccgagg aggacaccgg
+     4141 cctctccggc ctccacatgg tcgaggacgc cgacgtgttc cacgactcga acaccggggc
+     4201 cgccgagggc gtccactaca ccgccgacgt ggaccacgag aacgacgacg tgtacgttcc
+     4261 cttcgagacg gtcgctctct actccctgct gttccaggtg gactacagcg acccgcagaa
+     4321 cgccgagcac gtccggctgg tcgtggacac cggcacgtcc gacgaggcga agcagctgaa
+     4381 cctgaccagc agcgggtcgg gccggaataa ccgctacgtg gccgtcttcg accacccgaa
+     4441 cgccgacctg cacggtatcg cggaagggca gttgacggtg aagccccgcg acttcgacct
+     4501 ggaggagccg agcgagtacc gggcctgggc cgaggaggcc gcccgccaaa tcgaggagcg
+     4561 ccgcgaggcc caccgccggg aggtgcagcg cggccctgac gacctgcggg acgtggccgg
+     4621 agtctcgccg cctgacgctc tcgaagacgc cacccacacc ctcggggagc cgaacgtgga
+     4681 ccgcgaggac ccgaacgagt tggaccactt cgacagcgtc atgggcgaca tctacgaccc
+     4741 ggtgccggac gtggccgggg aggtcgagga gaacgtgcag gccgccgagg aggcgggcgt
+     4801 cctcgacggc gacgtgggcg acctggagga cccgacccac tctacgaaca tcggcgggaa
+     4861 gacgtaccat ttccccgtcc aaatcgggga cttcgacatc gtgaaggccc aaccctcgct
+     4921 cgtctacgag aacggcggtt cgctgtcggt ccacgtcgag cagcaccagg acatagccga
+     4981 ctcgttcaag ttcctgctac acgacgagga cgagggcctg gaggccgtgg aaacagggac
+     5041 cggacggacc ccgaaggact ttttcgagtg gttcgacggc ctggaggcca ccggggacgc
+     5101 ggaccccgtc tacccgaaga cggaggagtc cagtatcgcc cggaaggaga agcccgagga
+     5161 cgtggccgga tacgaggtgg tcacgaacga cccgcagggt ggcatgattg agtgggaggg
+     5221 caaaggcggc gggacgcccc cgtccggcct tctccagcag gactacaaca ccgagttaca
+     5281 gctgatgaac agcggcgggc gctacaagca ccgctggctg ctccgggtcc actggcgggc
+     5341 cgggacggac cacaaggtcc gaaccatcat gcagtggaag tacgccggga cagacggcca
+     5401 ggacgccgcc cggaaggaaa acaaggagaa gggtatcgcc cgggccgagg agtggatgcg
+     5461 ggagaacccc gccgaaggtg ccgacgacgg cgaccagcca cccaccgagc gggtggaagc
+     5521 gtttgccgac cgaacgggcg tgccagccga cgtttcagag cggatattca ccgacttcgg
+     5581 aacggctgtc gggaaggact gggagcacac cgaggagcgg atttacaagg ccgccgacta
+     5641 cggcaaagag cgggaccgcc tgctgtccgt gaagggcgtc ggagaggcac gacagaagca
+     5701 gatagccgag gccgacggcg acgacgacgg gaccgacctg gaaacgaccg tggccgaaat
+     5761 cgagaacgcc ccaccgggcg gctggaccga ggaggaccga gtggacggcg gcgacgacca
+     5821 gaccgtctac gacgcctaca ccgagaagga cctggacccg gagaaggccc gcgagcagat
+     5881 agggcgctac ctgatggcga ccgtgccgga ggacgtggcc cgtcgcctgg ccgagacgtt
+     5941 cggcaacacg cagtccctcg ccggggccac gctcggccaa ctccgcgacg tggagggagt
+     6001 tggtgacgcg gtggtccggg agttctacaa ggccgttccc gacgacgaga acctcaccat
+     6061 cgcccacggc cagaagcggg ccgactgggg gccgttctcg acgttcggcg gctacggtcc
+     6121 gcgcctggac cggaagcccg agacgggcga ctatctcggc ttcgagtacg ccgacagtgg
+     6181 cggcatggcc ggatgggtaa ctcgggtcga gggcgacgag gccctggtcc ggctggacgc
+     6241 caacagccag cccgaccgct acgactggga ggacggcgtg gtcgaggacg tgaacggcga
+     6301 ggtccacgac gtgcagcacg tcgaggtggg cgacaagcag gcccccggcg acctgctgga
+     6361 cgaggacgcc cccggcggcg gcttcgaggt ccccgaggag gacgaccttc aggacgctct
+     6421 cgccgcgaag ggaattaaca acatcgtggc ctcgaacctg gcagaccagt acgacagcat
+     6481 ggacgccgtc gagcaggccg tggccggggc cgacgacccg agcgagctac acggggttgg
+     6541 tgaggccagc gccgcccagg ttggcgaggc gttcggccag gcggccagcg acggggggag
+     6601 cgtcctgcct cccgagatgg accccgccga gtacgacggg ccgtacaaga atcagcggat
+     6661 ggaggacgcc cactactggg ccgcccagtt ggtcggctgg atgaagaacg gccccaacgc
+     6721 cgggcttcga ggctcctact acgtggacat cctggccggg aagccggttc tcgtcatgga
+     6781 cgacacctgg ctggagtcga acgtggacgc catcaagacc gagatgcgaa acgtcgggtt
+     6841 cccgtcgccc atccgggaga aggagatgga cgacggcggc tggcggctgt tcatccggga
+     6901 accgacgaac ggcgaccggc tgcccacgtc gtactacccc ggcgactggc gcgacttcga
+     6961 gacgaccggc ggcgacggtg gcgaccccga cgccatgttc gcccaggacc aactcgacac
+     7021 ctgggacacg ccgaacccga acgttgagga cgacgacagc gacccggcag gcgaccgcga
+     7081 ggaggccgag gagaaccgga aggccgtgca ggcggcccgc gacaccgacc cggacgacga
+     7141 cctgccaggc ccggcgctgg cggctctcaa gaagaattgg tccgtctaca aacgcggact
+     7201 caaggagggc cgcgaggcag tcgaggaggc cgaggagtac cgcgacgacc accggaagaa
+     7261 ggccgagcgt gcggcggcca tcatcaacga catcagggac gcgtacggcc aggaacccat
+     7321 cgacttcgac ggcgtggagg gcgtgccagc ggtcgaggag ttgggcggcc ccatcaccgc
+     7381 cgagtcgtcg ggcgtctcgc tgtcgttcga ctggaaggcc gacccctacg acccgaccga
+     7441 ggaggtgctc tgagagcgcg acagacgacc ctcacgagct tttcttctga aagggtggat
+     7501 agggtcacac cgggagcttg tcgtccacca ggccgtcgtc gccgctgtaa tggggacgct
+     7561 ggcgaccaat gccgttcgtg tccaacttct cgtgctcgcc ggtgtccttg ttctcgacta
+     7621 tgcacaccct ggccgggagg tccttcaacc gggacgccgg gaagcctgcc tgacggtcta
+     7681 tcttcccgag gtcgttgtcg tcgctgatgg cgaagtacac ccgccggtcc gcctggctga
+     7741 ttaccgtcgt gtgaagcaac tggggccgct ggctgatgtg caggcactcc acgccgtgct
+     7801 tccgtccgcc ggtaatcatc cgctcgaccc gctcgtcaaa ggcgttctgc ttgacgatgt
+     7861 tgtgggcctc gtcgcacgac acgaacgccg ttgcgtccgg caccgcgtcc ttacacagca
+     7921 ccatgacggc gtcggctatc tgggcgtaca cctcgcgctg ttcggcggtg gtcaggccgt
+     7981 cagggaccac gcggagcttc cggtggttgt agatggcctt cacccacgag atgttcgccg
+     8041 ccgtcttctt gtcgagatgg agggtctgat acagcgggtc gtggctcgaa tcgctcaagc
+     8101 cgatttcctc gtcctcgatg tcgaagtgga cggcgaagtc gaagtccggg accacctgct
+     8161 caagcaggta tcccgtgtag tacgatttcc ccgtcccgga ccgacccagg acggtaacgc
+     8221 gggccatcta ctcctcctcg tcctgggcct tcgtcaccgt ccggtccatc gcgtctttca
+     8281 tcgctggcgg caccagggcc atcgccaccc agaagaacgg gactgccagc ttcaatcgta
+     8341 ggcggcccag gacgccgaga gaggccgccg cgaccttcgc ctggtcgctg gccccttccg
+     8401 agatgttcgg gccgttcatg cgtccccctc ggcgctctcg ccgtcgtcct cgaagccgcc
+     8461 ggggtcgccc gtcttcatca tggcctgctt ccccgccatg aattgctggt actcctcgtc
+     8521 gtccagggcg tcccggagca gccggtcgcg cttctcggcc atctcgttga acatcaccac
+     8581 caactcgaca ccgtcaccgg cgacggtccc ggcgagcagt tcggcggccc gctcgacgct
+     8641 catgttctcg gcctccacgt ccacgtccgc cgccatcccg agtcggcgga tgtctgcccg
+     8701 gtggacgttc acgatgtccg cgaaaatctc ggcgggagaa tcgcccgtcg ggccgctctc
+     8761 ggtgagcata tccgcgatgt tctgcgggtc ccgcatcatg cgggccatct gccgggggtt
+     8821 catgtccatg ccaccgagcg ctaggccgtt ggtcatgtca gggacccccc gattaggccc
+     8881 tcgacggcct cacgggcctg ctggaccatc tcgtcgccgt cgggccgcat ccacacgatg
+     8941 aacgccgtgc aggtcagcgc agcgccgaac aggccccaca tcgggtccac ctcgtcgtcg
+     9001 tcggtgaaga cgtactcctc gaagaagcgg ctcccgaagt agccgagacg gaacgcctcg
+     9061 aacacctcgg taaactcctc ctgaagcccg tccttgtcgt cctcgtcgtc caggcccacg
+     9121 acggccagcc tggcggcccc gtcgttgatg gcctcctcca tgctctcgcc gcgagcaccg
+     9181 agggcgtcca gggcgtccgt gtcctcctcc tcgtcgtcgc tgtcgccgtc gtcgtcggtc
+     9241 gagagcgcgg agtcgtcgga gtcggtggtg gcgtcgtcgg tccccgtgaa caggtcggac
+     9301 gcggagccgc ccaggtcgtc gtccgtcagg tcaacctcgg ccacgtccgg gtcgtcgtcc
+     9361 ggctccggtg tctcggcggc accttccgcc aattcccggg cctcgtccag cgattcgccc
+     9421 acggcctcgt cggcctcgtc gtcagcttcc aatcccgggt cgtcgtcccc ggactcggtc
+     9481 gccacggtcg gggccgccat cagtcgtcgt caccttcgat gtggccggcg ttcttgaagt
+     9541 gctggatgat ggcctcgtcc ttctccaact cgttgtccgg gttggcgggc aggacgacct
+     9601 cgacctcctc ggcctcctcc tcctcgcgga ccttcacgtc gcccaggtcc gggtcccgca
+     9661 tggagtccac ggcttcccgg gccttcgtcc cgctctctcc gccgtcgctg ctgctctcgc
+     9721 ggagcttcca ggccaggaca gccacgacca ccaggccgat aatcaggagt tgggcacgag
+     9781 acaggccgaa cgtcgggata ccgccgtcga acatccgggt cgccccgtcg agaacgccgc
+     9841 cgtcctggtc gtcgtcgccg tcgttggttc cgccctgttc cttctgccga atctcgtcta
+     9901 ctgctggtgt ctctcccatg atttactggt cctcgtcgtc ccactgatac gggacgccgc
+     9961 accccgggca ctcgtccggg tagccttcga ccgccacgcc gcactctggg cagtcaaact
+    10021 cgttcacgtc ctgctgctcg tcgtcggcct cctcgaccgg ctcgccgccg tccgtggcga
+    10081 cctgctggcc gttgtggccc tcgtgctcgt cgcaccaggt gtgaccgctc gccgccgtcg
+    10141 cgtcctcctc acagtacggg tcctggcacg gtggcgggcc gtcgctcggg gctgccgtct
+    10201 gcacgccgtc cacctggccg tcgaagtcct cggcgggaac tgtcgggtcg tcgctctcgg
+    10261 ggtccgcgcc tcggggaagg acgtgctggt ggtcggcggt ctggaagtcc gccgctccgc
+    10321 acatcggcaa ccaccgagaa caggacagac agcgtttcct gtacttgttt ccagccgtcg
+    10381 ggctggcctc tatcctcttg tcgagaaccg ccgccacgcg ctccgaagcg cagtattggc
+    10441 acggttcaat cacgatacca ccgtctcgcc gtgaaatctg gatgtgtaat cgccatgcgt
+    10501 agccggggag ttggtggggc ctcgttaggg gacgggccgc caaccacgca ccaattcctg
+    10561 ccaccggctc ataatgattt tctctgccaa ccaccaatcc gcaccaatcc caattaatta
+    10621 gacagtattt gagagaacgg aggaaaccgg cgctctgcat ggcgtccatc aacgtcagca
+    10681 gggcaacgaa cacgctgatg agtccgccgt tcctcaagag cgccgttctc attgtcgttg
+    10741 gctccctgct cgcacaagtc gtaacgacct atcttcgcaa caacgttcgg gacatctctg
+    10801 tcaaaggagg tgacgctatt tacagcgccg tcgcggccat gatggcgctt atggttctcc
+    10861 cgaacaagta cgggaagccg ctggccctcg gtgcgacggc cacgagtgtc cgtgtcctgc
+    10921 tccgcgaact cggggtagtc taactggagg tatcaattca tgggtaacat cggcaacctg
+    10981 tccgcagaga agcagatttc cgtctacgac ggccagccgt tcgtggacga gcaggacgtt
+    11041 cccgccgacg acccgaacac gcccgccctc accatcgaag ggccggacgg ctacgtcatc
+    11101 gccgtggacg ccgggacgcc tatcgccccg gagtttcgtg attccaacgg gaacaagctg
+    11161 gacccgagca ctcgggtcat cgtccagaag tgcgaccgtc agggcaaccc cctcggtgac
+    11221 ggtatcgtct tcaacgacac cctcggtcgg ttcgactacg agcagatgcg gaccgacccg
+    11281 gacttcatgc ggaagacggc gaagtccctg atgattgacg agcgggaaat cgtcaaggtg
+    11341 ttcgtggaca tccccgccgg ggcgaacggc tacgacgccg acaagtcgcg tctcacgctc
+    11401 ggtgacgaca cctccgactt cgggaaggcc gtcgaaatcg tggaccacga cgagctttcg
+    11461 tcggcagaga ctcgggccgt gaaggccgcc agccagcgca gcgccggggg tcggtaacat
+    11521 ggcggaccag aagcaggagt acaccgtctc ccacaccggc gggacgctcg gctcctcgaa
+    11581 ggtcacgacc gccgggaacc agaccgctcc gcagcgagag acggccatca tctcgttcga
+    11641 gtgtccccga aagttctcgg aaatcgagta cgtcgggcag cgcgactcta cccgcttcgt
+    11701 tccccggacg accgagtcca tcaccggcac ggcgggcgac gacaccgtgg tttcgctcac
+    11761 ggcgaacatc cagcccgtcg ctggcgagac ggccatcgag gaccaggact acccggtcgc
+    11821 cgtggcctac aacgtcacgc agggcgtcca ggtggacatc gaagacgtgg actacgccgc
+    11881 cgacgaggtc acgctggcct cgaaccccgc cgacggcgac gaggtcaagg tctggtccat
+    11941 catgggcgac ggcgacgttc agttccgcct cgtcaaccag tttggtcagg aggagggccg
+    12001 cgtctacccc tgggccactc ccctgtaccg ctggcacgac ttcccgcaac ttaagcgggg
+    12061 ccgagaaatc aacctccacg ggtccgtcac ctgggaggag aacgagacgg tcgaggtcct
+    12121 gctggacgcc ccccaggaaa tcacctggga ggacgcggac tacccggaag ggcagtacgt
+    12181 gtccacgttc gagcaggacg tggaaatcac cctctaacgg aggtttctgg tcatgggcgt
+    12241 catttccgaa cacatcgagg agcgggacgc ccaggggcgg cccgactccg agacttcgac
+    12301 cgagcagacc acccaggcga ccagcgccga gggcgacctg cccgacgaca tcgacccgtt
+    12361 tcttcagcag tacatcaccg aggagtacca ggctgatgca gcaaccgtag accaaatcct
+    12421 gaccggccta atggccatcg ggaacctact gtaaagcatg ggagtcaaag accaaatccg
+    12481 cgacctggac gagtaccaga cccaggtgca gcaggcagcc gagggccagc agcaggcccg
+    12541 ccaggcagcc gctcgcaccg ggggccaggc cgggaccgtg gggcagaccc tcggcccggt
+    12601 catggactgg gaaaagacgg acgtggagtt ctggatgcag gtggcacagg tcgtgctcct
+    12661 gtacctgatt cttcgagagc ttcggagggg ggcctgacgg atgggcttct tctccgactt
+    12721 gaagcagggt gcagaggaca cgtacaacag cgcgagcaac acggtaagca acactgccga
+    12781 cgacgccgga gacgccttca acgacttcac cagcggggcg agtcagacgg cgaccgacgc
+    12841 tttcagcggt gtgcaggaca ccgccgacga cgccggagac gccttcaacg acttcaccag
+    12901 cggggcgagt cagacggcga ccgacgcttt cagcggtgtg caggacaccg ccgaggacgc
+    12961 cttcgacttc acaacgggcg gtggtggcgg tggtggcggc ggcagtgtcg cagacgccgt
+    13021 ctctggcgtg ttcaactcgg gggccggagc cgccgacgac gccttcaact tcgccactgg
+    13081 cggagccggt gacgccgccg acgacgtggc cgagcaggcc cagggtgtcg cccggttctt
+    13141 ctccggtggt gcagacgaca cggtggacga cgccgtaaac gccttcgagg acgtttcacg
+    13201 gtcgttctcg ggcggctctg gcgctctcgc caacgccgtc caagaggcgg gcgaggacgc
+    13261 cgccgagaac atccagcagg tgcagtcctt cgcggacgac ctgggggaca gcgccgtcga
+    13321 gagcgtggtg tccgggtctg ccgacatcac cgaggaggtc gagaacgcca gcggcgactt
+    13381 gaagcaggag gctttcgagt tcgccaacga gacgacccag aaggcaaaga acgccgccga
+    13441 cttcgagagc tacctggaag acatcggacg tatccagaag gacgtgcagg gctaccaggc
+    13501 cccggaccct ggcgcgttcc tccagggtat caccgacgga gcgggcgacg tggccgggga
+    13561 catcggcggc gggctggccg acgtgaccgg cgcaacggag ttcaagaaca gcgagcaggc
+    13621 ccgccggacg aacaggcaga ttcaggaggc ccgcgagcag ggcggtatca tgggtgcgct
+    13681 gaaggaggtg gacgcccgta cgaagggcgg actcgacttc ttcctcgaca acccgaacgc
+    13741 ctcggtgcag gactcggccc gcgagggtat cgagtttgcg accggcgtag actccgagga
+    13801 ccagggccag gccgccgcga acctggccgg tcagaccagc gcggcggtcg gcggggccat
+    13861 cgagggaacg gctctcgaca accccgtgac ggacgccgtg gcgaccgggg ccgacatctt
+    13921 cgtggccgac cccgcgaagg ccgcgctccg tggcaccact ggtatctcca tcgactcggg
+    13981 gagcacagaa ggcacagtcg gcgctgtgga cgctttcgac ctcgtcttca ccgctggcac
+    14041 cgccggggcc gggaaagtcg gcctcggagc agtgaagggc gcttccggcg cggccagcgg
+    14101 ggccgacgag gccgggacgc tcgtgggccg tctgctcggt ggtggcgacg aggccgccgg
+    14161 ggcagccgac gacgccgtgg actcggggcg aggtatcgtc accgacggcg gcgtggacgt
+    14221 ggccgacgac atccccgagg cgggccgtgc agccgacgag gcttccggtc cgttccggga
+    14281 cgttatcgac atcggcccgg cacgggtcgc ggacgacgcg gccagcgggg ccgacgacgc
+    14341 ggcccaggcg acgacctcga cctcctcgac catcctgggc ggtatcgccg gactcggtga
+    14401 cgaggccgtc cgcttcggtg acgaggcagc gcccgccgcc gacgacgcgg cgcgtggtgc
+    14461 cttcgaccgc gctggtggcc tactggacga cttcacggcc cgcttcggtg acgacgcggc
+    14521 ccgtgggtcc gacgacgccg tacgaggagc cgacgacgcg gcccggggtt cggacgaggc
+    14581 tgtccgtggg tccgacgagg ccgcccgtgg caccgacgag gccgtccggg gaaccgacga
+    14641 ggccgcccag gccgccgagg agtcgcccgg gcttctctcc cggttcctcg gcacgacgac
+    14701 ggggaaggtc acggcaggcg cggcaggtgc gctcgccggt ggcgctctcc tcgaatcgct
+    14761 cgggacgttc gaccaactca aggtcacgga cccgcagacc ggcgagacgt tcgctctcgt
+    14821 ccgtcagaag gactatccgg ccactcgaca gcgccagaac ggcgggattc tctgggaggt
+    14881 tcgcaccggc agcgagcgcc agggattcaa caacagccag ggcctcacgg tcatggtcgg
+    14941 cgcgtcgggc cggaacgtct acatactcga cggccagggc aaccggaccc gcgcccaggt
+    15001 tcccgtcgag acgcttcaac aggccgtctc tcgtggtcgc ggtaacaccg gaggtgctgc
+    15061 gtaaatggct atctcgacgc cattcagcac cgagcaggag gcagacgcgg cgtactacgg
+    15121 gagcggcggc ggtggcgggg acgactcgac cggcccgggg cctggccccg gacccggacc
+    15181 cggacccgga cctggcccga acggcggcga cggctccggc gcacagtggg gcgagcttca
+    15241 ggagtccgcc gccctcggtg gagggtggat tctggtctac caggaccagg tcaacggcag
+    15301 ccggacccgg tggttcgtta tccgcatgac cgacggtacg ctccaggccc tcaacagcca
+    15361 ggggcaggtc gaggacgccg gggagaacac gaagctgtcc gagcttcccc actactccaa
+    15421 cgaggaggac gcccgggcgg cgttcaacgc ctgggccgag gagaaccccg aggaggccga
+    15481 agaaggccct ggaggggagg acggcactgg ccccggtggc gagggcggcg aggaggccgc
+    15541 caactggggc gagtggaaga aaatcagcga ggcgagcgtc tggcacatct actcccggac
+    15601 ccaccgggag gaggaccgcg cccagttcct cgctacgggc atggtgaagc aggaaaccgt
+    15661 gtacctggca ccggagggga aggtcgtcaa ggacccccac atctacgacg accccgaggc
+    15721 gctacgccag tcccttcaga cctacttcca gaaggccgag aacggggaaa tcccggagag
+    15781 ccagcagccc aacggggacg accccggagc cgagcgggtc cgccgcgagg ccaccaccgc
+    15841 gaagtcctcg aaccagtcga agatagagcg cctggtcgag aagatgggcg ggaagaaggt
+    15901 cgccctcgcc gtcgcggtcg gcggtgtcgc cctctatcag cagcaggacg gaggtagctg
+    15961 aacatgggaa aattcgcgct ggcctcgcgg ctggcagacg agcttggaac gagcgtatcg
+    16021 aaggcatcgc ggttcgtgga cgaggtggga gcgcccgccg cccggaacac gattgacgag
+    16081 gcggcccagg caggcagcag gaccgtctcg aagtggtgga agcccaccgc tgccgtcggg
+    16141 accatcggga ccggcggggc gctggcctgg cggcagcagg acctctcaca agcccgtgcc
+    16201 atcgctgacc aacagcagga ctacaccgcg gctgtcgagt ccatcatgga ctctgacctc
+    16261 ccgccggagc ggaagcggga gatggtggac gccctcaacc agaacgcccc ggcgtcgggc
+    16321 gagaacaaga acggtggcaa cgacggcggc gacggtggcc tgctcggggg cgacctccag
+    16381 accacgctcg tcctgctcat cgtcgtggcg ttcgcactcc gctacaccct gggggacgac
+    16441 gactgatggt tcccggtctg cgtgacaacg aggaccttct ggtcgagcgc ctggggcgtc
+    16501 tcgtggacgt gctggaaacc aaggagttcg gggacacgac ggtcgagcgg tcggtgacgc
+    16561 agaacatcga ccggacgcgg accgacagcc cgaacaacga gaaccagccc gtctacttct
+    16621 cgaccggccc ggcggcaatc gccgtcgaga acaccgagga gtgggagcgc ctggacttcg
+    16681 gtatcgtcgc ggagacggtc aacatccgca cgacggacga catcgacatc gccttcgcag
+    16741 acccgaacaa gaacgggccg gttatccggg tcaggcagga ggagtccccc ttcaccatcg
+    16801 gcggggacgc aggcatcgaa tcggcgtttg tctgggtccg gcagccggac accgccagcg
+    16861 ggacgcccgg catccaaatc atcgcgttca actaacacaa cacaaccatg acgaccatcg
+    16921 gacctaagac ggacaatctc ggaacgctcc tctccgacct cacgacggag atgataaaca
+    16981 acggcgggtg ggcggaagcc gactcctacg tcacgaacga ccagtctacg gacgactggt
+    17041 acaacaacgg tcgggcgctg tatcacgcgg cgtcggacac ctacgtcgcc ctgttcctcg
+    17101 actactaccg gacgctctac tactacacca acaaccagaa cctctcgctg tgcatggtgc
+    17161 agtctacgga ctgggacgac acgaaccacc acccggcagg gctgacgacg gactgtggcc
+    17221 gctacccgtt ctccggcgac gtgggcaacg gtgcgggtgc ctcgttcgac taccggaacg
+    17281 accacggcaa caaccccatc ggcaacaaca gcgagaacag cgaacggctg tcggcctaca
+    17341 cgaaaggtta cagcccggac atctcggacg cggctacgtc ggtggacaac gacgacacct
+    17401 ggacctacgg cctctcggtc gggttggact acttcaccat cttcgcggtc aacgactcct
+    17461 cgaacaccgg ggccgctggc tgcatggggt gggagtacct ggacgagaag ttctgggccg
+    17521 acggtcgccc gccggtccac gccttcagtt cgtacaacga ctccgacaac gggagcggcg
+    17581 agtgggtcaa ctcgaccgag ttccacacgg cgttctacga cgacgaccac ccgaacacgg
+    17641 aaatgccgta caaccgctcc tctcggaccc aggacccgcg tttcggctac atcaactccg
+    17701 acccggacga cgacagctac ttcttccagt tcgcagtgct ggaagacgac aacagccgcc
+    17761 agcggcccat cgcccacccc agaatcgtca ttccgaacga catcgccaac ggcgcgaacg
+    17821 acggcgacac cgtcacctct gacggtcgga cctatcggtt cttcgtggct tccggcggga
+    17881 accagagcaa gacgctctcg ttcggcctcc ggtgggatta aacagcaatg gtggcgtaca
+    17941 ccggggttga cagcagtggg gcaaactcaa tgggtgcgtt cagcgactac gcatccgtct
+    18001 ggagtccgtc gaacgcggtt ggtgtcctcg tgtccgtggc cgacgccgcc gacggcgtct
+    18061 tcacggccca caagcgcctc ggctcctcgt cggacccgcc gaccatcgtt ccccactcgg
+    18121 agccgcccac ggcctcctcg accgacttca cggacgccgc cacgtccttc cccgacgggc
+    18181 cgttcggaca cccgctgaac gcctcggccc agacgacgga ctatcaatcg gagtacgtcg
+    18241 gccacggcgt cgggagcatg gagacgtata tctactcctg ggcgtacatc ccgctcaagt
+    18301 tcttccacga ggtgacgggc cgggtctacg acaccgaggg cgaacccatc aaaaacgccc
+    18361 agttcatcgc cacaccggac aacctcggga ccgtcgggtc ggtggacgag gacgggtact
+    18421 actctatcta cctgctccgc gtcccctacc agacgttcct gctcggtgtc ccggcgaagg
+    18481 gcggctacga cctggtgtgg tatcgcacgg aggacggcca gcgtatcggt ggcgaccagg
+    18541 acgacatcga cctggttttc gtccccgaat ccatcccgac tccgctggat accagcgtgg
+    18601 acctgcggtt ccagtgaaca tggcagacct cgtatcacag ttcgtacttc cgttcgccgt
+    18661 ggtcgtctcg gcggcggcaa ctacgacgat ggcggcgctc gcctggaagc tgtaccggac
+    18721 ggtcacgtcc cacgaccggg cgctgttcgg tgaggaggcc gtgaacggcc acgacggcgt
+    18781 catacaggcc gtgaacgaga acacgacgcg ctccgaagtg aaccggcggg tgctccgtgc
+    18841 tcacgacatg gtcccgccgg ggcctcgcgg cgactactac caggcggcca gcggcccggt
+    18901 ggctgcggac ggcgaggacg gcgacggccc aggcggctcg tagcaggccg tggtgctcgc
+    18961 cacgctgtcc gtttccactt ctacgcgacc gatacccacg gagaacatga aaccgctcca
+    19021 gcggcgtctc tcggcctgtg agagaagacg gtgttaggca ggccagcgac cggcccgctc
+    19081 gttcttctcg ctccagcagt cgttacacca ccactcgtgg acctcctcgc ggtagaggca
+    19141 gtacaccgag tcgcacgaga tacaccggca ggtcacgcca ggccctccgc gacgacgtgg
+    19201 gcgctgtcgg cgtccagggt gacggtcagg gcgtccatct cggcgggcgt cgggtagccg
+    19261 taccaggccg cacgggtcga gaacgtcact cgtccaccct ctcggtccag tcgcaccggg
+    19321 ggcagtggac gacgacctcg acaccgtggc cgacgtagcg aaaggtggcc tcgaccggcc
+    19381 cggcacacga cgagcacccg ccccggacgg gcggcttctc gctggcctcc agccactccc
+    19441 ggaagctctg gcggcagtgg tcgcatagcc agccgtcgaa gcgcagaccg ccggtcgtcg
+    19501 tgatgaacgg ggcttccgtc tcggtcccgc accgccgaca ctcgttgctc acgctggcct
+    19561 ccggttcccg cgctcgacct tctcgtccgc cccgtaccgc tcctcggcgt agttgatgtg
+    19621 gtcgcactcc gagcagcgta tccagtggcc gccctcgccc atcaggcagg ggcagaacgc
+    19681 gacgacgtgg tggccgcacc ggcactcggt gtgatagggg acgcgcatca tgctgtcctc
+    19741 cgggcctttc tcgccaggtc gggcgctcct cggtggccct cgttcgccag gcgcttcatg
+    19801 cggtcggcgt cgtcggtccg gttcgccgcg atgaaggcca gggcgtcgta cacggtggcg
+    19861 aagtctcgct ccttgtcgaa gcgcctggtg tccttctgct cgaacagcac gtcggtgtag
+    19921 aggccgttta gccaccgctg gcagtccatc cagacccggc gcgggtcgtc gcccgacgac
+    19981 cggcggatgg cgacctcctc gtggaaccga aggggctgct cgaaccaggc gacgaagtgc
+    20041 aggccgaggc ccgacgacga gacgtgaacg tccacgtagt cggcggtgtt ctggaggttg
+    20101 tgccagacct tcacggcctc caggtcaaac tgggtgtgcg tgtacttgtc gccgtccagg
+    20161 tccaccgtga tacggctctc aaactcctgg tcgggccgct cgacgtgctc gggggtcatg
+    20221 ctcccctccc ggcctgggcg gagccaccgc gccagttctg cctcgggccg aggaggtgcg
+    20281 tgtacgtcgg actcgaccgc ccgaggtgct tgattagctt gtcgtcccgg cggcactcgc
+    20341 accggagcgg ttcgtcgccc tggcggtccc ggagccggag gtactgccgc tcgtagccgt
+    20401 ctcgaccctc ccggacctcg accgtcgggc tgacgctgtc cgggtcggcg gactcgtagc
+    20461 cgtcgggctt ctcggcggcg gtgacgaggt agataccgtc cttcgtctcg ccggtcagat
+    20521 acaggttccc ctcgtcgcgg agcgcctggt acgtcgcgcc ggtctggtcc accaggccct
+    20581 cgcgggacca gtaggttccg aaggcaccgc tcgtcgtgtt cgggttcccg gcgtactcgc
+    20641 gtttcagcca ggtgcggccc tcgtcgtcca gcttcccgac gggcttctcg ttgatgtaga
+    20701 ccgtcttgtc gtgggccgct cccccgggct gataccgctt ccgggcctct cgacggcccg
+    20761 gcgggtgtac gtcgtactgc tggcggctct tgttccacgt caggccccac tcgtgcgggg
+    20821 ccaccgagac gggcggctcg ccgggctggc tgtccacctc gaccgtccag gggaacgcga
+    20881 ggccctgggc gataccggac aggtcggcgt cgttgaacga gtcgtcggtg tagacctcgg
+    20941 tggaccagtc cacgaccccc ggcgaggtgt tcatctcgtg gggggcgacc tgctcctgct
+    21001 cccagttccg atagttctca acggcgttga agccggagag gtagccgtcg ccgccgtcgg
+    21061 tcccccggac accgccgcca ggtggcgcgt agccgggcgt ctctatcccg ctgtcgtaca
+    21121 tatacgccgc tcggtgggcc gccgtcgcca gccagccctc caggtcgttc gacggcgtcc
+    21181 cgtaggtgtg gaccctcgcc cggagttgga taccgccgta ctccttgtcc ttcccggacc
+    21241 cgatttggta gacggcctgg tacacgtagc tggtccgcgt cagggggccg tcgccgtcgc
+    21301 ggaggttcca ctgatacagg ttgtcgatgg acccgagccg agcgccgaag tagtcgggtt
+    21361 cggacacgga caggtccgcc gctgccagcg ggctatcgag gagttgggcg ttcatcgctc
+    21421 actcctccgt cacgttgccg gtccaggcgt cggcgtcggg ctggtcgagg cgcgggatgg
+    21481 caccggcgca catcagggcg agggcttgaa ggaacggctc tctcgggccg ttgaccctca
+    21541 tgttcatgcc ctcgtccacc catccgtcgc cgccgtcgcc agccgtcagg taggcgtacc
+    21601 gcatcgagag cgtccaggcg tcggggtcgt cggggtgctc ccaggtccgc agggtcaggt
+    21661 agtagtaccc ctgactggtg gtgtcggcca tgaagtagcc gagcaggtcc gcgtcgtcgc
+    21721 ccgtgagttg cccgagacgc gcttccgtgc cgatggggtg gtcactcaag ggtgacacct
+    21781 ccctgaccgt cttcgagggc ctggggggcg ctgtcgcgct ctcctcggag ggccgccgtt
+    21841 cgctcgtcgt tgtagtcgtc cgccagttcc acgatgtcgt ccggggttag ggtgcttcgg
+    21901 tccatgattt cagtctgcca gttggtcgtg tccgtctcga agacggcgcg tacctggttc
+    21961 tctgccgatt ctcgggcctt ccgtcgcttc tgctcggcct tccagtcctc gtagtcggag
+    22021 taacttcgct cgtctcggag ccgttcggcg gcccactcga ccacgtcgcc cacgtcccgg
+    22081 tccggctccg ggtcgtcggc ggtggaggcg taggccacgg tggcctcgtt cctgccgccg
+    22141 tcgggagcga ccacctgggg gtcgccgtcc gtctcggcgt cgtcgggaag ctccggcgtc
+    22201 tcggtgctct cgaccgtcac cacgtcgtcc tcgaccggct cggcgtcggt ccagccgaac
+    22261 gggtcaaact cggtggggtc caggtccatc tcgtcggggt ccacgccccg gtctgccagc
+    22321 tgacgagcga cccgggccac gtcgtcgcgc tcgacggtcg gcggtagctc ctcgtcggcc
+    22381 aggtccggca ggtcgtcggc ccggactcgg cgctcggagc cgataccgga gcggagcggt
+    22441 tcgaggtccc ggtccatccg cagggcgttc cgcgtcagga cgagagcgaa ccgtcggccc
+    22501 tccttccctt cggacacgcc ggtcaggcgc tcgaaggggt tgctgtatcg gtcggcccag
+    22561 tcggacagct tcatggcctc cagggcgtcc cggagtacgc ggtccacctc ctcgaccagt
+    22621 tcgccctcct cgaccggcgg ggcgtcgggg tgctcctcga ccttctcctc cagcatctcg
+    22681 gcctcgcggc ggtaggactc ggccttcgca actagccatt tggcgtcgta gccgttctta
+    22741 aaccgcttct cgaagtcgga gcggacccgt ccggcgaacc cgcccgcctt gtcaatcggc
+    22801 ttcccgtagt cgatgatgtc ctgccgcaga ttctcaatct gggcctcgac ggccacggcc
+    22861 tcggcgttcg tctccaggcc gtaggagtcg aaccgtcgga gcagggccga cagcgacacc
+    22921 tcgtactgtt ctgcgagggt ctgaagcgtc tccagcttct cccggggcat ccggtaggac
+    22981 accttcgggt cccgctcgtc ggtcacgctc gcccacctcc gaaaattgtt tgagcaggga
+    23041 gcgtgaattg gtgaacgcca gggtcccggt taggggcgcg gcatccaccg cgttcggggc
+    23101 tttggtccat gttgccgggg aggtttccgc cttcccctcc acgattctcg ttcgtcatgg
+    23161 ctacgctggt agttcgtact gttcccagtc tgattcgggg agcaggtcgt cgtcgtccat
+    23221 ctcgtcctgt gcgtcctcga cggcttcgag cacggcctcc gcgccgtact cgtccagcag
+    23281 cgcctcccac aacacgctct cggcccacac cgagaagttg tagtggtcgg ggagcagtgc
+    23341 ctttgccgcg ccgtcgaact cccgggacac gtagatgtgc cgccgggttt tccgtgctct
+    23401 gcgttgaatc tgtatcatcg tttaccagtt gtcgagtccg acctgtttgg acggctccga
+    23461 accgctcggt ctgtcccggg agggtcggta ctcccactcg caccggcggc agtcgcgttt
+    23521 gccgctccgg tcctcccgct gcgggccggt cccgcacatc gggcaggtga acgtctctat
+    23581 cgtcacgcat cgtcacctcg caggtagtcg tacaccggcg tcaggtcgcc cgccaggtac
+    23641 gccgctacca cgtcgagatg gcaccaggtg tcgggcgtcc gttcctgcga gacgccacgg
+    23701 caccagcagg ccacgcgctt ccctcggagc cgttcgaggg cgtccgcgaa gtcctcgtcc
+    23761 cgcttgaccc gttcgaggac gtagtcggtc caggcggcta tcacacggcg gcgctccgcc
+    23821 gtgctgtcgt cgtccatcgt gtacgggttc ccgagccagc cgggcgctgg tgggttcgtg
+    23881 ttctgggcgt gggccaggtc gccgtcccgg cgctttcgcc cgccgtacac gtccagcgtc
+    23941 tccgaggagc gcccgacgtg gacaacctcc agcgtcacca ggtccggcac ctcgccgccc
+    24001 tcgtcggcgt cgaaggttct caccgtccac ctccaggctc cgcgtagccg gagcgcatgg
+    24061 cggcctcacg ccgtcggtcc tcctcgaagg tcccgagcgt cccaccgtcg gccagcatcg
+    24121 ccacctcggc ggcctcggcg gcctcgcgga cctcctcgtc ggtggcgtcg tcgcgggtcc
+    24181 gctctccgac ctgcacctcg gcctccaggg ccttctcgaa gtcgggcagg acctcgtggt
+    24241 ccatgatggc cgtgcggacg gcctcgacgt gctcggggag cgcggcggcc cgcttgaagc
+    24301 tcgtgccgtc ggcgttctcg cggttgtaga aggccaggta ctcgtcggtg gcgtaccgct
+    24361 ggaaccgata cacggccccg tctcgcgtct cgatggacac gacacgccgg gcgggcgtcg
+    24421 gcccgtggcg gccttcgagg accagccagg cgtccactac cttcttcccc tggctctcgc
+    24481 gctcgacctc ctcgacaccg aggagcggga ccgggtcgct ggtgtccttg tagttcatcg
+    24541 ctcgccctcc agcttctcgc ggtcgaacac gtcggtccag aacacgcggc ccttccgccc
+    24601 cttcgacggg cggcccccgt cgtgccaggc gtccgggtcg attaggccgc cgaagtccac
+    24661 ggcggacacg aaccgccagg ccaggatgta gtcgtccagg tcgtcgggcg acacctcgga
+    24721 cgggtccatc tcgccgtcgt agacgacgag gagatactgg ccgtcgtcgg ccagcaggtg
+    24781 cagcagcgtc tcgctccagg cgtcccaccg gcccgggacc gtctcgtcgc cgccgttggc
+    24841 gtgctcaagc tggcacgcct tgatttggac cggctcgccc tcggaggttc gggcgtccac
+    24901 gctgacgccg tccacgaagg tcaggcccag gtgctcgcac atcagcagtt cgaccacggc
+    24961 accgtgctcc ggggaaccga agtcggtggt tccaaactcg ccggtccgca tggcctcctg
+    25021 cacgctctcg cggcgttcgg tggcggcgct catgcgtccc ctccggtcag ggcgtccagg
+    25081 tccagcccgg ggaaggtgtc ggcggcggag tcgagcgact gggtcacggc ccggacggag
+    25141 cggccacgga tggcggccca cgcctcgggc gacataccgg cgtcacggac catgtagagg
+    25201 tccagcgcga cggtgcagga acagccagcg cccacgtagg tcgtgagggt ccgggtcggg
+    25261 ttgctgtcgc cagtcatgcg gaccacccgt agaacgcgcc gtcggtacgc aggtctgctc
+    25321 gttcggtaac gttgcttccg tactgccagt gcccctcggt ctggggcttt tggtccattg
+    25381 cagccatgtt ttccacggac cctttaggga agggtcacac gacgacacac gaggcggggg
+    25441 gatataaaac tatgtcagac agaccaacag gttataatcg gcagacgcgg ggctgttcgg
+    25501 tgggtgaagc ggcggaaaag gaggggttcg ggctactcgt cggccaggtc gtcggccagg
+    25561 tcgagggtgt cgcgggcctg gccgagcttc cggcgggcgg tgccgagcag gctgtccagg
+    25621 gtgctcaccg agacgcccat gcgctcggcg ctgtcagggc ggctcacgcc ctccacgtcg
+    25681 cggagcacgt aggcgagggc ctggcggtcg gtcaggaggc cagggtccgc gagacgccgc
+    25741 gctgctcctc gcacggacgg gctgacgccg tcgcccgcct cgtcgggggc cacgtcgggc
+    25801 gtcaggtcct cggggctgtc gccgtactcg tggtccggga cggggtcgcc agagacgccg
+    25861 gtgcgctccc gctgaagccg gtcctccggg gcctcgtcgt tcatcggcca ccacccggcg
+    25921 agaaccgcgc agggtccgcc tgcggcccgg cctcgtgctc ccggtgggcg tccgggggcg
+    25981 tcgtcgtctg aaacgtcgtc acgcggcagg tgaaggccgt gcagcgggcc tggtcctcct
+    26041 cgacgtgctc gccctcctcg ccgcaggccg ggcagtcgta ccgggcgctc atgcgtccac
+    26101 ctcgtagaag gccgtctgac cgttgttcac ggcctcgatg gcgtagccgt ccggcaggtg
+    26161 ctcgcggagg gccgcgtcga agtcctcgcg ggcctggtac ggggccttcc agccgagcag
+    26221 gtcgccgtcg tcaccgatgg cgggctgttc ctggtaggtc gcgtagaggg acgccacgcc
+    26281 gtgcgtctcg gggccgtggc cctggatacg cggctcgacc agcgtgttcg gctcgtcggc
+    26341 cacggcggcc tcgacggcct cgaccaccgc gtccggcacg cggtcctcgg cagcgacctc
+    26401 cggcggcagc acctcgaagc cgtcctccgt ctcgaccgcc tcggcgcgga tacgtcgccc
+    26461 gccgtcggtc atcatcaccg gctcgtcgtc gtcgtcgccg tcgtcgtcgc cctcgtcgtc
+    26521 cgtgaacgtc gccagcagca cctccagggg cagcaggtcg tacaggtcgc ccaggtccac
+    26581 accggcggcc acaggctcgc ctcggcggtc gaggacgggc tgcacggcca cgatgtcgtc
+    26641 cacgtccccg tgccactcgt cgcccgtctc ggcgtccgtc agaccggcgc tctcgtcctc
+    26701 gctggacccg cgtagcgtct cggtgataac ggtccgctcc gcgccgtcgt gctcgtaggt
+    26761 gacgacccag gggttcttcg cgttcgctcc gatggactcg gccagcgcgg ccacgacctc
+    26821 ccacgacggc gggttcttga ccgtcggggc gtcggcctcc tcgacctcct cggcgtgctg
+    26881 ggcgcaggcc ccggtcgggt acgtcgggac gccaccgcac cagtcgtagg ccgagcagtg
+    26941 caggtcgtcg gtgtccggct cgtcctcgcc gccgtcggtt cgcaggtcgc ccatgcggtc
+    27001 cttccactgg ggcgtgtcga gtcggtccgg gccgccgtcc gtccgggcct cgtcgtcgcc
+    27061 gtcgtcgccc tcgtcgtcgt cctcgtcgtc gtcggcgcgg gcctcctcca gaagctccat
+    27121 gcggcgctcg tagtcgtccc aggactcgac caggcgaacc tccagcatgg tcccgatgaa
+    27181 ccggctgtcg gcccctgcgt ggttgtgaac ggcgttctct cgcccggcga tgtcggcgcg
+    27241 gtgggccgtg cggatggtgc cgtcgtcggc ctcgaccgtc aggactcgac cggagcaggt
+    27301 cacgatttcg ccctcgtgga cctgcacgcc gccacggttc gagacgtaga cgaggacggc
+    27361 gggctggccc tcctcgctcg tgtaggctcc tggggccgcc tccaggtcgc tcatgccgcc
+    27421 gtcccacgcg gcggtgtggt agtcgcgtcc gtccggtgcc tcctccggga cagcgccgtc
+    27481 agggagcagg gccgggtcgt actcctcgcg ggactccagg ccgtccatgt ccacggctcc
+    27541 gtacacgtcg cggagcgtct gggtgttctc gtctgcggtc acgtcgtcgg actggctttc
+    27601 tcgtgccata ctgctacaat tctgtggcag gcacttataa tttgccatgt cttcgtggca
+    27661 gtataggccc gtgcgtaggg gggtcttaaa ggccccctgg cctattccgg cgtctcgcgg
+    27721 gccgtggcgg gcggtgtcgt gcggtttcgg cggctacccc ggtcggaccg cacgaaaaca
+    27781 ccccgggggg tcttaaaccc gggggggtac tgtaataaag gtcagaaggg gattcgggcg
+    27841 tgtctgggct tgtgtggcct gccagcgggt cgtactgctc ggtccgacgg tcggaccatg
+    27901 tagtagtaga aggagtagta ggagcgacga cggcggggcg gtgcggtgcg gtgcgggagc
+    27961 gacgacgacc gcagggagga ggagcgtgtg gcggcggcag gcaccaggcg gttccccggt
+    28021 cggctcgacc agcggttccg gcggtcgcgg tcccccagag agagagagag tg
+//
+

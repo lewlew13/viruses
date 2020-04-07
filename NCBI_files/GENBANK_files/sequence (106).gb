@@ -1,0 +1,108 @@
+LOCUS       NC_038919               2362 bp    RNA     linear   VRL 24-AUG-2018
+DEFINITION  Rabbit picobirnavirus genomic segment 1 (large), ORF1 for
+            hypothetical protein.
+ACCESSION   NC_038919
+VERSION     NC_038919.1
+DBLINK      BioProject: PRJNA485481
+KEYWORDS    RefSeq; ORF1.
+SOURCE      Rabbit picobirnavirus
+  ORGANISM  Rabbit picobirnavirus
+            Viruses; Riboviria; Picobirnaviridae; Picobirnavirus.
+REFERENCE   1
+  AUTHORS   Green,J., Gallimore,C.I., Clewley,J.P. and Brown,D.W.
+  TITLE     Genomic characterisation of the large segment of a rabbit
+            picobirnavirus and comparison with the atypical picobirnavirus of
+            Cryptosporidium parvum
+  JOURNAL   Arch. Virol. 144 (12), 2457-2465 (1999)
+   PUBMED   10664398
+REFERENCE   2  (bases 1 to 2362)
+  CONSRTM   NCBI Genome Project
+  TITLE     Direct Submission
+  JOURNAL   Submitted (24-AUG-2018) National Center for Biotechnology
+            Information, NIH, Bethesda, MD 20894, USA
+REFERENCE   3  (bases 1 to 2362)
+  AUTHORS   Green,J.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (22-SEP-1999) Green J., Enteric&Respiratory Virus
+            Laboratory, PHLS Central Public Health Laboratory, 61 Colindale
+            Avenue, London, HA7 2QL, UNITED KINGDOM
+COMMENT     PROVISIONAL REFSEQ: This record has not yet been subject to final
+            NCBI review. The reference sequence is identical to AJ244022.
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..2362
+                     /organism="Rabbit picobirnavirus"
+                     /mol_type="genomic RNA"
+                     /strain="R5-9"
+                     /isolation_source="rabbit faecal material"
+                     /host="rabbit"
+                     /db_xref="taxon:104395"
+                     /segment="1"
+                     /country="United Kingdom"
+                     /note="larger of two segments"
+     gene            543..2315
+                     /locus_tag="D1T36_sBgp1"
+                     /db_xref="GeneID:37619584"
+     CDS             543..2315
+                     /locus_tag="D1T36_sBgp1"
+                     /note="ORF1"
+                     /codon_start=1
+                     /product="hypothetical protein"
+                     /protein_id="YP_009508239.1"
+                     /db_xref="PDB:2VF1"
+                     /db_xref="UniProtKB/TrEMBL:Q9Q1V2"
+                     /db_xref="GeneID:37619584"
+                     /translation="MKKESSKSFPKSHQGRSSNKGGYKKQDRDFRDKDFESGASKRGV
+                     PGKEKCSSRSMIGQADFPDHNDWSWYAPSELVAKQIANVPFNVLAGTPIKASVHLRYD
+                     PSLVSGLKDQLFVGNNASIMGARLLYLPSFGISTTVLDGLSMAANQLYAYVRKSNSGA
+                     KVYEAPDLMMTVLAIQEAXRVLFEIRRAITFANYWNFWNKYLPKQVFEQLLAIDFDDL
+                     MSNKANYCAQFNLMAQKINTFALPKYFKSILRMAYVSSNIFMDSDAVTGQMYAFVSSG
+                     YYRYSATTSESGTSLVYRDWPVGAAMPRKLNRLFTVLRELLDAIYGDADAQTMFGDIY
+                     KAFGSDGLYSIAEISVDETSTPVFDVDILAQIENCTILEANAGLAWTLDSCNVTQSKG
+                     QVLLWQPTGTITSSDNTEHIAGDIAVALGDRVLNSHIMEPQYSDVLEWTRLMATIEFD
+                     KASVTSSEKVTFKVTSCGAELIRNVLYFKNVWNDAAEDASQRVITYFSHFSQITVTNA
+                     TDDPTSAYGLMSNTLDFTQLDWHPIIYVTETSVHNVANLNSILIGGDLKRPTVITTDV
+                     VKRINSAANYALYYSANLLSNIST"
+ORIGIN      
+        1 tggggcgtaa attaacagat ttacaaataa aattatagga ggaagtgctt atgaaacatg
+       61 catttctatc ggtcatcatt tcagtcgtga ccactctgtt ggcgtacttg tgtaagtacg
+      121 tttgtagagg caaaacaatg actgagccct taatcttgtg ggaaaacaag aaatatcaat
+      181 tgctctttga gcaaaaggag gtgtcaatgg tatgacacaa aatcaagtag cgtattggaa
+      241 tctgcaagaa accaagcgct caaatttagc acaggaggag cttaaaggtc aacagaacca
+      301 agagactgag cgttcaaacc gtgctaatga gggtatcaaa cagggtactc tcgaagaaac
+      361 tatgcgggct aaccgcgcaa atgagagtat caaacagagt actctcgaag aatcaatccg
+      421 ccacaaccaa gcagatgaag gaatcagggc gtccagtgcc gtaacaggtg gcattagaga
+      481 cgtgtcttct gctctatttg gtaaaggtgg attattcgga ctcttcagct aggaggtaaa
+      541 atatgaagaa agagtcaagc aaatccttcc ccaagtcgca tcaagggagg tcgtccaata
+      601 agggcggtta caagaaacaa gacagagatt tcagagacaa agactttgaa tctggtgcat
+      661 ctaagagggg tgttcctggt aaggagaagt gttcttctag gtccatgatt ggacaggctg
+      721 attttcccga tcataatgat tggtcgtggt atgcaccctc ggaattggtt gctaagcaga
+      781 tcgcaaatgt acctttcaac gtattagcgg gtacaccgat aaaagcatca gtccatctta
+      841 gatatgatcc ttcacttgtg tctggtctga aagaccagct gttcgtgggt aacaatgcta
+      901 gtattatggg agctagactc ctgtatctgc ctagttttgg tatttccact actgtgttgg
+      961 atggtctgtc tatggctgcg aaccagcttt atgcttacgt ccggaagtcg aatagtggtg
+     1021 ctaaggtgta tgaggcacct gatctcatga tgacggttct tgctattcaa gaagcgyatc
+     1081 gtgtgctctt tgaaattcgc agagccataa ctttcgctaa ctattggaat ttctggaata
+     1141 aatacttgcc caaacaggta tttgaacagt tgttggctat tgactttgat gatcttatgt
+     1201 ccaacaaagc taactattgt gcgcaattca acttgatggc gcagaagatc aataccttcg
+     1261 cattgcctaa atacttcaag tctatcttgc gcatggcata tgtgtcgtct aatattttca
+     1321 tggattccga tgctgttacg gggcagatgt atgctttcgt atccagtggg tactatagat
+     1381 actctgcgac tacttccgaa tctggcacat cccttgtcta tcgtgattgg ccagtaggag
+     1441 cagctatgcc tcggaaactg aatagattgt ttactgttct tagggaattg ttggatgcaa
+     1501 tctatggcga cgcagatgca caaacaatgt ttggtgatat ctataaagct ttcgggtctg
+     1561 acgggcttta cagtattgcw gagatctctg ttgatgagac aagtactccc gtcttcgacg
+     1621 tggatattct tgcccagatt gagaattgca cgatcttaga agcaaacgca ggtttggcgt
+     1681 ggacattgga tagttgcaat gtcacacagt ctaagggtca ggtacttttg tggcaaccta
+     1741 cgggtaccat aacgtcaagc gataacactg aacacatcgc tggtgatatc gctgtagccc
+     1801 ttggagatcg tgtattaaat tcccatatca tggagccgca gtatagtgac gtgctggagt
+     1861 ggacacgttt aatggctacc atcgagttcg ataaggccag tgtcacttct agtgaaaagg
+     1921 taacctttaa ggtaaccagt tgtggggcgg aattaatccg gaatgtgttg tacttcaaga
+     1981 atgtttggaa cgacgcagcg gaggatgctt ctcagagagt tatcacttac ttctctcatt
+     2041 ttagtcagat cactgtcaca aatgcaacag acgatcctac ttcagcgtac ggactcatga
+     2101 gcaataccct tgacttcacg cagttggatt ggcatcccat tatatatgtc acggagactt
+     2161 ctgtgcataa tgttgcgaac ctcaattcga tattgattgg cggtgattta aagcggccca
+     2221 cagttattac tacggatgta gtaaagcgca ttaatagtgc agcgaattat gcgttgtatt
+     2281 acagtgctaa tttactcagc aatatctcca catagtggat agacacaaag ttagtgtata
+     2341 aaactggtgt ggagtggatt at
+//
+

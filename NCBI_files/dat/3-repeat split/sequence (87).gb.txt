@@ -1,0 +1,2 @@
+GOA	RepOver	RepCov	Gene	Locus	GeneLen	Product
+NA	0	0	NA	B1T82_s1gp1	9654	RNA-dependent RNA polymerase

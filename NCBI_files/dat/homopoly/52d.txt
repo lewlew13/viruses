@@ -1,0 +1,11 @@
+NC_002604.1 Botrytis virus F, complete genome	5060	5065	ACACAC	+
+NC_002604.1 Botrytis virus F, complete genome	5792	5797	ACACAC	+
+NC_002604.1 Botrytis virus F, complete genome	3226	3231	ATATAT	+
+NC_002604.1 Botrytis virus F, complete genome	411	416	CACACA	+
+NC_002604.1 Botrytis virus F, complete genome	5059	5064	CACACA	+
+NC_002604.1 Botrytis virus F, complete genome	2922	2927	CGCGCG	+
+NC_002604.1 Botrytis virus F, complete genome	579	584	CTCTCT	+
+NC_002604.1 Botrytis virus F, complete genome	1075	1080	CTCTCT	+
+NC_002604.1 Botrytis virus F, complete genome	2533	2538	CTCTCT	+
+NC_002604.1 Botrytis virus F, complete genome	4208	4213	GCGCGC	+
+NC_002604.1 Botrytis virus F, complete genome	580	585	TCTCTC	+

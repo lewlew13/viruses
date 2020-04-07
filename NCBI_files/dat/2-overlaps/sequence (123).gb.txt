@@ -1,0 +1,2 @@
+GOA	RepOver	RepCov	Gene	Locus	GeneLen	Product
+GOA:Q85615	0	0	NA	FK996_gp1	314	hypothetical protein

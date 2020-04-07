@@ -1,0 +1,3 @@
+GOA	RepOver	RepCov	Gene	Locus	GeneLen	Product
+NA	0	0	NA	FLA09_gp1	1833	non-structural protein
+NA	0	0	NA	FLA09_gp2	390	putative middle protein

@@ -1,0 +1,15 @@
+NC_003381.1 Banana streak OL virus, complete genome	7320	7325	ACACAC	+
+NC_003381.1 Banana streak OL virus, complete genome	220	225	AGAGAG	+
+NC_003381.1 Banana streak OL virus, complete genome	6564	6569	AGAGAG	+
+NC_003381.1 Banana streak OL virus, complete genome	1717	1722	ATATAT	+
+NC_003381.1 Banana streak OL virus, complete genome	1814	1819	ATATAT	+
+NC_003381.1 Banana streak OL virus, complete genome	5074	5079	ATATAT	+
+NC_003381.1 Banana streak OL virus, complete genome	6263	6268	ATATAT	+
+NC_003381.1 Banana streak OL virus, complete genome	3748	3753	CTCTCT	+
+NC_003381.1 Banana streak OL virus, complete genome	7226	7231	CTCTCT	+
+NC_003381.1 Banana streak OL virus, complete genome	5339	5344	GAGAGA	+
+NC_003381.1 Banana streak OL virus, complete genome	6507	6512	GTGTGT	+
+NC_003381.1 Banana streak OL virus, complete genome	353	358	TATATA	+
+NC_003381.1 Banana streak OL virus, complete genome	1716	1721	TATATA	+
+NC_003381.1 Banana streak OL virus, complete genome	7231	7236	TATATA	+
+NC_003381.1 Banana streak OL virus, complete genome	3465	3470	TGTGTG	+

@@ -1,0 +1,429 @@
+GOA	RepOver	RepCov	Gene	Locus	GeneLen	Product
+NA	0	0	NA	MAR_ORF001	747	hypothetical protein
+NA	0	0	NA	MAR_ORF002	657	hypothetical protein
+NA	0	0	NA	MAR_ORF003	765	hypothetical protein
+NA	0	0	NA	MAR_ORF004	474	hypothetical protein
+NA	0	0	NA	MAR_ORF005	279	hypothetical protein
+NA	0	0	NA	MAR_ORF006	483	hypothetical protein
+NA	0	0	NA	MAR_ORF007	402	hypothetical protein
+NA	0	0	NA	MAR_ORF008	252	hypothetical protein
+NA	0	0	NA	MAR_ORF009	468	hypothetical protein
+NA	0	0	NA	MAR_ORF010	222	hypothetical protein
+NA	0	0	NA	MAR_ORF011	294	hypothetical protein
+NA	0	0	NA	MAR_ORF012	444	hypothetical protein
+NA	0	0	NA	MAR_ORF013	396	hypothetical protein
+NA	0	0	NA	MAR_ORF014	204	hypothetical protein
+NA	0	0	NA	MAR_ORF015	216	truncated dUTPase
+NA	0	0	NA	MAR_ORF016	630	hypothetical protein
+NA	0	0	NA	MAR_ORF017	888	Dam-like adenine-specific DNA methylase
+NA	0	0	NA	MAR_ORF018	912	hypothetical protein
+NA	1	21	NA	MAR_ORF019	729	F-box containing protein
+NA	0	0	NA	MAR_ORF020	387	hypothetical protein
+NA	0	0	NA	MAR_ORF021	297	hypothetical protein
+NA	0	0	NA	MAR_ORF022	300	hypothetical protein
+NA	0	0	NA	MAR_ORF023	3834	DNA-directed RNA polymerase subunit beta
+NA	0	0	NA	MAR_ORF024	1782	hypothetical protein
+NA	0	0	NA	MAR_ORF025	1185	hypothetical protein
+NA	0	0	NA	MAR_ORF026	1155	hypothetical protein
+NA	0	0	NA	MAR_ORF028	798	F-box containing protein
+NA	0	0	NA	MAR_ORF029	333	hypothetical protein
+NA	0	0	NA	MAR_ORF030	198	hypothetical protein
+NA	0	0	NA	MAR_ORF032	471	hypothetical protein
+NA	0	0	NA	MAR_ORF035	282	hypothetical protein
+NA	0	0	NA	MAR_ORF036	2421	highly derived D5-like helicase-primase
+NA	0	0	NA	MAR_ORF037	519	hypothetical protein
+NA	0	0	NA	MAR_ORF038	276	hypothetical protein
+NA	0	0	NA	MAR_ORF039	888	F-box containing protein
+NA	0	0	NA	MAR_ORF040	1293	restriction endonuclease
+NA	0	0	NA	MAR_ORF041	174	hypothetical protein
+NA	0	0	NA	MAR_ORF042	741	F-box containing protein
+NA	0	0	NA	MAR_ORF043	468	hypothetical protein
+NA	0	0	NA	MAR_ORF045	1149	hypothetical protein
+NA	0	0	NA	MAR_ORF046	414	hypothetical protein
+NA	0	0	NA	MAR_ORF047	294	hypothetical protein
+NA	0	0	NA	MAR_ORF048	600	hypothetical protein
+NA	0	0	NA	MAR_ORF050	759	hypothetical protein
+NA	0	0	NA	MAR_ORF052	2958	DNA-directed RNA polymerase subunit alpha
+NA	0	0	NA	MAR_ORF053	231	hypothetical protein
+NA	0	0	NA	MAR_ORF054	162	hypothetical protein
+NA	0	0	NA	MAR_ORF055	1491	DNA-directed RNA polymerase subunit alpha
+NA	0	0	NA	MAR_ORF056	462	hypothetical protein
+NA	0	0	NA	MAR_ORF057	234	hypothetical protein
+NA	0	0	NA	MAR_ORF058	477	hypothetical protein
+NA	0	0	NA	MAR_ORF059	480	hypothetical protein
+NA	0	0	NA	MAR_ORF060	468	hypothetical protein
+NA	0	0	NA	MAR_ORF061	231	hypothetical protein
+NA	0	0	NA	MAR_ORF062	573	hypothetical protein
+NA	0	0	NA	MAR_ORF063	273	hypothetical protein
+NA	0	0	NA	MAR_ORF064	192	hypothetical protein
+NA	0	0	NA	MAR_ORF065	225	hypothetical protein
+NA	0	0	NA	MAR_ORF067	1152	hypothetical protein
+NA	0	0	NA	MAR_ORF068	843	F-box containing protein
+NA	0	0	NA	MAR_ORF069	387	hypothetical protein
+NA	0	0	NA	MAR_ORF070	1212	zinc finger protein
+NA	0	0	NA	MAR_ORF071	159	hypothetical protein
+NA	0	0	NA	MAR_ORF072	1218	ATP-dependent DNA ligase
+NA	1	197	NA	MAR_ORF073	888	hypothetical protein
+NA	0	0	NA	MAR_ORF074	624	metal dependent phosphohydrolase
+NA	0	0	NA	MAR_ORF075	438	hypothetical protein
+NA	0	0	NA	MAR_ORF076	204	hypothetical protein
+NA	0	0	NA	MAR_ORF077	273	hypothetical protein
+NA	0	0	NA	MAR_ORF078	543	hypothetical protein
+NA	0	0	NA	MAR_ORF079	288	translation initiation factor SUI1
+NA	0	0	NA	MAR_ORF080	435	hypothetical protein
+NA	0	0	NA	MAR_ORF081	246	nucleoside deaminase
+NA	0	0	NA	MAR_ORF082	360	hypothetical protein
+NA	0	0	NA	MAR_ORF083	474	hypothetical protein
+NA	0	0	NA	MAR_ORF084	1038	serine/threonine protein kinase
+NA	0	0	NA	MAR_ORF085	222	hypothetical protein
+NA	0	0	NA	MAR_ORF086	492	hypothetical protein
+NA	0	0	NA	MAR_ORF087	417	hypothetical protein
+NA	0	0	NA	MAR_ORF088	216	hypothetical protein
+NA	0	0	NA	MAR_ORF089	447	hypothetical protein
+NA	0	0	NA	MAR_ORF090	513	hypothetical protein
+NA	0	0	NA	MAR_ORF091	447	hypothetical protein
+NA	0	0	NA	MAR_ORF092	417	HTH-containing DNA-binding protein
+NA	0	0	NA	MAR_ORF093	402	hypothetical protein
+NA	0	0	NA	MAR_ORF094	456	hypothetical protein
+NA	0	0	NA	MAR_ORF095	540	hypothetical protein
+NA	0	0	NA	MAR_ORF096	462	hypothetical protein
+NA	0	0	NA	MAR_ORF097	390	putative antitoxin
+NA	0	0	NA	MAR_ORF098	339	toxin of RelE/StbE family
+NA	0	0	NA	MAR_ORF099	1344	flavin-containing amine oxidoreductase
+NA	0	0	NA	MAR_ORF100	336	hypothetical protein
+NA	0	0	NA	MAR_ORF101	546	hypothetical protein
+NA	0	0	NA	MAR_ORF102	288	hypothetical protein
+NA	0	0	NA	MAR_ORF103	642	hypothetical protein
+NA	0	0	NA	MAR_ORF104	1203	hypothetical protein
+NA	0	0	NA	MAR_ORF105	474	hypothetical protein
+NA	0	0	NA	MAR_ORF106	687	F-box containing protein
+NA	0	0	NA	MAR_ORF107	447	hypothetical protein
+NA	0	0	NA	MAR_ORF108	675	hypothetical protein
+NA	0	0	NA	MAR_ORF109	501	hypothetical protein
+NA	0	0	NA	MAR_ORF110	279	hypothetical protein
+NA	0	0	NA	MAR_ORF111	543	hypothetical protein
+NA	0	0	NA	MAR_ORF112	675	hypothetical protein
+NA	0	0	NA	MAR_ORF113	492	hypothetical protein
+NA	0	0	NA	MAR_ORF114	1773	hypothetical protein
+NA	0	0	NA	MAR_ORF115	240	hypothetical protein
+NA	0	0	NA	MAR_ORF116	534	hypothetical protein
+NA	0	0	NA	MAR_ORF117	363	hypothetical protein
+NA	0	0	NA	MAR_ORF118	2358	SMC1 family ATPase
+NA	0	0	NA	MAR_ORF119	711	hypothetical protein
+NA	0	0	NA	MAR_ORF120	321	small membrane protein
+NA	0	0	NA	MAR_ORF121	339	small membrane protein
+NA	0	0	NA	MAR_ORF122	4383	serine/threonine protein kinase
+NA	0	0	NA	MAR_ORF124	510	MORN repeat-containing protein
+NA	0	0	NA	MAR_ORF126	675	hypothetical protein
+NA	0	0	NA	MAR_ORF128	444	hypothetical protein
+NA	0	0	NA	MAR_ORF129	426	ribonuclease H
+NA	0	0	NA	MAR_ORF130	1152	eukaryotic peptide chain release translation termination factor 1
+NA	0	0	NA	MAR_ORF131	816	DHH family phosphohydrolase
+NA	0	0	NA	MAR_ORF133	750	hypothetical protein
+NA	0	0	NA	MAR_ORF134	699	hypothetical protein
+NA	0	0	NA	MAR_ORF135	504	hypothetical protein
+NA	0	0	NA	MAR_ORF136	348	hypothetical protein
+NA	0	0	NA	MAR_ORF137	696	hypothetical protein
+NA	0	0	NA	MAR_ORF138	243	hypothetical protein
+NA	1	29	NA	MAR_ORF139	1083	hypothetical protein
+NA	0	0	NA	MAR_ORF140	324	hypothetical protein
+NA	0	0	NA	MAR_ORF141	765	hypothetical protein
+NA	0	0	NA	MAR_ORF142	648	hypothetical protein
+NA	0	0	NA	MAR_ORF143	657	hypothetical protein
+NA	0	0	NA	MAR_ORF144	720	hypothetical protein
+NA	0	0	NA	MAR_ORF145	210	hypothetical protein
+NA	0	0	NA	MAR_ORF146	432	F-box containing protein
+NA	0	0	NA	MAR_ORF147	474	hypothetical protein
+NA	0	0	NA	MAR_ORF148	447	hypothetical protein
+NA	1	131	NA	MAR_ORF149	1668	hypothetical protein
+NA	0	0	NA	MAR_ORF150	339	hypothetical protein
+NA	0	0	NA	MAR_ORF151	465	F-box containing protein
+NA	0	0	NA	MAR_ORF152	2712	D5 family helicase-primase
+NA	0	0	NA	MAR_ORF153	804	hypothetical protein
+NA	0	0	NA	MAR_ORF154	303	zinc-ribbon-containing protein
+NA	0	0	NA	MAR_ORF155	402	hypothetical protein
+NA	0	0	NA	MAR_ORF156	1599	restriction endonuclease
+NA	0	0	NA	MAR_ORF157	774	A32-like packaging ATPase
+NA	0	0	NA	MAR_ORF158	486	hypothetical protein
+NA	0	0	NA	MAR_ORF159	900	hypothetical protein
+NA	0	0	NA	MAR_ORF160	726	serine/threonine protein kinase
+NA	0	0	NA	MAR_ORF161	381	mannosyltransferase OCH1-like protein
+NA	0	0	NA	MAR_ORF162	909	mannosyltransferase OCH1-like protein
+NA	0	0	NA	MAR_ORF163	1260	translation elongation factor EF-1alpha
+NA	0	0	NA	MAR_ORF164	402	hypothetical protein
+NA	0	0	NA	MAR_ORF165	210	small membrane protein
+NA	0	0	NA	MAR_ORF166	507	histone 2A-domain-containing protein
+NA	0	0	NA	MAR_ORF167	918	hypothetical protein
+NA	0	0	NA	MAR_ORF168	267	hypothetical protein
+NA	0	0	NA	MAR_ORF169	507	hypothetical protein
+NA	0	0	NA	MAR_ORF170	189	hypothetical protein
+NA	0	0	NA	MAR_ORF171	738	hypothetical protein
+NA	0	0	NA	MAR_ORF172	549	hypothetical protein
+NA	0	0	NA	MAR_ORF173	3270	DNA topoisomerase II
+NA	0	0	NA	MAR_ORF174	195	hypothetical protein
+NA	0	0	NA	MAR_ORF175	552	hypothetical protein
+NA	0	0	NA	MAR_ORF176	366	hypothetical protein
+NA	0	0	NA	MAR_ORF177	237	hypothetical protein
+NA	0	0	NA	MAR_ORF178	543	hypothetical protein
+NA	0	0	NA	MAR_ORF179	375	hypothetical protein
+NA	0	0	NA	MAR_ORF180	303	hypothetical protein
+NA	0	0	NA	MAR_ORF181	996	putative nuclease
+NA	0	0	NA	MAR_ORF182	360	hypothetical protein
+NA	0	0	NA	MAR_ORF183	1539	hypothetical protein
+NA	0	0	NA	MAR_ORF184	3522	helicase origin-binding-protein
+NA	0	0	NA	MAR_ORF186	207	hypothetical protein
+NA	0	0	NA	MAR_ORF188	657	hypothetical protein
+NA	0	0	NA	MAR_ORF189	897	class 3 lipase
+NA	0	0	NA	MAR_ORF190	381	hypothetical protein
+NA	0	0	NA	MAR_ORF191	840	serine/threonine protein kinase
+NA	0	0	NA	MAR_ORF192	546	hypothetical protein
+NA	0	0	NA	MAR_ORF193	1347	zinc finger protein
+NA	0	0	NA	MAR_ORF194	3894	hypothetical protein
+NA	0	0	NA	MAR_ORF195	732	serine/threonine protein kinase
+NA	0	0	NA	MAR_ORF196	270	hypothetical protein
+NA	0	0	NA	MAR_ORF197	1233	RNA ligase
+NA	0	0	NA	MAR_ORF198	411	hypothetical protein
+NA	0	0	NA	MAR_ORF199	876	serine/threonine protein kinase
+NA	0	0	NA	MAR_ORF200	1563	hypothetical protein
+NA	0	0	NA	MAR_ORF201	393	hypothetical protein
+NA	1	3	NA	MAR_ORF202	327	hypothetical protein
+NA	1	4	NA	MAR_ORF203	2319	D6/D11-like helicase
+NA	0	0	NA	MAR_ORF204	519	hypothetical protein
+NA	0	0	NA	MAR_ORF205	585	hypothetical protein
+NA	0	0	NA	MAR_ORF206	390	RING finger E3 ubiquitin protein ligase
+NA	0	0	NA	MAR_ORF207	546	hypothetical protein
+NA	0	0	NA	MAR_ORF208	306	hypothetical protein
+NA	0	0	NA	MAR_ORF209	396	hypothetical protein
+NA	0	0	NA	MAR_ORF210	528	Rossmann-fold nucleotide-binding protein
+NA	0	0	NA	MAR_ORF211	2751	ribonucleoside diphosphate reductase alpha subunit
+NA	0	0	NA	MAR_ORF212	897	proliferating cell nuclear antigen
+NA	0	0	NA	MAR_ORF213	801	transcription initiation factor TFIIB
+NA	0	0	NA	MAR_ORF214	228	hypothetical protein
+NA	0	0	NA	MAR_ORF215	405	hypothetical protein
+NA	0	0	NA	MAR_ORF216	639	RuvC-like Holliday junction resolvase
+NA	0	0	NA	MAR_ORF217	471	dNMP kinase
+NA	0	0	NA	MAR_ORF218	318	hypothetical protein
+NA	0	0	NA	MAR_ORF219	654	hypothetical protein
+NA	2	103	NA	MAR_ORF221	657	hypothetical protein
+NA	0	0	NA	MAR_ORF222	450	transcription factor S-II-domain-containing protein RNAP subunit
+NA	0	0	NA	MAR_ORF223	1038	class 3 lipase
+NA	0	0	NA	MAR_ORF224	747	hypothetical protein
+NA	0	0	NA	MAR_ORF225	351	hypothetical protein
+NA	0	0	NA	MAR_ORF226	2367	hypothetical protein
+NA	0	0	NA	MAR_ORF227	627	putative RNA methyltransferase
+NA	0	0	NA	MAR_ORF228	885	patatin-like phospholipase
+NA	1	35	NA	MAR_ORF229	1128	hypothetical protein
+NA	0	0	NA	MAR_ORF230	1170	hypothetical protein
+NA	0	0	NA	MAR_ORF231	375	thioredoxin
+NA	0	0	NA	MAR_ORF232	444	hypothetical protein
+NA	0	0	NA	MAR_ORF233	906	hypothetical protein
+NA	0	0	NA	MAR_ORF234	618	hypothetical protein
+NA	0	0	NA	MAR_ORF235	324	hypothetical protein
+NA	0	0	NA	MAR_ORF236	561	thymidine kinase
+NA	0	0	NA	MAR_ORF237	579	zinc finger/DNA-binding protein
+NA	0	0	NA	MAR_ORF238	483	hypothetical protein
+NA	0	0	NA	MAR_ORF239	894	hypothetical protein
+NA	0	0	NA	MAR_ORF241	4614	D6/D11-like helicase
+NA	0	0	NA	MAR_ORF242	504	NUDIX hydrolase
+NA	0	0	NA	MAR_ORF243	333	hypothetical protein
+NA	0	0	NA	MAR_ORF244	939	ribonuclease III
+NA	0	0	NA	MAR_ORF245	1500	restriction endonuclease
+NA	0	0	NA	MAR_ORF246	666	hypothetical protein
+NA	0	0	NA	MAR_ORF247	228	ubiquitin
+NA	0	0	NA	MAR_ORF249	1455	MutH/Vsr/archaeal HJR-like endonuclease
+NA	0	0	NA	MAR_ORF251	252	hypothetical protein
+NA	0	0	NA	MAR_ORF252	252	hypothetical protein
+NA	0	0	NA	MAR_ORF253	1641	hypothetical protein
+NA	0	0	NA	MAR_ORF254	729	hypothetical protein
+NA	0	0	NA	MAR_ORF255	1044	hypothetical protein
+NA	0	0	NA	MAR_ORF257	243	hypothetical protein
+NA	0	0	NA	MAR_ORF258	597	alkylated DNA repair protein
+NA	0	0	NA	MAR_ORF259	570	hypothetical protein
+NA	0	0	NA	MAR_ORF260	2745	divergent serine/threonine protein kinase
+NA	0	0	NA	MAR_ORF261	258	hypothetical protein
+NA	0	0	NA	MAR_ORF262	276	hypothetical protein
+NA	0	0	NA	MAR_ORF263	1395	hypothetical protein
+NA	0	0	NA	MAR_ORF264	1332	serine/threonine protein kinase catalytic domain-containing protein
+NA	0	0	NA	MAR_ORF265	510	hypothetical protein
+NA	0	0	NA	MAR_ORF266	192	hypothetical protein
+NA	0	0	NA	MAR_ORF267	579	hypothetical protein
+NA	0	0	NA	MAR_ORF268	843	ribonucleotide reductase small chain
+NA	0	0	NA	MAR_ORF269	840	chaperone protein DnaJ
+NA	0	0	NA	MAR_ORF270	1209	superfamily II helicase
+NA	0	0	NA	MAR_ORF271	321	hypothetical protein
+NA	0	0	NA	MAR_ORF272	819	membrane protein
+NA	0	0	NA	MAR_ORF273	993	membrane protein
+NA	0	0	NA	MAR_ORF274	1326	hypothetical protein
+NA	0	0	NA	MAR_ORF275	183	hypothetical protein
+NA	0	0	NA	MAR_ORF276	1551	papain-like cysteine peptidase
+NA	0	0	NA	MAR_ORF277	696	NUDIX hydrolase
+NA	0	0	NA	MAR_ORF278	432	metallopeptidase WLM
+NA	0	0	NA	MAR_ORF279	612	bacterial MORN repeat-containing protein
+NA	0	0	NA	MAR_ORF280	339	hypothetical protein
+NA	0	0	NA	MAR_ORF281	429	membrane-bound metal-dependent hydrolase
+NA	0	0	NA	MAR_ORF282	1887	glycosyltransferase
+NA	0	0	NA	MAR_ORF283	231	hypothetical protein
+NA	0	0	NA	MAR_ORF284	294	hypothetical protein
+NA	0	0	NA	MAR_ORF285	1317	papain-like cysteine peptidase
+NA	0	0	NA	MAR_ORF286	321	hypothetical protein
+NA	1	8	NA	MAR_ORF287	492	hypothetical protein
+NA	1	1	NA	MAR_ORF288	306	hypothetical protein
+NA	0	0	NA	MAR_ORF289	531	putative nuclease
+NA	0	0	NA	MAR_ORF291	684	SWIB/MDM2 domain-containing protein
+NA	0	0	NA	MAR_ORF292	876	hypothetical protein
+NA	0	0	NA	MAR_ORF293	900	AP endonuclease family 2 protein
+NA	0	0	NA	MAR_ORF294	558	hypothetical protein
+NA	0	0	NA	MAR_ORF295	1395	HNH-family endonuclease
+NA	0	0	NA	MAR_ORF296	630	membrane protein
+NA	0	0	NA	MAR_ORF297	354	hypothetical protein
+NA	0	0	NA	MAR_ORF298	309	hypothetical protein
+NA	0	0	NA	MAR_ORF299	231	hypothetical protein
+NA	0	0	NA	MAR_ORF301	1707	Vsr/MutH/archaeal HJR family nuclease
+NA	0	0	NA	MAR_ORF302	705	hypothetical protein
+NA	0	0	NA	MAR_ORF303	255	hypothetical protein
+NA	0	0	NA	MAR_ORF304	453	eukaryotic translation initiation factor 5
+NA	0	0	NA	MAR_ORF305	360	hypothetical protein
+NA	0	0	NA	MAR_ORF306	3408	early transcription factor large subunit
+NA	0	0	NA	MAR_ORF307	669	hypothetical protein
+NA	0	0	NA	MAR_ORF308	525	hypothetical protein
+NA	0	0	NA	MAR_ORF309	219	hypothetical protein
+NA	0	0	NA	MAR_ORF310	399	disulfide oxidoreductase
+NA	0	0	NA	MAR_ORF311	432	hypothetical protein
+NA	0	0	NA	MAR_ORF312	1383	hypothetical protein
+NA	0	0	NA	MAR_ORF313	561	thioredoxin
+NA	0	0	NA	MAR_ORF314	2460	3-domain mRNA capping enzyme
+NA	0	0	NA	MAR_ORF315	1011	DNA repair exonuclease SbcCD D subunit
+NA	0	0	NA	MAR_ORF316	2076	ankyrin repeat-containing protein
+NA	0	0	NA	MAR_ORF319	1473	"XRN1 5-3 exonuclease"
+NA	0	0	NA	MAR_ORF320	165	hypothetical protein
+NA	0	0	NA	MAR_ORF321	1212	zinc finger protein
+NA	0	0	NA	MAR_ORF322	372	zinc finger protein
+NA	0	0	NA	MAR_ORF323	291	truncated XRN1
+NA	0	0	NA	MAR_ORF325	768	hypothetical protein
+NA	0	0	NA	MAR_ORF326	636	P-loop ATPase/GTPase
+NA	0	0	NA	MAR_ORF327	1287	restriction endonuclease
+NA	0	0	NA	MAR_ORF328	876	glycosyltransferase
+NA	0	0	NA	MAR_ORF330	1434	ankyrin repeat-containing protein
+NA	0	0	NA	MAR_ORF331	492	ankyrin repeat-containing protein
+NA	0	0	NA	MAR_ORF332	612	thioredoxin
+NA	0	0	NA	MAR_ORF333	429	hypothetical protein
+NA	0	0	NA	MAR_ORF334	453	inactivated thioredoxin/glutaredoxin
+NA	0	0	NA	MAR_ORF336	348	hypothetical protein
+NA	0	0	NA	MAR_ORF337	399	hypothetical protein
+NA	0	0	NA	MAR_ORF338	597	membrane protein
+NA	0	0	NA	MAR_ORF339	726	hypothetical protein
+NA	0	0	NA	MAR_ORF340	1041	transcription factor A2-like protein
+NA	0	0	NA	MAR_ORF341	243	hypothetical protein
+NA	0	0	NA	MAR_ORF342	1434	major capsid protein
+NA	0	0	NA	MAR_ORF343	582	hypothetical protein
+NA	0	0	NA	MAR_ORF344	1539	zinc-ribbon-containing protein
+NA	0	0	NA	MAR_ORF345	285	hypothetical protein
+NA	0	0	NA	MAR_ORF346	411	hypothetical protein
+NA	0	0	NA	MAR_ORF347	651	zinc-ribbon-containing protein
+NA	0	0	NA	MAR_ORF348	420	hypothetical protein
+NA	0	0	NA	MAR_ORF349	1305	restriction endonuclease
+NA	0	0	NA	MAR_ORF351	549	hypothetical protein
+NA	0	0	NA	MAR_ORF352	597	divergent serine/threonine protein kinase
+NA	0	0	NA	MAR_ORF353	588	divergent serine/threonine protein kinase
+NA	0	0	NA	MAR_ORF354	441	hypothetical protein
+NA	0	0	NA	MAR_ORF355	516	MORN repeat-containing protein
+NA	0	0	NA	MAR_ORF356	633	hypothetical protein
+NA	0	0	NA	MAR_ORF357	282	hypothetical protein
+NA	0	0	NA	MAR_ORF358	315	hypothetical protein
+NA	0	0	NA	MAR_ORF359	219	hypothetical protein
+NA	0	0	NA	MAR_ORF360	597	divergent serine/threonine protein kinase
+NA	0	0	NA	MAR_ORF361	420	MORN repeat-containing protein
+NA	0	0	NA	MAR_ORF362	291	hypothetical protein
+NA	0	0	NA	MAR_ORF363	729	calcineurin-like phosphoesterase
+NA	0	0	NA	MAR_ORF364	294	hypothetical protein
+NA	0	0	NA	MAR_ORF365	1089	flap-specific endonuclease
+NA	0	0	NA	MAR_ORF366	525	MORN repeat-containing protein
+NA	0	0	NA	MAR_ORF367	936	putative nuclease
+NA	1	51	NA	MAR_ORF368	1443	hypothetical protein
+NA	0	0	NA	MAR_ORF369	723	hypothetical protein
+NA	0	0	NA	MAR_ORF371	1269	Csr/MutH/archaeal HJR family nuclease
+NA	0	0	NA	MAR_ORF372	300	hypothetical protein
+NA	0	0	NA	MAR_ORF373	264	hypothetical protein
+NA	0	0	NA	MAR_ORF375	420	hypothetical protein
+NA	0	0	NA	MAR_ORF377	375	hypothetical protein
+NA	0	0	NA	MAR_ORF378	300	hypothetical protein
+NA	0	0	NA	MAR_ORF379	333	hypothetical protein
+NA	0	0	NA	MAR_ORF380	735	hypothetical protein
+NA	0	0	NA	MAR_ORF381	429	hypothetical protein
+NA	0	0	NA	MAR_ORF382	813	hypothetical protein
+NA	0	0	NA	MAR_ORF383	582	RNAP subunit Rpb5
+NA	0	0	NA	MAR_ORF384	258	hypothetical protein
+NA	0	0	NA	MAR_ORF385	633	F-box containing protein
+NA	0	0	NA	MAR_ORF386	483	hypothetical protein
+NA	0	0	NA	MAR_ORF387	1893	HNH endonuclease
+NA	0	0	NA	MAR_ORF388	336	hypothetical protein
+NA	0	0	NA	MAR_ORF389	201	hypothetical protein
+NA	0	0	NA	MAR_ORF390	192	hypothetical protein
+NA	0	0	NA	MAR_ORF391	717	multiple zinc ribbon protein
+NA	0	0	NA	MAR_ORF392	441	hypothetical protein
+NA	0	0	NA	MAR_ORF393	552	hypothetical protein
+NA	0	0	NA	MAR_ORF394	342	hypothetical protein
+NA	0	0	NA	MAR_ORF395	606	galactose binding lectin domain-containing protein
+NA	0	0	NA	MAR_ORF396	699	hypothetical protein
+NA	0	0	NA	MAR_ORF397	414	hypothetical protein
+NA	0	0	NA	MAR_ORF398	1215	uracil-DNA glycosylase D4
+NA	0	0	NA	MAR_ORF399	1077	hypothetical protein
+NA	0	0	NA	MAR_ORF400	810	cell division cycle 123 protein
+NA	0	0	NA	MAR_ORF401	2532	hypothetical protein
+NA	0	0	NA	MAR_ORF403	1764	zinc finger protein
+NA	0	0	NA	MAR_ORF404	2628	AAA family ATPase
+NA	0	0	NA	MAR_ORF405	369	hypothetical protein
+NA	0	0	NA	MAR_ORF406	279	hypothetical protein
+NA	0	0	NA	MAR_ORF407	324	ubiquitin-like protein
+NA	0	0	NA	MAR_ORF408	1410	ATP-dependent exoDNAse alpha subunit
+NA	0	0	NA	MAR_ORF409	1509	restriction endonuclease
+NA	0	0	NA	MAR_ORF410	327	hypothetical protein
+NA	0	0	NA	MAR_ORF411	774	hypothetical protein
+NA	0	0	NA	MAR_ORF412	372	hypothetical protein
+NA	0	0	NA	MAR_ORF413	699	histone H3
+NA	0	0	NA	MAR_ORF414	741	histone H2B/H2A fusion protein
+NA	0	0	NA	MAR_ORF415	606	hypothetical protein
+NA	0	0	NA	MAR_ORF416	618	peptidoglycan peptidase
+NA	0	0	NA	MAR_ORF417	636	hypothetical protein
+NA	0	0	NA	MAR_ORF418	273	hypothetical protein
+NA	0	0	NA	MAR_ORF419	405	hypothetical protein
+NA	0	0	NA	MAR_ORF420	651	hypothetical protein
+NA	0	0	NA	MAR_ORF421	498	hypothetical protein
+NA	0	0	NA	MAR_ORF422	258	hypothetical protein
+NA	0	0	NA	MAR_ORF423	384	putative P-loop kinase
+NA	0	0	NA	MAR_ORF424	639	serine/threonine protein kinase
+NA	0	0	NA	MAR_ORF425	180	hypothetical protein
+NA	0	0	NA	MAR_ORF426	933	WD repeat protein
+NA	0	0	NA	MAR_ORF427	744	serine/threonine protein kinase
+NA	0	0	NA	MAR_ORF428	417	Vsr/MutH/archaeal HJR family endonuclease
+NA	0	0	NA	MAR_ORF429	1335	bifunctional dihydrofolate reductase-thymidylate synthase
+NA	0	0	NA	MAR_ORF430	483	hypothetical protein
+NA	0	0	NA	MAR_ORF431	459	hypothetical protein
+NA	0	0	NA	MAR_ORF432	720	serine/threonine protein kinase
+NA	0	0	NA	MAR_ORF433	297	hypothetical protein
+NA	0	0	NA	MAR_ORF434	678	MORN repeat-containing protein
+NA	0	0	NA	MAR_ORF435	510	hypothetical protein
+NA	0	0	NA	MAR_ORF436	270	hypothetical protein
+NA	0	0	NA	MAR_ORF437	414	hypothetical protein
+NA	0	0	NA	MAR_ORF438	525	hypothetical protein
+NA	0	0	NA	MAR_ORF439	255	hypothetical protein
+NA	0	0	NA	MAR_ORF440	867	hypothetical protein
+NA	0	0	NA	MAR_ORF441	423	hypothetical protein
+NA	0	0	NA	MAR_ORF442	276	hypothetical protein
+NA	0	0	NA	MAR_ORF443	360	hypothetical protein
+NA	0	0	NA	MAR_ORF444	294	hypothetical protein
+NA	0	0	NA	MAR_ORF445	579	ankyrin repeat-containing protein
+NA	0	0	NA	MAR_ORF446	759	serine/threonine protein kinase
+NA	0	0	NA	MAR_ORF447	165	hypothetical protein
+NA	0	0	NA	MAR_ORF448	366	hypothetical protein
+NA	0	0	NA	MAR_ORF449	189	hypothetical protein
+NA	0	0	NA	MAR_ORF450	171	hypothetical protein
+NA	0	0	NA	MAR_ORF451	990	glycosyltransferase
+NA	0	0	NA	MAR_ORF452	570	hypothetical protein
+NA	0	0	NA	MAR_ORF453	651	hypothetical protein
+NA	0	0	NA	MAR_ORF454	216	hypothetical protein
+NA	0	0	NA	MAR_ORF455	171	hypothetical protein
+NA	0	0	NA	MAR_ORF456	798	hypothetical protein
+NA	0	0	NA	MAR_ORF457	483	hypothetical protein
+NA	1	36	NA	MAR_ORF458	249	hypothetical protein
+NA	0	0	NA	MAR_ORF459	2430	D5-like helicase-primase

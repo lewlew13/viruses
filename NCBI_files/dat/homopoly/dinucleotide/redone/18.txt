@@ -1,0 +1,7 @@
+NC_043103.1 Bat astrovirus Tm/Guangxi/LD38/2007 non-structural polyprotein 1AB (pol) gene, partial cds; and capsid protein precursor (ORF2) gene, complete cds	4241	1120	1125	ATATAT	+
+NC_043103.1 Bat astrovirus Tm/Guangxi/LD38/2007 non-structural polyprotein 1AB (pol) gene, partial cds; and capsid protein precursor (ORF2) gene, complete cds	4241	1472	1481	CTCTCTCTCT	+
+NC_043103.1 Bat astrovirus Tm/Guangxi/LD38/2007 non-structural polyprotein 1AB (pol) gene, partial cds; and capsid protein precursor (ORF2) gene, complete cds	4241	2991	2996	CTCTCT	+
+NC_043103.1 Bat astrovirus Tm/Guangxi/LD38/2007 non-structural polyprotein 1AB (pol) gene, partial cds; and capsid protein precursor (ORF2) gene, complete cds	4241	3355	3360	CTCTCT	+
+NC_043103.1 Bat astrovirus Tm/Guangxi/LD38/2007 non-structural polyprotein 1AB (pol) gene, partial cds; and capsid protein precursor (ORF2) gene, complete cds	4241	1533	1538	GAGAGA	+
+NC_043103.1 Bat astrovirus Tm/Guangxi/LD38/2007 non-structural polyprotein 1AB (pol) gene, partial cds; and capsid protein precursor (ORF2) gene, complete cds	4241	1119	1124	TATATA	+
+NC_043103.1 Bat astrovirus Tm/Guangxi/LD38/2007 non-structural polyprotein 1AB (pol) gene, partial cds; and capsid protein precursor (ORF2) gene, complete cds	4241	1473	1480	TCTCTCTC	+

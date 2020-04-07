@@ -1,0 +1,12 @@
+GOA	RepOver	RepCov	Gene	Locus	GeneLen	Product
+NA	0	0	NA	phiMH2Kp01	4594	putative replication initiation protein
+NA	0	0	NA	phiMH2Kp02	1602	major capsid protein
+NA	0	0	NA	phiMH2Kp03	195	hypothetical protein
+NA	0	0	NA	phiMH2Kp04	192	hypothetical protein
+NA	0	0	NA	phiMH2Kp05	213	hypothetical protein
+NA	0	0	NA	phiMH2Kp06	600	minor capsid protein
+NA	0	0	NA	phiMH2Kp07	156	hypothetical protein
+NA	0	0	NA	phiMH2Kp08	456	minor capsid protein
+NA	0	0	NA	phiMH2Kp09	255	nonstructural protein
+NA	0	0	NA	phiMH2Kp10	117	putative DNA binding protein
+NA	0	0	NA	phiMH2Kp11	330	hypothetical protein

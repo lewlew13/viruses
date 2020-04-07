@@ -1,0 +1,4 @@
+NC_039229.1 Tomato yellow leaf curl Yunnan alphasatellite isolate YN4368-69, complete sequence	1354	164	171	ACACACAC	+
+NC_039229.1 Tomato yellow leaf curl Yunnan alphasatellite isolate YN4368-69, complete sequence	1354	165	170	CACACA	+
+NC_039229.1 Tomato yellow leaf curl Yunnan alphasatellite isolate YN4368-69, complete sequence	1354	52	57	CTCTCT	+
+NC_039229.1 Tomato yellow leaf curl Yunnan alphasatellite isolate YN4368-69, complete sequence	1354	51	56	TCTCTC	+

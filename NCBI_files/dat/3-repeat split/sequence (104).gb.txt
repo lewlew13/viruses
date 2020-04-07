@@ -1,0 +1,2 @@
+GOA	RepOver	RepCov	Gene	Locus	GeneLen	Product
+NA	0	0	NA	BVA91_sLgp1	6771	RNA-dependent RNA polymerase

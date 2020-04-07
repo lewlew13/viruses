@@ -1,0 +1,102 @@
+LOCUS       NC_004054               2343 bp ss-RNA     linear   VRL 13-AUG-2018
+DEFINITION  Ophiostoma novo-ulmi mitovirus 6-Ld, complete genome.
+ACCESSION   NC_004054
+VERSION     NC_004054.1
+DBLINK      BioProject: PRJNA485481
+KEYWORDS    RefSeq; pol6 gene; RNA-dependent RNA polymerase.
+SOURCE      Ophiostoma mitovirus 6
+  ORGANISM  Ophiostoma mitovirus 6
+            Viruses; Riboviria; Narnaviridae; Mitovirus.
+REFERENCE   1  (bases 1 to 2343)
+  AUTHORS   Hong,Y., Dover,S.L., Cole,T.E., Brasier,C.M. and Buck,K.W.
+  TITLE     Multiple mitochondrial viruses in an isolate of the Dutch Elm
+            disease fungus Ophiostoma novo-ulmi
+  JOURNAL   Virology 258 (1), 118-127 (1999)
+   PUBMED   10329574
+REFERENCE   2  (bases 1 to 2343)
+  CONSRTM   NCBI Genome Project
+  TITLE     Direct Submission
+  JOURNAL   Submitted (22-AUG-2002) National Center for Biotechnology
+            Information, NIH, Bethesda, MD 20894, USA
+REFERENCE   3  (bases 1 to 2343)
+  AUTHORS   Buck,K.W.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (08-FEB-1999) Buck K.W., Biology, Imperial College of
+            Science, Technology and Medicine, Imperial College Road, London,
+            SW7 2AZ, UNITED KINGDOM
+COMMENT     PROVISIONAL REFSEQ: This record has not yet been subject to final
+            NCBI review. The reference sequence was derived from AJ132756.
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..2343
+                     /organism="Ophiostoma mitovirus 6"
+                     /mol_type="genomic RNA"
+                     /db_xref="taxon:88389"
+     gene            1..2343
+                     /gene="pol6"
+                     /locus_tag="OnmV6gp1"
+                     /db_xref="GeneID:951747"
+     CDS             142..2229
+                     /gene="pol6"
+                     /locus_tag="OnmV6gp1"
+                     /codon_start=1
+                     /transl_table=4
+                     /product="RNA-dependent RNA polymerase, putative"
+                     /protein_id="NP_660181.1"
+                     /db_xref="GeneID:951747"
+                     /translation="MKLKQLKLMKNKTYQIIRILLIVFFPSIKRQTVILNIFMSKINK
+                     MIKNNGTLFTVKYLKELRLHITKYISGEPYRNSLNRVSVDKDGFPTLCKELKVLVNGT
+                     YLEKRFVLTIITLSKLLIPQKSESIPFSTKSITDHWSGIDNISNEELDKSCSELNIST
+                     REVQWDVKNFKLLTKAGPHGPQSLTWYHTIKLYDFNQWLGIIGILPKSVLDLFTETLS
+                     YASKLVLPEIKSNIKSTKLIRRLSIVHDPECKERVIAIFDYGSQMVLKPIADVLFDLL
+                     RNIPSDRTFTQSPFFTHTDLDNKSKFWSIDLSSATDRFPIVFQKRVLQKILGKQMTDS
+                     WERIMIGSKFLAPDGDTVSYNCGQPMGAQSSWPMFTLAHHVIVRVAANRCGLSNFDKY
+                     IILGDDIVINNDNVALKYMEIMNDFKVEISRNKTHVSNDTYEFAKRWIKNKMEFFPLP
+                     IRGIVDNINNKYIIFNILYSFFVEKGNTFLNKDTLLVCVSKFIQLHSLTLKKPIGLNK
+                     VKGILYPFNFMLRYRQNLCTNEEIRIFLGSSTCKRDDYMLPISAKDVSLELTRVISAA
+                     LVGMAYNAEKSLKNIYFDLDKLSPWIGDGFKTGKHPKVMIQSIYNSVKSLSDFGLKMA
+                     QNKLTLSAAMDSLLLVDLDSISSSERIKYIQMKQNICLSQKVRKELRFDPLQMEQKAR
+                     AMMLVKHMKDLEG"
+ORIGIN      
+        1 actatccctt ttacaaggga tagctgagtt ttggaaaact ctcatgtacg aatgtacatg
+       61 accgcaagaa aaagatagtc ctacattacg gagttcttta ccttttaatc ggcaactcac
+      121 gacagtgacg aatgtcaagt aatgaaactt aaacaattaa aattaatgaa aaataaaaca
+      181 tatcaaataa taagaatatt attgattgtc ttttttccat caattaaacg tcaaactgtt
+      241 attttaaaca tttttatgag taaaatcaat aaaatgatta aaaataatgg tactttattt
+      301 acagtgaagt atcttaagga attaagactc cacattacta agtatatttc gggagaacca
+      361 tatcggaact ctctaaatag agttagtgta gataaagatg gatttccaac attatgtaag
+      421 gaacttaaag ttttagttaa tggaacttat ctcgaaaaga gatttgttct aacaattatt
+      481 actctaagta aattactaat tcctcaaaaa tctgaatcta taccttttag tactaaatca
+      541 ataactgatc attgatctgg aattgataat atatctaatg aagaacttga taagtcatgt
+      601 tctgaattaa atataagtac tagagaagtt cagtgagatg ttaagaactt caagttatta
+      661 acaaaagctg gacctcatgg tcctcaatca ttaacttgat atcatacaat taaattatat
+      721 gatttcaatc aatgattagg gatcataggt atattgccca aatctgtact tgatttattt
+      781 actgaaactc tatcttacgc aagtaagtta gtgttaccag aaattaaatc taatattaaa
+      841 tcaactaagt taattagaag attaagtatt gtacatgatc cagaatgtaa agaaagagtt
+      901 attgccatat ttgattatgg atcacaaatg gtattaaaac caattgctga tgtattattc
+      961 gatttactaa gaaatattcc tagtgatcgg acatttacac aatcaccctt ctttacacat
+     1021 actgacttag ataacaaatc taagttttga tcaattgatc tgtcttctgc aactgataga
+     1081 tttcctatag tattccaaaa aagagtatta cagaaaatct taggtaaaca gatgacagat
+     1141 tcttgagaaa gaataatgat tggatctaaa ttcctagctc ctgatggtga tacagttagt
+     1201 tataactgtg gtcaaccaat gggagcacaa tcatcatgac caatgtttac tctagctcat
+     1261 cacgtaattg tgagagttgc agcaaataga tgtggtttat caaactttga taagtacatc
+     1321 atattaggag atgacattgt tattaataat gacaatgttg ctctaaaata tatggaaata
+     1381 atgaatgatt ttaaagttga aatatctaga aacaaaacac atgtatcaaa tgatacatat
+     1441 gaatttgcaa aaagatggat caaaaataaa atggaatttt ttccattgcc aataagagga
+     1501 atagttgata atataaataa taaatatatt atttttaata tcctctattc attctttgtt
+     1561 gagaaaggta ataccttcct taataaggat actcttcttg tttgtgtaag taaatttata
+     1621 caattgcatt ctttaactct taagaaacca attggtttaa ataaggttaa agggatttta
+     1681 tatccattta actttatgct tagatataga caaaatctat gtacaaatga agaaataaga
+     1741 atatttcttg gttcttctac ttgtaaaaga gatgactata tgttacctat aagtgctaaa
+     1801 gatgttagcc tagaattaac tagggtaatc tctgctgcac tagttggtat ggcttataat
+     1861 gctgaaaaat cacttaagaa catttacttt gatcttgata aattatcacc atggattggt
+     1921 gatggtttca agactggtaa acatcctaag gtgatgattc aatcaattta taatagtgtt
+     1981 aaatctttat ccgacttcgg attaaagatg gcacaaaata aattgacatt atcagcagca
+     2041 atggattcac tattactagt ggatttagat tccatttctt cttcagaacg tataaaatat
+     2101 atacaaatga agcagaacat atgcttaagc cagaaagttc gtaaagaact tcgttttgat
+     2161 ccattacaaa tggaacaaaa ggcaagagct atgatgttag tcaaacatat gaaagatcta
+     2221 gaaggttaaa atccaacgtt caattgctta aagcaatcaa accaatacat tgtattggcg
+     2281 gcattattac ttaataatgt cctattcaat gaataggagg ctatcccttg aaaaagggat
+     2341 agt
+//
+

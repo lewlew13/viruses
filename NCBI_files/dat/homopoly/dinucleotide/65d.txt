@@ -1,0 +1,13 @@
+NC_006294.1 Vibrio phage KSF-1phi, complete genome	1073	1078	ACACAC	+
+NC_006294.1 Vibrio phage KSF-1phi, complete genome	1088	1093	ACACAC	+
+NC_006294.1 Vibrio phage KSF-1phi, complete genome	4912	4917	ACACAC	+
+NC_006294.1 Vibrio phage KSF-1phi, complete genome	5893	5898	ACACAC	+
+NC_006294.1 Vibrio phage KSF-1phi, complete genome	1074	1079	CACACA	+
+NC_006294.1 Vibrio phage KSF-1phi, complete genome	6164	6169	CGCGCG	+
+NC_006294.1 Vibrio phage KSF-1phi, complete genome	3036	3041	CTCTCT	+
+NC_006294.1 Vibrio phage KSF-1phi, complete genome	5154	5159	GCGCGC	+
+NC_006294.1 Vibrio phage KSF-1phi, complete genome	5966	5971	GCGCGC	+
+NC_006294.1 Vibrio phage KSF-1phi, complete genome	6163	6170	GCGCGCGC	+
+NC_006294.1 Vibrio phage KSF-1phi, complete genome	884	889	TCTCTC	+
+NC_006294.1 Vibrio phage KSF-1phi, complete genome	5253	5258	TCTCTC	+
+NC_006294.1 Vibrio phage KSF-1phi, complete genome	6459	6464	TGTGTG	+

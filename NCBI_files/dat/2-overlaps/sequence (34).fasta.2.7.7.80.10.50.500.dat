@@ -1,0 +1,16 @@
+Tandem Repeats Finder Program written by:
+
+Gary Benson
+Program in Bioinformatics
+Boston University
+Version 4.09
+
+
+Sequence: NC_003381.1 Banana streak OL virus, complete genome
+
+
+
+Parameters: 2 7 7 80 10 50 500
+
+
+7323 7351 15 1.9 15 100 0 58 13 20 27 37 1.91 CACTTTGTGCGAGTT CACTTTGTGCGAGTTCACTTTGTGCGAGT

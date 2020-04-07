@@ -1,0 +1,15 @@
+NC_039190.1 Parrot bornavirus 5 strain 2014-A, partial genome	8973	1593	1598	ATATAT	+
+NC_039190.1 Parrot bornavirus 5 strain 2014-A, partial genome	8973	5973	5978	ATATAT	+
+NC_039190.1 Parrot bornavirus 5 strain 2014-A, partial genome	8973	6303	6308	ATATAT	+
+NC_039190.1 Parrot bornavirus 5 strain 2014-A, partial genome	8973	8900	8905	ATATAT	+
+NC_039190.1 Parrot bornavirus 5 strain 2014-A, partial genome	8973	8908	8913	ATATAT	+
+NC_039190.1 Parrot bornavirus 5 strain 2014-A, partial genome	8973	5186	5191	CTCTCT	+
+NC_039190.1 Parrot bornavirus 5 strain 2014-A, partial genome	8973	6192	6197	CTCTCT	+
+NC_039190.1 Parrot bornavirus 5 strain 2014-A, partial genome	8973	615	620	GAGAGA	+
+NC_039190.1 Parrot bornavirus 5 strain 2014-A, partial genome	8973	1143	1148	GAGAGA	+
+NC_039190.1 Parrot bornavirus 5 strain 2014-A, partial genome	8973	3047	3052	GAGAGA	+
+NC_039190.1 Parrot bornavirus 5 strain 2014-A, partial genome	8973	8400	8405	GTGTGT	+
+NC_039190.1 Parrot bornavirus 5 strain 2014-A, partial genome	8973	8499	8504	TATATA	+
+NC_039190.1 Parrot bornavirus 5 strain 2014-A, partial genome	8973	8899	8904	TATATA	+
+NC_039190.1 Parrot bornavirus 5 strain 2014-A, partial genome	8973	8907	8912	TATATA	+
+NC_039190.1 Parrot bornavirus 5 strain 2014-A, partial genome	8973	3656	3661	TCTCTC	+

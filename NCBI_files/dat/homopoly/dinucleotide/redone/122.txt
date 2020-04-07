@@ -1,0 +1,10 @@
+NC_007154.1 Fiji disease virus segment 2, complete genome	3820	929	934	ATATAT	+
+NC_007154.1 Fiji disease virus segment 2, complete genome	3820	941	946	ATATAT	+
+NC_007154.1 Fiji disease virus segment 2, complete genome	3820	981	986	ATATAT	+
+NC_007154.1 Fiji disease virus segment 2, complete genome	3820	1880	1885	ATATAT	+
+NC_007154.1 Fiji disease virus segment 2, complete genome	3820	1352	1357	CTCTCT	+
+NC_007154.1 Fiji disease virus segment 2, complete genome	3820	1739	1744	GAGAGA	+
+NC_007154.1 Fiji disease virus segment 2, complete genome	3820	906	911	TATATA	+
+NC_007154.1 Fiji disease virus segment 2, complete genome	3820	928	935	TATATATA	+
+NC_007154.1 Fiji disease virus segment 2, complete genome	3820	1353	1358	TCTCTC	+
+NC_007154.1 Fiji disease virus segment 2, complete genome	3820	579	584	TGTGTG	+

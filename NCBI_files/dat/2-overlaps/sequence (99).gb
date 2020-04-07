@@ -1,0 +1,114 @@
+LOCUS       NC_038837               2444 bp    RNA     linear   VRL 24-AUG-2018
+DEFINITION  Crimson clover cryptic virus 2 isolate IPP_IncarnatSK segment RNA
+            1, complete sequence.
+ACCESSION   NC_038837
+VERSION     NC_038837.1
+DBLINK      BioProject: PRJNA485481
+KEYWORDS    RefSeq.
+SOURCE      Crimson clover cryptic virus 2
+  ORGANISM  Crimson clover cryptic virus 2
+            Viruses; Riboviria; Partitiviridae; Betapartitivirus.
+REFERENCE   1  (bases 1 to 2444)
+  AUTHORS   Lesker,T., Rabenstein,F. and Maiss,E.
+  TITLE     Molecular characterization of five betacryptoviruses infecting four
+            clover species and dill
+  JOURNAL   Arch. Virol. 158 (9), 1943-1952 (2013)
+   PUBMED   23584419
+REFERENCE   2  (bases 1 to 2444)
+  CONSRTM   NCBI Genome Project
+  TITLE     Direct Submission
+  JOURNAL   Submitted (24-AUG-2018) National Center for Biotechnology
+            Information, NIH, Bethesda, MD 20894, USA
+REFERENCE   3  (bases 1 to 2444)
+  AUTHORS   Lesker,T. and Maiss,E.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (15-OCT-2012) Institute of Plant Diseases and Plant
+            Protection, Gottfried Wilhelm Leibniz University Hannover,
+            Herrenhaeuser Str. 2, Hannover 30149, Germany
+COMMENT     PROVISIONAL REFSEQ: This record has not yet been subject to final
+            NCBI review. The reference sequence is identical to JX971982.
+            GenBank Accession Numbers JX971982-JX971983 represent the complete
+            genome of Crimson clover cryptic virus 2 isolate IPP_IncarnatSK.
+            
+            ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..2444
+                     /organism="Crimson clover cryptic virus 2"
+                     /mol_type="genomic RNA"
+                     /isolate="IPP_IncarnatSK"
+                     /host="Trifolium incarnatum"
+                     /db_xref="taxon:1323528"
+                     /segment="RNA 1"
+                     /country="Germany"
+                     /collection_date="2011"
+     gene            109..2349
+                     /locus_tag="D1S83_s1gp1"
+                     /db_xref="GeneID:37619303"
+     CDS             109..2349
+                     /locus_tag="D1S83_s1gp1"
+                     /note="87.2 kDa"
+                     /codon_start=1
+                     /product="RNA-dependent RNA polymerase"
+                     /protein_id="YP_009508059.1"
+                     /db_xref="GeneID:37619303"
+                     /translation="MPFNAVRNYLNERMTRLKQEWKTYQSTDHDPIKILDTIQDPDYR
+                     RYLDNARFNSDNEMKHLMLNKEYSTLVEAYRTDNAKKHQVYELHQPIPNDAAPVIQSR
+                     LPAKGIKLVPLMYHYGHVTHDPVSLTDANRSDDFETQVVPDSDAPTRFGYPIDVRIYN
+                     LICYRYSKYLEVINAYCRPIGTVNATFEDFNKEQIPSAPIDPKRKENVLSHIHKFLDT
+                     KPYLPLHFVDTQFCKTPLVTGTGYHNRYSFKQKAHAKYSHPAEYATKPISKGYFYNAT
+                     YENARTIIHFIKEYGLPFNVIRADDKSELTDSDVQKYINEANSFFNDYPTLLFTRNHI
+                     SKRDGPLKVRPVYAVDDIFIIMELMLTFPLTIQARKPSCCIMYGLETIRGSNRYIEQI
+                     ARDYSTFFSLDWSSYDQRLPRVITDIYYTDFLRSLLVINNGYQPTYEYPTYPDLDEHK
+                     LYHRMDNLLHFLHLWYNNMTFLLPDGYAYRRTSCGVPSGLYNTQYLDSFGNLFLIIDA
+                     MLEFGFTDSEIQKFILLVLGDDNTGMTTIPICRMFNFITFLEKYALERYNMVLSTTKS
+                     VLTTFRSKIESLGYQCNHGSPKRDIDKLVAQLCYPENGLKPHTMAARAIGIAYASAGQ
+                     DDMFHSFCQDVYNIFRSDYRPDDRMNLHFKRQIFHNLEDGMPDLAPPIVPPFPSLYEI
+                     REMYAYYKGPLDFAPKWNYAHFMSDPDTTPPYSKTMRDYEAENNISSRVAPTFETVVP
+                     STINLP"
+ORIGIN      
+        1 agatttattt aaagccgccc cgtgctctga atattaagaa ttcacattcg tctaacctct
+       61 aaatctgaaa attactctca actaattttc acattctaac gtctcacaat gccgttcaac
+      121 gcagttcgca attacctcaa tgagcgaatg actcgcttga aacaagaatg gaagacttac
+      181 cagtctaccg accatgaccc aatcaagata cttgatacaa ttcaagatcc tgactatcgc
+      241 cgctacctag ataatgctcg ctttaatagc gataatgaaa tgaaacacct tatgctaaat
+      301 aaggaatatt caactctagt tgaagcttac cgcactgaca atgccaagaa acaccaagtt
+      361 tatgaactac accagccaat ccccaatgat gctgcacctg ttattcaatc ccgcttgcct
+      421 gctaaaggta taaagttagt cccactcatg taccattatg gacatgttac tcatgaccct
+      481 gtttctctca ccgatgcaaa tcgttctgat gatttcgaaa ctcaagttgt tccagactcc
+      541 gatgctccta ctcgctttgg atatcctata gatgttcgca tctataatct tatctgttat
+      601 agatactcca agtatctaga agtgattaat gcatactgtc gccctattgg aacagttaac
+      661 gctacctttg aagattttaa caaagaacag atcccatctg ctcctattga tcctaaaaga
+      721 aaggaaaatg tgctctccca catacacaag ttccttgata ccaagcctta tctgccactc
+      781 catttcgtag acactcagtt ctgcaagact cctcttgtta ctggaaccgg ctaccacaat
+      841 cgttactctt ttaagcaaaa ggctcatgct aaatactctc atcccgctga gtatgctacc
+      901 aagcctattt ctaaaggcta tttttataat gccacttatg agaacgctcg taccatcatt
+      961 cattttatta aagaatatgg attacctttt aacgtaatca gagctgacga taaatctgaa
+     1021 ctcactgata gtgatgtcca gaaatatatt aatgaagcaa acagcttctt taatgactat
+     1081 ccgacgttac tgttcactcg caaccacatt tcaaagagag atggaccttt aaaagtccgc
+     1141 cccgtttatg ctgttgatga tatctttatc atcatggaat taatgttgac atttcctttg
+     1201 actatacagg ctcgaaagcc ttcctgttgc attatgtatg gactagaaac cattcgtggt
+     1261 tctaaccgtt acattgaaca aatagctcgt gactattcga ccttcttttc tttagattgg
+     1321 tccagttatg accagcgctt accccgtgtt ataactgata tttattacac tgatttcctt
+     1381 cgaagtctac ttgtaatcaa taatggatac cagccgacct atgaataccc cacctacccc
+     1441 gaccttgatg aacacaagct ctaccataga atggataacc tcctccattt tctacattta
+     1501 tggtacaata acatgacctt cctccttcct gatggttatg cttaccgccg aacctcctgc
+     1561 ggtgtacctt ctggcttgta caacactcaa taccttgact catttggcaa tctatttttg
+     1621 attatagacg ccatgcttga atttggtttt accgattctg agattcaaaa gtttatcctc
+     1681 cttgttttag gagatgataa tactggtatg acgacaatcc ccatttgtcg aatgtttaac
+     1741 ttcatcacct ttcttgaaaa atatgcactc gaacgctaca atatggtcct ttcaacgacc
+     1801 aaatccgttc ttacaacttt ccgttctaaa atcgagtccc ttggatacca atgtaaccat
+     1861 ggctcgccga aacgtgatat tgacaagctt gttgcccaac tctgttatcc agagaatggt
+     1921 ttaaagccac acactatggc tgccagagca ataggcatcg catacgcctc cgccggccaa
+     1981 gatgatatgt ttcactcctt ttgccaggat gtatataaca tatttaggtc tgattatcgc
+     2041 cctgatgacc gcatgaatct acatttcaaa agacagattt ttcacaatct tgaagatgga
+     2101 atgcctgacc ttgcgccacc aattgtgcct ccttttcctt cactctatga aattcgagag
+     2161 atgtacgcct actacaaagg ccctcttgac tttgctccta aatggaacta tgcccatttc
+     2221 atgtctgatc cggataccac cccaccttac tcgaaaacta tgcgtgacta cgaagctgaa
+     2281 aataatattt caagccgtgt cgctcctact tttgaaacgg tcgtgcccag cacaataaat
+     2341 ttgccgtgat gattttgtgc ttgtaatata gcataaagta ctttacttgc taatttttaa
+     2401 attaaaaaaa aaaaaaaaaa cactaaaaaa tcaaaaaaat accc
+//
+

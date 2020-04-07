@@ -1,0 +1,5 @@
+GOA	RepOver	RepCov	Gene	Locus	GeneLen	Product
+NA	0	0	MET/HEL	GLRaV1_gp01	6615	methyl transferase/helicase
+NA	0	0	POL	GLRaV1_gp02	1554	RNA dependent RNA polymerase
+NA	0	0	NA	GLRaV1_gp03	180	p7
+NA	0	0	HSP70	GLRaV1_gp04	1632	hsp70-like protein

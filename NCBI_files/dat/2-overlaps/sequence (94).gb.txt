@@ -1,0 +1,5 @@
+GOA	RepOver	RepCov	Gene	Locus	GeneLen	Product
+NA	0	0	NA	BVJ75_gp1	1821	putative nucleoprotein
+NA	0	0	NA	BVJ75_gp2	477	hypothetical protein 1
+NA	0	0	NA	BVJ75_gp3	387	hypothetical protein 2
+NA	0	0	NA	BVJ75_gp4	5763	RNA-dependent RNA polymerase

@@ -1,0 +1,39 @@
+GOA	RepOver	RepCov	Gene	Locus	GeneLen	Product
+NA	0	0	NA	FGG62_gp01	333	hypothetical protein
+NA	0	0	NA	FGG62_gp02	309	hypothetical protein
+NA	0	0	NA	FGG62_gp03	480	SAM-dependent methyltransferase
+NA	0	0	NA	FGG62_gp04	336	hypothetical protein
+NA	0	0	NA	FGG62_gp05	237	hypothetical protein
+NA	0	0	NA	FGG62_gp06	210	hypothetical protein
+NA	0	0	NA	FGG62_gp07	306	hypothetical protein
+NA	0	0	NA	FGG62_gp08	396	hypothetical protein
+NA	0	0	NA	FGG62_gp09	267	hypothetical protein
+NA	0	0	NA	FGG62_gp10	312	hypothetical protein
+NA	0	0	NA	FGG62_gp11	189	hypothetical protein
+NA	0	0	NA	FGG62_gp12	177	hypothetical protein
+NA	0	0	NA	FGG62_gp13	462	hypothetical protein
+NA	0	0	NA	FGG62_gp14	390	3 transmembrane domain protein
+NA	0	0	NA	FGG62_gp15	324	VP4
+NA	0	0	NA	FGG62_gp16	1146	signal peptide protein
+NA	0	0	NA	FGG62_gp17	237	2 transmembrane domain protein
+NA	0	0	NA	FGG62_gp18	423	hypothetical protein
+NA	0	0	NA	FGG62_gp19	159	hypothetical protein
+NA	0	0	NA	FGG62_gp20	1383	VP1,2 transmembrane domain protein
+NA	0	0	NA	FGG62_gp21	2040	VP3
+NA	0	0	NA	FGG62_gp22	174	hypothetical protein
+NA	0	0	NA	FGG62_gp23	846	GTB-type glycosyltransferase
+NA	0	0	NA	FGG62_gp24	237	hypothetical protein
+NA	0	0	NA	FGG62_gp25	207	transmembrane domain protein
+NA	0	0	NA	FGG62_gp26	255	transmembrane domain protein
+NA	0	0	NA	FGG62_gp27	258	hypothetical protein
+NA	0	0	NA	FGG62_gp28	318	hypothetical protein
+NA	0	0	NA	FGG62_gp29	2445	VP2 transmembrane domain protein
+NA	0	0	NA	FGG62_gp30	1926	3 transmembrane domain protein
+NA	0	0	NA	FGG62_gp31	198	hypothetical protein
+NA	0	0	NA	FGG62_gp32	315	hypothetical protein
+NA	0	0	NA	FGG62_gp33	363	Zn_C2H2-containing protein
+NA	0	0	NA	FGG62_gp34	303	hypothetical protein
+NA	0	0	NA	FGG62_gp35	357	hypothetical protein
+NA	0	0	NA	FGG62_gp36	1998	type B DNA polymerase
+NA	0	0	NA	FGG62_gp37	330	hypothetical protein
+NA	0	0	NA	FGG62_gp38	219	hypothetical protein

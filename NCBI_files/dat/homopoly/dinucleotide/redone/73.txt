@@ -1,0 +1,15 @@
+NC_002766.1 Beet chlorosis virus, complete genome	5776	98	103	AGAGAG	+
+NC_002766.1 Beet chlorosis virus, complete genome	5776	749	754	AGAGAG	+
+NC_002766.1 Beet chlorosis virus, complete genome	5776	762	767	AGAGAG	+
+NC_002766.1 Beet chlorosis virus, complete genome	5776	2983	2988	AGAGAG	+
+NC_002766.1 Beet chlorosis virus, complete genome	5776	4931	4936	AGAGAG	+
+NC_002766.1 Beet chlorosis virus, complete genome	5776	5081	5086	AGAGAG	+
+NC_002766.1 Beet chlorosis virus, complete genome	5776	1964	1969	CACACA	+
+NC_002766.1 Beet chlorosis virus, complete genome	5776	2898	2903	CACACA	+
+NC_002766.1 Beet chlorosis virus, complete genome	5776	5556	5561	CACACA	+
+NC_002766.1 Beet chlorosis virus, complete genome	5776	2246	2251	CGCGCG	+
+NC_002766.1 Beet chlorosis virus, complete genome	5776	1019	1024	CTCTCT	+
+NC_002766.1 Beet chlorosis virus, complete genome	5776	99	104	GAGAGA	+
+NC_002766.1 Beet chlorosis virus, complete genome	5776	763	768	GAGAGA	+
+NC_002766.1 Beet chlorosis virus, complete genome	5776	5082	5087	GAGAGA	+
+NC_002766.1 Beet chlorosis virus, complete genome	5776	2245	2252	GCGCGCGC	+

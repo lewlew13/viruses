@@ -1,0 +1,141 @@
+LOCUS       NC_002690               3204 bp    RNA     linear   VRL 04-JUN-2019
+DEFINITION  Nodamura virus RNA1 segment, complete sequence.
+ACCESSION   NC_002690
+VERSION     NC_002690.1
+DBLINK      BioProject: PRJNA485481
+KEYWORDS    RefSeq.
+SOURCE      Nodamura virus
+  ORGANISM  Nodamura virus
+            Viruses; Riboviria; Nodaviridae; Alphanodavirus.
+REFERENCE   1  (bases 1 to 3204)
+  AUTHORS   Johnson,K.L., Price,B.D. and Ball,L.A.
+  TITLE     Recovery of infectivity from cDNA clones of nodamura virus and
+            identification of small nonstructural proteins
+  JOURNAL   Virology 305 (2), 436-451 (2003)
+   PUBMED   12573589
+REFERENCE   2  (bases 1 to 3204)
+  AUTHORS   Johnson,K.L. and Ball,L.A.
+  TITLE     Complete genome sequence of Nodamura virus derived from functional
+            cDNA clones
+  JOURNAL   Unpublished
+REFERENCE   3  (bases 1 to 3204)
+  CONSRTM   NCBI Genome Project
+  TITLE     Direct Submission
+  JOURNAL   Submitted (04-JUN-2019) National Center for Biotechnology
+            Information, NIH, Bethesda, MD 20894, USA
+REFERENCE   4  (bases 1 to 3204)
+  AUTHORS   Johnson,K.L. and Ball,L.A.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (02-AUG-1999) Microbiology, University of Alabama at
+            Birmingham, 845 19th Street South, Birmingham, AL 35294-2170, USA
+COMMENT     PROVISIONAL REFSEQ: This record has not yet been subject to final
+            NCBI review. The reference sequence is identical to AF174533.
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..3204
+                     /organism="Nodamura virus"
+                     /mol_type="genomic RNA"
+                     /db_xref="taxon:12288"
+                     /segment="RNA 1"
+     gene            22..3153
+                     /locus_tag="NoVsRNA1gp1"
+                     /db_xref="GeneID:962117"
+     CDS             22..3153
+                     /locus_tag="NoVsRNA1gp1"
+                     /codon_start=1
+                     /product="RNA dependent RNA polymerase protein A"
+                     /protein_id="NP_077730.1"
+                     /db_xref="GeneID:962117"
+                     /translation="MLNYETIINGASSALNIVSRALGYRVPLAKSLALVAGSCVVYKI
+                     IVHRRTLVAFLVIGPYATVVQHRLPMALQRAIIEYTREDREISLFPQNSIVSAEHARK
+                     ADNGHPISGGTRDVARETISLAIRAAGFRHYEISPARQSPAEAASHQHYAAADLVRAA
+                     TEDKIQDGDVVVAIDIDYYLRDIDRYLGRGVPFMAYTFNPVEVAGRDGDSFFRITNNQ
+                     VTFDVSGGGSWSHEVWDWCAFGEFIETRDASWLAWFARAVGLTKSQIHKVHYCRPWPQ
+                     SPHRALVWCLPVASYWRFTFIPTDLHTRTLRRVRYQDTSRPGWNSIVSTGSEGLNISL
+                     GREGADHCVTIPKVHYDMLMGLSSAQSLSSRMIGLKYTDPSVLATVAQYYQGKNVEVA
+                     DADRIGRAINPKVHWPAHVEVDEAEVSARVYASPLVSDENMMPMIKRWETLSLSLDRR
+                     VTFQRNPKVPGKRLRAYAIEFVDLVVPERGVGVPYSLEDTAAMLDKPSQTLAIQQVWE
+                     TVDMPPRRLIEAFVKNEPTMKAGRIISSFADMRFLLRFSSYTLAFRDQVLHAEHNRHW
+                     FCPGLTPEQIATKVVDYVSGVEEPSEGDFSNFDGTVSEWLQRHVMNAVYLRYFNHRAQ
+                     RDLRSYTDMLVSCPARAKRFGFAYDAGVGVKSGSPTTCDLNTVCNGFLQYCSIRMTHP
+                     ELTPIDAFRLIGLAFGDDSLFERRFAKNYAKVSAEVGMVLKIERFDPAQGITFLARVY
+                     PDPYTSTTSFQDPLRTWRKLHLTTRDPTIPLATAAIDRVEGYLVTDGLSPLTGAYCRM
+                     VKRVYEAGGAEDAAKRRSRKSHSREKPYWLTVGGAWPQDVKDVDLMFQCAAARTGVDL
+                     ETLRSLDQRLGEITDVWADITINRDNEPNPYKDTLDLEGPADGRVDDRVFQNDKHVMR
+                     LRANQVTSSQAGAAGSGDASNDPNAHDRGSQRQQGSASVLRVPDRAAPAGVSSDEQPA
+                     HQTASRSSASRGGAGPGRGGRRRPGPPAKTTAGGARDGNQARAPTSGPSKRQAEGRSR
+                     SSRGPAGSRGRGK"
+     gene            2744..3157
+                     /locus_tag="NoVsRNA1gp2"
+                     /db_xref="GeneID:962118"
+     CDS             2744..3157
+                     /locus_tag="NoVsRNA1gp2"
+                     /inference="non-experimental evidence, no additional
+                     details recorded"
+                     /codon_start=1
+                     /product="protein B2"
+                     /protein_id="NP_077731.1"
+                     /db_xref="GeneID:962118"
+                     /translation="MTNMSCAYELIKSLPAKLEQLAQETQATIQTLMIADPNVNKDLR
+                     AFCEFLTVQHQRAYRATNSLLIKPRVAAALRGEELDLGEADVAARVRQLKQQLAELEM
+                     EIKPGHQQVAQVSGRRKAAAAAPVAQLGRVGVVNE"
+     misc_feature    2753
+                     /locus_tag="NoVsRNA1gp2"
+                     /note="alternate site of translation initiation"
+ORIGIN      
+        1 gtattgaatc caaaactcaa aatgctgaac tacgagacaa tcatcaacgg cgcatcgagc
+       61 gctctgaaca tcgtttcgcg tgcgttagga taccgcgtgc cactagccaa atcgctggcg
+      121 ctggtcgcgg ggtcctgcgt ggtgtacaaa ataatcgtgc atcgacgcac gctcgtggcg
+      181 ttcctggtaa tcggaccata cgccacggtg gtgcagcacc gtctgccgat ggcccttcag
+      241 agggccatca ttgaatatac acgagaagac cgtgagatca gcctgtttcc gcaaaattcc
+      301 atcgtttccg cagaacacgc gcggaaagcg gataatgggc atccgatctc cgggggaacg
+      361 cgtgatgtcg cgagggagac tatttccctt gccataaggg ccgctggttt tcgtcattac
+      421 gaaatcagcc ccgcgaggca atcaccagct gaggcggcaa gccaccaaca ttatgccgcc
+      481 gctgacctcg tgagagcggc tactgaagat aagatccaag acggtgatgt ggtagttgcc
+      541 atcgacatcg attactacct gcgtgacatt gaccgctacc tgggtcgtgg tgtcccgttc
+      601 atggcttaca ccttcaatcc tgttgaagta gctggccgtg acggtgactc ctttttccgg
+      661 atcacgaaca atcaagtcac gtttgatgtt agtggcggtg gatcttggtc ccatgaagtt
+      721 tgggactggt gcgcgtttgg tgagttcatc gagacccgag acgcgagctg gcttgcttgg
+      781 ttcgcccggg cggttggact caccaagtcg cagatccaca aagttcacta ctgccgtcca
+      841 tggccgcaat cgccccatcg cgctttggtg tggtgtctgc ctgtagcaag ctactggcgc
+      901 ttcactttca ttccgacgga cctgcatacg cgcacgcttc ggcgtgtgcg ttatcaggac
+      961 acgtcccggc ccggttggaa ttccatcgtc tcgaccgggt ccgaaggcct taatatcagc
+     1021 cttggtcgcg aaggagctga tcattgcgtg acgattccaa aggtgcacta cgacatgctt
+     1081 atgggtttgt cgagtgcgca gtcgttgtcg tcccgcatga tcgggctcaa gtacactgat
+     1141 cctagtgtac tcgcgacggt tgcccaatac tatcagggca agaatgttga agttgccgac
+     1201 gctgacagga tcggccgcgc cataaatccc aaggtccact ggccagcgca cgtcgaagtt
+     1261 gacgaggcgg aggttagtgc tcgggtgtac gccagcccgt tggtatctga cgaaaatatg
+     1321 atgcctatga tcaagcgctg ggagacgctg tcgttgtcgc tggaccgccg ggttacattc
+     1381 caacgtaatc cgaaggttcc tggaaaacgg ctcagggctt atgccattga gttcgttgac
+     1441 ttggttgtgc ctgagcgtgg tgtcggagtc ccctattcat tggaggacac cgccgccatg
+     1501 ctggacaaac caagccagac cctcgccatc caacaggtgt gggagactgt cgacatgccc
+     1561 ccaagaaggc tcatcgaagc gttcgtgaag aacgaaccga ccatgaaggc tggccgtatc
+     1621 atctcgtcgt tcgctgacat gcggttccta ctgcggtttt ccagctatac gctggcattc
+     1681 cgtgatcagg tgctgcatgc agagcacaac cggcattggt tttgcccggg tttgaccccc
+     1741 gagcagatcg ccacaaaagt ggttgattac gtgtccggtg ttgaagaacc atcggaggga
+     1801 gacttttcca actttgatgg cacggttagt gagtggctac aacgccacgt catgaacgcc
+     1861 gtctacctgc gttatttcaa tcaccgagcg cagcgagacc tcaggtcgta taccgacatg
+     1921 ctggtctcat gccccgcgag ggcgaagcga ttcggttttg cttatgacgc gggtgtcggc
+     1981 gttaagagcg ggtcgccaac aacttgcgac ctgaataccg tgtgcaatgg tttcctccaa
+     2041 tattgctcca ttcgaatgac acacccagag ctgacaccaa tcgatgcttt ccggctcatc
+     2101 ggtctcgcgt ttggggacga ttccctcttc gagcgacgtt tcgctaagaa ctatgcgaag
+     2161 gtttccgccg aggtggggat ggtcctcaaa atcgagcgat tcgacccggc acaaggcatc
+     2221 actttcctcg cccgtgttta tcccgacccc tacacgtcga ccacaagttt ccaggaccct
+     2281 ttgcgtacct ggaggaagct ccacttgacg acgcgcgatc caacaatacc attggcaacg
+     2341 gctgccatcg atcgcgttga gggctacctc gtcaccgacg gcctgagccc gcttactggc
+     2401 gcgtattgtc gcatggttaa gcgggtttac gaggccggcg gagccgagga tgccgccaag
+     2461 aggaggtcgc gaaaatccca ttcccgcgaa aagccgtatt ggttgactgt tggaggcgct
+     2521 tggccccaag atgtcaagga cgttgatctt atgttccagt gtgcggccgc acgtaccgga
+     2581 gtagacctcg agacacttcg gtctctggat cagcgtctag gagaaatcac tgacgtctgg
+     2641 gcggatatta ccatcaaccg ggataatgaa ccaaacccct acaaggatac actggacttg
+     2701 gagggcccgg ctgatggccg ggtggacgat cgtgtatttc agaatgacaa acatgtcatg
+     2761 cgcttacgag ctaatcaagt cacttccagc caagctggag cagctggctc aggagacgca
+     2821 agcaacgatc caaacgctca tgatcgcgga tcccaacgtc aacaaggatc tgcgagcgtt
+     2881 ctgcgagttc ctgaccgtgc agcaccagcg ggcgtatcga gcgacgaaca gcctgctcat
+     2941 caaaccgcga gtcgcagcag cgcttcgcgg ggaggagctg gacctgggcg aggcggacgt
+     3001 cgccgcccgg gtccgccagc taaaacaaca gctggcggag ctcgagatgg aaatcaagcc
+     3061 agggcaccaa caagtggccc aagtaagcgg caggcggaag gccgcagccg cagctcccgt
+     3121 ggcccagctg ggtcgcgtgg gcgtggtaaa tgagtgattc atcgtcccat ctgacgaaac
+     3181 ccgaactagg cttatgccag tggt
+//
+

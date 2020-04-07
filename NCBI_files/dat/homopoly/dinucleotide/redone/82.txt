@@ -1,0 +1,8 @@
+NC_002643.1 Bdellovibrio phage phiMH2K, complete genome	4594	1469	1474	ACACAC	+
+NC_002643.1 Bdellovibrio phage phiMH2K, complete genome	4594	2471	2476	ACACAC	+
+NC_002643.1 Bdellovibrio phage phiMH2K, complete genome	4594	3097	3102	ACACAC	+
+NC_002643.1 Bdellovibrio phage phiMH2K, complete genome	4594	3237	3242	ACACAC	+
+NC_002643.1 Bdellovibrio phage phiMH2K, complete genome	4594	55	60	CACACA	+
+NC_002643.1 Bdellovibrio phage phiMH2K, complete genome	4594	2583	2588	CACACA	+
+NC_002643.1 Bdellovibrio phage phiMH2K, complete genome	4594	4096	4101	TATATA	+
+NC_002643.1 Bdellovibrio phage phiMH2K, complete genome	4594	1486	1491	TCTCTC	+

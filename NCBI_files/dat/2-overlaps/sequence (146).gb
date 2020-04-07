@@ -1,0 +1,259 @@
+LOCUS       NC_001873               6311 bp ss-RNA     linear   VRL 13-AUG-2018
+DEFINITION  Turnip vein-clearing virus, complete genome.
+ACCESSION   NC_001873 NC_008295
+VERSION     NC_001873.1
+DBLINK      BioProject: PRJNA485481
+KEYWORDS    RefSeq.
+SOURCE      Turnip vein-clearing virus
+  ORGANISM  Turnip vein-clearing virus
+            Viruses; Riboviria; Virgaviridae; Tobamovirus.
+REFERENCE   1  (bases 1 to 67; 3392 to 6311)
+  AUTHORS   Lartey,R.T., Voss,T.C. and Melcher,U.
+  TITLE     Completion of a cDNA sequence from a tobamovirus pathogenic to
+            crucifers
+  JOURNAL   Gene 166 (2), 331-332 (1995)
+   PUBMED   8543186
+  REMARK    Erratum:[Gene 1997 Apr 1;188(2):295]
+REFERENCE   2  (bases 68 to 3391)
+  AUTHORS   Lartey,R.T., Lane,L.C. and Melcher,U.
+  TITLE     Electron microscopic and molecular characterization of turnip
+            vein-clearing virus
+  JOURNAL   Arch. Virol. 138 (3-4), 287-298 (1994)
+   PUBMED   7998835
+REFERENCE   3  (bases 1 to 6311)
+  CONSRTM   NCBI Genome Project
+  TITLE     Direct Submission
+  JOURNAL   Submitted (01-AUG-2000) National Center for Biotechnology
+            Information, NIH, Bethesda, MD 20894, USA
+REFERENCE   4  (bases 1 to 6311)
+  AUTHORS   Melcher,U.K.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (18-FEB-1998) Biochemistry & Molecular Biology, Oklahoma
+            State University, NRC 246, Stillwater, OK 74078-0454, USA
+  REMARK    Sequence update by submitter
+REFERENCE   5  (bases 1 to 6311)
+  AUTHORS   Melcher,U.K.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (09-NOV-1993) Biochemistry & Molecular Biology, Oklahoma
+            State University, NRC 246, Stillwater, OK 74078-0454, USA
+COMMENT     VALIDATED REFSEQ: This record has undergone validation or
+            preliminary review. The reference sequence is identical to U03387.
+            On Apr 6, 2012 this sequence version replaced NC_008295.1.
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..6311
+                     /organism="Turnip vein-clearing virus"
+                     /mol_type="genomic RNA"
+                     /strain="OSU"
+                     /host="Brassica rapa"
+                     /db_xref="taxon:29272"
+                     /lab_host="Nicotiana tabacum"
+                     /note="possibly an isolate of ribgrass mosaic virus"
+     gene            68..4873
+                     /locus_tag="TVCVgp1"
+                     /db_xref="GeneID:1494923"
+     CDS             68..4873
+                     /locus_tag="TVCVgp1"
+                     /note="contains RNA polymerase; stop codon at 3389..3391
+                     is suppressed under certain conditions and expressed as
+                     tyrosine"
+                     /codon_start=1
+                     /transl_except=(pos:3389..3391,aa:Tyr)
+                     /product="RNA replicase read-through component"
+                     /protein_id="NP_046151.1"
+                     /db_xref="GeneID:1494923"
+                     /translation="MAQFQQTIDMQTLQAAAGRNSLVNDLASRRVYDNAVEELNARSR
+                     RPKVHFSKAVSTEQTLIATNAYPEFEISFTHTQSAVHSLAGGLRSLELEYLMMQVPFG
+                     SLTYDIGGNFSAHLFKGRDYVHCCMPNLDVRDIARHEGHKEAIYSYVNRLKRQQRPVP
+                     EYQRAAFNNYAENPHFVHCDKPFQQCELTTAYGTDTYAVALHSIYDIPVEEFGSALLR
+                     KNVKTCFAAFHFHENMLLDCDTVTLDEIGATFQKSGDNLSFFFHNESTLNYTHSFSNI
+                     IKYVCKTFFPASQRFVYHKEFLVTRVNTWYCKFTRVDTFTLFRGVYHNNVDCEEFYKA
+                     MDDAWHYKKTLAMLNAERTIFKDNAALNFWFPKVRDMVIVPLFDASITTGRMSRREIM
+                     VNKDFVYTVLNHIKTYQAKALTYANVLSFVESIRSRVIINGVTARSEWDTDKAILGPL
+                     AMTFFLITKLGHVQDEIILKKFQKFDRTTNELIWTSLCDALMGVIPSVKETLVRGGFV
+                     KVAEQALEIKVPELYCTFADRLVLQYKKAEEFQSCDLSKPLEESEKYYNALSELSVLE
+                     NLDSFDLEAFKTLCQQKNVDPDMAAKVVVAIMKSELTLPFKKPTEEEISESLKPGEGS
+                     CAEHKEVLSLQNDAPFPCVKNLVEGSVPAYGMCPKGGGFDKLDVDIADFHLKSVDAVK
+                     KGTMMSAVYTGSIKVQQMKNYIDYLSASLAATVSNLCKVLRDVHGVDPESQEKSGVWD
+                     VRRGRWLLKPNAKSHAWGVAEDANHKLVIVLLNWDDGKPVCDETWFRVAVSSDSLIYS
+                     DMGKLKTLTSCSPNGEPPEPNAKVILVDGVPGCGKTKEIIEKVNFSEDLILVPGKEAS
+                     KMIIRRANQAGVIRADKDNVRTVDSFLMHPSRRVFKRLFIDEGLMLHTGCVNFLLLLS
+                     QCDVAYVYGDTKQIPFICRVANFPYPAHFAKLVADEKEVRRVTLRCPADVTYFLNKKY
+                     DGAVMCTSAVERSVKAEVVRGKGALNPITLPLEGKILTFTQADKFELLEKGYKDVNTV
+                     HEVQGETYEKTAIVRLTSTPLEIISSASPHVLVALTRHTTCCKYYTVVLDPMVNVISE
+                     MEKLSNFLLDMYRVEAGVQYQLQIDAVFRDSNLFVQTPKSGDWRDMQFYYDALLPGNS
+                     TILNEFDAVTMNLRDISLNVKDCRIDFSKSVQLPKEQPIFLKPKIRTAAEMPRTAGLL
+                     ENLVAMIKRNMNAPDLTGTIDIEDTASLVVEKFWDSYVDKEFSGTNEMTMTRESFSRW
+                     LSKQESSTVGQLADFNFVDLPAVDEYKHMIKSQPKQKLDLSIQDEYPALQTIVYHSKK
+                     INAIFGPMFSELTRMLLERIDSSKFLFYTRKTPAQIEDFFSDLDSTQAMEILELDISK
+                     YDKSQNEFHCAVEYKIWEKLGIDEWLAEVWKQGHRKTTLKDYTAGVKTCLWYQRKSGD
+                     VTTFIGNTIIIAACLSSMIPMDKVIKAAFCGDDSLIYIPKGLDLPDIQAGANLMWNFE
+                     AKLFRKKYGYFCGRYVIHHDRGAIVYYDPLKLISKLGCKHIRDVVHLEELRESLCDVA
+                     SNLNNCAYFSQLDEAVAEVHKTAVGGSFAFCSIIKYLSDKRLFRDLFFV"
+     gene            68..3391
+                     /locus_tag="TVCVgp2"
+                     /db_xref="GeneID:1494926"
+     CDS             68..3391
+                     /locus_tag="TVCVgp2"
+                     /note="contains capping methyltransferase and RNA helicase
+                     domains"
+                     /codon_start=1
+                     /product="RNA replicase component"
+                     /protein_id="NP_046152.1"
+                     /db_xref="GeneID:1494926"
+                     /translation="MAQFQQTIDMQTLQAAAGRNSLVNDLASRRVYDNAVEELNARSR
+                     RPKVHFSKAVSTEQTLIATNAYPEFEISFTHTQSAVHSLAGGLRSLELEYLMMQVPFG
+                     SLTYDIGGNFSAHLFKGRDYVHCCMPNLDVRDIARHEGHKEAIYSYVNRLKRQQRPVP
+                     EYQRAAFNNYAENPHFVHCDKPFQQCELTTAYGTDTYAVALHSIYDIPVEEFGSALLR
+                     KNVKTCFAAFHFHENMLLDCDTVTLDEIGATFQKSGDNLSFFFHNESTLNYTHSFSNI
+                     IKYVCKTFFPASQRFVYHKEFLVTRVNTWYCKFTRVDTFTLFRGVYHNNVDCEEFYKA
+                     MDDAWHYKKTLAMLNAERTIFKDNAALNFWFPKVRDMVIVPLFDASITTGRMSRREIM
+                     VNKDFVYTVLNHIKTYQAKALTYANVLSFVESIRSRVIINGVTARSEWDTDKAILGPL
+                     AMTFFLITKLGHVQDEIILKKFQKFDRTTNELIWTSLCDALMGVIPSVKETLVRGGFV
+                     KVAEQALEIKVPELYCTFADRLVLQYKKAEEFQSCDLSKPLEESEKYYNALSELSVLE
+                     NLDSFDLEAFKTLCQQKNVDPDMAAKVVVAIMKSELTLPFKKPTEEEISESLKPGEGS
+                     CAEHKEVLSLQNDAPFPCVKNLVEGSVPAYGMCPKGGGFDKLDVDIADFHLKSVDAVK
+                     KGTMMSAVYTGSIKVQQMKNYIDYLSASLAATVSNLCKVLRDVHGVDPESQEKSGVWD
+                     VRRGRWLLKPNAKSHAWGVAEDANHKLVIVLLNWDDGKPVCDETWFRVAVSSDSLIYS
+                     DMGKLKTLTSCSPNGEPPEPNAKVILVDGVPGCGKTKEIIEKVNFSEDLILVPGKEAS
+                     KMIIRRANQAGVIRADKDNVRTVDSFLMHPSRRVFKRLFIDEGLMLHTGCVNFLLLLS
+                     QCDVAYVYGDTKQIPFICRVANFPYPAHFAKLVADEKEVRRVTLRCPADVTYFLNKKY
+                     DGAVMCTSAVERSVKAEVVRGKGALNPITLPLEGKILTFTQADKFELLEKGYKDVNTV
+                     HEVQGETYEKTAIVRLTSTPLEIISSASPHVLVALTRHTTCCKYYTVVLDPMVNVISE
+                     MEKLSNFLLDMYRVEAGVQ"
+     gene            4876..5679
+                     /locus_tag="TVCVgp3"
+                     /db_xref="GeneID:1494924"
+     CDS             4876..5679
+                     /locus_tag="TVCVgp3"
+                     /function="intercellular transport of infection"
+                     /codon_start=1
+                     /product="movement protein"
+                     /protein_id="NP_046153.1"
+                     /db_xref="GeneID:1494924"
+                     /translation="MSIVSYEPKVSDFLNLSKKEEILPKALTRLKTVSISTKDIISVK
+                     ESETLCDIDLLINVPLDKYRYVGILGAVFTGEWLVPDFVKGGVTISVIDKRLVNSKEC
+                     VIGTYRAAAKSKRFQFKLVPNYFVSTVDAKRKPWQVHVRIQDLKIEAGWQPLALEVVS
+                     VAMVTNNVVMKGLREKVVAINDPDVEGFEGVVDEFVDSVAAFKAVDNFRKRKKKVEER
+                     DVVSKYKYRPEKYAGPDSFNLKEENVLQHYKPESVPVLRSGVGRAHTNA"
+     gene            5603..6076
+                     /locus_tag="TVCVgp4"
+                     /db_xref="GeneID:1494925"
+     CDS             5603..6076
+                     /locus_tag="TVCVgp4"
+                     /codon_start=1
+                     /product="coat protein"
+                     /protein_id="NP_046154.1"
+                     /db_xref="GeneID:1494925"
+                     /translation="MSYNITNPNQYQYFAAVWAEPIPMLNQCMSALSQSYQTQAARDT
+                     VRQQFSNLLSAVVTPSQRFPDTGSRVYVNSAVIKPLYEALMKSFDTRNRIIETEEESR
+                     PSASEVANATQRVDDATVAIRSQIQLLLSELSNGHGYMNRAEFEALLPWTTAPAT"
+ORIGIN      
+        1 gtttagtttt attgcaacaa caacaacaaa ttacaataac aacaaacaaa atacaaacaa
+       61 caacaacatg gcacaatttc aacaaacaat tgacatgcaa actctccaag ccgctgcggg
+      121 acgcaacagc ttggtgaatg atttggcatc tcgtcgcgtt tacgataatg cagtcgagga
+      181 gctgaatgct cgttccagac gtcccaaggt tcatttctcc aaggcagtgt ctacggaaca
+      241 gacactgatt gcaacaaacg catatccgga gttcgagatt tcctttactc atacgcaatc
+      301 cgctgtgcac tccttggccg gaggccttcg gtcacttgag ttggagtatc tcatgatgca
+      361 agttccgttc ggttctctga cgtacgacat cggcggtaac ttttccgcgc accttttcaa
+      421 agggcgcgat tacgttcact gctgcatgcc taatctggat gtacgtgaca ttgctcgcca
+      481 tgaaggacac aaggaagcta tttacagtta tgtgaatcgt ttgaaaaggc agcagcgtcc
+      541 tgtgcctgaa taccagaggg cagctttcaa caactacgct gagaacccgc acttcgtcca
+      601 ttgcgacaaa cctttccaac agtgtgaatt gacgacagcg tatggcactg acacctacgc
+      661 tgtagctctc catagcattt atgatatccc tgttgaggag ttcggttctg cgctactcag
+      721 gaagaatgtg aaaacttgtt tcgcggcctt tcatttccat gagaatatgc ttctagattg
+      781 tgatacagtc acactcgatg agattggagc tacttttcag aagtccggtg ataatttaag
+      841 ttttttcttt cataatgaga gcactctcaa ttacacccac agttttagta atataattaa
+      901 gtatgtgtgt aaaacgttct ttcctgctag tcaacggttt gtgtatcata aggagttttt
+      961 agttactaga gtcaacactt ggtactgtaa gtttacgaga gtggatactt ttactctttt
+     1021 ccgtggtgtg taccataata atgtggattg cgaagagttt tacaaggcta tggacgatgc
+     1081 gtggcactac aaaaagacgt tagcaatgct taatgccgag aggaccatct tcaaggataa
+     1141 cgctgcgtta aacttttggt tcccgaaagt gagagacatg gttatcgtcc ctctctttga
+     1201 cgcttctatc acaactggta ggatgtctag gagagagatt atggtgaaca aggatttcgt
+     1261 ttatacggtc ctaaatcaca taaaaacgta tcaagctaag gctttaactt acgcaaatgt
+     1321 tctgtccttt gtggagtcta ttaggtctag agtgataatt aacggtgtca ctgccaggtc
+     1381 tgaatgggac acagacaagg caattctagg tccattagca atgacatttt tccttataac
+     1441 aaagttgggt catgtgcagg atgaaataat cctgaaaaag ttccagaagt tcgacagaac
+     1501 caccaatgag ctgatttgga caagtctctg cgatgccctg atgggggtta ttccctcggt
+     1561 caaggagacg cttgtgcgcg gtggttttgt gaaagtagca gaacaagcct tagagataaa
+     1621 ggttcccgag ctatactgta cctttgccga cagattggta ctacagtaca agaaggcgga
+     1681 ggagttccaa tcgtgtgatc tttccaaacc tctagaagag tcagagaagt actacaacgc
+     1741 attatccgag ctatcagtgc ttgagaatct cgactctttt gacttagagg cgtttaagac
+     1801 tttatgtcag cagaagaatg tggacccgga tatggcagca aaggtggtcg tagcaatcat
+     1861 gaagtcagaa ttgacgttgc ctttcaagaa acctacagaa gaggaaatct cggagtcgct
+     1921 aaaaccagga gaggggtcgt gtgcagagca taaggaagtg ttgagcttac aaaatgatgc
+     1981 tccgttcccg tgtgtgaaaa atctagttga aggttccgtg ccggcgtatg gaatgtgtcc
+     2041 taagggtggt ggtttcgaca aattggatgt ggacattgct gatttccatc tcaagagtgt
+     2101 agatgcagtt aaaaagggaa ctatgatgtc tgcggtgtac acagggtcta tcaaagttca
+     2161 acaaatgaag aactacatag attacttaag tgcgtcgctg gcagctacag tctcaaacct
+     2221 ctgcaaggtg cttagagatg ttcacggcgt tgacccagag tcacaggaga aatctggagt
+     2281 gtgggatgtt aggagaggac gttggttact taaacctaat gcgaaaagtc acgcgtgggg
+     2341 tgtggcagaa gacgccaacc acaagttggt tattgtgtta ctcaactggg atgacggaaa
+     2401 gccggtttgt gatgagacat ggttcagggt ggcggtgtca agcgattcct tgatatattc
+     2461 ggatatggga aaacttaaga cgctcacgtc ttgcagtcca aatggtgagc caccggagcc
+     2521 taacgccaaa gtaattttgg tcgatggtgt tcccggttgt ggaaaaacga aggagattat
+     2581 cgaaaaggta aacttctctg aagacttgat tttagtccct gggaaggaag cttctaagat
+     2641 gatcatccgg agggccaacc aagctggtgt gataagagcg gataaggaca atgttagaac
+     2701 ggtggattcc ttcttgatgc atccttctag aagggtgttt aagaggttgt ttatcgatga
+     2761 aggactaatg ctgcatacag gttgtgtaaa tttcctactg ctgctatctc aatgtgacgt
+     2821 cgcatatgtg tatggggaca caaagcaaat tccgttcatt tgcagagtcg cgaactttcc
+     2881 gtatccagcg cattttgcaa aactcgtcgc tgatgagaag gaggttagaa gagttacgct
+     2941 caggtgcccg gctgatgtta cgtatttcct taacaagaag tatgacgggg cggtgatgtg
+     3001 taccagcgcg gtagagagat ccgtgaaggc agaagtggtg agaggaaagg gtgcattgaa
+     3061 cccaataacc ttaccgttgg agggtaaaat tttgaccttc acacaagctg acaagttcga
+     3121 gttactggag aagggttaca aggatgtgaa cactgtgcac gaggtgcaag gggagacgta
+     3181 cgagaagact gctattgtgc gcttgacatc aactccgtta gagatcatat cgagtgcgtc
+     3241 acctcatgtt ttggtggcgc tgacaagaca cacaacgtgt tgtaaatatt acaccgttgt
+     3301 gttggacccg atggtgaatg tgatttcaga aatggagaag ttgtccaatt tccttcttga
+     3361 catgtataga gttgaagcgg gggtccaata gcaattacag atcgatgcag tattcaggga
+     3421 cagcaacttg tttgttcaga cgcccaagtc aggagattgg cgagatatgc aattttacta
+     3481 tgacgctctt cttcccggaa acagtactat tctcaatgaa tttgatgctg ttacgatgaa
+     3541 tttgagggat atttccttaa acgtcaaaga ttgcagaatc gacttctcca aatccgtgca
+     3601 acttcctaaa gaacaaccta ttttcctcaa gcctaaaata agaactgcgg cagaaatgcc
+     3661 gagaactgca ggtttgctgg aaaatttggt tgcaatgatc aaaagaaaca tgaatgcgcc
+     3721 ggatttgaca gggacaattg acattgagga tactgcatct ctggtggttg aaaagttttg
+     3781 ggattcgtat gttgacaagg aatttagtgg aacgaacgaa atgaccatga caagggaaag
+     3841 tttttctaga tggctttcga aacaagagtc atctacagtt ggtcagttag cggactttaa
+     3901 ctttgtggat ttgccggcag tagatgagta caagcatatg atcaagagtc aaccaaagca
+     3961 aaagttagac ttgagtattc aagacgaata tcctgcattg cagacgatag tctaccattc
+     4021 gaaaaagatc aatgcgattt tcggtccaat gttttcagaa cttacgagga tgttactcga
+     4081 aaggattgac tcttcgaagt ttctgttcta caccagaaag acacctgcac aaatagagga
+     4141 cttcttttct gacctagact caacccaggc gatggaaatt ctggaactcg acatttcgaa
+     4201 gtacgataag tcacaaaacg agttccattg tgctgtagag tacaagatct gggaaaagtt
+     4261 aggaattgat gagtggctag ctgaggtatg gaaacaagga cacagaaaaa cgaccttgaa
+     4321 agattatacg gccggagtca aaacatgtct ttggtatcaa aggaaaagtg gtgatgtgac
+     4381 aacctttatt ggtaatacca tcatcattgc agcctgtttg agctcaatga tccccatgga
+     4441 caaagtgata aaggcagctt tttgtggaga cgatagcctg atttacattc ctaaaggttt
+     4501 agacttgcct gatattcagg cgggcgcgaa cctcatgtgg aacttcgagg ccaaactctt
+     4561 caggaagaag tatggttact tctgtggtcg ttatgttatt caccatgata gaggagccat
+     4621 tgtgtattac gatccgctta aactaatatc taagttaggt tgtaaacata ttagagatgt
+     4681 tgttcactta gaagagttac gcgagtcttt gtgtgatgta gctagtaact taaataattg
+     4741 tgcgtatttt tcacagttag atgaggccgt tgccgaggtt cataagaccg cggtaggcgg
+     4801 ttcgtttgct ttttgtagta taattaagta tttgtcagat aagagattgt ttagagattt
+     4861 gttctttgtt tgataatgtc gatagtctcg tacgaaccta aggtgagtga tttcctcaat
+     4921 ctttcgaaga aggaagagat cttgccgaag gctctaacga ggttaaaaac cgtgtctatt
+     4981 agtactaaag atattatatc tgtcaaggag tcggagactt tgtgtgatat agatttgtta
+     5041 atcaatgtgc cattagataa gtatagatat gtgggtatcc taggagctgt ttttaccgga
+     5101 gagtggctag tgccagactt cgttaaaggt ggagtgacga taagtgtgat agataagcgt
+     5161 ctggtgaact caaaggagtg cgtgattggt acgtacagag ccgcagccaa gagtaagagg
+     5221 ttccagttca aattggttcc aaattacttt gtgtccaccg tggacgcaaa gaggaagccg
+     5281 tggcaggttc atgttcgtat acaagacttg aagattgagg cgggttggca gccgttagct
+     5341 ctggaagtag tttcagttgc tatggtcacc aataacgttg tcatgaaggg tttgagggaa
+     5401 aaggtcgtcg caataaatga tccggacgtc gaaggtttcg aaggtgtggt tgacgaattc
+     5461 gtcgattcgg ttgcagcatt taaagcggtt gacaatttca ggaagaggaa aaagaaggtt
+     5521 gaagaaaggg atgtagtaag taagtataaa tatagaccgg agaaatacgc cggtcctgat
+     5581 tcgtttaatt taaaagaaga aaatgtctta caacattaca aacccgaatc agtaccagta
+     5641 cttcgcagcg gtgtgggcag agcccatacc aatgcttaac cagtgcatgt cggcgttgtc
+     5701 gcaatcgtac caaacacaag ctgcgagaga cactgttaga cagcaattct caaacttgtt
+     5761 aagtgcggtt gtgacgccga gccagcggtt cccagataca gggtcccggg tgtatgttaa
+     5821 ctcggctgtt ataaagccgt tgtacgaggc tcttatgaag tcctttgata ctagaaatag
+     5881 gatcatagag acggaagagg agtcacgccc atcagcttcc gaagtagcta atgcaacaca
+     5941 gcgtgttgat gacgcgaccg ttgccattag aagtcaaatt cagcttttgc tgagtgagct
+     6001 ttctaatgga catggttata tgaatagggc agagttcgag gctttattgc catggactac
+     6061 tgcgcctgct acttaggcgt agtgcgcacg atagcgcata gtgtttttct ctccacttaa
+     6121 atcgaagaga taaacttacg gtgtaattcc gtgagggtgg cgtaaaccaa attacgcaat
+     6181 gttttgggtt ccattaaaat cgaaacccct tatttcctgg atcacctgtt aacgcacgtt
+     6241 tgacgtgtat tacagtggga ataagtaaaa gtgagaggtt cgaatcctcc ctaaccccgg
+     6301 gtaggggccc a
+//
+

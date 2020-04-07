@@ -1,0 +1,5 @@
+GOA	RepOver	RepCov	Gene	Locus	GeneLen	Product
+NA	0	0	NA	MBVgp1	540	hypothetical protein
+NA	0	0	NA	MBVgp3	3077	hypothetical protein
+NA	0	0	NA	MBVgp2	1974	hypothetical protein
+NA	0	0	NA	MBVgp4	597	coat protein

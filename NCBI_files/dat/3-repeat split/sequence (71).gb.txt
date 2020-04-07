@@ -1,0 +1,41 @@
+GOA	RepOver	RepCov	Gene	Locus	GeneLen	Product
+NA	0	0	NA	AFV1_ORF150	453	hypothetical protein
+NA	0	0	NA	AFV1_ORF90	573	hypothetical protein
+NA	0	0	NA	AFV1_ORF99	300	hypothetical protein
+NA	0	0	NA	AFV1_ORF72	219	hypothetical protein
+NA	0	0	NA	AFV1_ORF157	474	hypothetical protein
+GOA:Q70LE5	0	0	NA	AFV1_ORF59a	180	hypothetical protein
+NA	0	0	NA	AFV1_ORF95	288	hypothetical protein
+GOA:Q70LE3	0	0	NA	AFV1_ORF59b	180	hypothetical protein
+NA	0	0	NA	AFV1_ORF77	234	hypothetical protein
+NA	0	0	NA	AFV1_ORF48	147	hypothetical protein
+NA	0	0	NA	AFV1_ORF166	501	hypothetical protein
+NA	0	0	NA	AFV1_ORF144	435	hypothetical protein
+NA	0	0	NA	AFV1_ORF115	348	hypothetical protein
+NA	0	0	NA	AFV1_ORF135	408	hypothetical protein
+NA	0	0	NA	AFV1_ORF426	1281	putative ATP-dependent protease
+NA	0	0	NA	AFV1_ORF74	225	hypothetical protein
+NA	0	0	NA	AFV1_ORF223	672	CRISPR-associated Cas4-like protein
+NA	0	0	NA	AFV1_ORF65	198	hypothetical protein
+NA	0	0	NA	AFV1_ORF94	285	hypothetical protein
+GOA:Q70LD1	0	0	NA	AFV1_ORF110	333	hypothetical protein
+NA	0	0	NA	AFV1_ORF195	588	hypothetical protein
+NA	0	0	NA	AFV1_ORF221	666	hypothetical protein
+NA	0	0	NA	AFV1_ORF137	414	hypothetical protein
+NA	0	0	NA	AFV1_ORF132	399	hypothetical protein
+NA	0	0	NA	AFV1_ORF140	423	hypothetical protein
+GOA:Q70LC5	0	0	NA	AFV1_ORF313	942	hypothetical protein
+NA	0	0	NA	AFV1_ORF146	441	hypothetical protein
+NA	0	0	NA	AFV1_ORF102	309	hypothetical protein
+NA	0	0	NA	AFV1_ORF807	2424	hypothetical protein
+NA	0	0	NA	AFV1_ORF55	168	hypothetical protein
+NA	0	0	NA	AFV1_ORF307	924	hypothetical protein
+NA	0	0	NA	AFV1_ORF274	825	hypothetical protein
+NA	0	0	NA	AFV1_ORF52	159	hypothetical protein
+NA	0	0	NA	AFV1_ORF80	243	hypothetical protein
+NA	0	0	NA	AFV1_ORF300	903	hypothetical protein
+NA	0	0	NA	AFV1_ORF224	675	hypothetical protein
+NA	0	0	NA	AFV1_ORF116	351	DNA binding protein
+NA	0	0	NA	AFV1_ORF63	192	hypothetical protein
+NA	0	0	NA	AFV1_ORF108	327	hypothetical protein
+NA	0	0	NA	AFV1_ORF75	228	hypothetical protein

@@ -1,0 +1,94 @@
+LOCUS       NC_043157               1724 bp ss-RNA     linear   VRL 28-JUN-2019
+DEFINITION  Pfaffia mosaic virus polyprotein mRNA, partial cds.
+ACCESSION   NC_043157
+VERSION     NC_043157.1
+DBLINK      BioProject: PRJNA485481
+KEYWORDS    RefSeq.
+SOURCE      Pfaffia mosaic virus
+  ORGANISM  Pfaffia mosaic virus
+            Viruses; Riboviria; Potyviridae; Potyvirus.
+REFERENCE   1  (bases 1 to 1724)
+  AUTHORS   Mota,L.D.C., Della Vecchia,M.G.S., Gioria,R., Kitajima,E.W.,
+            Rezende,J.A.M., Camargo,L.E.A. and Amorim,L.
+  TITLE     Pfaffia mosaic virus: a new potyvirus found infecting Pfaffia
+            glomerata in Brazil
+  JOURNAL   Plant Pathol. 53 (3), 368-373 (2004)
+REFERENCE   2  (bases 1 to 1724)
+  CONSRTM   NCBI Genome Project
+  TITLE     Direct Submission
+  JOURNAL   Submitted (28-JUN-2019) National Center for Biotechnology
+            Information, NIH, Bethesda, MD 20894, USA
+REFERENCE   3  (bases 1 to 1724)
+  AUTHORS   Mota,L.D.C., Della Vecchia,M.G.S., Gioria,R., Kitajima,E.W.,
+            Rezende,J.A.M., Camargo,L.E.A. and Amorim,L.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (21-NOV-2003) Entomologia Fitopatologia e Zoologia
+            Agricola, ESALQ Universidade de Sao Paulo, Av Padua Dias 11,
+            Piracicaba, SP 13418-900, Brazil
+COMMENT     PROVISIONAL REFSEQ: This record has not yet been subject to final
+            NCBI review. The reference sequence is identical to AY485276.
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..1724
+                     /organism="Pfaffia mosaic virus"
+                     /mol_type="genomic RNA"
+                     /db_xref="taxon:258471"
+     gene            1..1431
+                     /locus_tag="FK901_gp1"
+                     /db_xref="GeneID:40525305"
+     CDS             <1..1431
+                     /locus_tag="FK901_gp1"
+                     /codon_start=1
+                     /product="polyprotein"
+                     /protein_id="YP_009665141.1"
+                     /db_xref="GeneID:40525305"
+                     /translation="NNSGQPSTVVDNSLMVVLAMHYAFVQEKIEFDCVDNHCIFFVNG
+                     DDLLIAVNPDSEFLLDSMSKHFTDLGLNYDFSSRTRNKEDLWFMSHRGIQVDGKYIPK
+                     LEEERVVSILQWDRSTLPEHRLEAICAALIESWGYPELTHQISRFYAWLLHQHPFDEI
+                     AQDGRAPYISELATRRLYLSDAVDESELKAFLKLFVQLDEDFELEYYEVYHQAKDTID
+                     GGGSNTTDASPDIQPKANVEKDKEVKPGITGTHNEPKIKAGSSKSRKPTNNGASVLNT
+                     EPLIESIPQKIEVANTRTTQSQIGTWYEAHRIAYEPGQVERSTVINGLVVWCIENGTS
+                     PNINGVWIMMDGNEQVEYPLKPVVENAKPTLRQIMAHFSDVAEAYITMRNEKEPYMPR
+                     YGLVRNLRDMSLARYAFDFYEVTSRTPTRAREAHIQMKAAALKSAQTRMFGLDGGIST
+                     QEENTERHTTEDVSPNMHSFLGVRNT"
+     mat_peptide     <1..636
+                     /locus_tag="FK901_gp1"
+                     /product="NIb replicase"
+                     /protein_id="YP_009667075.1"
+     mat_peptide     637..1428
+                     /locus_tag="FK901_gp1"
+                     /product="coat protein"
+                     /protein_id="YP_009667076.1"
+     3'UTR           1432..1724
+ORIGIN      
+        1 aataacagtg ggcagccctc aactgtagtt gacaattcgc tgatggtagt actagcaatg
+       61 cattatgctt tcgtgcagga aaagatagaa tttgattgtg ttgacaacca ttgtatcttc
+      121 tttgtgaatg gcgatgactt actaatagca gtgaatcccg atagtgaatt tctgttggat
+      181 tcaatgagta agcatttcac tgacttaggc ttaaactatg atttttcaag cagaacaagg
+      241 aataaagaag atttgtggtt catgtcgcac agaggcattc aagttgatgg aaagtacata
+      301 ccaaagctcg aggaggagcg ggttgtgtca atcctgcaat gggataggtc tacactaccc
+      361 gaacatagac ttgaagccat atgcgcagca ctgattgagt catggggtta tcccgaacta
+      421 acgcatcaaa tcagccgatt ttatgcttgg ttattgcacc aacacccttt tgatgaaatt
+      481 gcgcaggatg ggagagcccc atacatctca gagttggcta caaggcgatt gtatttgagt
+      541 gatgctgtag atgagtcgga actaaaagcc ttcttaaaat tgtttgtcca actcgatgaa
+      601 gattttgagc ttgagtatta cgaagtgtat catcaagcaa aggacacaat tgacggaggt
+      661 ggaagcaaca caacagatgc ttcaccagac atccagccaa aggcgaatgt ggaaaaggat
+      721 aaggaagtta agccaggcat cactgggaca cataatgagc cgaaaatcaa ggctggctcg
+      781 tccaaatcaa gaaagcccac aaataatgga gcatcagtgc tcaacacaga acctttgatc
+      841 gaatctattc cacaaaagat tgaggttgca aatacacgaa caactcaatc acaaattggc
+      901 acttggtatg aggcacatcg gatcgcgtac gagccgggac aagttgagag gtcaactgtg
+      961 atcaatggac tagtggtttg gtgtattgag aatggaactt ccccaaatat aaacggagtt
+     1021 tggattatga tggatggcaa tgaacaggtt gagtatccac taaaaccagt tgttgaaaat
+     1081 gcgaagccaa cgctacgaca aataatggca catttctctg atgttgcaga agcatatatt
+     1141 acgatgagaa atgaaaagga accatacatg ccacggtatg gtctagtgcg caacttgcgc
+     1201 gacatgagtc tggcacgcta tgctttcgac ttctacgagg tgacttcacg cacaccaact
+     1261 agagctcgag aagcacacat tcaaatgaaa gcagcagcac tgaagtctgc tcaaacaagg
+     1321 atgtttggac tcgatggtgg catcagtaca caagaagaaa acacagagag gcacactact
+     1381 gaagatgtaa gccccaacat gcattctttt cttggggtgc gtaatactta aacgcatgtg
+     1441 tctactgggc tgaaatatga tttaaatata gtatgcaata tttatttctg gtttttctgt
+     1501 actactttat gtttagctaa agtttactta aggtgatgtg cagattccgt ctacacagtg
+     1561 acttaagtag acttcaggca ttcattgagg tgacgttacg attctgtcat aacggtgact
+     1621 ttctgagtgt ttttcaaagc ttataataaa agttcgccat tccattttcg tcggtgacgt
+     1681 tatgattctg tcataacggt gacgttagat cttgagtggg agac
+//
+

@@ -1,0 +1,86 @@
+LOCUS       NC_039229               1354 bp    DNA     circular VRL 24-AUG-2018
+DEFINITION  Tomato yellow leaf curl Yunnan alphasatellite isolate YN4368-69,
+            complete sequence.
+ACCESSION   NC_039229
+VERSION     NC_039229.1
+DBLINK      BioProject: PRJNA485481
+KEYWORDS    RefSeq.
+SOURCE      Tomato yellow leaf curl Yunnan alphasatellite
+  ORGANISM  Tomato yellow leaf curl Yunnan alphasatellite
+            Viruses; Alphasatellitidae; Geminialphasatellitinae;
+            Colecusatellite.
+REFERENCE   1  (bases 1 to 1354)
+  AUTHORS   Zhao,L.L., Zhong,J., Zhang,X.Y., Li,T.T. and Ding,M.
+  TITLE     Molecular characterization of two begomoviruses and associated
+            satellites infecting Sonchus arvensis in Yunnan
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 1354)
+  CONSRTM   NCBI Genome Project
+  TITLE     Direct Submission
+  JOURNAL   Submitted (24-AUG-2018) National Center for Biotechnology
+            Information, NIH, Bethesda, MD 20894, USA
+REFERENCE   3  (bases 1 to 1354)
+  AUTHORS   Zhao,L.L., Zhong,J., Zhang,X.Y., Li,T.T. and Ding,M.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (19-AUG-2016) Yunnan Academy of Agricultural Sciences,
+            Institute of Biotechnology and Germplasm Resources, No. 9 Xueyun
+            Road, Kunming, Yunnan 650223, China
+COMMENT     PROVISIONAL REFSEQ: This record has not yet been subject to final
+            NCBI review. The reference sequence is identical to KX759649.
+            
+            ##Assembly-Data-START##
+            Assembly Method       :: DNASTAR.Lasergene v. 7.1
+            Sequencing Technology :: Sanger dideoxy sequencing; 454
+            ##Assembly-Data-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..1354
+                     /organism="Tomato yellow leaf curl Yunnan alphasatellite"
+                     /mol_type="genomic DNA"
+                     /isolate="YN4368-69"
+                     /host="Sonchus arvensis"
+                     /db_xref="taxon:2169846"
+                     /country="China: Yunnan"
+                     /collection_date="16-Oct-2014"
+     gene            79..1026
+                     /locus_tag="D1Y10_gp1"
+                     /note="Rep"
+                     /db_xref="GeneID:37627223"
+     CDS             79..1026
+                     /locus_tag="D1Y10_gp1"
+                     /codon_start=1
+                     /product="Rep protein"
+                     /protein_id="YP_009513233.1"
+                     /db_xref="GeneID:37627223"
+                     /translation="MPALKSQWWCFTVFFLSATVPELVPLFENTHVSYACWQEEESPT
+                     TRRRHLQGYLQLKGQRTLNQVKSLFGDLKPHLEKQRARKTDEACDYCMKEDTRVSGPF
+                     EFGEYCPAGSHRRRQRELVIRSPVRMSEENPSVFRRVKAKLAEEEFQATVAEIQISNL
+                     KSWQLRLRTLLDRAPDDRTIFWVYGPIGGEGKSTFARDLYRSGSWFYTRGGSADNVSY
+                     QYIGQLGNNIVFDIPRDKKDYLQYSLIEMFKDRLIVSNKYEPLMAPLINCIHVVVMSN
+                     FLPDFEKISSDRVHVIPCIPCGACLKHHISEIKCDEYLD"
+ORIGIN      
+        1 accccgcctc gagaccccga gctagagacc ctccgtacag tctgcgtttt tctctcttat
+       61 ttcttcattt ctttaagtat gcctgccctc aaatcgcaat ggtggtgttt cacggtcttc
+      121 ttcctttcgg ctactgtccc cgaacttgtg cctttgttcg agaacacaca cgttagttac
+      181 gcctgctggc aagaggaaga gtctcccacg actcgacgac gccacctgca gggttatctc
+      241 cagttgaagg gacaaaggac cttgaaccag gtgaagtccc ttttcggtga cctgaagccc
+      301 catttggaga aacagcgagc tcgtaagaca gacgaagctt gcgactattg tatgaaagag
+      361 gatactaggg tttccggtcc ctttgaattt ggggaatact gtcctgctgg ttctcacaga
+      421 cgccggcaaa gggaactcgt aattcgatct ccggtgagaa tgtcggaaga aaatccgtcc
+      481 gtgtttcgac gtgttaaggc caaacttgct gaggaagaat tccaggctac tgtagctgaa
+      541 attcaaattt caaatttgaa atcttggcaa ctgcgcctga ggacgctcct cgacagggcc
+      601 ccagatgacc gcactatctt ctgggtctat ggacccattg gtggggaagg aaaatccacc
+      661 tttgccaggg acctgtatag aagtgggtcc tggttctata cacgtggtgg ctctgcagat
+      721 aacgtcagct atcagtacat agggcaatta ggaaataata ttgtatttga tatccctcgt
+      781 gataagaagg attatctaca gtatagttta attgagatgt ttaaggatag gttaatagtt
+      841 agtaataaat atgagcctct tatggcccca ttaattaatt gtattcatgt tgtagttatg
+      901 tctaattttc ttcctgattt tgagaagatt agcagtgata gggtccatgt aattccttgt
+      961 atcccttgtg gtgcttgtct taagcatcat attagtgaaa taaaatgcga cgagtatttg
+     1021 gactaaatac gagtataaat atacgtatat tttgcttctt taaaaaaaga aggaatgaaa
+     1081 tgaaaaaaat acaaatatgt ctgcataata tcaataactt gaagaaagta ggccccgcag
+     1141 gggcattgtt tgttaatttg ataaaaaaga aataaaaaga aaaaggaaaa tataaattaa
+     1201 aaggctttat taaaacgacg ccgttttgca attgttgact ggtcaaatta aatgagggac
+     1261 taaaagtgtc aatattgagg tccttaggtc cttgctttgc aattattgag gtctttctga
+     1321 tataaataac acgtcacgag gcgggcatag tatt
+//
+

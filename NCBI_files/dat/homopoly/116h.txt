@@ -1,0 +1,16 @@
+HM042750.1 Citrus viroid V isolate CN clone NI-1, complete genome	52	55	AAAA	+
+HM042750.1 Citrus viroid V isolate CN clone NI-1, complete genome	68	70	AAA	+
+HM042750.1 Citrus viroid V isolate CN clone NI-1, complete genome	241	244	AAAA	+
+HM042750.1 Citrus viroid V isolate CN clone NI-1, complete genome	273	276	AAAA	+
+HM042750.1 Citrus viroid V isolate CN clone NI-1, complete genome	33	35	CCC	+
+HM042750.1 Citrus viroid V isolate CN clone NI-1, complete genome	38	40	CCC	+
+HM042750.1 Citrus viroid V isolate CN clone NI-1, complete genome	122	125	CCCC	+
+HM042750.1 Citrus viroid V isolate CN clone NI-1, complete genome	174	176	CCC	+
+HM042750.1 Citrus viroid V isolate CN clone NI-1, complete genome	224	226	CCC	+
+HM042750.1 Citrus viroid V isolate CN clone NI-1, complete genome	230	232	CCC	+
+HM042750.1 Citrus viroid V isolate CN clone NI-1, complete genome	264	267	CCCC	+
+HM042750.1 Citrus viroid V isolate CN clone NI-1, complete genome	292	294	CCC	+
+HM042750.1 Citrus viroid V isolate CN clone NI-1, complete genome	2	4	GGG	+
+HM042750.1 Citrus viroid V isolate CN clone NI-1, complete genome	27	29	GGG	+
+HM042750.1 Citrus viroid V isolate CN clone NI-1, complete genome	269	271	GGG	+
+HM042750.1 Citrus viroid V isolate CN clone NI-1, complete genome	233	235	TTT	+

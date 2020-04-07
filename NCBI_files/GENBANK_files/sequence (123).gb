@@ -1,0 +1,91 @@
+LOCUS       NC_043426               1329 bp    RNA     linear   VRL 28-JUN-2019
+DEFINITION  Kirsten murine sarcoma virus (KiMSV) p15 env coding region and long
+            terminal repeat (LTR).
+ACCESSION   NC_043426
+VERSION     NC_043426.1
+DBLINK      BioProject: PRJNA485481
+KEYWORDS    RefSeq; inverted repeat; long terminal repeat; recombination
+            junction.
+SOURCE      Kirsten murine sarcoma virus
+  ORGANISM  Kirsten murine sarcoma virus
+            Viruses; Ortervirales; Retroviridae; Orthoretrovirinae;
+            Gammaretrovirus.
+REFERENCE   1  (bases 1 to 1329)
+  AUTHORS   Norton,J.D., Connor,J. and Avery,R.J.
+  TITLE     Genesis of Kirsten murine sarcoma virus: sequence analysis reveals
+            recombination points and potential leukaemogenic determinant on
+            parental leukaemia virus genome
+  JOURNAL   Nucleic Acids Res. 12 (17), 6839-6852 (1984)
+   PUBMED   6091040
+REFERENCE   2  (bases 1 to 1329)
+  CONSRTM   NCBI Genome Project
+  TITLE     Direct Submission
+  JOURNAL   Submitted (28-JUN-2019) National Center for Biotechnology
+            Information, NIH, Bethesda, MD 20894, USA
+COMMENT     PROVISIONAL REFSEQ: This record has not yet been subject to final
+            NCBI review. The reference sequence is identical to X00984.
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..1329
+                     /organism="Kirsten murine sarcoma virus"
+                     /mol_type="genomic RNA"
+                     /db_xref="taxon:11808"
+     misc_feature    <1..291
+                     /note="VL 30 sequence"
+     misc_feature    276..302
+                     /note="3' recombination site"
+     gene            292..605
+                     /locus_tag="FK996_gp1"
+                     /db_xref="GeneID:40526234"
+     CDS             <292..605
+                     /locus_tag="FK996_gp1"
+                     /note="p15E carboxyterminal sequence"
+                     /codon_start=3
+                     /product="hypothetical protein"
+                     /protein_id="YP_009666045.1"
+                     /db_xref="GOA:Q85615"
+                     /db_xref="InterPro:IPR002050"
+                     /db_xref="InterPro:IPR018154"
+                     /db_xref="UniProtKB/TrEMBL:Q85615"
+                     /db_xref="GeneID:40526234"
+                     /translation="ECCFYADHTGLVRDNMAKLRERLSQRQKLFNSQQGWFKGLFNKS
+                     PWFTTLISTIMGPLIILLLILLFGPCILNRLVQFIKDRISVVQALVLTQQYHQLKTIR
+                     D"
+     repeat_region   642..654
+                     /note="inverted repeat"
+     repeat_region   655..1151
+                     /note="LTR"
+     repeat_region   1152..1164
+                     /note="inverted repeat"
+     misc_feature    1165..1180
+                     /note="tRNA binding site"
+     misc_feature    1218..1248
+                     /note="5' recombination region"
+     misc_feature    1223..1229
+                     /note="donor splice site"
+ORIGIN      
+        1 gaccttggtg tgtaggttta gatagtgtcc agattagaat cctgatgcta aaaaaaaatt
+       61 acttaaggct atctaggtgc tacgaggcaa cacaaggaca tctccattgc cctacaatac
+      121 aaggtttata gaaaattcca gaacctgcca ttgactcaga tataaaaaag agtgaaagac
+      181 tttttagctg acctccaagg atacctaacc tccctctcag aggtagtcct tcagaatagg
+      241 agaagattag acctgatatt ccttaaacaa ggaacctgtg tgctacactg aaagaatgct
+      301 gtttctatgc cgaccacacg ggattggtac gagataacat ggccaaactt agagaaagat
+      361 taagtcagag acaaaagctc tttaactccc aacaagggtg gtttaaaggg ctgtttaata
+      421 agtccccttg gttcaccacc ctgatatcca ccatcatggg tcccctgata atcctcttgt
+      481 taattttact ctttgggcct tgtattctca atcgcctggt ccagtttatc aaagacagga
+      541 tttcggtagt gcaggccctg gttctgactc aacaatatca tcaacttaag acaataagag
+      601 attgaataaa agattttatt cagtttacag aaagaggggg gaatgaaaga ccccttcata
+      661 aggcttagca agctagctgc agtaacgcat tttgaaggat ggaaaaatac cagagctgat
+      721 gttctcagaa aaacaagaac aaggaagtac agagaggctg gaaagtaccg ggactagggc
+      781 caaacaggat atctgtggtc aaacactagg gccccggcca gggccaagaa cagatggtcc
+      841 ccagatatag ctaaaacaac aacagtttca agagacccag aaactgtctc aaggttcccc
+      901 agatgaccgg ggatcaaccc caagcctcat ttaaactaac caatcagctc gcttctcgct
+      961 tctgtacccg cgcttattgc tgcccagctc tataaaaagg gtaaaaaccc cacactcggg
+     1021 cgccagtcct ccgatagact gagtcgcccg ggtacccgtg tatccaataa agcctcttgc
+     1081 tgttgcatcc ggattcgtgg tctcgctgat ccttgggagg gtctcctcag agtgattgac
+     1141 tgcccagctt gggggtcttt catttggggg ctcgtccggg atttggagac ccccgcccag
+     1201 ggaccaccga cccaccgtcg ggaggtaagc cggccggcgt ttgtcttgtc tgttgtgtct
+     1261 tgtcctgtga acgatcgatc aataggctca gatctgggga ctatctgggc gggccagaga
+     1321 aggagctga
+//
+

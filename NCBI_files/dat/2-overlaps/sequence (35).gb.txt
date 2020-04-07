@@ -1,0 +1,2 @@
+GOA	RepOver	RepCov	Gene	Locus	GeneLen	Product
+NA	0	0	NA	FLB25_s1gp1	3318	RNA-dependent RNA polymerase

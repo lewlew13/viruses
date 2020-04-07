@@ -1,0 +1,134 @@
+LOCUS       NC_001465               1291 bp ss-DNA     circular VRL 13-AUG-2018
+DEFINITION  Coconut foliar decay alphasatellite, complete sequence.
+ACCESSION   NC_001465
+VERSION     NC_001465.1
+DBLINK      BioProject: PRJNA485481
+KEYWORDS    RefSeq.
+SOURCE      Coconut foliar decay alphasatellite
+  ORGANISM  Coconut foliar decay alphasatellite
+            Viruses; Alphasatellitidae.
+REFERENCE   1  (bases 1 to 1291)
+  AUTHORS   Rohde,W., Randles,J.W., Langridge,P. and Hanold,D.
+  TITLE     Nucleotide sequence of a circular single-stranded DNA associated
+            with coconut foliar decay virus
+  JOURNAL   Virology 176 (2), 648-651 (1990)
+   PUBMED   2345968
+REFERENCE   2  (bases 1 to 1291)
+  CONSRTM   NCBI Genome Project
+  TITLE     Direct Submission
+  JOURNAL   Submitted (01-AUG-2000) National Center for Biotechnology
+            Information, NIH, Bethesda, MD 20894, USA
+REFERENCE   3  (bases 1 to 1291)
+  AUTHORS   Rohde,W., Randles,J.W., Langridge,P. and Hanold,D.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (02-AUG-1993) Waite Agricultural Research Institute,
+            University of Adelaide, Glen Osmond, South Australia 5064,
+            Australia
+COMMENT     PROVISIONAL REFSEQ: This record has not yet been subject to final
+            NCBI review. The reference sequence is identical to M29963.
+            Draft entry and printed sequence for [1] kindly submitted by
+            W.Rhode, 15-MAR-1989, for release after publication.
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..1291
+                     /organism="Coconut foliar decay alphasatellite"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:1458187"
+     stem_loop       40..70
+                     /note="stem-loop structure"
+     gene            103..975
+                     /locus_tag="CFDVgp1"
+                     /db_xref="GeneID:1494428"
+     CDS             103..975
+                     /locus_tag="CFDVgp1"
+                     /codon_start=1
+                     /product="ORF1"
+                     /protein_id="NP_040944.1"
+                     /db_xref="GeneID:1494428"
+                     /translation="MGSSIRRWCFTLNYETEEEAANVVRRIESLNLVYAIVGDEVAPS
+                     TGQRHLQGFIHLKTGRRLQGLKTVLGNDRIHLEPTRGSDEQNRDYCSKERVLLEHGVP
+                     TRPGVKRPRLAQRFAEEPDELRLEDPGGYRRCVVHGASVEWTRWAAENPFPFPYHNWQ
+                     LEVLSAIGEPADDRTILWICGRDGGDGKSVFAKYLGLKPDWFYTCGGTRKDVLYQYIE
+                     DPKRNLILDVPRCNLEYLNYALLECVKNRAFSSDKYEPLSYLGFDHVHVLVFANVLPD
+                     YLKISRDRIKLWNI"
+     gene            314..775
+                     /locus_tag="CFDVgp2"
+                     /db_xref="GeneID:1494430"
+     CDS             314..775
+                     /locus_tag="CFDVgp2"
+                     /codon_start=1
+                     /product="ORF2"
+                     /protein_id="NP_040945.1"
+                     /db_xref="GeneID:1494430"
+                     /translation="MTGFTWSRPVVPTNRIETTVRRNGCFSSTESRLVLESKGHDWPN
+                     DLLRNLMNSAWKTQADTEDALYTELRWNGQDGPLKIRSHFHITIGSLKCCLRSESQRT
+                     IAQSSGYADETEETGSPCLPNISDSSPTGSTHVVEPERTYCTSTSRTQNEI"
+     gene            complement(422..568)
+                     /locus_tag="CFDVgp3"
+                     /db_xref="GeneID:1494431"
+     CDS             complement(422..568)
+                     /locus_tag="CFDVgp3"
+                     /codon_start=1
+                     /product="ORF6"
+                     /protein_id="NP_040946.1"
+                     /db_xref="GeneID:1494431"
+                     /translation="MEMGTDFQRPILSIPPKLRVQRIFGIRLGLPGGVHQVPQQIVGP
+                     IVAF"
+     gene            639..797
+                     /locus_tag="CFDVgp4"
+                     /db_xref="GeneID:1494432"
+     CDS             639..797
+                     /locus_tag="CFDVgp4"
+                     /codon_start=1
+                     /product="ORF3"
+                     /protein_id="NP_040947.1"
+                     /db_xref="GeneID:1494432"
+                     /translation="MRTRRRRREVRVCQISRTQARLVLHMWWNQKGRIVPVHRGPKTK
+                     FNPRCTQV"
+     gene            complement(823..987)
+                     /locus_tag="CFDVgp5"
+                     /db_xref="GeneID:1494429"
+     CDS             complement(823..987)
+                     /locus_tag="CFDVgp5"
+                     /codon_start=1
+                     /product="ORF5"
+                     /protein_id="NP_040948.1"
+                     /db_xref="GeneID:1494429"
+                     /translation="MTHTLNIPQFYSVPADFQIIRQDIGKYEYMHMVEPKITKGFVFV
+                     RTECPVLNTF"
+     gene            1098..1286
+                     /locus_tag="CFDVgp6"
+                     /db_xref="GeneID:1494433"
+     CDS             1098..1286
+                     /locus_tag="CFDVgp6"
+                     /codon_start=1
+                     /product="ORF4"
+                     /protein_id="NP_040949.1"
+                     /db_xref="GeneID:1494433"
+                     /translation="MNRVMGGPTIKDSIWIRTNLLLCLQCTQPLSTSPIQVSSLLEKK
+                     AASLYLPSICFCAIGRLS"
+ORIGIN      
+        1 cgccaaaaac ctctgctaag tcccgtgcta agtataaata gccgcggggg ctagtattac
+       61 ccccgcggct ccccaacctc tgctaacccc gcttggctat aaatgggttc ctccattcgc
+      121 cgctggtgct tcactctgaa ctacgagaca gaggaagagg cggcgaatgt tgtaaggcgc
+      181 atcgagtccc ttaacttggt ctatgctata gttggggacg aggttgcacc ttcaactggc
+      241 caacgacacc tccaaggatt catccacttg aagaccggtc ggcgactgca aggattgaag
+      301 actgttcttg ggaatgacag gattcacctg gagccgaccc gtggttccga cgaacagaat
+      361 agagactact gttcgaagga acgggtgctt ctcgagcacg gagtcccgac tcgtcctgga
+      421 gtcaaaaggc cacgattggc ccaacgattt gctgaggaac ctgatgaact ccgcctggaa
+      481 gacccaggcg gataccgaag atgcgttgta cacggagctt cggtggaatg gacaagatgg
+      541 gccgctgaaa atccgttccc atttccatat cacaattggc agcttgaagt gctgtctgcg
+      601 atcggagagc cagcggacga tcgcacaatc ctctggatat gcggacgaga cggaggagac
+      661 gggaagtccg tgtttgccaa atatctcgga ctcaagcccg actggttcta cacatgtggt
+      721 ggaaccagaa aggacgtatt gtaccagtac atcgaggacc caaaacgaaa tttaatcctc
+      781 gatgtaccca ggtgtaattt agagtattta aattatgccc tgttagaatg tgttaagaac
+      841 agggcattca gttcggacaa atacgaaccc cttagttatc ttgggttcga ccatgtgcat
+      901 gtactcgtat ttgccaatgt cctgcctgat tatttgaaaa tcagcaggga cagaataaaa
+      961 ctgtggaata tttaaagtat gtgtcatcta aattacacca atacccgccc gcccacgcgc
+     1021 tatcgtttac atcttatgaa tatcctgccc aggccgaagg cctgggaggt gctacccggc
+     1081 cgaaggccgg gaacaatatg aatcgagtta tgggcgggcc cacaataaaa gattccattt
+     1141 ggataagaac gaatctgtta ctttgcttgc agtgcacgca accactttcc acgtcaccaa
+     1201 tccaggtgag tagcttgctg gagaagaaag ccgcaagcct ctatctaccg tccatttgtt
+     1261 tttgcgcgat cggacggctg agttgatctg g
+//
+

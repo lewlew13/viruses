@@ -1,0 +1,157 @@
+LOCUS       NC_043446               4281 bp    DNA     linear   VRL 28-JUN-2019
+DEFINITION  Protoparvovirus Zsana/2013/HUN non-structural protein gene, partial
+            cds; putative middle protein gene, complete cds; and structural
+            protein-like gene, partial sequence.
+ACCESSION   NC_043446
+VERSION     NC_043446.1
+DBLINK      BioProject: PRJNA485481
+KEYWORDS    RefSeq.
+SOURCE      Protoparvovirus Zsana/2013/HUN
+  ORGANISM  Protoparvovirus Zsana/2013/HUN
+            Viruses; Parvoviridae; Parvovirinae; Protoparvovirus.
+REFERENCE   1  (bases 1 to 4281)
+  AUTHORS   Hargitai,R., Pankovics,P., Kertesz,A.M., Biro,H., Boros,A.,
+            Phan,T.G., Delwart,E. and Reuter,G.
+  TITLE     Detection and genetic characterization of a novel parvovirus
+            distantly related to human bufavirus in domestic pigs
+  JOURNAL   Arch. Virol. 161 (4), 1033-1037 (2016)
+   PUBMED   26733298
+REFERENCE   2  (bases 1 to 4281)
+  CONSRTM   NCBI Genome Project
+  TITLE     Direct Submission
+  JOURNAL   Submitted (28-JUN-2019) National Center for Biotechnology
+            Information, NIH, Bethesda, MD 20894, USA
+REFERENCE   3  (bases 1 to 4281)
+  AUTHORS   Hargitai,R., Pankovics,P. and Reuter,G.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (28-OCT-2015) Regional Laboratory of Virology, ANTSZ
+            Baranya County Institute of State Public Health Service, Szabadsag
+            u. 7., Pecs, Baranya H-7623, Hungary
+COMMENT     PROVISIONAL REFSEQ: This record has not yet been subject to final
+            NCBI review. The reference sequence is identical to KT965075.
+            
+            ##Assembly-Data-START##
+            Assembly Method       :: GeneDoc v. 2.7
+            Sequencing Technology :: Illumina; Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..4281
+                     /organism="Protoparvovirus Zsana/2013/HUN"
+                     /mol_type="genomic DNA"
+                     /strain="Zsana/2013/HUN"
+                     /isolation_source="fecal sample"
+                     /host="Sus scrofa domestica (domestic pig)"
+                     /db_xref="taxon:1755694"
+                     /country="Hungary"
+                     /collection_date="Apr-2013"
+     gene            1..1833
+                     /locus_tag="FLA09_gp1"
+                     /db_xref="GeneID:40526334"
+     CDS             <1..1833
+                     /locus_tag="FLA09_gp1"
+                     /note="NS1"
+                     /codon_start=1
+                     /product="non-structural protein"
+                     /protein_id="YP_009666130.1"
+                     /db_xref="GeneID:40526334"
+                     /translation="WKDYRKPSKQPELQEVWKLDQQTVSNRDPDPEYTLDINKTPYTQ
+                     GLILTAIVKKILFDYFKQKSIQPEEVNWFIQSEVGKDSGLHIHCLLQSDKIQQASGKW
+                     MVKLFAEKWGLYLCGALPFHKDTLQHFFNQTKFRQLVEENDWVQVLCYTHPQTKKKYV
+                     KPIFFTELITKYFLQKTPCKTDSDTGYIYSSDGAFAFNNLNHKSRKLVSEHIQRILSQ
+                     KQETKVTDIQPQEKKRKRLETAKETTIKETIQTLTDNKLHTQEKWMLGDPDSYIAQIA
+                     NPGGETIIKATLDIVTLKMSVEKTAYQLITEHDHSNCTKPKKTKAWKIIKRNKYNPYK
+                     VYHAIMCCLNKQMGKRNTILLCGPASTGKSLIAQQIAKLVGNVGCYNASNVNFPFNDC
+                     CNRNLIWIEEAGNLGTQVNQFKAIMSGQSIRLDQKGKGSKSIEPTPVIMTTNEDITRV
+                     VIGSETKPEHRQPIMDRCLRVHLKHRLSGDFGLLSDEEIPAIFSHLVKKGFLPTLANY
+                     CNRWGGPPTWEENWDAEPQELHSKKSDDEDDDEDNSNPAPCPSAGTARTLSESLDPAG
+                     QDIDFQLLLQSLEEDFAGEEEIECGQDLTKCGQDLMGDSADATN"
+     gene            1883..2272
+                     /locus_tag="FLA09_gp2"
+                     /db_xref="GeneID:40526333"
+     CDS             1883..2272
+                     /locus_tag="FLA09_gp2"
+                     /codon_start=1
+                     /product="putative middle protein"
+                     /protein_id="YP_009666131.1"
+                     /db_xref="GeneID:40526333"
+                     /translation="MQPSVYISPILTPLLGGFLLLLLLDLLMLYIFCNGIWNCHYQTN
+                     FMMHSKNTARTLITGLLPTLCTLSITCLIWGLFIWAYYTYSHTKEKTQCGIWDCKTMC
+                     HIIGKVDPNKTLSWAHQNWTLTCHTYI"
+     misc_feature    2218..>4281
+                     /note="similar to structural protein; SP"
+ORIGIN      
+        1 tggaaagact acaggaaacc atctaagcaa cctgaactgc aagaagtatg gaaacttgat
+       61 caacaaactg tgagtaacag ggatccagac cctgaatata ctctggacat caacaagaca
+      121 ccttatacac aaggcctaat actcacagca atagtcaaaa aaatactatt tgactatttc
+      181 aaacaaaaat ccatacaacc agaagaagtt aattggttca tacaatcaga agtaggaaag
+      241 gactcgggcc tacacataca ctgcctacta caatcagaca aaatacaaca agcctctggc
+      301 aaatggatgg taaaactctt tgcagaaaaa tggggcctat acttatgcgg agcattgcct
+      361 tttcacaaag acacattaca acacttcttc aaccaaacca aattcagaca actagttgaa
+      421 gaaaatgact gggtccaagt gctctgctac acacatccac agacaaaaaa gaagtatgtt
+      481 aaaccaatct tcttcactga actcatcact aaatactttc tgcaaaaaac accatgcaaa
+      541 actgactctg acactggata catctacagc tcagatggtg cctttgcctt taacaatcta
+      601 aaccacaaaa gcagaaaact ggtcagtgag cacatacaaa gaattctttc tcaaaaacaa
+      661 gaaaccaaag tcactgacat acaaccacaa gaaaaaaaaa gaaagagatt agaaactgct
+      721 aaagaaacaa ccattaaaga aaccatccaa actctcacag acaacaaact ccatacacaa
+      781 gaaaaatgga tgcttggtga tccagactca tacatagcac aaattgccaa tccaggagga
+      841 gaaactatca tcaaagccac acttgatata gtcactttaa agatgagtgt agaaaaaaca
+      901 gcataccaac tcatcacaga acatgatcac tcaaactgca caaaaccaaa aaaaaccaaa
+      961 gcatggaaaa tcatcaaaag aaacaaatac aatccataca aagtctacca tgcaatcatg
+     1021 tgctgcttaa acaaacagat gggcaagaga aataccatct tactatgtgg accagctagc
+     1081 acaggcaaaa gcttaatagc tcaacaaata gcaaagctag ttggtaatgt aggatgctac
+     1141 aatgcaagca atgtcaactt tccattcaat gactgttgca atagaaacct aatatggatt
+     1201 gaagaagcag gaaacctagg aactcaagta aaccaattca aagctatcat gagtggtcaa
+     1261 tccatcagac ttgaccaaaa aggcaaaggc agtaaatcta ttgaaccaac tccagtgatc
+     1321 atgactacca atgaagacat caccagagta gtcatcggtt ctgaaaccaa accagaacac
+     1381 agacaaccaa tcatggatag atgcttaaga gtacacctca aacatagact atcaggtgac
+     1441 tttggactac tatctgatga agaaattcct gccatattca gtcacttggt caaaaaaggc
+     1501 tttctgccta cactagccaa ctactgcaac agatggggcg gtcctccaac ttgggaagaa
+     1561 aactgggacg cagagcctca agagcttcat tctaaaaaat cagacgacga ggacgacgac
+     1621 gaggacaaca gcaatccagc accatgtccg tctgcaggaa ctgcacgtac actttctgag
+     1681 agtctagacc cagcaggcca agacatagat ttccaacttc tgctgcaaag tcttgaagaa
+     1741 gattttgcag gtgaagagga aattgagtgt ggtcaggacc taacgaagtg cggtcaagac
+     1801 ctcatgggtg actcagcgga tgccaccaac taaccgagag cgaaaaggta agaacatttt
+     1861 actttagttt cattctctaa tcatgcaacc atccgtctat atctcaccaa tactcactcc
+     1921 tctgctgggt ggatttctac ttctcctgct actggatctg cttatgctct acatcttctg
+     1981 caacggcatc tggaactgcc actaccaaac taacttcatg atgcattcca aaaacactgc
+     2041 cagaactctc atcactggac tactaccaac cttatgcacc ttatctatca cctgtctcat
+     2101 ctggggactc ttcatctggg cctactatac ttactctcat acaaaagaaa aaactcaatg
+     2161 tggaatatgg gactgcaaaa caatgtgcca tataattggc aaagtggatc ctaataagac
+     2221 tctatcttgg gctcaccaga actggacact aacttgtcat acttatatct aggttgggtt
+     2281 cctcctggat acaactatct cggacctgga aatacaaact tcaacaaaga accaaccaac
+     2341 ttatcagaca aagcagctcg caaacacgat ttggaataca acaaacttct aaaacaggga
+     2401 cataatccat atatatactt caaccacgcc gacgaagact tcatcagaga aaccaaccaa
+     2461 gcaacagact ggggaggaaa attcggcaac ttcatcttta aaaccaaaaa gcatctggct
+     2521 ccacaactgg ctcctccaaa gaaagacaaa ccatccacat ccaaagaaga acctcgctac
+     2581 tccttcagac acatcaaagg aggcaccaag cgaggtaagc cattttatat ctttgtaaat
+     2641 aaagctagag cagctaaaag ggcacgcatg tctgaaagcg cagacgcaac acaacaagat
+     2701 gaccaaccaa accagccagt tggggcgact ggagggaaag gtggaggagg tggcggcgga
+     2761 ggtggaagcg gtgttgggca cagtactggt acttttaata atcgtgttga gtaccatcat
+     2821 caaggcgatg aagttattat catctgtcat gcaaccagac acgtccacct caacatgtca
+     2881 gacagagagg aatatatcat ctatgacaca gacagaggtc ccaggtttcc aactgaccaa
+     2941 tctctagagg gtagagatac cataaatgac tcttaccatg ccaaagtaga aacaccatgg
+     3001 cacctcatcc atgcaaacag ctggggatgc tggttctcac ctgcagactg gcaacatcta
+     3061 acaacaattg tcagagacct agtaccaatc caactagacc aagaaattga caacattgtc
+     3121 ataaaaacag taaccaaaca aggcacagga caagaagaaa caacacaata caacaatgat
+     3181 ctcacagcac tcttagaaat tgcagaagat aaaagcaaca ttctaccatg ggtctctgac
+     3241 aacatgtaca tagactcact gggttacatt ccatggagac ctagtaaact accaacatac
+     3301 tgttaccatg taaactactg gaatacaatt gacatggcag caggaccaca aaaaaatcaa
+     3361 tggcaagtac gcaaaaaaga aatcaaatgg gaagacttac aattcacaac aatagaaaac
+     3421 tcaataccaa ttgacctact cagaacagga gacaaatggg aaagcggaac atatcacttc
+     3481 aacacaaaac caacaaaact agtttaccac tggcaaagca caagacacac aggctcatgc
+     3541 catccaacta catcacctac tacagaagga ggacaaggaa caaatgtagc aaccgtcaac
+     3601 tcatggcaat ggggtgacag aagcaaccca acatcagcat ccacatctgt cagaaactgc
+     3661 cacattggat atagctggcc agaatggcaa ttccattaca gtacaggcgg accttgcata
+     3721 aacccaggtg caccattcag ccaagtacca tggggaagca cagcaacagg aaccagacta
+     3781 acacaaggtg catcagaaaa agccatatac gactacatgc acggtgatgc agatcctggt
+     3841 atgcgagaaa cttggtggca agcaaaccaa caaatgacag gacaaacaga ctgggcacca
+     3901 aaaaatactc atcaatctga actaaatgac actgtaccaa ctagaactga agtctggaca
+     3961 caagcatatc acaacacctt cggacctttc actgcagtag atgatgttgg accacaatat
+     4021 ccttggggag caatctgggg aaaagaacca gaaacaacac ataaaccaat gatgtcagca
+     4081 catgcaccat tcctactaaa tggaccacca ggtcaaatcc tagtcaaact agcaccaaac
+     4141 tatactgacc aactagacaa caacggacta cttacaggaa gaatagtcac ttatgcaaca
+     4201 ttctggtggt caggccgtct catcttcaaa ggaaaagcaa gaacaccaag acaatggaac
+     4261 acctacaacc ttccagatat a
+//
+

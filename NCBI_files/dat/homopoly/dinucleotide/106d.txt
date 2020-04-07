@@ -1,0 +1,5 @@
+NC_038919.1 Rabbit picobirnavirus genomic segment 1 (large), ORF1 for hypothetical protein	2014	2019	AGAGAG	+
+NC_038919.1 Rabbit picobirnavirus genomic segment 1 (large), ORF1 for hypothetical protein	2142	2147	ATATAT	+
+NC_038919.1 Rabbit picobirnavirus genomic segment 1 (large), ORF1 for hypothetical protein	1703	1708	CACACA	+
+NC_038919.1 Rabbit picobirnavirus genomic segment 1 (large), ORF1 for hypothetical protein	2141	2146	TATATA	+
+NC_038919.1 Rabbit picobirnavirus genomic segment 1 (large), ORF1 for hypothetical protein	2032	2037	TCTCTC	+

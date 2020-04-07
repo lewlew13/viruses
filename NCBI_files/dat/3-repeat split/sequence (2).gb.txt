@@ -1,0 +1,12 @@
+GOA	RepOver	RepCov	Gene	Locus	GeneLen	Product
+NA	0	0	NA	OAdVAgp01	438	hypothetical protein
+NA	0	0	NA	OAdVAgp02	480	hypothetical protein
+NA	0	0	NA	OAdVAgp03	1191	hypothetical protein
+NA	0	0	NA	OAdVAgp04	351	hypothetical protein
+NA	0	0	NA	OAdVAgp05	3054	DNA polymerase
+NA	0	0	NA	OAdVAgp06	1863	terminal protein precursor
+NA	0	0	pVIII	OAdVAgp14	468	hexon-associated protein
+NA	0	0	NA	OAdVAgp15	192	hypothetical protein
+NA	0	0	NA	OAdVAgp16	384	hypothetical protein
+NA	0	0	NA	OAdVAgp17	303	hypothetical protein
+NA	0	0	NA	OAdVAgp18	366	hypothetical protein

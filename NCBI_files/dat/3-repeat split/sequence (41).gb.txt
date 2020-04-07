@@ -1,0 +1,21 @@
+GOA	RepOver	RepCov	Gene	Locus	GeneLen	Product
+NA	0	0	NA	FDJ46_gp01	474	hypothetical protein
+NA	0	0	NA	FDJ46_gp02	279	hypothetical protein
+NA	0	0	NA	FDJ46_gp03	225	hypothetical protein
+NA	0	0	NA	FDJ46_gp04	267	hypothetical protein
+NA	0	0	NA	FDJ46_gp05	1905	putative replication initiation protein
+NA	0	0	NA	FDJ46_gp06	195	transcription factor
+NA	0	0	NA	FDJ46_gp07	306	hypothetical protein
+NA	0	0	NA	FDJ46_gp08	432	hypothetical protein
+NA	0	0	NA	FDJ46_gp09	591	structural protein
+NA	0	0	NA	FDJ46_gp10	105	structural protein
+NA	0	0	NA	FDJ46_gp11	810	major capsid protein
+NA	0	0	NA	FDJ46_gp12	315	structural protein
+NA	0	0	NA	FDJ46_gp13	123	structural protein
+NA	0	0	NA	FDJ46_gp14	213	structural protein
+NA	1	58	NA	FDJ46_gp15	876	hypothetical protein
+NA	0	0	NA	FDJ46_gp16	1449	putative spike protein
+NA	0	0	NA	FDJ46_gp17	483	structural protein
+NA	0	0	NA	FDJ46_gp18	384	structural protein
+NA	0	0	NA	FDJ46_gp19	162	hypothetical protein
+NA	0	0	NA	FDJ46_gp20	156	hypothetical protein

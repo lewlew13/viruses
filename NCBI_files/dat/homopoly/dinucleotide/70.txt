@@ -1,0 +1,6 @@
+NC_001890.1 Enterobacteria phage Qbeta, complete genome	4215	4176	4183	AGAGAGAG	+
+NC_001890.1 Enterobacteria phage Qbeta, complete genome	4215	1132	1137	CTCTCT	+
+NC_001890.1 Enterobacteria phage Qbeta, complete genome	4215	4177	4182	GAGAGA	+
+NC_001890.1 Enterobacteria phage Qbeta, complete genome	4215	3127	3132	GCGCGC	+
+NC_001890.1 Enterobacteria phage Qbeta, complete genome	4215	1131	1136	TCTCTC	+
+NC_001890.1 Enterobacteria phage Qbeta, complete genome	4215	3172	3177	TCTCTC	+

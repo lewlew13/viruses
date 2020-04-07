@@ -1,0 +1,102 @@
+LOCUS       NC_029921               1471 bp    RNA     linear   VRL 13-AUG-2018
+DEFINITION  Tilapia lake virus isolate Til-4-2011 segment 2, complete sequence.
+ACCESSION   NC_029921
+VERSION     NC_029921.1
+DBLINK      BioProject: PRJNA485481
+KEYWORDS    RefSeq.
+SOURCE      Tilapia lake virus
+  ORGANISM  Tilapia lake virus
+            Viruses; Riboviria; Negarnaviricota; Polyploviricotina;
+            Insthoviricetes; Articulavirales; Amnoonviridae; Tilapinevirus.
+REFERENCE   1  (bases 1 to 1471)
+  AUTHORS   Bacharach,E., Mishra,N., Briese,T., Zody,M.C., Kembou Tsofack,J.E.,
+            Zamostiano,R., Berkowitz,A., Ng,J., Nitido,A., Corvelo,A.,
+            Toussaint,N.C., Abel Nielsen,S.C., Hornig,M., Del Pozo,J.,
+            Bloom,T., Ferguson,H., Eldar,A. and Lipkin,W.I.
+  TITLE     Characterization of a Novel Orthomyxo-like Virus Causing Mass
+            Die-Offs of Tilapia
+  JOURNAL   MBio 7 (2), e00431-16 (2016)
+   PUBMED   27048802
+  REMARK    Publication Status: Online-Only
+REFERENCE   2  (bases 1 to 1471)
+  AUTHORS   Eyngor,M., Zamostiano,R., Kembou Tsofack,J.E., Berkowitz,A.,
+            Bercovier,H., Tinman,S., Lev,M., Hurvitz,A., Galeotti,M.,
+            Bacharach,E. and Eldar,A.
+  TITLE     Identification of a novel RNA virus lethal to tilapia
+  JOURNAL   J. Clin. Microbiol. 52 (12), 4137-4146 (2014)
+   PUBMED   25232154
+REFERENCE   3  (bases 1 to 1471)
+  CONSRTM   NCBI Genome Project
+  TITLE     Direct Submission
+  JOURNAL   Submitted (20-APR-2016) National Center for Biotechnology
+            Information, NIH, Bethesda, MD 20894, USA
+REFERENCE   4  (bases 1 to 1471)
+  AUTHORS   Bacharach,E., Mishra,N., Briese,T., Eldar,A. and Lipkin,W.I.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (22-FEB-2016) Columbia University, The Center for
+            infection and Immunity, 722 West 168th Street, 17th floor, New
+            York, NY 10032, USA
+COMMENT     PROVISIONAL REFSEQ: This record has not yet been subject to final
+            NCBI review. The reference sequence is identical to KU751815.
+            
+            ##Assembly-Data-START##
+            Assembly Method       :: Bowtie 2 v. 2.0.6
+            Sequencing Technology :: Illumina
+            ##Assembly-Data-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..1471
+                     /organism="Tilapia lake virus"
+                     /mol_type="genomic RNA"
+                     /isolate="Til-4-2011"
+                     /host="Tilapia"
+                     /db_xref="taxon:1549864"
+                     /segment="2"
+                     /country="Israel: sea of Galilee"
+                     /collection_date="01-May-2011"
+     gene            complement(55..1428)
+                     /locus_tag="A6I18_s2gp1"
+                     /db_xref="GeneID:27246475"
+     CDS             complement(55..1428)
+                     /locus_tag="A6I18_s2gp1"
+                     /codon_start=1
+                     /product="hypothetical protein"
+                     /protein_id="YP_009246476.1"
+                     /db_xref="GeneID:27246475"
+                     /translation="MSQFGKSFKGRTEVTITEYRSHTVKDVHRSLLTADKSLRKSFCF
+                     RNALNQFLDKDLPLLPIRPKLESRVAVKKSKLRSQLSFRPGLTQEEAIDLYNKGYDGD
+                     SVSGALQDRVVNEPVAYSSADNDKFHRGLAALGYTLADRAFDTCESGFVRAIPTTPCG
+                     FICCGPGSFKDSLGFVIKIGEFWHMYDGFQHFVAVEDAKFLASKSPSFWLAKRLAKRL
+                     NLVPKEDPSIAAAECPCRKVWEASFARAPTALDPFGGRAFCDQGWVYHRDVGYATANH
+                     ISQETLFQQALSVRNLGPQGSANVSGSIHTALDRLRAAYSRGTPASRSILQGLANLIT
+                     PVGENFECDLDKRKLNIKALRSPERYITIEGLVVNLDDVVRGFYLDKAKVTVLSRSKW
+                     MGYEDLPQKPPNGTFYCRKRKAMLLISCSPGTYAKKRKVAVQEDRFKDMRVENFREVA
+                     ENMDLNQ"
+ORIGIN      
+        1 gcaaatcttt ctcattatta ccatatatat agtgaaggct tttgccaaga aaccctactg
+       61 atttagatcc atattttccg ctacctcccg gaaattctca accctcatat ctttaaagcg
+      121 atcctcctgc actgccactt ttcgcttctt tgcgtacgtg cctggactac atgagatgag
+      181 aagcattgcc ttcctctttc tacagtaaaa tgtaccgttc ggaggtttct gaggaaggtc
+      241 ctcgtaaccc atccactttg atctcgagag aacagtgacc ttcgccttgt caaggtagaa
+      301 ccctctaacc acatcgtcca ggtttacaac caggccctct atcgtaatgt acctctcggg
+      361 agaacgtaat gcctttatat tgagcttcct cttgtcgaga tcgcattcaa agttttcacc
+      421 tacaggtgtg atgagatttg caagcccttg cagtatagat ctagaggcgg gcgtccccct
+      481 actgtacgct gctctgagcc tgtccagggc ggtatgtatt gagcctgaga catttgcact
+      541 accttgcggt ccaaggttcc tcactgaaag cgcttgttga aaaagtgttt cctgtgatat
+      601 gtggttagct gttgcatacc ctacgtccct gtggtacacc caaccctggt cgcagaaggc
+      661 cctgcctcca aatggatcta gtgcagtagg tgccctagca aaactagctt cccacacttt
+      721 cctacaaggg cactcagctg ctgctataga tggatcctct tttgggacca gattcagcct
+      781 ctttgcaaga cgttttgcca accaaaacga aggagactta cttgctagga acttagcatc
+      841 ctcgacagcg acgaagtgtt ggaacccgtc atacatgtgc cagaattcgc cgatttttat
+      901 cacaaatcca agtgaatctt tgaaagaacc tggcccacaa catatgaacc cgcatggagt
+      961 ggtaggaatt gctctcacga agccggattc gcatgtatca aatgctctat cagccaaagt
+     1021 gtaccctaga gccgctaagc ccctgtgaaa tttgtcatta tctgcactcg agtaagctac
+     1081 aggctcattg actaccctgt cttgcaaggc acctgagacg ctgtcaccat catagccctt
+     1141 gttgtaaaga tcaattgctt cctcctgagt caaaccgggt ctgaacgaca gctgactcct
+     1201 cagcttagac tttttcacag caaccctgga ctctaatttt ggccgaatgg gcaaaagagg
+     1261 caaatcttta tccaagaact ggtttagggc gttcctaaaa cagaatgact tccttagaga
+     1321 cttgtcagcc gtaagtaagc ttctgtgcac atctttgaca gtatgagagc gatattcggt
+     1381 tattgtgacc tcagttctgc ccttgaatga tttcccaaac tgactcattt ttcagaagta
+     1441 aatgtatttg gtaatagaga gtaaaatttg g
+//
+

@@ -1,0 +1,2 @@
+GOA	RepOver	RepCov	Gene	Locus	GeneLen	Product
+NA	0	0	NA	D1S83_s1gp1	2241	RNA-dependent RNA polymerase

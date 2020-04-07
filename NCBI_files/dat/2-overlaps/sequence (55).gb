@@ -1,0 +1,1387 @@
+LOCUS       NC_005872              28337 bp    DNA     linear   PHG 13-AUG-2018
+DEFINITION  Pyrobaculum spherical virus, complete genome.
+ACCESSION   NC_005872
+VERSION     NC_005872.1
+DBLINK      BioProject: PRJNA485481
+KEYWORDS    RefSeq; ORF101; ORF102; ORF105a; ORF105b; ORF107; ORF117; ORF120;
+            ORF126; ORF129; ORF131; ORF134; ORF137; ORF138; ORF150; ORF163;
+            ORF165a; ORF165b; ORF167; ORF171; ORF172; ORF176; ORF179; ORF183;
+            ORF198; ORF211; ORF228; ORF235; ORF236; ORF239; ORF247; ORF253;
+            ORF270; ORF282; ORF294; ORF314; ORF317; ORF582; ORF61; ORF75;
+            ORF76a; ORF76b; ORF88a; ORF88b; ORF91; ORF97; virus coat protein
+            VP2; virus coat protein VP3; vp2 gene; vp3 gene.
+SOURCE      Pyrobaculum spherical virus
+  ORGANISM  Pyrobaculum spherical virus
+            Viruses; Globuloviridae; Globulovirus.
+REFERENCE   1
+  AUTHORS   Haring,M., Peng,X., Brugger,K., Rachel,R., Stetter,K.O.,
+            Garrett,R.A. and Prangishvili,D.
+  TITLE     Morphology and genome organization of the virus PSV of the
+            hyperthermophilic archaeal genera Pyrobaculum and Thermoproteus: a
+            novel virus family, the Globuloviridae
+  JOURNAL   Virology 323 (2), 233-242 (2004)
+   PUBMED   15193919
+REFERENCE   2  (bases 1 to 28337)
+  CONSRTM   NCBI Genome Project
+  TITLE     Direct Submission
+  JOURNAL   Submitted (12-MAY-2004) National Center for Biotechnology
+            Information, NIH, Bethesda, MD 20894, USA
+REFERENCE   3  (bases 1 to 28337)
+  AUTHORS   Peng,X.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (01-APR-2004) Peng X., Department of Biological
+            Chemistry, University of Copenhagen, soelvgade 83H, 1307
+            Copenhagen, DENMARK
+COMMENT     PROVISIONAL REFSEQ: This record has not yet been subject to final
+            NCBI review. The reference sequence was derived from AJ635161.
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..28337
+                     /organism="Pyrobaculum spherical virus"
+                     /mol_type="genomic DNA"
+                     /host="Pyrobaculum sp. D11"
+                     /host="Thermoproteus tenax"
+                     /db_xref="taxon:270161"
+     gene            120..860
+                     /locus_tag="PyrSV_gp01"
+                     /db_xref="GeneID:4432012"
+     CDS             120..860
+                     /locus_tag="PyrSV_gp01"
+                     /note="ORF247"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="hypothetical protein"
+                     /protein_id="YP_015522.1"
+                     /db_xref="UniProtKB/TrEMBL:Q6ZYK2"
+                     /db_xref="GeneID:4432012"
+                     /translation="MPTRNAYITKTLKTPMPHVNIIDARPDAPITQFALENLITQPDP
+                     REARLYALEVKLAQIETQLKDLQKIATATERIHDLEARLKSLQSMVAELYSMVTKLTE
+                     ALREPPKEAPKPEPPPPPQEKPEENPSPKPEPPPAENKADQLTLSDIERMVLRVLYKK
+                     LKYWASRSDLKVDENGYAVIGRDVNFGVKFSQFVAIMTKFGLSDWVIARGNDKAGYYV
+                     EIKASDMPTALERLKELDRLSNKAITGV"
+     gene            1444..3189
+                     /locus_tag="PyrSV_gp02"
+                     /db_xref="GeneID:4432013"
+     CDS             1444..3189
+                     /locus_tag="PyrSV_gp02"
+                     /note="ORF582"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="hypothetical protein"
+                     /protein_id="YP_015523.1"
+                     /db_xref="UniProtKB/TrEMBL:Q6ZYK1"
+                     /db_xref="GeneID:4432013"
+                     /translation="MVMFNNRSFYLQDMRRQAGGDDVFTHQSADCRIDFQNGLLICIG
+                     IDGDTVTKRITLARTTKKKDEISIFEALRLAGLATTGVHPATLSFTPFKDPESNEVGM
+                     VYVPAVIPTSQKMGFLYDDGGKFGFSTFVAGGTKVFAVDYNSNVVIDVLGQEIPSKEE
+                     FEKALNKFNKELDFLGTYRESVLFVTLYPYLYVHFLRRPIITITGPFRSGKTTVLELV
+                     QSIIGVPTMVRGNFSLAGARGLLAYRHVILDDFGEGAVLEDPNISMLLQYHDRGLVAK
+                     VDDRLKTKVFPLRGVLYLTGGYAINLLRLSSYVDRLFLLKMALSRNMLNTMNAVFNSI
+                     IKDADYYRWAFSRLYLYFHEYYLSLATMLHMPWRRDSIFVTDAINYLIMRTLDSSKEP
+                     TLVVENKAENAKKHAADVHMALILQILKALLRRRALGFEKAKNKMFKVKGQDVEFYHV
+                     QYVQRLEIPSQIGHGTESVSETVSIGATKTISKTISMSKVKQYASPSMVQAVIDMYTY
+                     LSDYLLVASHDGKNYSVWVRADAVDDAIKWLIFTLQEHAPHYLDNFPTIVDDVVRKAY
+                     EEVMRRLEGDKFKNK"
+     gene            3395..4336
+                     /locus_tag="PyrSV_gp03"
+                     /db_xref="GeneID:4432014"
+     CDS             3395..4336
+                     /locus_tag="PyrSV_gp03"
+                     /note="hypothetical protein; The Globuloviridae consists
+                     of two viruses, Pyrobaculum spherical virus (PSV) and
+                     Thermoproteus tenax spherical virus 1 (TTSV1); PSV and
+                     TTSV1 are linear dsDNA viruses that infect extremophilic
+                     crenarchea; the Globuloviridae are known to infect
+                     Thermoproteus tenax and Pyrobaculum spp.; much of the ORFs
+                     of PSV and TTSV1 have little similarity to known proteins"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="hypothetical protein"
+                     /protein_id="YP_015524.1"
+                     /db_xref="UniProtKB/TrEMBL:Q6ZYK0"
+                     /db_xref="GeneID:4432014"
+                     /translation="MDFVRLVTATVYAYFIVSSIFGVTNIWVDIALYLILLVSVVYAT
+                     EVNMALSNARVWYNVMVVSVAMALPQTVFAVNLAVSGKPLAAWIDTLGSTLVDAIFVT
+                     AVVRRHVVGSPLVRSPLVVFFLFAWSILAVGLNIMAWHPELYTSTHFPLFYAIAGLLL
+                     PIILVRGNVHGLPSGRDMLMLTNNAFATLVASYMLSEAVAQLHIEEVQLGVVSTVLAT
+                     LPDFIVGMLIRSVVSEILSSQAGDQEMVFTMLAAAVHDQLTIPGLIMLLAPYAMGYYP
+                     HLFNIVVVLLKFTLLDRRLFWFVGVPGGLLALVAPPV"
+     gene            complement(4421..4918)
+                     /locus_tag="PyrSV_gp04"
+                     /db_xref="GeneID:4432019"
+     CDS             complement(4421..4918)
+                     /locus_tag="PyrSV_gp04"
+                     /note="hypothetical protein; The Globuloviridae consists
+                     of two viruses, Pyrobaculum spherical virus (PSV) and
+                     Thermoproteus tenax spherical virus 1 (TTSV1); PSV and
+                     TTSV1 are linear dsDNA viruses that infect extremophilic
+                     crenarchea; the Globuloviridae are known to infect
+                     Thermoproteus tenax and Pyrobaculum spp.; much of the ORFs
+                     of PSV and TTSV1 have little similarity to known proteins"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="hypothetical protein"
+                     /protein_id="YP_015525.1"
+                     /db_xref="UniProtKB/TrEMBL:Q6ZYJ9"
+                     /db_xref="GeneID:4432019"
+                     /translation="MPIGHSREVLVRLRDILALLADGCKTTSLIQQRLGLSHGRAKAL
+                     IYVLEKEGRVTRVAFGNVALVCLSMDQYRQLVDGMIREVERLVTTNKLKFISPPRLHD
+                     LIIKDPQARKFFSSIIPIAHRTAIILSFLNHLLKMIYGEPYVKTDETVYLTANRKVHI
+                     EPPAK"
+     gene            complement(4983..5480)
+                     /locus_tag="PyrSV_gp05"
+                     /db_xref="GeneID:4432020"
+     CDS             complement(4983..5480)
+                     /locus_tag="PyrSV_gp05"
+                     /note="hypothetical protein; The Globuloviridae consists
+                     of two viruses, Pyrobaculum spherical virus (PSV) and
+                     Thermoproteus tenax spherical virus 1 (TTSV1); PSV and
+                     TTSV1 are linear dsDNA viruses that infect extremophilic
+                     crenarchea; the Globuloviridae are known to infect
+                     Thermoproteus tenax and Pyrobaculum spp.; much of the ORFs
+                     of PSV and TTSV1 have little similarity to known proteins"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="hypothetical protein"
+                     /protein_id="YP_015526.1"
+                     /db_xref="UniProtKB/TrEMBL:Q6ZYJ8"
+                     /db_xref="GeneID:4432020"
+                     /translation="MPTGITERVKNRKKAVLELLADGCKSTSYIMRTLGTTHVEAYYV
+                     LKTLAREGCIREWKIGKSAVWCLNDDEYNNLVNTILREIQRIVESYNLKFVYPMRLYR
+                     LIQKDYKVLRLIAKLVPVDYRNAAILSFLNGALRMLYGEPYTKGEKTVYFVTKSGINQ
+                     PQTTV"
+     gene            complement(5453..5638)
+                     /locus_tag="PyrSV_gp06"
+                     /db_xref="GeneID:4432021"
+     CDS             complement(5453..5638)
+                     /locus_tag="PyrSV_gp06"
+                     /note="ORF61"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="hypothetical protein"
+                     /protein_id="YP_015527.1"
+                     /db_xref="UniProtKB/TrEMBL:Q6ZYJ7"
+                     /db_xref="GeneID:4432021"
+                     /translation="MAPLIMVCLRKDWHIGQSRLTYIIATSIEKADTPINNPSPQQKP
+                     LKPHNIRQICQPVLQKG"
+     gene            5493..6008
+                     /locus_tag="PyrSV_gp07"
+                     /db_xref="GeneID:4432022"
+     CDS             5493..6008
+                     /locus_tag="PyrSV_gp07"
+                     /note="ORF172"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="hypothetical protein"
+                     /protein_id="YP_015528.1"
+                     /db_xref="UniProtKB/TrEMBL:Q6ZYJ6"
+                     /db_xref="GeneID:4432022"
+                     /translation="MWGFNGFCWGLGLLMGVSAFSMLVAIIYVKRDCPICQSFLKHTI
+                     IKGATARKCVPLIFKDVDMVPLSEKRLVWSYEFDPNLGLVFRIYVPFLVIADVDEKYS
+                     IKQIFFKTPLIPKIPVGFSEPEVREVIYTTYSWCGYGKALSKDVEPSGGVEPVEKPRR
+                     RRRSPRSEDNE"
+     gene            6118..6381
+                     /locus_tag="PyrSV_gp08"
+                     /db_xref="GeneID:4432023"
+     CDS             6118..6381
+                     /locus_tag="PyrSV_gp08"
+                     /note="ORF88a"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="hypothetical protein"
+                     /protein_id="YP_015529.1"
+                     /db_xref="UniProtKB/TrEMBL:Q6ZYJ5"
+                     /db_xref="GeneID:4432023"
+                     /translation="MAEDPLRECVYQLYYNIIRTTVGVYVPSRLAQCLAVLKLQLIFI
+                     AKSTGDDIDFAMSNWGYTCGPNFCAVPANFVEILVYAKTRFGY"
+     gene            6420..6830
+                     /locus_tag="PyrSV_gp09"
+                     /db_xref="GeneID:4432024"
+     CDS             6420..6830
+                     /locus_tag="PyrSV_gp09"
+                     /note="ORF137"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="hypothetical protein"
+                     /protein_id="YP_015530.1"
+                     /db_xref="InterPro:IPR010920"
+                     /db_xref="UniProtKB/TrEMBL:Q6ZYJ4"
+                     /db_xref="GeneID:4432024"
+                     /translation="MGAPNQQQTQDRSVDFFTNKIGCNVSSPLKHVDIVGEIVEEAVY
+                     NFLIDAGDKMCVGNKIGVWKVSKCEGSSGSGGERRKSLYAKVPKGIGVTVYLANGRVQ
+                     GRLIDIGVYEVLVEVGGDIIYIHKDLVYALCWPK"
+     gene            6815..7519
+                     /locus_tag="PyrSV_gp10"
+                     /db_xref="GeneID:4432025"
+     CDS             6815..7519
+                     /locus_tag="PyrSV_gp10"
+                     /note="ORF235"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="hypothetical protein"
+                     /protein_id="YP_015531.1"
+                     /db_xref="UniProtKB/TrEMBL:Q6ZYJ3"
+                     /db_xref="GeneID:4432025"
+                     /translation="MLAQVNRGNFLLDQVNSLVDKALEFEESRWQWQTYVNVFEPLVT
+                     KYFECRRTKVAGCVNPDCRFQRIIAYYVCATKFNGVDLYFALKFYVKSGLPVIGLSHH
+                     IMLKGEASEHRYYPSIDWDSNLPPPKELLERAVFWWHYRSGSKGIEAWHIVLPYRRRW
+                     YHAIYDMMPYTDKMHWALTARRILKQGIYEDFGILRVWWLGDELIDYYVNENDPMAWL
+                     NLKLRRLFWLREYERV"
+     gene            7506..8222
+                     /locus_tag="PyrSV_gp11"
+                     /db_xref="GeneID:4432026"
+     CDS             7506..8222
+                     /locus_tag="PyrSV_gp11"
+                     /note="hypothetical protein; The Globuloviridae consists
+                     of two viruses, Pyrobaculum spherical virus (PSV) and
+                     Thermoproteus tenax spherical virus 1 (TTSV1); PSV and
+                     TTSV1 are linear dsDNA viruses that infect extremophilic
+                     crenarchea; the Globuloviridae are known to infect
+                     Thermoproteus tenax and Pyrobaculum spp.; much of the ORFs
+                     of PSV and TTSV1 have little similarity to known proteins"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="hypothetical protein"
+                     /protein_id="YP_015532.1"
+                     /db_xref="UniProtKB/TrEMBL:Q6ZYJ2"
+                     /db_xref="GeneID:4432026"
+                     /translation="MSAFDEFNEGFGLDVSDTPEELAFETESAIEEIESETSPGDQPK
+                     GSEPEEIRVWAEEKARKAVEEGREVTNWADWIMGWRTPNASEKKMEFMYWYTRTYLEE
+                     AKDIRPDIADALARGMAGLAFGRTDWVASMLDPQIMRHIYTDPEVARIYSETRDMLRR
+                     VSDYYISLTTMELGKVADIIAEAKAKGENPEVVAREIAEAVPRLSPKSLYFNLYYIGR
+                     SIGDNYVLEVARVLSKMRRR"
+     gene            8167..8799
+                     /locus_tag="PyrSV_gp12"
+                     /db_xref="GeneID:4432027"
+     CDS             8167..8799
+                     /locus_tag="PyrSV_gp12"
+                     /note="Protein sequence is in conflict with the conceptual
+                     translation; ORF211"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="hypothetical protein"
+                     /protein_id="YP_015533.1"
+                     /db_xref="UniProtKB/TrEMBL:Q6ZYJ1"
+                     /db_xref="GeneID:4432027"
+                     /translation="MTTTCWRWLGCSLRCGVDRLKYHKEKFFMPNFATADIVNDYNAQ
+                     QVLLTNIEWMFLFAFVLAVLFTLVDRESRASMRHFLSDLMVRWGLAGLGLWTIVXIFF
+                     GLYELGLQRGLFHFIPFVGIAEYGGVWGVAISGAMALLFFVSSLFLQALIRTPNVTKV
+                     VRTPYYPYLEEYAHYLYQWWRYYQQYQDYYQAHQQEEYAYATNRQRDRSF"
+     gene            8815..9135
+                     /locus_tag="PyrSV_gp13"
+                     /db_xref="GeneID:4432028"
+     CDS             8815..9135
+                     /locus_tag="PyrSV_gp13"
+                     /note="ORF107"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="hypothetical protein"
+                     /protein_id="YP_015534.1"
+                     /db_xref="UniProtKB/TrEMBL:Q6ZYJ0"
+                     /db_xref="GeneID:4432028"
+                     /translation="MKTQTRPKKRRPKNLERLYLAPIRSDGLLVVVEGGRSYTKQEIM
+                     LRATAFLNVSDRIECEICGRVYDGTNYFMVEYTGLLDKLRHAYCGDCKPQIKKILDII
+                     YRRI"
+     gene            9132..9491
+                     /locus_tag="PyrSV_gp14"
+                     /db_xref="GeneID:4432029"
+     CDS             9132..9491
+                     /locus_tag="PyrSV_gp14"
+                     /note="ORF120"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="hypothetical protein"
+                     /protein_id="YP_015535.1"
+                     /db_xref="UniProtKB/TrEMBL:Q6ZYI9"
+                     /db_xref="GeneID:4432029"
+                     /translation="MTARNPFRKYRNKYLDKFLITVAIELALFSYIIAVYVYKLPLIF
+                     SRWALPLIISTILAGFVLLYLVFASMFYIFQTLYFWRLERLYERNPRLAVRYFAKDYL
+                     SEEAKLARKALSLVGLS"
+     gene            9636..10319
+                     /locus_tag="PyrSV_gp15"
+                     /db_xref="GeneID:4432030"
+     CDS             9636..10319
+                     /locus_tag="PyrSV_gp15"
+                     /note="hypothetical protein; The Globuloviridae consists
+                     of two viruses, Pyrobaculum spherical virus (PSV) and
+                     Thermoproteus tenax spherical virus 1 (TTSV1); PSV and
+                     TTSV1 are linear dsDNA viruses that infect extremophilic
+                     crenarchea; the Globuloviridae are known to infect
+                     Thermoproteus tenax and Pyrobaculum spp.; much of the ORFs
+                     of PSV and TTSV1 have little similarity to known proteins"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="hypothetical protein"
+                     /protein_id="YP_015536.1"
+                     /db_xref="UniProtKB/TrEMBL:Q6ZYI8"
+                     /db_xref="GeneID:4432030"
+                     /translation="MPKIKIIDRMSGKTWDADVDTEKLCLSSTWSTMFGVGQKCLPMT
+                     PDRFSQVMKYVKPGFGSVYVEALVLPDTLRVFVADLVVISPRGVDITEMFYDLRLGEV
+                     GIIFGNAFMPVRINWENAKCEGRTCVIFGALVRDDGVLRHVPIIYEKEYLEWLRAMLS
+                     KRPAESWEVIMQRLQIYESTLNRLLEELSKLADRSAYELAVMVIQQARNIMSQVQALT
+                     QQPRGGGQA"
+     gene            10344..11102
+                     /locus_tag="PyrSV_gp16"
+                     /db_xref="GeneID:4432031"
+     CDS             10344..11102
+                     /locus_tag="PyrSV_gp16"
+                     /note="hypothetical protein; The Globuloviridae consists
+                     of two viruses, Pyrobaculum spherical virus (PSV) and
+                     Thermoproteus tenax spherical virus 1 (TTSV1); PSV and
+                     TTSV1 are linear dsDNA viruses that infect extremophilic
+                     crenarchea; the Globuloviridae are known to infect
+                     Thermoproteus tenax and Pyrobaculum spp.; much of the ORFs
+                     of PSV and TTSV1 have little similarity to known proteins"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="hypothetical protein"
+                     /protein_id="YP_015537.1"
+                     /db_xref="UniProtKB/TrEMBL:Q6ZYI7"
+                     /db_xref="GeneID:4432031"
+                     /translation="MFMSSTNIRHGRRIGKGMVVAVLILALLIGYAIYASFNRGTSGG
+                     GGGSNTTTTITGTSAPSNVLYPNAALANGFDLILVEDHVNVNSGQYSIVASAVGSYRS
+                     IVAYGGSSVSGNITNGIAVIKYGGYEIPVVGFASTNSSIVQDFPGIQVRLSTSGGYVL
+                     YTPLSMAIYYRHLQYNISNTVVHVWVPSKTQPATLASASLHVVIDPEYGTYYINGVAY
+                     GLDMDTPPRQYRGVLRSWLVYTTAGGSYVFTINP"
+     gene            11132..12013
+                     /locus_tag="PyrSV_gp17"
+                     /db_xref="GeneID:4432032"
+     CDS             11132..12013
+                     /locus_tag="PyrSV_gp17"
+                     /note="hypothetical protein; The Globuloviridae consists
+                     of two viruses, Pyrobaculum spherical virus (PSV) and
+                     Thermoproteus tenax spherical virus 1 (TTSV1); PSV and
+                     TTSV1 are linear dsDNA viruses that infect extremophilic
+                     crenarchea; the Globuloviridae are known to infect
+                     Thermoproteus tenax and Pyrobaculum spp.; much of the ORFs
+                     of PSV and TTSV1 have little similarity to known proteins"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="hypothetical protein"
+                     /protein_id="YP_015538.1"
+                     /db_xref="UniProtKB/TrEMBL:Q6ZYI6"
+                     /db_xref="GeneID:4432032"
+                     /translation="MSAIAETIGKYGILGLLAAFVPAFVHGAMAGAVGLSGNPAIATI
+                     QIIAYMAIVAYWARHSVVDGLLAGIGLGAGVVAVSQAHDLAIQGILFGIGTLINTIVD
+                     YIISGFLMGLGYGFLMGISPTAILAGLAGFLFGVVVMLLVRVGNLLTEALELGITALF
+                     KNLSVGYAALIAPFVGGIFVGVPLGVMLLVFGFALAMGLGFVVGLAIASLLFMFGLVW
+                     AFIGFILNIGLLVAALVIFKTFTKSTDVIQILLDLAVIFIFKFIGPALYAAGYAGLVT
+                     RHRVRALYFIALGALGS"
+     gene            12013..12363
+                     /locus_tag="PyrSV_gp18"
+                     /db_xref="GeneID:4432033"
+     CDS             12013..12363
+                     /locus_tag="PyrSV_gp18"
+                     /note="ORF117"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="hypothetical protein"
+                     /protein_id="YP_015539.1"
+                     /db_xref="UniProtKB/TrEMBL:Q6ZYI5"
+                     /db_xref="GeneID:4432033"
+                     /translation="MKWFTHIIWGAFFPILLGVDVREAVSLAVFHTVLTDTLGHVGHG
+                     PYVRRASYHDVLSLFFGIMIAAMMHNLAYLWLGAIHVVLDKLSPGRLGVSYLYSLVWA
+                     IIPAIILYILGVHL"
+     gene            12350..13111
+                     /gene="vp3"
+                     /locus_tag="PyrSV_gp19"
+                     /db_xref="GeneID:2806861"
+     CDS             12350..13111
+                     /gene="vp3"
+                     /locus_tag="PyrSV_gp19"
+                     /function="structural protein"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="virus coat protein VP3"
+                     /protein_id="YP_015540.1"
+                     /db_xref="GOA:Q6ZYI4"
+                     /db_xref="UniProtKB/TrEMBL:Q6ZYI4"
+                     /db_xref="GeneID:2806861"
+                     /translation="MSIFSMRLSKIPMPLLIAALVATTAVVVYLQLSVVSVPIVADPN
+                     FTTTLVAGTPYLWRGAASEFNIASNATIKLTYMPVAHVIYLNGPLGNITLGGGKWVVY
+                     LKGGRPLLVEKVTYSTGFSVYYIFKLVNMTKVSGLSVLVPNVFTVGDVLSSDEFSAIL
+                     SLGATTPLYRVTQITTNGTHIMVQLGDASLSQVDQTDYFQLPPVVETTATKITSSGFG
+                     VSYVANTTTVSAYVMPYQHIVIVPKANARVVITAK"
+     gene            13172..13912
+                     /gene="vp2"
+                     /locus_tag="PyrSV_gp20"
+                     /db_xref="GeneID:2806860"
+     CDS             13172..13912
+                     /gene="vp2"
+                     /locus_tag="PyrSV_gp20"
+                     /function="structural protein"
+                     /note="virus coat protein VP2; viral structural protein;
+                     encapsidates viral nucleic acid; The Globuloviridae
+                     consists of two viruses, Pyrobaculum spherical virus (PSV)
+                     and Thermoproteus tenax spherical virus 1 (TTSV1); PSV and
+                     TTSV1 are linear dsDNA viruses that infect extremophilic
+                     crenarchea; the Globuloviridae are known to infect
+                     Thermoproteus tenax and Pyrobaculum spp.; much of the ORFs
+                     of PSV and TTSV1 have little similarity to known proteins"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="virus coat protein VP2"
+                     /protein_id="YP_015541.1"
+                     /db_xref="GOA:Q6ZYI3"
+                     /db_xref="UniProtKB/TrEMBL:Q6ZYI3"
+                     /db_xref="GeneID:2806860"
+                     /translation="MLLPEGAGLLGLLAIALLNRKAIPIALITLFVSAAVAVAGGAVY
+                     AAFTPLMAGAIALYALRQEERVIEKVVGLFLGLSIIWASDNTAIAQVFATISYEIVKP
+                     FFDALVNVMGVIGFGGVLGALLAWSLLSPRLISIAEKEPLVSMGYVLLGAVVLAGAVA
+                     AVPPYVALAMAIALLNQFSRALRGNMEALGEIAPALFILATLIPPTTLAPLGAVLAVI
+                     ELAFGVLSRRHLAGAAMWATAAMLVAGL"
+     gene            13909..14859
+                     /locus_tag="PyrSV_gp21"
+                     /db_xref="GeneID:4432034"
+     CDS             13909..14859
+                     /locus_tag="PyrSV_gp21"
+                     /note="hypothetical protein; The Globuloviridae consists
+                     of two viruses, Pyrobaculum spherical virus (PSV) and
+                     Thermoproteus tenax spherical virus 1 (TTSV1); PSV and
+                     TTSV1 are linear dsDNA viruses that infect extremophilic
+                     crenarchea; the Globuloviridae are known to infect
+                     Thermoproteus tenax and Pyrobaculum spp.; much of the ORFs
+                     of PSV and TTSV1 have little similarity to known proteins"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="hypothetical protein"
+                     /protein_id="YP_015542.1"
+                     /db_xref="UniProtKB/TrEMBL:Q6ZYI2"
+                     /db_xref="GeneID:4432034"
+                     /translation="MSVLRILSKVSVEAVSLSIAIVIFAILGFSLFSIVGAGLAYLGI
+                     RALMRSWVLDHPLPSPMQVFVYLLALFGLIGGTQFIVFAAVLIAAFLLKEVKLKAPSV
+                     DGLIESMKMGLVGAFVPLLGLILPIIPFYETAKKFRYDVXGALALLALVLVGIIGMYT
+                     AALTASTDKVSLLSIGGVFNDAFAGLLGPLSESNPLYWVGVISYEEFIGRVTPFANAM
+                     FTLLHLPSRLWAGYKMTGSDLFAIGIAFILLMSINFSARWLWGIYQKHGIVASILGHA
+                     FYNAGVSAFVDLLKGNPLYAMVLLFLGLVGFLYSLGKRVT"
+     gene            14856..15257
+                     /locus_tag="PyrSV_gp22"
+                     /db_xref="GeneID:4432035"
+     CDS             14856..15257
+                     /locus_tag="PyrSV_gp22"
+                     /note="ORF134"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="hypothetical protein"
+                     /protein_id="YP_015543.1"
+                     /db_xref="UniProtKB/TrEMBL:Q6ZYI1"
+                     /db_xref="GeneID:4432035"
+                     /translation="MMRYILAAIAILAALAGVGYITQTRGTVVYGVFDGVGVAYEGHY
+                     YLIEGNAVKTPANSTILKGKFILWGGYLINGTEVKPKHVMAAFVTNNVIVVTGTIEVV
+                     AGEVHKIGNYTVVTGNPARVLVVDGYLYHPK"
+     gene            15448..15861
+                     /locus_tag="PyrSV_gp23"
+                     /db_xref="GeneID:4432036"
+     CDS             15448..15861
+                     /locus_tag="PyrSV_gp23"
+                     /note="ORF138"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="hypothetical protein"
+                     /protein_id="YP_015544.1"
+                     /db_xref="UniProtKB/TrEMBL:Q6ZYI0"
+                     /db_xref="GeneID:4432036"
+                     /translation="MSAMNRLGFIILVTLALTALYYLSVTMFKPSQPQVVVVKSSGAQ
+                     NTNQSSTQTPTPVMPGGLYACTKAVYLKVGNVYLCADVVYNVLKTDDSLQVDFQGGVV
+                     QGYFTFISAPTCPVTTTPQGILIPCRTQILIPTKQ"
+     gene            15893..16120
+                     /locus_tag="PyrSV_gp24"
+                     /db_xref="GeneID:4432037"
+     CDS             15893..16120
+                     /locus_tag="PyrSV_gp24"
+                     /note="hypothetical protein; The Globuloviridae consists
+                     of two viruses, Pyrobaculum spherical virus (PSV) and
+                     Thermoproteus tenax spherical virus 1 (TTSV1); PSV and
+                     TTSV1 are linear dsDNA viruses that infect extremophilic
+                     crenarchea; the Globuloviridae are known to infect
+                     Thermoproteus tenax and Pyrobaculum spp.; much of the ORFs
+                     of PSV and TTSV1 have little similarity to known proteins"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="hypothetical protein"
+                     /protein_id="YP_015545.1"
+                     /db_xref="UniProtKB/TrEMBL:Q6ZYH9"
+                     /db_xref="GeneID:4432037"
+                     /translation="MVWEFLRGSTSPPRNVCVVTPTGPFDFTIQCNVTQETIRQIVDK
+                     EKVCIIERDEKSGMLMSYCGQGKDVAARLFR"
+     gene            16117..16605
+                     /locus_tag="PyrSV_gp25"
+                     /db_xref="GeneID:4432038"
+     CDS             16117..16605
+                     /locus_tag="PyrSV_gp25"
+                     /note="hypothetical protein; The Globuloviridae consists
+                     of two viruses, Pyrobaculum spherical virus (PSV) and
+                     Thermoproteus tenax spherical virus 1 (TTSV1); PSV and
+                     TTSV1 are linear dsDNA viruses that infect extremophilic
+                     crenarchea; the Globuloviridae are known to infect
+                     Thermoproteus tenax and Pyrobaculum spp.; much of the ORFs
+                     of PSV and TTSV1 have little similarity to known proteins"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="hypothetical protein"
+                     /protein_id="YP_015546.1"
+                     /db_xref="UniProtKB/TrEMBL:Q6ZYH8"
+                     /db_xref="GeneID:4432038"
+                     /translation="MTALRKAIVLIYLAFLGFSWLQLVWFFGYPSVGGFILTPSAHPY
+                     IPPLSLLIVKPSNECNGWAVKLFEINWMGLKLYLPVVHYFAKVGPVTYEYFNYYVITN
+                     NVWDNVVNYFHRIIDPKWVGXQYNGPCVAEVVAVIPAPLVILIMAIALTTAIYYGAKR
+                     VW"
+     gene            16668..16958
+                     /locus_tag="PyrSV_gp26"
+                     /db_xref="GeneID:4432039"
+     CDS             16668..16958
+                     /locus_tag="PyrSV_gp26"
+                     /note="hypothetical protein; The Globuloviridae consists
+                     of two viruses, Pyrobaculum spherical virus (PSV) and
+                     Thermoproteus tenax spherical virus 1 (TTSV1); PSV and
+                     TTSV1 are linear dsDNA viruses that infect extremophilic
+                     crenarchea; the Globuloviridae are known to infect
+                     Thermoproteus tenax and Pyrobaculum spp.; much of the ORFs
+                     of PSV and TTSV1 have little similarity to known proteins"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="hypothetical protein"
+                     /protein_id="YP_015547.1"
+                     /db_xref="UniProtKB/TrEMBL:Q6ZYH7"
+                     /db_xref="GeneID:4432039"
+                     /translation="MSYNISGGMAIGSYPDAVQGTPFVEAAEEKYKMRYALGVCTALR
+                     EADPKGFEETFGAGEAGLRNCALKAGAYADRNFDIWKVKWPTALRAQIATFG"
+     gene            17032..17346
+                     /locus_tag="PyrSV_gp27"
+                     /db_xref="GeneID:4432040"
+     CDS             17032..17346
+                     /locus_tag="PyrSV_gp27"
+                     /note="ORF105a"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="hypothetical protein"
+                     /protein_id="YP_015548.1"
+                     /db_xref="UniProtKB/TrEMBL:Q6ZYH6"
+                     /db_xref="GeneID:4432040"
+                     /translation="MHIQTVLKTVLEAKRRDYYGVVLKAAQILEEEDLCKMAALVVAI
+                     VTYRKGTIDPVIVDFAAKCLNKYPNLIHAFTRIGVNPPGSVAGADSAIQDTRGGGKEP
+                     IN"
+     gene            17246..17473
+                     /locus_tag="PyrSV_gp28"
+                     /db_xref="GeneID:4432041"
+     CDS             17246..17473
+                     /locus_tag="PyrSV_gp28"
+                     /note="ORF76b"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="hypothetical protein"
+                     /protein_id="YP_015549.1"
+                     /db_xref="UniProtKB/TrEMBL:Q6ZYH5"
+                     /db_xref="GeneID:4432041"
+                     /translation="MLSPELASILQALWQVLTQLFKILEVVVKSPLTSIFVGAILAFG
+                     GRHVIYGIGLALILYGVLALLSAWLGFKLVP"
+     gene            17470..17694
+                     /locus_tag="PyrSV_gp29"
+                     /db_xref="GeneID:4432042"
+     CDS             17470..17694
+                     /locus_tag="PyrSV_gp29"
+                     /note="hypothetical protein; The Globuloviridae consists
+                     of two viruses, Pyrobaculum spherical virus (PSV) and
+                     Thermoproteus tenax spherical virus 1 (TTSV1); PSV and
+                     TTSV1 are linear dsDNA viruses that infect extremophilic
+                     crenarchea; the Globuloviridae are known to infect
+                     Thermoproteus tenax and Pyrobaculum spp.; much of the ORFs
+                     of PSV and TTSV1 have little similarity to known proteins"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="hypothetical protein"
+                     /protein_id="YP_015550.1"
+                     /db_xref="UniProtKB/TrEMBL:Q6ZYH4"
+                     /db_xref="GeneID:4432042"
+                     /translation="MNFVTASELPQALMNKDFKRFMRELRDRLSEAGIYIDRIKAITT
+                     SGDIVVVYSDAIVVELSWTNKSVIRVRERL"
+     gene            17717..18526
+                     /locus_tag="PyrSV_gp30"
+                     /db_xref="GeneID:4432043"
+     CDS             17717..18526
+                     /locus_tag="PyrSV_gp30"
+                     /note="ORF270"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="hypothetical protein"
+                     /protein_id="YP_015551.1"
+                     /db_xref="UniProtKB/TrEMBL:Q6ZYH3"
+                     /db_xref="GeneID:4432043"
+                     /translation="MRIPIPLIMAAAVAVGAIVTIIIQVNLQVLGSWDDRYAAFNGTH
+                     VYQTGPMISTSYKTLYLGFGTATFQNPVSVYYLDKVRSGAGGGNGDLGKYLPVRLMVT
+                     SGSLPTNTYLKWTNPLVSTDTRAIYLVSGTSRGYVLGRYYASGAGVWVDVAVPIYYKV
+                     SESSVLIYPMEKAAVNPSEGCTVLKNAGSPFTSIYKYVYAVLDGQAYDCSYSSWSSTT
+                     VGWTSVASSVTSAALYPSPTYYKVTVNNVDIYLSYWYVVNADPGYFAVKPG"
+     gene            18536..19381
+                     /locus_tag="PyrSV_gp31"
+                     /db_xref="GeneID:4432044"
+     CDS             18536..19381
+                     /locus_tag="PyrSV_gp31"
+                     /note="ORF282"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="hypothetical protein"
+                     /protein_id="YP_015552.1"
+                     /db_xref="UniProtKB/TrEMBL:Q6ZYH2"
+                     /db_xref="GeneID:4432044"
+                     /translation="MHPFFNMPRNLNRIPIPMMLALAVAVGLAVTIIIQITVLAPLPA
+                     VVAPIETSASSLDTGSSSYTTSLTVASGYYVNYPTLAGLGKIQLKVNTTGWYYLQNDL
+                     VLTVARRSTGDVTFTLGSGYKVYVKEINTTHAFVFYDEYSTGVVAKKVQVGSTGWYIY
+                     HPVTTNYDTTTVNTIKSLLTSLGYTYAYVFQPRADYLKFDPSTKSFSIYFDYVGSDGT
+                     VNLKYHYFTNSTSFTPLPINAAVTVNGIEQIDMYNYVLYPTWALFYYQATSSVETAFT
+                     ITPVQ"
+     gene            19430..19822
+                     /locus_tag="PyrSV_gp32"
+                     /db_xref="GeneID:4432045"
+     CDS             19430..19822
+                     /locus_tag="PyrSV_gp32"
+                     /note="ORF131"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="hypothetical protein"
+                     /protein_id="YP_015553.1"
+                     /db_xref="UniProtKB/TrEMBL:Q6ZYH1"
+                     /db_xref="GeneID:4432045"
+                     /translation="MGETPEGPMPNKKGKSEGGQIRTIPLKYYKQEYDMAADLVRMLR
+                     GLGVFMHAKCPRCGAEGSVSIVETKNGYKYLVIRHPDGGTHTVPKTDISAILKELCEV
+                     KKDLEYVLKRYKEYEEEGGVKFCAEGRK"
+     gene            19819..20268
+                     /locus_tag="PyrSV_gp33"
+                     /db_xref="GeneID:4432046"
+     CDS             19819..20268
+                     /locus_tag="PyrSV_gp33"
+                     /note="ORF150"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="hypothetical protein"
+                     /protein_id="YP_015554.1"
+                     /db_xref="UniProtKB/TrEMBL:Q6ZYH0"
+                     /db_xref="GeneID:4432046"
+                     /translation="MRLVVAGVALELLDALTTLLIISFGLGREANPRLFFVNEEPLWL
+                     FPIFLAQAAFVGGVGYLAWLEKRRGYMRAYYVTASPVVAYLIHKSVVVVNNVAVGLFG
+                     FEGLDYYLSEFIKTSMVVGGLTYGIVRAVTLKIHYKALHDVQFKGEA"
+     gene            20438..21031
+                     /locus_tag="PyrSV_gp34"
+                     /db_xref="GeneID:4432047"
+     CDS             20438..21031
+                     /locus_tag="PyrSV_gp34"
+                     /note="ORF198"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="hypothetical protein"
+                     /protein_id="YP_015555.1"
+                     /db_xref="UniProtKB/TrEMBL:Q6ZYG9"
+                     /db_xref="GeneID:4432047"
+                     /translation="MAETKSVVAWNSLYVRVKSHSGWSNYRAWGDGTQYGIEFKGTTL
+                     GYWKDVLNLLGRMVRAKAEPPREVVKTAKLLFEHVEAYLRHSHIFGDDFVGTAVDVED
+                     PESPYIDFTLYMEVTTKHIDVVDHIVSDGGEDLGEAVPGWFVTIAATYEGYDGGNGEG
+                     KHTVKRKLVFKGQIDRDVLWREFYTTIKRAVNALPLE"
+     gene            21144..21644
+                     /locus_tag="PyrSV_gp35"
+                     /db_xref="GeneID:4432048"
+     CDS             21144..21644
+                     /locus_tag="PyrSV_gp35"
+                     /note="ORF167"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="hypothetical protein"
+                     /protein_id="YP_015556.1"
+                     /db_xref="UniProtKB/TrEMBL:Q6ZYG8"
+                     /db_xref="GeneID:4432048"
+                     /translation="MAKKKKTQIQEGLEAPQKDTVFPETGAAQGAAAATQVTIPDDVA
+                     ELIRATLKVAIAQRKIYGLSTTLTSLTKTVARALEKYIDGIPTATLRDFIKREVTAMG
+                     YPVIEARVDYTGVPFIAETVILYRNYEEIVDMIRTGRAETLKPVITGDGIDPIYDKMV
+                     KTGSNA"
+     gene            21637..21909
+                     /locus_tag="PyrSV_gp36"
+                     /db_xref="GeneID:4432049"
+     CDS             21637..21909
+                     /locus_tag="PyrSV_gp36"
+                     /note="ORF91"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="hypothetical protein"
+                     /protein_id="YP_015557.1"
+                     /db_xref="UniProtKB/TrEMBL:Q6ZYG7"
+                     /db_xref="GeneID:4432049"
+                     /translation="MPKSIWELEEEVRRLLLSGVEFQGRKVGATVGADWFKWVKLEET
+                     NPRRLLAIYVKEATMVTVYAIVSDDDKVDIISVSLDRMCRGGGAHA"
+     gene            21902..22288
+                     /locus_tag="PyrSV_gp37"
+                     /db_xref="GeneID:4432050"
+     CDS             21902..22288
+                     /locus_tag="PyrSV_gp37"
+                     /note="ORF129"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="hypothetical protein"
+                     /protein_id="YP_015558.1"
+                     /db_xref="UniProtKB/TrEMBL:Q6ZYG6"
+                     /db_xref="GeneID:4432050"
+                     /translation="MLNETPLAQVYRSCMEAVNDAEYCAKVIDVVIDSAKRVYSYVPE
+                     GRTKPKIYVLLAPDVDYVAGVLVDKDKKSVIILLRAPRHAVSLLYERNKDGWFTLKSA
+                     TVSNNELAALMNGPFKLSDNSEGDGL"
+     gene            22285..22587
+                     /locus_tag="PyrSV_gp38"
+                     /db_xref="GeneID:4432051"
+     CDS             22285..22587
+                     /locus_tag="PyrSV_gp38"
+                     /note="ORF101"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="hypothetical protein"
+                     /protein_id="YP_015559.1"
+                     /db_xref="UniProtKB/TrEMBL:Q6ZYG5"
+                     /db_xref="GeneID:4432051"
+                     /translation="MRGAGNVKIRISVTEQLIRFILCRRLKGARGNVYTIKAAQICAE
+                     IFRGESKVPVSCKVTVRRYLLGALYDAIVHDLTDKYRIVVNVGKAWELLGCEEYED"
+     gene            22541..23068
+                     /locus_tag="PyrSV_gp39"
+                     /db_xref="GeneID:4432052"
+     CDS             22541..23068
+                     /locus_tag="PyrSV_gp39"
+                     /note="ORF176"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="hypothetical protein"
+                     /protein_id="YP_015560.1"
+                     /db_xref="UniProtKB/TrEMBL:Q6ZYG4"
+                     /db_xref="GeneID:4432052"
+                     /translation="MVRRGSCWGVRNMRIRGYLPRGIALTWLLGIPLEECDAPMTKDK
+                     LRDIINRFINTSLGNVPVKYDVRELSRSFMIKFTATVSEPAAMCRKHSDYEFKDCVYT
+                     CVSTNIPLQECEEVCRQEVTEECNKYGETAVTMNITSLAHDMASLFEACNVRYYAHIG
+                     ASTDVYSILFVAFFA"
+     gene            23326..23862
+                     /locus_tag="PyrSV_gp40"
+                     /db_xref="GeneID:4432053"
+     CDS             23326..23862
+                     /locus_tag="PyrSV_gp40"
+                     /note="hypothetical protein; The Globuloviridae consists
+                     of two viruses, Pyrobaculum spherical virus (PSV) and
+                     Thermoproteus tenax spherical virus 1 (TTSV1); PSV and
+                     TTSV1 are linear dsDNA viruses that infect extremophilic
+                     crenarchea; the Globuloviridae are known to infect
+                     Thermoproteus tenax and Pyrobaculum spp.; much of the ORFs
+                     of PSV and TTSV1 have little similarity to known proteins"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="hypothetical protein"
+                     /protein_id="YP_015561.1"
+                     /db_xref="UniProtKB/TrEMBL:Q6ZYG3"
+                     /db_xref="GeneID:4432053"
+                     /translation="MVRSKITPEEGPTKKKVFLKVRAGGAETEYTAVYEDLEIGGLTR
+                     GGRSDVKKVLRRIIRAYNDLPEDVVRAAITVINHILSAVNLGVKEAWGGVSVEVGDND
+                     KLTLRISLYHYIDNERDESGWAGEIKASFIGYDGLFADSSHTVIKRVNYGEDIDAMSL
+                     YRELIRVARHAYNAIPSY"
+     gene            23977..24489
+                     /locus_tag="PyrSV_gp41"
+                     /db_xref="GeneID:4432054"
+     CDS             23977..24489
+                     /locus_tag="PyrSV_gp41"
+                     /note="ORF171"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="hypothetical protein"
+                     /protein_id="YP_015562.1"
+                     /db_xref="UniProtKB/TrEMBL:Q6ZYG2"
+                     /db_xref="GeneID:4432054"
+                     /translation="MAHTQNTGAVKKRRIFLNVWGHDEFEENDGRTYYHARIGKLEVE
+                     GWAYYADRADIKKLLEKALKAQEPLPEKVEKAIDSIVNHLIAVVQLGSTTAAAHAGFD
+                     YNEREGISFTAEMFYDDNGGWGMEVRVVNNRYNGMIRLVKRVRLKEVSTEAIRKVVAK
+                     VVRQAYNAYL"
+     gene            24596..24901
+                     /locus_tag="PyrSV_gp42"
+                     /db_xref="GeneID:4432055"
+     CDS             24596..24901
+                     /locus_tag="PyrSV_gp42"
+                     /note="ORF102"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="hypothetical protein"
+                     /protein_id="YP_015563.1"
+                     /db_xref="UniProtKB/TrEMBL:Q6ZYG1"
+                     /db_xref="GeneID:4432055"
+                     /translation="MVTKPLTYNPKEMKRIFSKITDPTARVRAIVAHVLADIPEAYDV
+                     WVGEGVITIRPVGSGRFIGDVVRQVVWWLKEFGWVALVRPIENGYRIEYLPVVGYGW"
+     gene            24849..25361
+                     /locus_tag="PyrSV_gp43"
+                     /db_xref="GeneID:4432056"
+     CDS             24849..25361
+                     /locus_tag="PyrSV_gp43"
+                     /note="ORF171"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="hypothetical protein"
+                     /protein_id="YP_015564.1"
+                     /db_xref="UniProtKB/TrEMBL:Q6ZYG0"
+                     /db_xref="GeneID:4432056"
+                     /translation="MKTAIGLNTSQWLAMAGDFDIREACPNRVRYLNGAVNALIFKYP
+                     DVDVVDNGVELGPCVYRTIFRMAVSNPEDNKAVALAIARINEYIRDVKARLDGYGWEI
+                     FEKETYIEEGYVYAEVKWMRRVRIPGKKYVSLMEIYELALPHIEKNLRESAEFFELLR
+                     GGSEAVAEAQ"
+     gene            25394..25708
+                     /locus_tag="PyrSV_gp44"
+                     /db_xref="GeneID:4432057"
+     CDS             25394..25708
+                     /locus_tag="PyrSV_gp44"
+                     /note="ORF105b"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="hypothetical protein"
+                     /protein_id="YP_015565.1"
+                     /db_xref="UniProtKB/TrEMBL:Q6ZYF9"
+                     /db_xref="GeneID:4432057"
+                     /translation="MIVPRDVKEVTRMLIRLNMLMRRFKERGGYPIMYVADRMGDRHD
+                     AVVLIVDILYEERERAEAVVKEVLDLLGAHNIKVXDHKLDSFMVPFREVWRFVAMVAV
+                     NH"
+     gene            25711..25974
+                     /locus_tag="PyrSV_gp45"
+                     /db_xref="GeneID:4432015"
+     CDS             25711..25974
+                     /locus_tag="PyrSV_gp45"
+                     /note="ORF88b"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="hypothetical protein"
+                     /protein_id="YP_015566.1"
+                     /db_xref="UniProtKB/TrEMBL:Q6ZYF8"
+                     /db_xref="GeneID:4432015"
+                     /translation="MAMSWRKAVLNVVLCMALISAGFVWYFYAVFYGADSYRVLVLKA
+                     VMFFSAIILALEAVRFAIEEEYCIAALLDVWALLMVLGAVFGL"
+     gene            26068..26616
+                     /locus_tag="PyrSV_gp46"
+                     /db_xref="GeneID:4432016"
+     CDS             26068..26616
+                     /locus_tag="PyrSV_gp46"
+                     /note="hypothetical protein; The Globuloviridae consists
+                     of two viruses, Pyrobaculum spherical virus (PSV) and
+                     Thermoproteus tenax spherical virus 1 (TTSV1); PSV and
+                     TTSV1 are linear dsDNA viruses that infect extremophilic
+                     crenarchea; the Globuloviridae are known to infect
+                     Thermoproteus tenax and Pyrobaculum spp.; much of the ORFs
+                     of PSV and TTSV1 have little similarity to known proteins"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="hypothetical protein"
+                     /protein_id="YP_015567.1"
+                     /db_xref="UniProtKB/TrEMBL:Q6ZYF7"
+                     /db_xref="GeneID:4432016"
+                     /translation="MASQLKPQVFPEKEATFYELKVGKVYTKYRAWIGPYIAKGITMG
+                     PEDKVKEVVRRMAQAKAEPLDVIKSLVESVAEYVSTASESGLMDIGVVLGTFFHLGEY
+                     MAIMVKLQRLSGPYSHNRVWGEIKVMFKGYDGLKALSKHVVMRYVEFYAPNKVDKAQL
+                     YNVLYEAARIAYNAYGWAHKNL"
+     gene            26950..27327
+                     /locus_tag="PyrSV_gp47"
+                     /db_xref="GeneID:4432017"
+     CDS             26950..27327
+                     /locus_tag="PyrSV_gp47"
+                     /note="ORF126"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="hypothetical protein"
+                     /protein_id="YP_015568.1"
+                     /db_xref="UniProtKB/TrEMBL:Q6ZYF6"
+                     /db_xref="GeneID:4432017"
+                     /translation="MARVGPKIEITHGGKKYTVFSKVTHLVPRTENGEEAEYVVFGPE
+                     KEGVISVVVLAPKDLNEEALALRVKWFNDTKPRCVKCGAAYNGKNHFRVVAIRNGTYY
+                     LDAVCDKCEPRITWLSAIVIGRS"
+     gene            complement(27405..28112)
+                     /locus_tag="PyrSV_gp48"
+                     /db_xref="GeneID:4432018"
+     CDS             complement(27405..28112)
+                     /locus_tag="PyrSV_gp48"
+                     /note="hypothetical protein; The Globuloviridae consists
+                     of two viruses, Pyrobaculum spherical virus (PSV) and
+                     Thermoproteus tenax spherical virus 1 (TTSV1); PSV and
+                     TTSV1 are linear dsDNA viruses that infect extremophilic
+                     crenarchea; the Globuloviridae are known to infect
+                     Thermoproteus tenax and Pyrobaculum spp.; much of the ORFs
+                     of PSV and TTSV1 have little similarity to known proteins"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="hypothetical protein"
+                     /protein_id="YP_015569.1"
+                     /db_xref="InterPro:IPR010985"
+                     /db_xref="UniProtKB/TrEMBL:Q6ZYF5"
+                     /db_xref="GeneID:4432018"
+                     /translation="MPRKMSDTMHTRMIKTLRYMITEAPCTTIARVANKLDVSWSMAR
+                     NALYQLAKNKMVLKVEISRATIWCVDENAATNAIFEIKRTLWRLICNSRRRYITPSDM
+                     LRLIAADTEAHNIFAKYVDVNSTHGHTLHFIASALEDLLGKPMDKRQRRLLFHVTPRF
+                     CKKAPTLADINLSHYTSAYRLVTFKVPTAMHNDMLEAARTLGLTTSELVTMAIDRLLS
+                     QYRHVLDGKGGADLKAN"
+ORIGIN      
+        1 ccttgaccca ccgccaagcc accctctacc aacgccaaac cacctcccca ccagacgcaa
+       61 aaacaccccc acaaaaacgc aaaaacgccc tttacaaacc gccaaaagac gcccaaccaa
+      121 tgccaacgcg aaacgcatat atcacaaaga cactaaagac gccaatgccg cacgtcaaca
+      181 taatagacgc acgccccgac gctcccataa ctcaattcgc cctggagaat ctcataaccc
+      241 agccggaccc ccgggaggct agactctatg cgctggaggt taagctagcc caaatagaga
+      301 ctcagctgaa ggacctccag aaaatcgcca cagctaccga aagaatccac gacttagagg
+      361 cgcgcctcaa aagcctccag agcatggtgg cggagctcta cagcatggtg actaagctca
+      421 cggaggcgct aagagagccg ccaaaagagg cgccaaagcc ggagccccca cctcccccac
+      481 aagaaaagcc agaggaaaat ccaagtccaa aaccggagcc acctccggcg gaaaataagg
+      541 cggaccagct aactctctcc gacattgagc gcatggtgtt gcgtgtgctc tacaagaagc
+      601 tcaaatattg ggccagccgc tcagacctta aggtagatga aaatggctat gccgtaatcg
+      661 ggcgtgacgt aaactttggt gtcaaattct cacaattcgt ggcgattatg accaaattcg
+      721 gcctttctga ctgggttatc gcacgcggta atgataaagc gggctactac gtggaaataa
+      781 aggcgtcgga catgccgaca gctttagagc gcctaaaaga gcttgaccgg ttgtctaata
+      841 aggcaataac tggagtataa tagtactccc cctaccttcc tccccctttt tttgacggcg
+      901 tgattagttt caatcgaaag agttgaaagt cgggttagat tcggttggtt cacgatattg
+      961 gacggagtca ctttcagtct actttatctt tacacggttg ttagtttcaa cttacctcaa
+     1021 agctttcaac tctttcgggg cgctttcaac tgtcttgggt tttcgccgag ttttcacggc
+     1081 ggaaaatttc catcagaaaa atagatacta tacatataca agatataacg gcgcgccgtt
+     1141 gactcttacc cttacacatc acaacactat ccatacattt ccatacagct agtcttatgt
+     1201 ttccatacgc gttcccatac atttccttac actacttctt ttgtaaagcg tagaactccc
+     1261 atcatttccc ctacctcccc gtggccgggc ttaccccagc cggaggaggt aggggctaac
+     1321 cacgcccttg ggaggccgcg gcctccctcc cgacaaggga gaccacgacc aacccaagga
+     1381 ccatggttag catctaagta tagagatatt gctggttaat aaaccttctc acggcgtgta
+     1441 accgtggtaa tgtttaataa ccgctctttt tatctacaag atatgagaag acaggccggc
+     1501 ggagacgacg ttttcactca ccaatcagct gactgccgta tcgattttca gaacggatta
+     1561 ttaatctgta tcggtataga tggcgatacc gtcaccaagc gtatcacgtt ggctaggacc
+     1621 accaagaaga aagatgaaat ttctatattt gaggcgctta ggttggctgg tctggcgacc
+     1681 acgggtgtgc acccagctac attgtccttc acgcctttca aggacccaga aagcaatgag
+     1741 gtagggatgg tatacgtgcc ggcggttatt cctacctctc agaagatggg ttttctctat
+     1801 gatgacggtg gtaagtttgg cttctctacc tttgtggcgg gtggcactaa ggtctttgct
+     1861 gtggattaca attctaatgt agttatagac gtattgggtc aagaaatccc ctcaaaggag
+     1921 gagtttgaga aggctcttaa caagttcaat aaggagcttg acttcttggg cacgtatagg
+     1981 gagtccgtgc tctttgtcac cctctaccct tacctatacg tccactttct gaggcggcct
+     2041 ataatcacca ttactggccc tttccgctct ggtaagacta ccgtgctgga gcttgtccaa
+     2101 tccatcatag gcgtgccgac tatggtgcgt ggcaacttct ctctggctgg cgctaggggt
+     2161 ttgttggcat ataggcatgt gattcttgat gactttggtg agggtgccgt gctggaggac
+     2221 ccaaacataa gcatgttgtt acagtatcat gaccgtgggc ttgtggctaa ggttgatgat
+     2281 aggcttaaga ccaaggtatt ccctcttagg ggcgtcctct acctaactgg cggctatgcg
+     2341 attaacctac tgaggctgtc aagctatgtg gataggctgt ttctacttaa gatggctctc
+     2401 tctcgcaata tgcttaacac catgaacgcg gttttcaact ctatcatcaa ggatgcggat
+     2461 tactaccgtt gggccttctc acggctatac ctctatttcc atgaatatta cctatcacta
+     2521 gccacaatgc ttcacatgcc gtggaggcgt gatagcattt ttgtaacgga tgcgattaac
+     2581 tatctcatta tgcgcactct agacagtagt aaggagccca ctctagtggt agagaacaag
+     2641 gcggaaaatg ccaagaagca cgcggccgat gtccatatgg cgcttatact tcagattctt
+     2701 aaggcccttc tcaggaggcg cgctctgggg tttgaaaagg ctaagaataa gatgtttaag
+     2761 gtcaagggcc aagatgtgga attttaccat gtgcaatacg tccaaaggct ggagattccc
+     2821 tctcaaattg gacacggcac ggagagcgtg agcgaaacgg tatctatagg cgccacaaaa
+     2881 accatatcca aaaccattag tatgagtaaa gtcaagcaat atgcctctcc ctcaatggtc
+     2941 caagcggtta tagacatgta cacctatctg agtgactatt tgttagtggc tagccacgac
+     3001 ggaaagaact acagtgtctg ggtgagggct gacgcggttg atgatgccat taagtggctc
+     3061 attttcacac tccaggagca tgcgccacac tacttggaca atttccccac gatagttgat
+     3121 gatgttgtgc ggaaagctta tgaggaggtt atgcggaggc ttgagggcga taaatttaaa
+     3181 aataagtgat tttttctaaa ttgatgcgcg gcccccttag gggccgcgcg tttccccccc
+     3241 gagttgggag tgaaccgcct cacgagttgc cgggcacgcc ccgggtgccg tggggggcgg
+     3301 cacccggggt cttagtttca cccctcccaa ttgtcttaac catatcccta taaaagcata
+     3361 acgaaactta taagtcgggt aggtctggct gtatatggac tttgtcaggc tagtgacggc
+     3421 taccgtctac gcctacttta tagtgtcctc aattttcgga gtgactaaca tatgggtgga
+     3481 catagcgctc tatctgatat tgctggtatc ggttgtttat gctactgaag tcaacatggc
+     3541 tctcagcaac gctagggtgt ggtataacgt gatggtggtg tccgtggcta tggctctgcc
+     3601 tcaaacggtt ttcgcagtta atttggcggt tagtggtaag cccttggcgg cttggataga
+     3661 cacgttgggc agtactctag tggacgctat cttcgtgacg gcggtggtcc ggcggcacgt
+     3721 ggttggctct cctttggtta ggtctccctt ggtcgtgttt ttcctctttg cgtggtccat
+     3781 tttggcggtt gggcttaaca taatggcgtg gcacccggag ctgtatacct ctacacactt
+     3841 tcctttgttc tacgcaattg ccggtttgct tctgccgatt atattggtta ggggcaacgt
+     3901 gcatggtttg ccaagtgggc gtgatatgct tatgttgact aacaacgctt ttgccacgtt
+     3961 ggtggcttct tacatgttgt ctgaggctgt ggctcagcta cacattgagg aggtccaact
+     4021 aggcgtggtg tctaccgtct tggccactct cccagatttc atagttggca tgttgataag
+     4081 gagtgtagtc tctgagattc ttagctctca ggcaggtgac caagagatgg tgtttaccat
+     4141 gttggccgcg gctgtacacg accagttgac tattccaggt ctgattatgt tattggcgcc
+     4201 ttatgccatg gggtattatc cgcacttgtt caacattgtg gtggtcctcc ttaaattcac
+     4261 cttgttggat aggcggcttt tctggtttgt aggcgtgccg ggtggcttgt tggctctagt
+     4321 ggcacctcca gtttagcttt tcgaaacacg gtatttttcc tctttacaaa catgtaatgc
+     4381 agctatttga cgtgtgtaaa gggctatgaa aaaagggggg ctatttggct ggaggctcta
+     4441 tgtggacttt ccggttggct gtcaggtata ccgtttcatc tgtctttacg tagggctctc
+     4501 cgtaaatcat cttaagtagg tggtttagaa agcttaggat gattgccgtc ctatgcgcta
+     4561 tggggattat actagagaag aattttcggg cttgggggtc tttgattatt aggtcgtgga
+     4621 gcctaggggg cgatataaac tttagtttgt ttgtcgtgac taaccgctcc acctctctta
+     4681 tcatgccgtc taccaattgc cgatattggt ccatgcttag gcacaccaaa gcaacgttgc
+     4741 cgaatgccac cctagtcaca cgaccctctt tttcaagcac gtagattagt gcctttgccc
+     4801 gaccatgcga taacccaagt ctttgctgta ttagggaggt ggttttacaa ccgtcggcta
+     4861 atagagccaa tatatctctc aggcgcacca aaacttcacg cgagtggcct attggcatat
+     4921 ctatctgata taatcgggtt tataaatttt gccaattcga aaatgggtga ggttggtgtg
+     4981 tgttaaacag tagtctgtgg ctggtttata ccgctttttg taacaaaata cacagttttt
+     5041 tctcctttgg tgtagggctc tccgtatagc atgcgtagag ccccatttag gaatgatagg
+     5101 atggcggcgt ttctatagtc taccggcact agtttggcta tgagtctgag gactttgtag
+     5161 tccttttgga ttagtctgta gagcctcata gggtatacaa acttcaggtt atagctttca
+     5221 actatcctct gtatctcccg gaggattgtg ttgactaggt tgttgtattc atcatcattt
+     5281 aggcaccaca cggctgattt tccgattttc cactctctta tgcaaccctc acgtgccaac
+     5341 gtcttcagta catagtaagc ctctacgtgc gtcgtgccta gtgtacgcat tatataagac
+     5401 gtggatttac aaccgtcggc taacaactct agcacggcct ttttgcggtt tttcaccctt
+     5461 tctgtaatac cggttggcat atctgtctga tattgtgggg ttttaatggt ttttgctggg
+     5521 ggctagggtt attaatgggt gtgtcggctt tctcaatgct agtggctata atatacgtta
+     5581 agcgggattg tccgatatgc cagtcttttc ttaagcacac cataatcaag ggcgccacgg
+     5641 cacgtaagtg tgtgccgctt atctttaagg acgtggatat ggtgcctctc agtgagaaga
+     5701 ggttggtgtg gagctatgag tttgacccta acctagggct tgtgtttcgg atttacgtgc
+     5761 ctttccttgt gattgccgac gtggatgaaa agtattctat taaacagatt ttctttaaga
+     5821 cgcctcttat tcctaagatt cccgttgggt ttagtgagcc ggaggtgaga gaggttattt
+     5881 ataccacata ttcatggtgt ggatatggaa aagccttgtc aaaagatgtt gaaccttctg
+     5941 gaggtgttga accagttgaa aaaccaaggc ggagaaggcg ctcgccacgc tcagaggata
+     6001 atgagtgagg tggctgaggg ccgcatgact ccggaggagg cccttaagga ggttaaacgc
+     6061 attagggtct ctactttcta ggcgttcaag gaaatatatt cgggctttct ttatactatg
+     6121 gctgaggacc ctctccgtga gtgtgtatat caattatact ataatataat cagaaccacg
+     6181 gttggcgtct acgtgccgtc aaggctggct caatgcctag ctgtcctaaa gcttcagttg
+     6241 atttttatcg ctaagtctac gggtgatgat attgattttg ccatgtctaa ctggggctac
+     6301 acatgtggcc ccaatttctg tgccgtgccg gctaatttcg tggagattct agtctacgct
+     6361 aaaacgcggt ttggttacta gaggcgtaaa atttaaaaat ccgcatttca taaggataca
+     6421 tgggcgcacc caaccaacaa caaactcagg acagaagcgt ggactttttc accaataaga
+     6481 taggctgtaa cgtgtccagt ccgcttaagc atgtggacat agttggggaa atcgtggagg
+     6541 aggcggttta caatttcctc attgacgctg gcgataagat gtgcgtcggt aacaagattg
+     6601 gggtctggaa agtgagtaaa tgtgaggggt cctcaggctc aggtggtgag aggcgtaaat
+     6661 cgctctatgc caaggtgcct aagggcatag gcgtcacagt atatctggct aatggtaggg
+     6721 tccaagggag gcttattgac ataggcgtct atgaggtcct tgtggaggtg gggggtgaca
+     6781 taatctatat ccacaaggac ctagtctatg cgttatgttg gcccaagtaa atagggggaa
+     6841 ttttttactg gaccaggtaa actcgctggt agacaaggcg ttagagtttg aggagtctag
+     6901 gtggcagtgg cagacttacg tcaacgtttt tgagccgctt gtcactaagt atttcgagtg
+     6961 tcggcggact aaggtggccg ggtgcgttaa tccggattgt cggtttcaga ggattatagc
+     7021 ctactacgtg tgtgccacga aattcaacgg cgttgatttg tactttgcgc ttaagttcta
+     7081 cgttaagtcc ggactcccgg ttattgggct tagccaccac ataatgctta agggggaggc
+     7141 ttctgagcat aggtattacc catctattga ctgggatagt aacttacccc ctcccaagga
+     7201 gcttttagag cgtgcggttt tttggtggca ctaccgctct ggctctaagg ggattgaggc
+     7261 gtggcatata gtgttgccgt atagacgtcg gtggtatcat gccatatatg acatgatgcc
+     7321 ttataccgac aagatgcatt gggctctgac ggctaggcgg attttgaaac aaggcatcta
+     7381 tgaggacttt gggattctta gggtttggtg gcttggtgat gaactcattg actactacgt
+     7441 caatgaaaat gaccccatgg cgtggcttaa cctaaagctt agaaggttgt tctggctgag
+     7501 ggaatatgag cgcgtttgat gaattcaatg agggctttgg actagacgta tctgacactc
+     7561 cggaggagct ggcgtttgaa acagagtcgg ctattgagga aatagagtct gagacgtctc
+     7621 cgggtgacca acctaagggc tctgagccgg aggagatacg tgtgtgggct gaggagaagg
+     7681 cgcgtaaggc cgtagaggag ggtagggagg tgactaattg ggctgattgg attatggggt
+     7741 ggcggactcc caacgcttct gagaagaaga tggaattcat gtattggtat acccgcacgt
+     7801 atctggagga ggctaaggac attaggccgg atattgccga cgcattggct aggggcatgg
+     7861 ccggactagc tttcggtagg actgactggg tggcctctat gcttgaccct cagattatga
+     7921 ggcatatcta taccgaccca gaggtggcta ggatatatag tgagacgcgc gatatgctta
+     7981 ggcgtgtctc cgactactat atatcgctaa ccactatgga attgggtaag gtggccgaca
+     8041 tcattgctga ggctaaggct aagggtgaga atccggaggt ggtggctagg gagattgctg
+     8101 aggctgtgcc taggctctct cccaagagcc tttactttaa cctctactac attggcaggt
+     8161 ccataggtga caactacgtg ctggaggtgg ctagggtgct ctctaagatg cggcgtagat
+     8221 aggcttaaat atcacaagga aaagtttttc atgcctaatt ttgccacggc ggacatagtc
+     8281 aatgattaca atgcgcaaca ggtgttgctt accaatatcg agtggatgtt tctgtttgct
+     8341 ttcgtgttgg ctgtcttgtt tacgctagtt gatagggaga gtagggcgtc aatgaggcac
+     8401 tttctctccg acttgatggt taggtggggc ttagctggct tgggtctgtg gactatcgtg
+     8461 mttatcttct ttgggcttta tgagctgggg cttcagaggg gcttattcca ctttatcccc
+     8521 tttgtcggta ttgccgaata tgggggcgtg tggggcgttg ctatcagtgg cgctatggct
+     8581 ctcttattct ttgtgtctag cttattcctt caggcgttga ttaggacccc caacgtgact
+     8641 aaggtggtga ggactccgta ttacccctat ctggaggaat acgcgcacta cctataccag
+     8701 tggtggcgct attaccagca atatcaagac tactatcagg cgcatcaaca agaggaatac
+     8761 gcatatgcca ccaatagaca acgtgacagg tccttttaat tatctattat agacatgaaa
+     8821 actcaaacta gacccaagaa gaggaggccc aaaaacctag agaggctcta tttggcacct
+     8881 atacgctccg acggccttct ggtagtcgtg gagggcggta ggtcctatac taaacaagag
+     8941 atcatgttgc gggctacggc gtttcttaac gtctccgaca ggattgagtg tgagatttgc
+     9001 ggccgtgtct atgacggcac caactatttc atggtggagt ataccggcct cttggacaag
+     9061 ctaaggcatg cctattgcgg tgattgtaag cctcaaatca agaagatact agacatcatc
+     9121 tataggcgga tatgacggct aggaatccct tcaggaaata ccgcaacaaa taccttgaca
+     9181 agtttctcat tactgtagct attgagctgg ccttgtttag ctacataatt gctgtgtacg
+     9241 tgtacaaatt gccgcttata ttttctaggt gggctctgcc gttgattata tcaactatat
+     9301 tggctgggtt tgtgttgctc tatttggtgt ttgcctctat gttctacata ttccagactc
+     9361 tgtatttctg gaggctggag aggctctatg agaggaatcc taggctggcg gtgaggtatt
+     9421 tcgctaagga ctacctttct gaggaggcta agctagccag aaaggccctc agtcttgtgg
+     9481 gcctttccta atcccaactt ttttctattt acaaacctct aaacttggtt agacttttat
+     9541 ctctcggcgt ggtccggagg acctctcgct ttatctcggc tacagcggtc taatatctcg
+     9601 atgatagatt tatatgtggg gcggttctat aatccgtgcc caaaataaaa attattgata
+     9661 gaatgtcggg gaaaacgtgg gatgctgacg tggataccga aaagctatgt ctgtctagca
+     9721 cgtggagcac tatgtttggc gtggggcaga aatgcctccc aatgacaccc gataggttta
+     9781 gccaagtcat gaaatatgtt aagccaggat ttggctctgt ctacgtagag gctttggtgt
+     9841 tgccggacac cttaagggtc tttgtggcgg acctagtggt gatttcgcct aggggcgttg
+     9901 acatcacgga aatgttttat gacttaaggc tgggtgaggt cggtattatc tttggcaatg
+     9961 cctttatgcc ggttaggatt aactgggaaa atgccaagtg tgagggtcgg acttgtgtca
+    10021 tttttggggc tttggtgcgt gatgatggtg ttctgaggca cgtgccgata atctatgaga
+    10081 aggaatacct agagtggctt agggctatgt tgtctaagag gccggctgag tcttgggagg
+    10141 tgattatgca aaggcttcag atttatgagt ccacgcttaa taggttgctg gaggagctct
+    10201 ctaagttggc ggataggtcc gcttatgagt tggcggtgat ggtgattcaa caagcacgta
+    10261 atatcatgtc acaagtccaa gctttgaccc agcaacctag gggtggagga caggcgtaag
+    10321 aattataaat atgtggatta gccatgttca tgtctagtac taatatccgc cacgggcgta
+    10381 gaataggcaa aggcatggtg gtggctgtat taatattggc gctattgata ggctatgcca
+    10441 tttatgctag ctttaaccgt ggcactagcg gcggcggtgg tgggagcaac accacgacaa
+    10501 ccatcacagg cacttcggca ccatctaacg tgctttatcc caacgcggct ctagccaatg
+    10561 gttttgactt aatccttgtg gaggaccacg taaacgtcaa cagcggacaa tactctatag
+    10621 ttgcctcagc ggttgggtcc tataggtcca tagtggccta tggcggctct tctgtgtctg
+    10681 gcaacataac caacggcatt gcggttatta agtacggcgg ctatgagatt ccggttgtcg
+    10741 gttttgcgtc taccaactcc agcattgtcc aagactttcc tggtatccag gtgaggctta
+    10801 gcactagcgg cggctacgtg ctctacacgc ctctaagcat ggctatctac tacaggcacc
+    10861 ttcagtataa catctcgaat accgtggtcc acgtgtgggt gccgtctaag acacaaccag
+    10921 ccaccttggc tagcgcctct ctacacgtgg ttattgaccc agaatacggc acatattaca
+    10981 tcaacggcgt ggcctatggg cttgacatgg acacgcctcc cagacagtat aggggcgtat
+    11041 tgaggtcgtg gcttgtctac actacagcgg gcggtagcta cgtattcacg attaacccat
+    11101 aaacttattt aacgactacc caattttttc tatgtctgct attgccgaaa ccattggtaa
+    11161 gtatggtata ttaggcttac tggccgcttt cgtgccggct tttgtgcatg gtgccatggc
+    11221 tggagcggtt gggctgtctg gtaatccggc tatagccacg attcagatta tcgcctatat
+    11281 ggctatcgtg gcttattggg ctaggcatag cgtggttgac ggtttgctgg ctggcattgg
+    11341 tcttggggct ggggtggttg ccgttagtca agctcacgac ttggcgattc aaggtatact
+    11401 ctttggcata ggcacgttga ttaataccat tgtcgactat atcatttctg gctttcttat
+    11461 ggggctaggt tacggatttc taatggggat atctcccacg gctatattgg ctggtttggc
+    11521 tggctttttg tttggtgtgg tggttatgct tctggttagg gtcgggaatt tgcttactga
+    11581 ggctctagag cttggcataa cggccttgtt taagaatttg agcgtaggct atgccgctct
+    11641 tattgcgcct tttgtgggcg gcatctttgt cggtgtgcct cttggcgtta tgttgctggt
+    11701 tttcggcttt gctttggcta tggggcttgg gtttgttgta ggcttggcta tagcgtcttt
+    11761 gctctttatg tttggtcttg tgtgggcctt tatcgggttt atccttaaca taggtctcct
+    11821 tgtggcggct cttgtcatat tcaagacctt cacgaaaagc acggacgtta tccagatttt
+    11881 gctggattta gccgtgatat tcattttcaa gttcattggg ccggctctat atgcggctgg
+    11941 ctatgctggc ttggtgacta ggcatagggt tagggctcta tactttatag ctctgggtgc
+    12001 tttgggctca taatgaaatg gtttacccac ataatttggg gcgccttttt tccgatattg
+    12061 ttaggcgtgg acgtacgtga ggcggtttca ttggctgtgt ttcacacggt attgacggac
+    12121 accctggggc atgtcggaca tggaccttac gttaggcgtg cttcttatca cgacgtctta
+    12181 tcacttttct ttggtattat gattgcggct atgatgcaca atttggcata tctatggcta
+    12241 ggcgctatcc acgtggtgct tgacaagcta tctcccgggc ggttaggtgt cagctatctg
+    12301 tattctcttg tgtgggccat tatacccgcg ataattttat atatattggg tgtccatctt
+    12361 tagcatgcgg ttaagtaaaa ttccaatgcc gttgctcatt gccgcactag tggctaccac
+    12421 ggcggtggtg gtatatctcc agctatctgt ggtgtctgtg ccaatagtgg cggaccccaa
+    12481 ctttacaact acgcttgtgg ccggcactcc ctatctgtgg cgtggcgcgg ctagtgagtt
+    12541 caacatagcc tctaacgcaa caataaagct tacgtacatg cctgtggcgc acgtgattta
+    12601 cctcaatgga cctcttggca acataacgct tggtggcggt aagtgggtgg tctaccttaa
+    12661 gggtgggcgg cctctcttag tagagaaggt tacctattca accggcttta gcgtgtatta
+    12721 catctttaag cttgtcaaca tgactaaggt tagcgggctg agcgtattgg tgcctaacgt
+    12781 gtttactgtc ggagacgtct tgtctagcga tgagtttagc gcaattctat cccttggcgc
+    12841 aactactccg ttataccgcg ttacccaaat cactactaac ggcacacata taatggtcca
+    12901 actaggtgac gcgagtctat cacaggttga ccagacagac tatttccagc tacctccagt
+    12961 agtagaaacc acggctacta aaatcacgtc tagcggcttt ggcgtgagct atgtagctaa
+    13021 cacgactacc gtgtcggctt atgtcatgcc gtatcaacac attgttattg tgcctaaggc
+    13081 taacgctagg gtggttataa cggcgaaata actccccttt tttctctagg atagacaaat
+    13141 aattttttaa taagagtcta aattattcac catgttattg cctgaaggcg ctggattact
+    13201 aggactactg gcgatagcgc tactcaatag aaaggctata cccattgctc tgattacgct
+    13261 ctttgtgtcc gcggctgtgg ctgtggcagg tggggccgta tacgcggctt tcactcccct
+    13321 aatggctggg gccattgctt tgtatgcgct taggcaggag gagagagtca ttgagaaggt
+    13381 ggtgggcctc tttctggggc tgtctattat atgggcctcc gacaacacgg ctatagcaca
+    13441 agtgtttgcc acgatttcct atgaaatcgt gaagcccttc tttgacgcgc ttgtcaatgt
+    13501 gatgggtgtc ataggctttg gtggcgtctt gggtgccttg ttggcgtggt ctctactatc
+    13561 gcctaggctt atttctattg ctgagaagga gcctctagtg tctatgggtt atgtcctctt
+    13621 gggtgccgtc gtgttggcgg gtgccgttgc ggctgtgcct ccgtacgtgg ctctagccat
+    13681 ggctatagcc ttacttaacc aattcagtag agcccttagg ggcaatatgg aggctcttgg
+    13741 tgagattgct ccggccttgt tcatattggc taccttgatt cctcccacta cattggcgcc
+    13801 tttgggtgcc gtgttggctg tcattgagct agcctttggt gtccttagtc ggaggcactt
+    13861 ggctggcgcg gctatgtggg ccacggcggc tatgttggtg gccgggctat gagcgtgctt
+    13921 aggatactct ctaaggtatc ggttgaggcg gtttcgctat ctatagcaat agtgatattt
+    13981 gccatattgg gcttcagcct attctctata gtgggtgctg ggttggctta cctaggcatt
+    14041 agggccttaa tgaggtcgtg ggtgcttgac cacccactcc cctccccaat gcaagtgttt
+    14101 gtctacttgt tggcgttgtt tgggcttatt ggtggcactc agttcatagt gtttgcggct
+    14161 gtattgattg cggctttcct ccttaaggag gttaagctta aggcgccctc tgtagatggg
+    14221 cttatagagt ctatgaaaat gggtcttgtt ggcgcgtttg tgccgctatt gggcttgata
+    14281 ttgccgatta tcccgttcta tgagacggct aagaaattcc gatatgatgt atytggcgcc
+    14341 ttggctctgt tagctcttgt ccttgtcggt atcattggca tgtatactgc cgcgcttacg
+    14401 gcgtctaccg ataaggtgag cctcttatct atcggtggcg tgttcaatga cgcatttgct
+    14461 gggttactag ggcctctgtc tgagtctaac ccattgtatt gggttggcgt tatttcttat
+    14521 gaggagttca ttgggagggt tactcccttt gctaatgcca tgttcacgct ccttcactta
+    14581 ccctctaggc tgtgggctgg ctataagatg actggctccg acttgtttgc cataggcatt
+    14641 gcgtttattc tcttaatgag catcaacttt agcgctaggt ggctctgggg catctaccag
+    14701 aagcatggta tcgtggcatc tatattaggg catgcctttt acaatgcggg tgtgtccgcg
+    14761 tttgttgatt tgcttaaggg taatccgcta tatgccatgg tgttgctgtt tctaggcttg
+    14821 gttggatttt tatattcgct aggtaagagg gtaacatgat gcggtatata ttggccgcaa
+    14881 tagcgatatt ggccgcgctg gctggcgtag gatacataac gcaaactcgc ggcaccgtgg
+    14941 tctacggcgt atttgacggt gtcggcgttg catatgaggg tcattactac cttattgagg
+    15001 ggaatgctgt caagactcca gctaattcca cgattcttaa gggcaaattc atcttatggg
+    15061 gcggctacct cataaacggc acggaggtta agcctaagca cgtaatggcg gcttttgtga
+    15121 ccaacaacgt gattgtcgtg actggcacta ttgaggtggt ggctggtgag gtccataaga
+    15181 taggcaacta taccgtggtt actggtaatc cggctagggt gctggttgta gacggctacc
+    15241 tctaccaccc taagtaaaac ccgacttttt tcttctttac aaacatataa cgcagctatt
+    15301 ttactttttt ctagggtgtg ggggagcaac ggcactctta ccacatgtca agaagggctt
+    15361 tgatatttat ctctcgcttt ggctaagggg gcctcccgct ttatctcgaa actaaggggg
+    15421 aggataagag ttttatatct atgagatatg tctgccatga atagattagg gttcataata
+    15481 ttggtgacgt tggcactgac ggctctatac tacctatcgg taaccatgtt taagcctagt
+    15541 cagcctcagg tagtcgtggt taagtcttct ggggcacaaa acaccaacca atctagcact
+    15601 caaactccca ctccggttat gcctggcgga ctctatgcgt gtactaaggc cgtgtatcta
+    15661 aaggtgggta atgtgtactt atgtgccgac gtggtctata acgtgttaaa aacggatgac
+    15721 tcccttcagg tggactttca agggggcgtg gttcaaggat actttacgtt tatatcggca
+    15781 cccacttgtc cggtgaccac aacgcctcag gggattctta ttccgtgtag gacccagatt
+    15841 ctgataccta ctaagcaatg aaaggttttt taacggttga ttatgtagtg ctatggtctg
+    15901 ggaatttcta agaggttcta cgtcaccgcc tagaaacgtg tgtgtagtga cgcctacggg
+    15961 cccctttgac ttcactatac aatgtaacgt tacacaagag accattaggc aaatcgtgga
+    16021 taaggagaag gtttgtatca tagagcgtga tgaaaagtca ggcatgttga tgtcctactg
+    16081 tggacagggt aaggatgtgg cggctaggct gtttagatga cagccttacg taaggcgatt
+    16141 gtattaatct acctagcctt tttgggattt tcgtggcttc agctagtctg gttttttggg
+    16201 tatcctagcg tggggggttt tatcttgacc cctagcgcac acccgtatat acctcccctc
+    16261 tctcttttga ttgtaaagcc ctctaatgag tgcaacgggt gggctgtcaa gttgtttgag
+    16321 attaactgga tgggtcttaa gctctatctg ccggttgtgc attatttcgc taaggtgggt
+    16381 ccggttacct atgagtattt caactactac gtgattacca acaacgtgtg ggataacgtg
+    16441 gttaactatt tccataggat tattgaccct aagtgggtgg gcrtgcaata taatgggcca
+    16501 tgtgtggctg aggtcgtggc tgtgattccg gcgcctcttg tcatcttaat catggctata
+    16561 gctctcacta cagcaattta ctatggtgct aaaagagtgt ggtaattctt gacatttctt
+    16621 tttgatattt ttggaaaaat ttaaatacgc gggcgaatcc tagagtcatg tcatataaca
+    16681 taagtggagg catggcaata ggtagctacc cagacgctgt acaaggcact ccctttgtgg
+    16741 aggcggctga ggagaagtat aagatgcgct acgcgcttgg cgtgtgcacg gctctgagag
+    16801 aggccgaccc caagggcttt gaggaaacat ttggcgcggg cgaggctggg ctgaggaatt
+    16861 gtgctctgaa ggctggggcc tacgcggaca gaaactttga catctggaaa gtcaagtggc
+    16921 ccacggcgct tagggctcag attgcaacct tcgggtaagc ccaacccgat tttttcctaa
+    16981 tttttacggt tttcaaataa agcatttata tagtggggat attatatccc catgcatata
+    17041 caaacagtac ttaagacggt attagaggct aagaggcgtg attactatgg cgttgtttta
+    17101 aaggcggctc agattctaga ggaggaggac ctctgtaaga tggcggcttt ggtcgtggct
+    17161 attgtgacgt ataggaaagg caccattgac ccagttatcg tggactttgc cgcaaagtgt
+    17221 ttaaataagt atcctaattt gatacatgct ttcaccagaa ttggcgtcaa tcctccaggc
+    17281 tctgtggcag gtgctgactc agctattcaa gatactagag gtggtggtaa agagcccatt
+    17341 aactagcata tttgtggggg ctatcctagc ctttgggggg cgccacgtaa tctatggcat
+    17401 agggctggct ctcatattat atggcgtctt agctctcctt agcgcatggc ttggctttaa
+    17461 attggtgccg tgaattttgt gacggctagc gaattgcctc aggctttgat gaataaggac
+    17521 tttaagcggt ttatgcgtga gctacgtgat aggctttcgg aggccggtat atacattgat
+    17581 agaattaagg cgattacaac gtcgggggat attgtagttg tatatagtga tgctatcgtg
+    17641 gtagagctgt cgtggacaaa taagtcggtg attagggtca gggaaaggct ttaaatccca
+    17701 gtctatattt tttgtcatgc gtataccaat tcctttaata atggcggcgg ctgtggctgt
+    17761 aggcgcaata gtgactatca ttatccaagt caacctacaa gtgctggggt cgtgggatga
+    17821 tagatatgcg gctttcaacg gcacacacgt ctaccagaca ggtcctatga tttccacgtc
+    17881 ttataagacc ctatacttgg gctttggcac ggctactttc cagaatccgg tttctgtcta
+    17941 ctatctagat aaagtaagga gtggggcggg tggtggcaac ggtgaccttg ggaaatatct
+    18001 accggttagg cttatggtta cctccggctc tctgccgact aacacctatc ttaagtggac
+    18061 taatccgttg gtgtctaccg acactagggc aatataccta gtaagcggca cctctagggg
+    18121 ctatgtgttg ggtcggtatt atgcctcagg tgctggagtt tgggtggacg tggctgtgcc
+    18181 gatatactac aaggtgtctg agtcctctgt gcttatctat cccatggaaa aggccgccgt
+    18241 aaacccaagt gagggatgta cggtgttgaa aaacgccggc tcaccattta ctagcatcta
+    18301 taagtacgtc tatgccgtgc ttgatggaca agcttatgat tgctcttaca gtagctggtc
+    18361 ctctaccacg gttggttgga cgtcggtggc ttcttctgtg actagtgccg ccttgtatcc
+    18421 ctctcccacc tactacaagg ttacggtgaa caacgtggat atctatctat cctattggta
+    18481 tgtggtaaac gcggacccag gttattttgc tgttaaaccg ggatgacttt aaatattgca
+    18541 cccatttttt aatatgccgc gtaacttaaa taggattccg attcctatga tgttggcatt
+    18601 agctgtggcc gtgggcttag ctgtcactat tattatccag attactgtgt tggcgcctct
+    18661 accggctgtc gtggcgccta ttgagacctc tgcctctagc cttgacacgg gttctagctc
+    18721 atataccacg tctttgactg tggcgtcggg ctattatgtc aactatccca cattagctgg
+    18781 tcttggaaag attcagctta aggtgaacac gacggggtgg tattacctcc agaatgactt
+    18841 agttctcacg gtggcgagga ggagcacggg tgacgtaacg tttaccctag gcagtggcta
+    18901 taaggtatat gtgaaggaga ttaacaccac acacgccttt gtgttctatg atgaatattc
+    18961 cacaggcgtc gtggctaaaa aggtccaagt gggctctacc gggtggtata tctatcaccc
+    19021 agttaccaca aactatgaca ccaccacggt aaacaccatt aagagtctgt taacctcatt
+    19081 gggatatacc tatgcctatg tattccagcc tagggctgac tacttgaaat ttgaccctag
+    19141 caccaagagc ttctctatat attttgacta tgtgggcagt gacggcacgg ttaacttgaa
+    19201 ataccactac ttcaccaact ccactagttt cacacctttg ccaattaacg cggcggttac
+    19261 tgtcaacgga attgaacaaa ttgacatgta caactacgtg ctctatccga cgtgggcgct
+    19321 tttctactat caagcaacct ctagcgtcga aaccgccttt acaattactc cggtccagta
+    19381 attttttcta gaggcgtaaa attttttaac cagcatgttt ctttaggata tgggcgaaac
+    19441 tccggagggt ccaatgccaa acaaaaaggg taagtcggag ggcggacaga ttaggacaat
+    19501 tcccctaaag tactacaaac aggaatatga tatggcggct gatttggtgc ggatgttgcg
+    19561 tggtttgggc gttttcatgc atgctaaatg tccgcggtgt ggggctgagg gctctgttag
+    19621 tatcgtggaa actaaaaacg ggtataagta cttggtgata aggcacccgg acggaggcac
+    19681 gcacacggtg cctaaaacgg acatttcggc tatacttaag gagctctgtg aggttaagaa
+    19741 ggacctagag tatgtcctta agcgctataa ggaatatgag gaggagggtg gggttaagtt
+    19801 ctgtgctgag ggaaggaaat gaggttggtt gttgctggcg tggctcttga attgcttgac
+    19861 gccttgacaa ctttactcat tatttctttt gggcttggtc gtgaggctaa tccgcgcctc
+    19921 ttttttgtca atgaggagcc tctgtggcta tttccgatat ttctggctca ggcggctttt
+    19981 gtgggcggcg tggggtattt ggcttggctg gagaagaggc gtggctacat gcgtgcctac
+    20041 tatgtcacgg ctagtccggt tgttgcctac ctaatccata agtccgtggt ggttgtcaac
+    20101 aacgttgctg tggggctttt cggctttgag ggtcttgact attacctatc tgagttcatt
+    20161 aagacctcta tggtggtagg gggccttact tacggtatag ttagggccgt tactcttaaa
+    20221 atccactata aagcattaca tgatgtccaa tttaagggag aagcttaagg agaggttaag
+    20281 gcggattcca ttggcgctat tgctcgcttt gacagttgtc gtgggggcgt cggtgattat
+    20341 ggtggttcaa attaccgtgt tgccaccccc agcggcactt ttttgaatcg ctctgattcg
+    20401 gcagtaacac ttaaaaaccc atgtttcact aggatatatg gcagaaacta agtctgtggt
+    20461 ggcgtggaat agcctatacg tgcgggtaaa gtctcactca gggtggtcca actatagggc
+    20521 gtggggtgac ggcactcaat acggcattga atttaagggc actacgcttg ggtattggaa
+    20581 agatgtccta aatctcctag ggcgcatggt gagggctaag gctgagcctc ctagggaggt
+    20641 ggttaagacg gctaagctct tatttgagca cgtagaggct tatctacggc atagccacat
+    20701 ctttggtgat gactttgtcg gcacggctgt ggatgttgaa gacccggagt ctccttacat
+    20761 agactttacg ctatacatgg aggtgaccac gaaacatatt gacgtggtgg accatatagt
+    20821 gtccgacggt ggggaggacc ttggggaggc tgtgcctggt tggtttgtca ctattgcggc
+    20881 tacatatgag ggatatgacg gaggcaatgg ggagggtaag cacacggtta agcgtaagct
+    20941 agtgtttaag gggcagattg accgtgacgt attgtggcgg gagttctata caactattaa
+    21001 gcgtgcggtt aacgctctgc ctttggaata ggggcttttt tggcctttat ttgcttttaa
+    21061 atcggcgcgc cttttttgtt tcaactctcc ccctttcttt acgtgaggcg taaaatttaa
+    21121 aaatccgcat ttcataagga tacatggcta agaagaaaaa gacccaaatc caggaggggc
+    21181 tggaggcccc tcaaaaggat actgtttttc ctgagacggg tgcggcccaa ggggccgcgg
+    21241 cggctactca agtgactata ccggatgacg tggctgagct gattagagcc acgcttaagg
+    21301 tggcgatagc acaacgtaag atatatggcc ttagcactac gttgacatca ttgactaaga
+    21361 cggtggctag ggctctggag aaatacattg acggtatacc gacggcaacg cttagggatt
+    21421 tcatcaagcg tgaggtgacg gctatggggt atccggttat tgaggctagg gttgactaca
+    21481 cgggtgtgcc gtttattgct gagacggtga tactgtatag gaactatgag gagattgtgg
+    21541 acatgattag gacagggcgc gcggagactc ttaagccagt tattacgggt gacggcattg
+    21601 accccatata cgacaaaatg gttaagacgg ggtccaatgc ctaagagtat ctgggagctg
+    21661 gaggaggagg taaggaggtt gttgctgagc ggcgtagagt tccaagggcg taaggtgggg
+    21721 gctacggttg gcgcggattg gttcaagtgg gttaagctag aggagactaa ccccaggcgg
+    21781 ctactggcga tatacgtaaa ggaggctact atggttaccg tatacgctat cgtgtccgac
+    21841 gacgacaagg tggacattat aagcgtgtca ctagacagaa tgtgtagggg tgggggagcg
+    21901 catgcttaat gagaccccat tggctcaggt gtataggtcg tgtatggagg ctgtcaatga
+    21961 tgctgagtat tgcgctaagg tgattgacgt ggttattgac tccgcgaagc gggtgtatag
+    22021 ctacgtgcct gagggtcgga ctaagcctaa aatctacgtg ttgttagccc cagacgttga
+    22081 ttatgtggcc ggcgtgttgg tggacaagga caagaagtcg gtgattatac tactgagggc
+    22141 gccacggcat gctgtgtcat tgctatatga gcgtaataag gacgggtggt tcactctgaa
+    22201 gagtgccacg gtgtctaaca atgagttggc ggctttgatg aatgggccct ttaaactatc
+    22261 agacaactct gagggggatg ggctatgagg ggggctggta atgtcaagat acgcatatcg
+    22321 gtgactgagc aattgattag gttcatattg tgccggaggc ttaagggggc gcgtggcaac
+    22381 gtctacacga ttaaggccgc gcagatatgc gcggaaatat tccgtgggga gagtaaagtg
+    22441 cctgtgtcgt gtaaagtgac ggtgaggagg tatttgttgg gcgctctata tgacgctatc
+    22501 gtgcatgatt tgacggacaa ataccgtatc gtggtgaacg ttggtaaggc gtgggagttg
+    22561 ttggggtgtg aggaatatga ggattagggg ctacctccct aggggtattg ccttgacgtg
+    22621 gttgttaggt attccgctgg aggagtgtga cgcgcctatg actaaggata agcttaggga
+    22681 tatcataaat cggtttatca acacctcctt aggcaatgtg ccggtgaaat atgatgtccg
+    22741 tgagctgagc cgctctttca tgattaagtt cacggctacg gtgtctgagc cggcggctat
+    22801 gtgccgtaaa cactcagact atgagtttaa ggattgcgta tacacatgcg tctctaccaa
+    22861 tatacctcta caggagtgtg aggaggtgtg tcgtcaagag gtgactgagg agtgtaacaa
+    22921 gtacggtgag acggctgtga ctatgaacat aactagcttg gcgcatgaca tggcgtcact
+    22981 atttgaggct tgtaacgtga ggtattatgc gcacattggg gcctctacgg atgtctatag
+    23041 catattattc gtggcctttt tcgcatagtc cgcttttcga aatcggcttt tttcttcttt
+    23101 acaaatagct aatgcagcta tttgacattt ctctaaactt ggttagacat taatctctcg
+    23161 gcgtggtccg gaggacctcc cgctttacct cggcactcgg cgcgctttgg cccctatttc
+    23221 ctatcgctat atttgctttt aaataagcgt gctttttatg tttcaattgt cctccttact
+    23281 ttacggaggc cgtaaacttt aaaaatccgt gtttcatagg gatacatggt caggtccaaa
+    23341 ataactccgg aggagggtcc gactaaaaag aaggtttttt taaaggtgag ggcaggtggg
+    23401 gcagaaactg aatataccgc ggtctacgag gaccttgaaa tcggggggct gactaggggc
+    23461 ggcaggagtg acgtcaagaa ggtcctaagg cggattatta gggcgtataa tgacctccca
+    23521 gaggacgtgg ttagggcggc tatcacggtg attaaccaca tattgtcggc tgtcaacttg
+    23581 ggcgtcaagg aggcatgggg tggcgtgagc gtagaggtgg gggataatga caaattgacc
+    23641 ctacgcatct ccctctacca ctacattgac aatgagaggg atgaaagtgg ttgggctggg
+    23701 gagataaagg ctagctttat cggctatgat ggcttgtttg cggatagctc acacacggtg
+    23761 attaaaagag tcaactacgg tgaggatata gacgctatga gcctctaccg tgagttgatt
+    23821 agggtggcta gacacgctta caacgcaata ccgtcttatt aggccggagg ctagacgctt
+    23881 aatttgcttt taaatcggcg cgcctttttt gtttcaactc tccccccgtc tttacgtggg
+    23941 gcgtaaaatt taaaaatcta ggtttcatag ggatacatgg cccacacaca aaatactggg
+    24001 gctgtcaaaa aaaggaggat ttttttgaac gtctgggggc atgatgaatt tgaggagaat
+    24061 gacggcagga cctactacca cgctagaatc ggtaagctag aggtagaggg gtgggcttac
+    24121 tatgcggacc gtgccgatat caaaaagttg ctggaaaagg ctctaaaggc tcaggagccc
+    24181 ctaccggaga aggtagagaa ggctattgac tctatagtta accacttgat tgcggtggtc
+    24241 caattgggct ctaccacggc ggcggcacat gctggctttg actataatga gagggagggg
+    24301 attagcttta cggcggagat gttctatgat gataacggtg ggtggggcat ggaggttagg
+    24361 gtggttaaca ataggtataa cggcatgatt aggctggtta agagggtccg cttaaaggag
+    24421 gtgtctacgg aggctattcg taaggtggtg gctaaggtgg tgcggcaggc ttataacgcc
+    24481 tacctttaac aacgccttaa ggtcttttta aataagcacg cttttttcct ttctattctc
+    24541 cccccgtctt tacgtgggca gtaaaattta aaaatcccga tttcacaatg ataccatggt
+    24601 gactaaaccc ctcacgtata accccaagga aatgaaaagg attttttcca aaatcacgga
+    24661 ccccacggct agggtaaggg ccatagtggc ccacgtgttg gcggatatac cggaggctta
+    24721 tgacgtgtgg gtgggggagg gtgtcataac tattaggccg gtcggcagtg gcagatttat
+    24781 tggtgacgtg gtgaggcagg tggtttggtg gcttaaggag ttcgggtggg tggcattggt
+    24841 taggcccatt gaaaacggct ataggattga atacctccca gtggttggct atggctggtg
+    24901 acttcgatat tagggaggct tgtcctaatc gggtgcgcta ccttaatggt gctgtcaacg
+    24961 cgctgatttt caaatacccc gacgttgacg tggttgacaa cggcgtggaa cttggtccat
+    25021 gcgtctaccg cacgatattt aggatggctg tctctaatcc ggaggacaac aaggccgtgg
+    25081 ctttggctat agctaggatt aatgagtata tccgtgacgt aaaggctagg cttgatggct
+    25141 acggttggga gattttcgaa aaggagacct acatagagga gggctatgtc tacgcagagg
+    25201 ttaagtggat gaggcgggtg aggataccgg gtaagaagta cgtttcgctt atggaaatct
+    25261 atgagttggc gttaccgcat atcgaaaaga acctaaggga gagtgcggag tttttcgagt
+    25321 tgttgcgtgg tgggtctgag gccgttgcgg aggctcagta attggcgata ggtttttata
+    25381 cggctatttc tttttgatag tgccacgtga tgtaaaagaa gtgactagga tgctgattag
+    25441 gcttaacatg cttatgcgga ggtttaagga gaggggcggt tatcccataa tgtacgtggc
+    25501 ggaccgcatg ggcgatagac acgacgcggt tgtacttatt gtggatatcc tctatgagga
+    25561 gagggagcgt gctgaggccg tggtaaaaga ggtcttggac ctcttggggg cccacaacat
+    25621 taaggtgytt gaccataagc ttgactcttt catggtgcct tttagggagg tgtggcggtt
+    25681 tgtggctatg gtggcggtta accattagct atggctatgt cgtggcgtaa ggctgtcctt
+    25741 aatgtcgtgt tgtgtatggc gcttatatcg gctggctttg tgtggtattt ctatgctgta
+    25801 ttctacggag cggatagcta tagggtcttg gtccttaagg ccgtgatgtt ctttagcgct
+    25861 attatcttgg ctttagaggc tgtgaggttt gctattgagg aggagtattg cattgcggct
+    25921 ttgcttgacg tgtgggcttt gcttatggta ttgggggctg tctttgggct ttagttgctt
+    25981 ttaaataagc acgctttttg tctttcaact atccctccga ttttacggag gccgtaatct
+    26041 ttaaaagtcc gtgtttcgta aggatacatg gcctcccaac taaaacccca agtattcccg
+    26101 gaaaaagaag ccacttttta tgaactaaag gtcggcaagg tctacaccaa gtatagggcg
+    26161 tggatagggc cctatatcgc taagggcata accatgggtc cggaggataa ggttaaggag
+    26221 gtggtgaggc gcatggcaca agctaaggct gagcctcttg acgtgattaa gtcgttggtg
+    26281 gagtccgtgg cggaatacgt gtccacggct agtgagtccg gactaatgga cattggcgtg
+    26341 gtgttgggca cgtttttcca cttgggtgag tacatggcta taatggtaaa gctacaacgt
+    26401 ctaagtggtc cgtatagtca caacagggtg tggggcgaaa ttaaggttat gtttaagggt
+    26461 tatgatggct taaaggcgtt gtctaagcac gtggtgatgc gctacgtgga attctacgcg
+    26521 cctaataagg tggataaggc gcaactatac aacgtgctat atgaggcggc acgcattgcc
+    26581 tataacgctt acggttgggc ccacaaaaac ctctagctta gggccccaac gtctataggg
+    26641 tcttttttgg gtcctctttt tcctttactt ttgtcaatat gctgcatagt atatttgtaa
+    26701 agggcgggca cgtggctttt tcctaagggg cgcatgtcct ttatttgctt ttaaatcggc
+    26761 acggtttagg gccctttttc ttttttcttt ttaatatata gaaattaaaa aagggcctta
+    26821 atgtgctttt aaatcggcgg attttggggc ctttatttgc ttttaaataa gcgcgcttag
+    26881 gacctttcaa ttgtccgcrt gtctttacgg ggggcgtaaa ctttaaaaat ccgtgtttcg
+    26941 taaggataca tggcccgggt gggccccaaa atcgaaataa cccacggagg caaaaaatac
+    27001 acggtttttt ccaaagtcac gcacttggtg ccgcgcacgg aaaatgggga ggaggccgaa
+    27061 tacgtggtat ttggtccgga aaaagagggc gtgataagtg tcgtggtgtt ggcgcctaag
+    27121 gacctaaatg aggaggcgtt ggctttacgt gtcaagtggt tcaacgacac taagccacgg
+    27181 tgtgtcaagt gtggcgcggc atataatggc aaaaaccact ttagggtcgt ggctatacgc
+    27241 aacggcacct attatctaga cgcggtgtgt gacaagtgcg agccacgcat tacgtggctg
+    27301 tccgcaatag tcattggcag gtcctaaggg gcctaaatag tcggcttttt tccgtctata
+    27361 atatcgcttt tttgtgggaa aatcggactt tagtgttggg cctcttaatt tgcttttaaa
+    27421 tcagcgcctc ccttaccatc taatacgtgg cgatactgac ttaatagtcg gtctattgcc
+    27481 atggtgacta attcgcttgt cgtgagtcct aatgtccgcg cggcctctag catgtcatta
+    27541 tgcatggctg tcggcacctt aaatgtcaca agtctatagg ctgacgtata gtggcttagg
+    27601 tttatgtcgg ctagcgttgg tgcctttttg caaaatctag gtgtcacgtg gaataataac
+    27661 ctccgttgtc tcttatccat gggcttacct aataggtcct ctaatgcgga ggcgataaag
+    27721 tgtaatgtgt gtccgtgcgt gctattgacg tctacgtatt tggcaaatat attgtgcgcc
+    27781 tccgtgtccg cggctattaa tctaagcatg tctgagggcg tgatatacct ccggcgtgaa
+    27841 ttgcatataa ggcgccataa tgtacgcttt atttcaaata tcgcattggt ggcggcattt
+    27901 tcatctacgc accatattgt ggcgcggctt atttcgacct taagcaccat tttgtttttg
+    27961 gctagctgat ataatgcatt gcgcgccatg gaccatgaca cgtctagctt attggctact
+    28021 ctagctattg tcgtgcatgg tgcctccgta atcatgtatc ttagcgtctt tatcatgcgc
+    28081 gtgtgcattg tgtcggacat tttgcgtggc atatcttatt gatacgcgcg gtttattaaa
+    28141 ttattcggcg tctattatgt tgacgtgcgg cattggcgtc tttagtgtct ttgtgatata
+    28201 tgcgtttcgc gttggcattg gttgggcgtc ttttggcggt ttgtaaaggg cgtttttgcg
+    28261 tttttgtggg ggtgtttttg cgtctggtgg ggaggtggtt tggcgttggt agagggtggc
+    28321 ttggcggtgg gtcaagg
+//
+

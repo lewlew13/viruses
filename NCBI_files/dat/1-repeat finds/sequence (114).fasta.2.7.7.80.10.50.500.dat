@@ -1,0 +1,17 @@
+Tandem Repeats Finder Program written by:
+
+Gary Benson
+Program in Bioinformatics
+Boston University
+Version 4.09
+
+
+Sequence: NC_034456.1 Canis familiaris polyomavirus 1 isolate R006926 CT2015, complete genome
+
+
+
+Parameters: 2 7 7 80 10 50 500
+
+
+262 301 21 1.9 21 85 10 55 27 22 35 15 1.94 TTAACCACAGAAGGGTGGCGC TTAACCACAAGAGGGTGGCGCTTAACCGCAGAAGGGTGGC
+2747 2793 6 7.8 6 90 0 76 0 27 21 51 1.48 TTGCTC TTGCTCTTGCTCTTGCTGTTGCTCTTGCTGTTGCTCTTGCTCTTGCT

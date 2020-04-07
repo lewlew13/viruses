@@ -1,0 +1,3 @@
+GOA	RepOver	RepCov	Gene	Locus	GeneLen	Product
+NA	0	0	NA	CLVC_sRNA-1gp1	7539	replicase
+NA	0	0	p29	CLVC_sRNA-1gp2	792	p29

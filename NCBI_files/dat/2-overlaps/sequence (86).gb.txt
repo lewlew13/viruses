@@ -1,0 +1,43 @@
+GOA	RepOver	RepCov	Gene	Locus	GeneLen	Product
+NA	0	0	Q	PSP3p01	1023	portal vertex protein
+NA	0	0	NA	PSP3p02	747	gp2
+NA	0	0	P	PSP3p03	1770	terminase ATPase subunit
+NA	0	0	O	PSP3p04	855	capsid-scaffolding protein
+NA	0	0	N	PSP3p05	1068	capsid protein
+NA	0	0	M	PSP3p06	750	terminase endonuclease subunit
+NA	0	0	NA	PSP3p07	507	gp7
+NA	0	0	NA	PSP3p08	204	gp8
+NA	0	0	NA	PSP3p09	297	gp9
+NA	0	0	NA	PSP3p10	498	gp10
+NA	0	0	NA	PSP3p11	414	gp11
+NA	0	0	NA	PSP3p12	291	gp12
+NA	0	0	NA	PSP3p13	477	gp13
+NA	0	0	NA	PSP3p14	450	gp14
+NA	0	0	NA	PSP3p15	642	gp15
+NA	0	0	W	PSP3p16	348	baseplate wedge subunit
+NA	0	0	J	PSP3p17	909	baseplate assembly protein
+NA	0	0	NA	PSP3p18	531	gp18
+NA	1	304	NA	PSP3p19	2028	gp19
+NA	0	0	NA	PSP3p20	549	gp20
+NA	0	0	FI	PSP3p21	1188	major tail sheath protein
+NA	0	0	FII	PSP3p22	519	major tail tube protein
+NA	0	0	NA	PSP3p23	488	gp23.5
+NA	0	0	NA	PSP3p24	336	gp23
+NA	0	0	NA	PSP3p25	2445	gp24
+NA	0	0	NA	PSP3p26	486	gp25
+NA	0	0	D	PSP3p27	1170	tail protein
+NA	0	0	NA	PSP3p28	219	Pag
+NA	0	0	int	PSP3p29	1050	integrase
+NA	0	0	NA	PSP3p30	339	gp28
+NA	0	0	cI	PSP3p31	861	CI
+NA	0	0	NA	PSP3p32	354	gp30
+NA	0	0	NA	PSP3p33	510	gp31
+NA	0	0	NA	PSP3p34	201	gp32
+NA	0	0	NA	PSP3p35	234	gp33
+NA	0	0	NA	PSP3p36	225	DksA-like zinc finger domain containing protein
+NA	0	0	NA	PSP3p37	522	gp35
+NA	0	0	NA	PSP3p38	2127	gp36
+NA	0	0	tumA	PSP3p39	183	TumA
+NA	0	0	tumB	PSP3p40	234	TumB
+NA	0	0	NA	PSP3p41	210	gp37
+NA	0	0	NA	PSP3p42	420	gp38

@@ -1,0 +1,141 @@
+LOCUS       NC_043662               3712 bp    RNA     linear   VRL 22-AUG-2019
+DEFINITION  Macrophomina phaseolina chrysovirus 1 isolate TN263 RNA-dependent
+            RNA polymerase gene, complete cds.
+ACCESSION   NC_043662
+VERSION     NC_043662.1
+DBLINK      BioProject: PRJNA485481
+KEYWORDS    RefSeq.
+SOURCE      Macrophomina phaseolina chrysovirus 1
+  ORGANISM  Macrophomina phaseolina chrysovirus 1
+            Viruses; Riboviria; Chrysoviridae; Alphachrysovirus; Macrophomina
+            phaseolina chrysovirus.
+REFERENCE   1  (bases 1 to 3712)
+  AUTHORS   Marzano,S.-Y.L., Nelson,B.D., Ajayi-Oyetunde,O., Bradley,C.A.,
+            Hughes,T.J., Hartman,G.L., Eastburn,D.M. and Domier,L.L.
+  TITLE     Identification of diverse mycoviruses through metatranscriptomics
+            characterization of the viromes of five major fungal plant
+            pathogens
+  JOURNAL   J. Virol. (2016) In press
+REFERENCE   2  (bases 1 to 3712)
+  CONSRTM   NCBI Genome Project
+  TITLE     Direct Submission
+  JOURNAL   Submitted (22-AUG-2019) National Center for Biotechnology
+            Information, NIH, Bethesda, MD 20894, USA
+REFERENCE   3  (bases 1 to 3712)
+  AUTHORS   Marzano,S.-Y.L., Hobbs,H.A., Hughes,T.J., Ajayi,O.O., Nelson,B.D.,
+            Hartman,G.L., Bradley,C., Eastburn,D.M. and Domier,L.L.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (10-MAR-2015) Department of Crop Sciences, University of
+            Illinois, USDA-ARS, 1102 S. Goodwin Ave., Urbana, IL 61801, USA
+COMMENT     PROVISIONAL REFSEQ: This record has not yet been subject to final
+            NCBI review. The reference sequence is identical to KP900886.
+            
+            ##Assembly-Data-START##
+            Assembly Method       :: Trinity v. r2014
+            Sequencing Technology :: Illumina
+            ##Assembly-Data-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..3712
+                     /organism="Macrophomina phaseolina chrysovirus 1"
+                     /mol_type="genomic RNA"
+                     /isolate="TN263"
+                     /host="Macrophomina phaseolina"
+                     /db_xref="taxon:1708483"
+                     /segment="RNA 1"
+                     /country="USA"
+                     /collection_date="01-Jun-2013"
+     gene            257..3574
+                     /locus_tag="FLB25_s1gp1"
+                     /db_xref="GeneID:41324520"
+     CDS             257..3574
+                     /locus_tag="FLB25_s1gp1"
+                     /codon_start=1
+                     /product="RNA-dependent RNA polymerase"
+                     /protein_id="YP_009667008.1"
+                     /db_xref="GeneID:41324520"
+                     /translation="MSGINNQMKFESRKARREAKKSKDQGIIELEKYELKDSKFMGTN
+                     KMGQYYEEYVAESMGRYLKLKERRRNLWAVLMPAGHGKTWLAQKYGLVDVDELITLEE
+                     HEKYVAMRVAILNGIDTWSGHNEQWFSRMNQTLDLFDYSRPVILLCHHEEIAHELGAS
+                     VLGSILLDEKTFEANIAGRTELSKKFSRNSYKSFKLSRFSNQNLLHSKSNDDTEKFFL
+                     ALMNLNNLPVAAPYKYLRIHKNYHYASDVPDWILTGEKAGDEDVDLKYLVNLHDRGKI
+                     PKEAVDYYVRESHLVTSFDFGAGMWEWTKELARLPPVMNEVREFDKDGDFGTIFPPRG
+                     PKEMTRANVTIRRLVQTFNIFQHEDAVGIAGAHVGEPHIFVASLLSAWKGLVQFTSVS
+                     GLVLPWFKVHSMHWTSRMKDLHSLVRTNRYFMNTEISEKDRQSLMYMDLLIGRAEYTV
+                     NEMSEIQKRGGETYETKHLAYDPELKRFTNRQYKTDFAQSVKQAYSRMRLNPKRINVR
+                     SFAEFYERRKTWLTKGSLVYNNLEAKQKRWEGKILDHVNEIVLEAEGRHNKQSFFEVA
+                     DLLDIVATTSAENFNRTKTMLKYEVGGKERTLLPGSLMHFLVFTYVLVLAEKQEQVGS
+                     VRLNAMSDDDIRYFDKKMGNGIYHALYDWADFNEQHSADEMSAVISELSDVVVGPTDY
+                     AMFVELISWSMYNMTLQDRDRRVHKLWRGLYSGWRGTSWTNTVLNFCYTYCGLLSMER
+                     IYGKSCLLMVDHGGDDIDLMFSDPTMMPKFIRVMEEMLFNANAWKQMVGERSEFFRNT
+                     ISGCRVYASPMRALASFVAGDWEGSGRSTVKERVVSLLDQIAKMRRRGLNNEMANGFV
+                     MCSISHWCKIRDGDEWVNLPGYVMHGATECGGMGVPDINNEVWLLETAVPEIDADWFK
+                     LIVPDMKSSRDYVSVVARELDRFSITIRDREEMARKFAEDSFDVEKQVDYQQYKRLLD
+                     FKTSVTGKRKVVVAMEDDVLFEQFMEFRLDDEIYKKYAKASRYIEFAGQLEMQGKTLE
+                     KEEIVNLMSDGIVSSEAVEFQGDVYYRRLVPEFIALRITYYCREAINKKACSVEVAED
+                     AFRILCYMSQRVFKHMM"
+ORIGIN      
+        1 ggacgaaacg tgctggcacg tcgataaaaa aacaaaaatg ccaaaaccag caccgtcggg
+       61 agtgggattt aataagtgcg atctataagt tggaaaaact gcatattaaa tcaaccaccc
+      121 tgaggagtac cttgaaatag gacgaaacgt gctggcacgt cggtggaaaa gatttacaga
+      181 tacaagaatt cacaccagca aggcagataa acgtagttga gtcaattgat aatatactac
+      241 gaacaaacta aacacgatgt caggaatcaa caaccaaatg aaatttgaga gccgtaaggc
+      301 taggcgcgaa gcaaagaaaa gcaaagatca aggtatcatc gagcttgaga aatacgaatt
+      361 gaaggactct aagttcatgg ggactaacaa gatgggtcaa tactacgagg agtatgttgc
+      421 tgagtcgatg ggacgatacc tgaagttgaa agaaaggaga agaaaccttt gggctgtgtt
+      481 gatgcccgca ggacacggta agacgtggct tgctcaaaaa tatggtttag tggatgtaga
+      541 tgagttgatc actcttgaag agcatgaaaa gtacgtcgct atgcgcgttg cgatactgaa
+      601 tgggatagac acatggtctg ggcacaacga acagtggttc agtagaatga accaaaccct
+      661 ggatttattt gattactcaa ggcctgtcat ccttctgtgc catcatgaag aaattgctca
+      721 cgagctgggg gcgtcggttc ttggttcaat cctacttgat gagaaaacat tcgaagcaaa
+      781 catcgccggg aggactgaat tgagcaagaa gttcagccgc aactcataca agtccttcaa
+      841 gctatctcgc ttcagcaacc agaatttgtt acactctaag agtaacgatg atactgaaaa
+      901 gttctttctg gccctgatga atttgaacaa cctaccagtc gctgctccct acaaatactt
+      961 gaggatccat aaaaattacc attacgcatc agacgtacca gattggatct tgacgggcga
+     1021 gaaagcgggg gacgaagatg ttgacctaaa gtatctcgtc aacctacacg atagaggtaa
+     1081 aataccaaag gaagcagttg actactacgt aagagagtct cacttagtga cgtcctttga
+     1141 ctttggtgcc ggcatgtggg aatggacaaa ggagttggca cggcttccac ccgtgatgaa
+     1201 tgaggttagg gaatttgaca aagatggaga tttcggaacc atcttcccac ctagagggcc
+     1261 gaaggaaatg acaagggcaa acgtgacaat acggagatta gttcagacct tcaatatttt
+     1321 tcagcacgag gacgcagtgg gtattgcagg cgctcatgtc ggtgaaccac atatatttgt
+     1381 ggcaagctta ctaagcgcat ggaaaggatt ggtccaattt acgagtgtca gcgggttggt
+     1441 tctaccatgg tttaaagttc attctatgca ttggacatca aggatgaaag atctacacag
+     1501 cttggtgaga acaaacaggt attttatgaa tacggagatt agtgaaaaag atcgccagtc
+     1561 actcatgtac atggatttac tgataggaag ggcggaatac acagtcaatg agatgagtga
+     1621 gatacaaaaa agaggtggtg aaacttacga aaccaagcat ctagcttatg atccagaact
+     1681 caaaagattt actaaccgtc aatacaaaac agactttgca caatccgtga aacaggcata
+     1741 ctcacgaatg agattgaatc caaagcgaat caacgtacgg tcatttgctg agttctatga
+     1801 gaggagaaaa acatggctga caaaaggcag tcttgtttac aacaatttgg aagctaaaca
+     1861 gaagagatgg gaaggcaaga tacttgacca tgtcaatgag attgtacttg aggcagaggg
+     1921 taggcacaac aaacaatctt tctttgaagt ggctgatttg ctcgacattg tggcaaccac
+     1981 atccgctgaa aatttcaacc gcacgaagac gatgttgaag tacgaagtag gaggaaaaga
+     2041 aaggactcta ttaccaggct cattgatgca tttcttagtc tttacatatg tactagtact
+     2101 tgcagagaag caagagcagg taggtagtgt gaggttgaac gcgatgtcgg atgacgatat
+     2161 tcgatacttt gacaagaaga tgggcaacgg catctaccat gcattgtacg attgggcgga
+     2221 tttcaatgaa cagcatagtg ctgatgaaat gagcgcagtt atatcagagt tatcggatgt
+     2281 cgtggttggg ccaacggatt atgcaatgtt tgttgagctg ataagttggt ctatgtacaa
+     2341 tatgacactg caagatagag acagacgtgt tcacaagctg tggcgtggat tgtactctgg
+     2401 ttggagaggt acaagttgga caaatacagt gttaaatttc tgctacacat actgtggcct
+     2461 tctgagcatg gagaggatct atgggaagag ttgcttgctg atggtggacc atggaggtga
+     2521 cgatatagac ttgatgttct ccgacccgac gatgatgcca aaattcatca gagttatgga
+     2581 ggaaatgctg tttaatgcga atgcgtggaa gcagatggtc ggagaacgat cagaattttt
+     2641 tcgtaatact ataagtggat gccgggtata tgctagtcca atgcgtgcac ttgctagctt
+     2701 tgtggcaggt gattgggaag gtagcggacg ctcgacagtt aaggaaagag tggtatcact
+     2761 actcgaccag attgcgaaaa tgaggagaag aggtttaaac aatgagatgg caaatgggtt
+     2821 tgtgatgtgc agcatctccc attggtgcaa gattcgagac ggagatgaat gggttaatct
+     2881 accaggatac gtgatgcatg gtgctacaga atgtggaggc atgggtgttc cagatataaa
+     2941 caatgaagta tggttgctgg aaacggctgt cccggaaata gatgctgatt ggttcaagtt
+     3001 aattgtgccg gacatgaaat cgagcaggga ttatgtgtct gtggttgccc gtgaactgga
+     3061 taggtttagc ataacaatac gagatagaga agagatggca agaaagtttg cagaagacag
+     3121 tttcgatgtt gaaaagcaag tggattacca gcagtacaaa agattactgg atttcaagac
+     3181 atcagtgacg ggcaaacgga aagttgtggt cgcaatggag gacgatgtgc tatttgagca
+     3241 gtttatggag ttcagattgg acgacgagat ttacaagaaa tacgctaaag cgtcgcgcta
+     3301 catcgaattt gcagggcagt tagaaatgca ggggaaaaca ttggagaagg aagagatagt
+     3361 taacctgatg agtgatggta tagtaagcag cgaagcagtt gaattccagg gtgatgtata
+     3421 ttacagacgc ttggtcccgg agttcatagc tctgaggata acttactact gcagggaagc
+     3481 tataaataag aaagcatgca gtgtcgaagt tgcagaagat gcatttcgga tactatgtta
+     3541 catgtcacaa cgtgtattca agcacatgat gtaaacacgt tgaagaggct atggtctggc
+     3601 ggccaaattc agccagaccg gatggttacc tataacccca gacaggcatg gaatgctgta
+     3661 gagaaagggt gtggtcatcc tttactactg cgtcgcgcta catcgaattt gc
+//
+
