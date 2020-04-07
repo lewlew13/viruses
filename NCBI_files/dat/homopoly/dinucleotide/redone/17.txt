@@ -1,7 +1,0 @@
-NC_043389.1 Ranunculus white mottle virus segment RNA1 putative RNA polymerase gene, partial cds	4018	3236	3241	ATATAT	+
-NC_043389.1 Ranunculus white mottle virus segment RNA1 putative RNA polymerase gene, partial cds	4018	3838	3843	GAGAGA	+
-NC_043389.1 Ranunculus white mottle virus segment RNA1 putative RNA polymerase gene, partial cds	4018	3708	3713	GTGTGT	+
-NC_043389.1 Ranunculus white mottle virus segment RNA1 putative RNA polymerase gene, partial cds	4018	33	38	TATATA	+
-NC_043389.1 Ranunculus white mottle virus segment RNA1 putative RNA polymerase gene, partial cds	4018	804	809	TATATA	+
-NC_043389.1 Ranunculus white mottle virus segment RNA1 putative RNA polymerase gene, partial cds	4018	3529	3534	TATATA	+
-NC_043389.1 Ranunculus white mottle virus segment RNA1 putative RNA polymerase gene, partial cds	4018	3707	3712	TGTGTG	+

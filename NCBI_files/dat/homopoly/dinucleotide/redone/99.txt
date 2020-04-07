@@ -1,8 +1,0 @@
-NC_038837.1 Crimson clover cryptic virus 2 isolate IPP_IncarnatSK segment RNA 1, complete sequence	2444	1929	1934	ACACAC	+
-NC_038837.1 Crimson clover cryptic virus 2 isolate IPP_IncarnatSK segment RNA 1, complete sequence	2444	1115	1120	AGAGAG	+
-NC_038837.1 Crimson clover cryptic virus 2 isolate IPP_IncarnatSK segment RNA 1, complete sequence	2444	1044	1049	ATATAT	+
-NC_038837.1 Crimson clover cryptic virus 2 isolate IPP_IncarnatSK segment RNA 1, complete sequence	2444	1928	1933	CACACA	+
-NC_038837.1 Crimson clover cryptic virus 2 isolate IPP_IncarnatSK segment RNA 1, complete sequence	2444	1116	1121	GAGAGA	+
-NC_038837.1 Crimson clover cryptic virus 2 isolate IPP_IncarnatSK segment RNA 1, complete sequence	2444	2156	2161	GAGAGA	+
-NC_038837.1 Crimson clover cryptic virus 2 isolate IPP_IncarnatSK segment RNA 1, complete sequence	2444	2012	2017	TATATA	+
-NC_038837.1 Crimson clover cryptic virus 2 isolate IPP_IncarnatSK segment RNA 1, complete sequence	2444	484	489	TCTCTC	+
