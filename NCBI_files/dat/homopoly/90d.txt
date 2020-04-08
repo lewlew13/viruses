@@ -1,6 +1,0 @@
-NC_004054.1 Ophiostoma novo-ulmi mitovirus 6-Ld, complete genome	569	574	ATATAT	+
-NC_004054.1 Ophiostoma novo-ulmi mitovirus 6-Ld, complete genome	1368	1373	ATATAT	+
-NC_004054.1 Ophiostoma novo-ulmi mitovirus 6-Ld, complete genome	1524	1529	ATATAT	+
-NC_004054.1 Ophiostoma novo-ulmi mitovirus 6-Ld, complete genome	2097	2102	ATATAT	+
-NC_004054.1 Ophiostoma novo-ulmi mitovirus 6-Ld, complete genome	369	374	CTCTCT	+
-NC_004054.1 Ophiostoma novo-ulmi mitovirus 6-Ld, complete genome	2098	2103	TATATA	+

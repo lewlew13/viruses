@@ -1,7 +1,0 @@
-NC_038869.1 Tellina virus 1 gene for polyprotein precursor, genomic RNA	698	703	ACACAC	+
-NC_038869.1 Tellina virus 1 gene for polyprotein precursor, genomic RNA	1103	1108	ACACAC	+
-NC_038869.1 Tellina virus 1 gene for polyprotein precursor, genomic RNA	3329	3336	AGAGAGAG	+
-NC_038869.1 Tellina virus 1 gene for polyprotein precursor, genomic RNA	430	435	CACACA	+
-NC_038869.1 Tellina virus 1 gene for polyprotein precursor, genomic RNA	697	704	CACACACA	+
-NC_038869.1 Tellina virus 1 gene for polyprotein precursor, genomic RNA	3530	3535	CGCGCG	+
-NC_038869.1 Tellina virus 1 gene for polyprotein precursor, genomic RNA	3330	3337	GAGAGAGA	+

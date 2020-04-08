@@ -1,2 +1,0 @@
-GOA	RepOver	RepCov	Gene	Locus	GeneLen	Product
-NA	0	0	NA	BVB46_s1gp1	6456	RNA-dependent RNA polymerase

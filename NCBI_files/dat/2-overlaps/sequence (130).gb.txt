@@ -1,3 +1,0 @@
-GOA	RepOver	RepCov	Gene	Locus	GeneLen	Product
-NA	0	0	NA	KW76_gp1	1101	Cap protein
-NA	0	0	NA	KW76_gp2	819	Rep protein

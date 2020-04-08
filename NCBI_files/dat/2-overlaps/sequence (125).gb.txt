@@ -1,5 +1,0 @@
-GOA	RepOver	RepCov	Gene	Locus	GeneLen	Product
-NA	1	42	NA	FLA42_gp1	20066	replicase polyprotein 1ab
-NA	0	0	NA	FLA42_gp2	12219	replicase polyprotein 1a
-NA	0	0	NA	FLA42_gp4	441	nucleocapsid protein
-NA	0	0	NA	FLA42_gp3	5001	structural glycoprotein

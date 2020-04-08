@@ -1,2 +1,0 @@
-GOA	RepOver	RepCov	Gene	Locus	GeneLen	Product
-NA	0	0	NA	D1S42_sLgp1	6822	RNA-dependent RNA polymerase

@@ -1,4 +1,0 @@
-NC_003540.1 Chrysanthemum chlorotic mottle viroid, complete genome	87	92	CTCTCT	+
-NC_003540.1 Chrysanthemum chlorotic mottle viroid, complete genome	88	93	TCTCTC	+
-NC_003540.1 Chrysanthemum chlorotic mottle viroid, complete genome	247	252	TCTCTC	+
-NC_003540.1 Chrysanthemum chlorotic mottle viroid, complete genome	66	71	TGTGTG	+

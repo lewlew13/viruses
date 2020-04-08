@@ -1,7 +1,0 @@
-GOA	RepOver	RepCov	Gene	Locus	GeneLen	Product
-NA	0	0	NA	BCVgp1	747	putative protein P0
-NA	0	0	NA	BCVgp2	3242	putative fusion protein P1-P2
-NA	0	0	NA	BCBgp6	1971	putative protein P1
-NA	0	0	NA	BCVgp3	2004	putative protein P5
-NA	0	0	NA	BCVgp4	609	putative protein P3
-NA	0	0	NA	BCVgp5	528	putative protein P4

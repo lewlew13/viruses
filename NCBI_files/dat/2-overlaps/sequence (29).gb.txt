@@ -1,7 +1,0 @@
-GOA	RepOver	RepCov	Gene	Locus	GeneLen	Product
-NA	0	0	NA	D1Y15_gp1	1119	nucleoprotein
-NA	0	0	NA	D1Y15_gp2	264	X protein
-NA	0	0	NA	D1Y15_gp3	609	phosphoprotein
-NA	0	0	NA	D1Y15_gp4	429	matrix protein
-NA	0	0	NA	D1Y15_gp5	1500	glycoprotein
-NA	0	0	NA	D1Y15_gp6	6424	polymerase

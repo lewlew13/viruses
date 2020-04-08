@@ -1,3 +1,0 @@
-GOA	RepOver	RepCov	Gene	Locus	GeneLen	Product
-NA	0	0	NA	FLB31_gp1	4929	non-structural polyprotein
-NA	0	0	NA	FLB31_gp2	2598	structural polyprotein

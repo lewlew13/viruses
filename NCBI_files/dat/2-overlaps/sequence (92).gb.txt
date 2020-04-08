@@ -1,3 +1,0 @@
-GOA	RepOver	RepCov	Gene	Locus	GeneLen	Product
-NA	0	0	NA	NoVsRNA1gp1	3132	RNA dependent RNA polymerase protein A
-NA	0	0	NA	NoVsRNA1gp2	414	protein B2

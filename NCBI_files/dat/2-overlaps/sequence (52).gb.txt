@@ -1,6 +1,0 @@
-GOA	RepOver	RepCov	Gene	Locus	GeneLen	Product
-NA	0	0	NA	D1S69_sAgp1	756	CP
-NA	0	0	NA	D1S69_sAgp2	390	TrAP
-NA	0	0	NA	D1S69_sAgp3	1086	Rep
-NA	0	0	NA	D1S69_sAgp4	399	REn
-NA	0	0	NA	D1S69_sAgp5	258	AC4

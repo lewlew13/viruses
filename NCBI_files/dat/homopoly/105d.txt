@@ -1,3 +1,0 @@
-AY338213.1 Chlorella virus AL-2A potassium channel protein gene, complete cds	178	183	ACACAC	+
-AY338213.1 Chlorella virus AL-2A potassium channel protein gene, complete cds	79	84	ATATAT	+
-AY338213.1 Chlorella virus AL-2A potassium channel protein gene, complete cds	80	85	TATATA	+

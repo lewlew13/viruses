@@ -1,3 +1,0 @@
-NC_007451.1 Enterobacteria phage PR4, complete genome	3392	3397	ATATAT	+
-NC_007451.1 Enterobacteria phage PR4, complete genome	11968	11973	ATATAT	+
-NC_007451.1 Enterobacteria phage PR4, complete genome	1214	1219	TATATA	+

@@ -1,4 +1,0 @@
-GOA	RepOver	RepCov	Gene	Locus	GeneLen	Product
-NA	0	0	CP	JM55_gp1	936	capsid protein
-NA	0	0	rep	JM55_gp2	315	replication associated protein
-NA	0	0	rep	JM55_gp2	591	replication associated protein

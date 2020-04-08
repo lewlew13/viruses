@@ -1,2 +1,0 @@
-GOA	RepOver	RepCov	Gene	Locus	GeneLen	Product
-NA	0	0	NA	FK901_gp1	1431	polyprotein

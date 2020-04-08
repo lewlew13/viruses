@@ -1,3 +1,0 @@
-NC_043157.1 Pfaffia mosaic virus polyprotein mRNA, partial cds	1365	1370	AGAGAG	+
-NC_043157.1 Pfaffia mosaic virus polyprotein mRNA, partial cds	1134	1139	ATATAT	+
-NC_043157.1 Pfaffia mosaic virus polyprotein mRNA, partial cds	1274	1279	CACACA	+

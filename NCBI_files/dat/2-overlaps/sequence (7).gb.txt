@@ -1,3 +1,0 @@
-GOA	RepOver	RepCov	Gene	Locus	GeneLen	Product
-NA	0	0	HcRNAV34 ORF-1	HCRV_gp1	3000	polyprotein coding for replicases including RNA-dependent RNA polymerase region
-NA	0	0	HcRNAV34 ORF-2	HCRV_gp2	1080	major viral capsid protein

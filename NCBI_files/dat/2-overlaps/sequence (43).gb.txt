@@ -1,5 +1,0 @@
-GOA	RepOver	RepCov	Gene	Locus	GeneLen	Product
-NA	0	0	NA	phi-6L_1	486	hypothetical protein
-NA	0	0	pol	phi-6L_2	1998	RNA-dependent RNA polymerase
-NA	0	0	NA	phi-6L_3	999	packaging NTPase P4
-NA	0	0	NA	phi-6L_4	2310	hypothetical protein

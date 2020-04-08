@@ -1,3 +1,0 @@
-GOA	RepOver	RepCov	Gene	Locus	GeneLen	Product
-NA	0	0	NA	FK974_gp1	5802	non structural polyprotein
-NA	0	0	NA	FK974_gp2	3732	structural polyprotein

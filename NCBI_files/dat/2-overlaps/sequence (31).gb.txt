@@ -1,2 +1,0 @@
-GOA	RepOver	RepCov	Gene	Locus	GeneLen	Product
-NA	0	0	NA	O218_s1gp1	3294	replicase protein

@@ -1,3 +1,0 @@
-GOA	RepOver	RepCov	Gene	Locus	GeneLen	Product
-NA	0	0	NA	CD924_gp1	3163	fusion protein
-NA	0	0	NA	CD924_gp2	1164	putative coat protein

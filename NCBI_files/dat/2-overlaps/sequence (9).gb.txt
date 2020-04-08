@@ -1,2 +1,0 @@
-GOA	RepOver	RepCov	Gene	Locus	GeneLen	Product
-NA	0	0	NA	A6I18_s2gp1	1374	hypothetical protein

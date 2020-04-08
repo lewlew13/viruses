@@ -1,3 +1,0 @@
-GOA	RepOver	RepCov	Gene	Locus	GeneLen	Product
-NA	1	280	NA	BvFgp1	5691	replicase
-NA	0	0	NA	BvFgp2	909	coat protein

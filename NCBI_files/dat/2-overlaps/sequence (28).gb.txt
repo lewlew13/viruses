@@ -1,2 +1,0 @@
-GOA	RepOver	RepCov	Gene	Locus	GeneLen	Product
-GOA:Q2PBR5	0	0	NA	D1T03_sAgp1	3345	polyprotein precursor

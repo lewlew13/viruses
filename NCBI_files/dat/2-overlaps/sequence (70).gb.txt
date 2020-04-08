@@ -1,5 +1,0 @@
-GOA	RepOver	RepCov	Gene	Locus	GeneLen	Product
-NA	0	0	mat	MX1p1	1266	maturation protein
-NA	0	0	NA	MX1p2	990	minor coat protein
-NA	0	0	NA	MX1p3	402	major coat protein
-NA	0	0	rep	MX1p4	1761	RNA replicase, beta subunit

@@ -1,5 +1,0 @@
-GOA	RepOver	RepCov	Gene	Locus	GeneLen	Product
-NA	0	0	polh	MVMV_gp001	738	polyhedrin
-NA	0	0	orf1629	MVMV_gp002	1620	ORF1629
-NA	0	0	pk1	MVMV_gp003	813	protein kinase 1
-NA	0	0	NA	MVMV_gp004	999	Mv-ORF4 peptide

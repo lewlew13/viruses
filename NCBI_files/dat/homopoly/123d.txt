@@ -1,3 +1,0 @@
-NC_043426.1 Kirsten murine sarcoma virus (KiMSV) p15 env coding region and long terminal repeat (LTR)	751	756	AGAGAG	+
-NC_043426.1 Kirsten murine sarcoma virus (KiMSV) p15 env coding region and long terminal repeat (LTR)	8	13	GTGTGT	+
-NC_043426.1 Kirsten murine sarcoma virus (KiMSV) p15 env coding region and long terminal repeat (LTR)	277	282	TGTGTG	+

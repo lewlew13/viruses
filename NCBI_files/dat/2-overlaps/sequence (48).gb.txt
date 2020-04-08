@@ -1,2 +1,0 @@
-GOA	RepOver	RepCov	Gene	Locus	GeneLen	Product
-NA	0	0	NA	RRoVsRNA1_gp1	6831	RNA-dependent RNA-polymerase p1

@@ -1,7 +1,0 @@
-NC_006307.2 Influenza C virus (C/Ann Arbor/1/50) PB2 gene for polymerase 2, complete cds	1089	1094	ATATAT	+
-NC_006307.2 Influenza C virus (C/Ann Arbor/1/50) PB2 gene for polymerase 2, complete cds	2071	2076	ATATAT	+
-NC_006307.2 Influenza C virus (C/Ann Arbor/1/50) PB2 gene for polymerase 2, complete cds	653	658	CACACA	+
-NC_006307.2 Influenza C virus (C/Ann Arbor/1/50) PB2 gene for polymerase 2, complete cds	1567	1572	CTCTCT	+
-NC_006307.2 Influenza C virus (C/Ann Arbor/1/50) PB2 gene for polymerase 2, complete cds	1692	1697	GAGAGA	+
-NC_006307.2 Influenza C virus (C/Ann Arbor/1/50) PB2 gene for polymerase 2, complete cds	892	897	TATATA	+
-NC_006307.2 Influenza C virus (C/Ann Arbor/1/50) PB2 gene for polymerase 2, complete cds	1088	1093	TATATA	+

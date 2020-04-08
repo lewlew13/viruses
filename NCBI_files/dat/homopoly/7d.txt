@@ -1,6 +1,0 @@
-NC_007518.1 Heterocapsa circularisquama RNA virus, complete genome	3751	3756	ACACAC	+
-NC_007518.1 Heterocapsa circularisquama RNA virus, complete genome	1260	1265	AGAGAG	+
-NC_007518.1 Heterocapsa circularisquama RNA virus, complete genome	3750	3755	CACACA	+
-NC_007518.1 Heterocapsa circularisquama RNA virus, complete genome	2479	2484	GTGTGT	+
-NC_007518.1 Heterocapsa circularisquama RNA virus, complete genome	2349	2354	TGTGTG	+
-NC_007518.1 Heterocapsa circularisquama RNA virus, complete genome	2478	2483	TGTGTG	+

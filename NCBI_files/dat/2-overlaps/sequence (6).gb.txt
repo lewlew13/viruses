@@ -1,2 +1,0 @@
-GOA	RepOver	RepCov	Gene	Locus	GeneLen	Product
-NA	0	0	NA	DPTVsRNA1gp1	4950	putative RNA-dependent RNA polymerase

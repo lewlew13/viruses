@@ -1,7 +1,0 @@
-NC_011065.1 Epirus cherry virus	707	712	AGAGAG	+
-NC_011065.1 Epirus cherry virus	1387	1392	AGAGAG	+
-NC_011065.1 Epirus cherry virus	1444	1451	CTCTCTCT	+
-NC_011065.1 Epirus cherry virus	2559	2564	GTGTGT	+
-NC_011065.1 Epirus cherry virus	265	270	TCTCTC	+
-NC_011065.1 Epirus cherry virus	1445	1450	TCTCTC	+
-NC_011065.1 Epirus cherry virus	2237	2242	TCTCTC	+

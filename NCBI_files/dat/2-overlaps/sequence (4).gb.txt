@@ -1,7 +1,0 @@
-GOA	RepOver	RepCov	Gene	Locus	GeneLen	Product
-NA	0	0	NA	LLV_gp1	5190	replicase
-NA	0	0	NA	LLV_gp2	807	triple gene block protein 1
-NA	0	0	NA	LLV_gp3	363	triple gene block protein 2
-NA	0	0	NA	LLV_gp4	219	triple gene block protein 3
-NA	0	0	NA	LLV_gp5	882	coat protein
-NA	0	0	NA	LLV_gp6	138	putative nucleic acid-binding protein

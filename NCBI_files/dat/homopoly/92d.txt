@@ -1,3 +1,0 @@
-NC_002690.1 Nodamura virus RNA1 segment, complete sequence	2059	2064	ACACAC	+
-NC_002690.1 Nodamura virus RNA1 segment, complete sequence	318	323	CGCGCG	+
-NC_002690.1 Nodamura virus RNA1 segment, complete sequence	2312	2317	CGCGCG	+

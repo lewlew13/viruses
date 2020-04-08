@@ -1,4 +1,0 @@
-GOA	RepOver	RepCov	Gene	Locus	GeneLen	Product
-NA	0	0	NA	VESVgp1	5646	non-structural polyprotein
-NA	0	0	NA	VESVgp2	2106	capsid protein precursor
-NA	0	0	NA	VESVgp3	333	small basic protein

@@ -1,3 +1,0 @@
-GOA	RepOver	RepCov	Gene	Locus	GeneLen	Product
-NA	0	0	NA	RnMBV1_sL1_gp1	3723	hypothetical protein
-NA	0	0	NA	RnMBV1_sL1_gp2	3336	RNA-dependent RNA polymerase

@@ -1,3 +1,0 @@
-GOA	RepOver	RepCov	Gene	Locus	GeneLen	Product
-NA	0	0	NA	MCDiV_gp1	6540	non-structural polyprotein
-NA	0	0	NA	MCDiV_gp2	2853	structural polyprotein

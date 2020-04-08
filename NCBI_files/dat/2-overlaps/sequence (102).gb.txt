@@ -1,2 +1,0 @@
-GOA	RepOver	RepCov	Gene	Locus	GeneLen	Product
-NA	0	0	RdRp	FK947_p101	3774	RNA-dependent RNA polymerase

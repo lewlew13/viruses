@@ -1,7 +1,0 @@
-GOA	RepOver	RepCov	Gene	Locus	GeneLen	Product
-NA	0	0	NA	CAU93_gp1	147	agno
-NA	0	0	NA	CAU93_gp2	1023	VP2
-NA	0	0	NA	CAU93_gp3	675	VP3
-NA	0	0	NA	CAU93_gp4	1077	VP1
-NA	1	46	NA	CAU93_gp5	2459	large T protein
-NA	0	0	NA	CAU93_gp6	513	small t protein

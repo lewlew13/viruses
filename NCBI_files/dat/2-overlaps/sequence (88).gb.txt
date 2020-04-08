@@ -1,2 +1,0 @@
-GOA	RepOver	RepCov	Gene	Locus	GeneLen	Product
-NA	0	0	NA	CAB94_sLgp1	11979	RNA-dependent RNA polymerase

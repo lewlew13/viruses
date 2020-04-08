@@ -1,2 +1,0 @@
-GOA	RepOver	RepCov	Gene	Locus	GeneLen	Product
-NA	0	0	NA	EpCV-s1_gp1	2559	putative RNA dependent RNA polymerase

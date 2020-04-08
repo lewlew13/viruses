@@ -1,5 +1,0 @@
-GOA	RepOver	RepCov	Gene	Locus	GeneLen	Product
-NA	0	0	NA	B7W91_gp1	5118	replicase
-NA	0	0	NA	B7W91_gp2	882	movement protein
-NA	0	0	NA	B7W91_gp3	579	coat protein
-NA	0	0	NA	B7W91_gp4	333	putative nucleic-acid binding protein

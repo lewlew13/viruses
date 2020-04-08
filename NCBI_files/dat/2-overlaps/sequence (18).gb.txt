@@ -1,3 +1,0 @@
-GOA	RepOver	RepCov	Gene	Locus	GeneLen	Product
-NA	0	0	pol	FK849_gp1	1569	non-structural polyprotein 1AB
-NA	0	0	ORF2	FK849_gp2	2538	capsid protein precursor

@@ -1,7 +1,0 @@
-GOA	RepOver	RepCov	Gene	Locus	GeneLen	Product
-NA	0	0	NA	NZ82_gp1	1344	nucleocapsid
-NA	0	0	NA	NZ82_gp2	1677	putative phosphoprotein
-NA	0	0	NA	NZ82_gp3	1086	matrix
-NA	2	67	NA	NZ82_gp4	1824	fusion
-NA	0	0	NA	NZ82_gp5	2031	putative attachment protein
-NA	0	0	NA	NZ82_gp6	6597	Large

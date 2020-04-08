@@ -1,8 +1,0 @@
-GOA	RepOver	RepCov	Gene	Locus	GeneLen	Product
-NA	0	0	NA	CA787_gp1	1260	nucleoprotein
-NA	0	0	NA	CA787_gp2	348	hypothetical protein
-NA	0	0	NA	CA787_gp3	756	phosphoprotein
-NA	0	0	NA	CA787_gp4	579	matrix
-NA	0	0	NA	CA787_gp5	1530	glycoprotein
-NA	0	0	NA	CA787_gp6	300	hypothetical protein
-NA	0	0	NA	CA787_gp7	6297	polymerase

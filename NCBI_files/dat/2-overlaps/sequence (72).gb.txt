@@ -1,4 +1,0 @@
-GOA	RepOver	RepCov	Gene	Locus	GeneLen	Product
-NA	0	0	ORF1	BJD81_gp1	1704	ORF1
-NA	0	0	ORF2	BJD81_gp2	831	ORF2
-NA	0	0	L	BJD81_gp3	6606	RNA-dependent RNA polymerase

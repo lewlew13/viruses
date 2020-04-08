@@ -1,2 +1,0 @@
-GOA	RepOver	RepCov	Gene	Locus	GeneLen	Product
-NA	0	0	pol6	OnmV6gp1	2088	RNA-dependent RNA polymerase, putative

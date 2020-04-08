@@ -1,4 +1,0 @@
-GOA	RepOver	RepCov	Gene	Locus	GeneLen	Product
-NA	0	0	NA	KYMVgp1	2262	Overlapping protein/movement protein
-NA	0	0	NA	KYMVgp2	5625	replicase
-NA	0	0	NA	KYMVgp3	567	coat protein
