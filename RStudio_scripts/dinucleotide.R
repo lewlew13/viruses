@@ -3,6 +3,10 @@ colnames(detailed) <- c("genome", "glen", "start", "end", "motif", "orientation"
 detailed$mlen <- nchar(as.character(detailed$motif))
 library(tidyverse)
 
+detailed <- detailed %>%
+  mutate(abbrev = str_extract(genome, ".*\\.[0-9]"), mlen = nchar(as.character(detailed$motif))) %>%
+  select(abbrev, everything())
+
 #dinucleotide only
 detailed <- detailed %>%
   arrange(abbrev, start) %>%

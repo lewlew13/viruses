@@ -3,6 +3,10 @@ colnames(detailed) <- c("genome", "glen", "start", "end", "motif", "orientation"
 detailed$mlen <- nchar(as.character(detailed$motif))
 library(tidyverse)
 
+detailed <- detailed %>%
+  mutate(abbrev = str_extract(genome, ".*\\.[0-9]"), mlen = nchar(as.character(detailed$motif))) %>%
+  select(abbrev, everything())
+
 View(table(detailed$mlen))
 
 pdf("histogram.pdf", width = 60, height = 60)
